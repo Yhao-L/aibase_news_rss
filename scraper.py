@@ -346,7 +346,7 @@ def generate_rss(items: list[dict], lang: str) -> str:
     fg.title(cfg["feed_title"])
     fg.description(cfg["feed_desc"])
     fg.link(href=cfg["list"], rel="alternate")
-    fg.link(href="https://yourusername.github.io/aibase-rss/feed.xml", rel="self")
+    fg.link(href="https://suy123xb.github.io/aibase_news_rss/feed.xml", rel="self")
     fg.language("zh-CN" if lang == "zh" else "en")
     fg.lastBuildDate(datetime.now(timezone.utc))
 
@@ -444,66 +444,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-import requests
-from bs4 import BeautifulSoup
-from feedgen.feed import FeedGenerator
-from datetime import datetime, timezone, timedelta
-import json
-import time
-import os
-import re
-import logging
-
-# ─── 配置区 ───────────────────────────────────────────────
-CONFIG = {
-    "lang": "zh",                   # "zh" 中文 | "en" 英文
-    "max_items": 50,                # RSS 最终保留条数上限
-    "max_pages": 5,                 # 最多抓取列表页数（翻页兜底限制）
-    "output_file": "docs/feed.xml",
-    "request_delay": 1.5,           # 请求间隔秒数
-    "timeout": 15,
-    "fetch_detail": True,           # 是否抓取文章详情补全摘要/日期
-
-    # ── 时间过滤 ──────────────────────────────────────────
-    "time_filter_enabled": True,    # 是否启用时间过滤
-    "time_window_hours": 24,        # 只保留最近 N 小时的文章
-    # 注意：日期必须能从页面解析出来，否则该条会被保留（不丢弃）
-}
-
-URLS = {
-    "zh": {
-        "list": "https://news.aibase.com/zh/news",
-        "base": "https://news.aibase.com",
-        "article_base": "https://news.aibase.com",
-        "feed_title": "AIbase 中文 AI 资讯",
-        "feed_desc": "AIbase 每日最新 AI 新闻资讯",
-        "link_pattern": re.compile(r"/(zh/)?news/(\d+)"),
-    },
-    "en": {
-        "list": "https://news.aibase.com/news",
-        "base": "https://news.aibase.com",
-        "article_base": "https://news.aibase.com",
-        "feed_title": "AIbase AI News",
-        "feed_desc": "Latest AI news and updates from AIbase",
-        "link_pattern": re.compile(r"/news/(\d+)"),
-    },
-}
-
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/121.0.0.0 Safari/537.36"
-    ),
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
-    "Referer": "https://www.aibase.com/",
-}
-
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s [%(levelname)s] %(message)s",
-    datefmt="%H:%M:%S",
-)
-log = logging.getLogger(__name__)
