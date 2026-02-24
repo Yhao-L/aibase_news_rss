@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 23 Feb 2026 08:16:58 +0000</lastBuildDate>
-    <item>
-      <title>春节科技潮：AI 产品成新年 “电子年货” 热销王者！</title>
-      <link>https://news.aibase.com/zh/news/25586</link>
-      <description>随着春节的到来，科技与传统文化的结合愈加紧密，特别是在人工智能（AI）领域。今年春节，AI 产品不仅成为人们的新年选择，更在日常生活中扮演了越来越重要的角色。位于深圳的一家科技公司近期对其 AI 软件进行了优化升级，确保在春节这个特殊时刻，用户可以享受到更便捷的服务。 据统计，春节期间，AI 大模型的应用频率达到了惊人的 100 亿次，其中 首次 尝试 AI 下单的用户达到了 1.3 亿，尤其是年轻的 “00 后” 用户占比超过 40%。在这个假期中，AI 不仅可以帮助人们轻松订电影票和餐厅，甚至可以通过对话模式和视频通话来增强社交互动，成为了大家新的社交习惯。 在此背景下，各种电子年货如无人</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25586</guid>
-      <pubDate>Sun, 22 Feb 2026 11:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>蚂蚁集团AI业务春节加速：支付宝“AI付”、蚂蚁阿福APP用户数双破亿</title>
-      <link>https://news.aibase.com/zh/news/25587</link>
-      <description>马年大年初七，蚂蚁集团披露春节假期实战数据，核心AI业务实现全面爆发:支付宝“AI付”用户数突破1亿，蚂蚁阿福APP的总用户数也突破1亿大关。在AI技术进入大规模应用的 第一 个春节，蚂蚁凭借在支付与健康领域的表现，在春节AI大战中实现了差异化突围。 在AI原生支付上，随着AI技术深入日常消费场景，支付宝“AI付”在春节期间迎来爆发。数据显示，继2月12日支付笔数突破1.2亿笔后，用户数也正式超过1亿。至此，支付宝“AI付”成为全球首个支付笔数与用户人数双双破亿的AI原生支付产品，标志着该产品正式进入大规模商用阶段。 在独立AI健康应用上，“蚂蚁阿福”通过“健康福”活动及亮相央视马年春晚，迅速</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25587</guid>
-      <pubDate>Mon, 23 Feb 2026 10:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GLM-5大模型官宣支持7大国产芯片平台 编程能力跃升！</title>
-      <link>https://news.aibase.com/zh/news/25588</link>
-      <description>在刚刚过去的春节假期中，国产 AI 大模型迎来了密集的发布潮，其中智谱科技推出的 GLM-5 模型备受瞩目。作为目前热度 最高 的 AI 模型之一，GLM-5 不仅在技术上实现了重大突破，还 首次 全面支持七大国产芯片平台，展现出中国 AI 领域的强大实力。 根据智谱科技的官方介绍，GLM-5 的参数量达到 7440 亿，相比于前代 GLM-4.X 增加了近一倍。这一显著的参数提升，使得其在编程和智能体能力方面表现出色。近期的测试显示，GLM-5 在代理编程能力方面位列全球 第一 ，而其综合编程能力则位列全球第三，表现超越了许多国际竞争者。 然而，由于 GLM-5 的 极高 人气，用户需求激增</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25588</guid>
-      <pubDate>Mon, 23 Feb 2026 12:25:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Feb 2026 01:09:57 +0000</lastBuildDate>
     <item>
       <title>春晚“假蔡明” 机器人火了！松延动力已将其送给真蔡明</title>
       <link>https://news.aibase.com/zh/news/25589</link>
@@ -64,6 +43,27 @@
       <description>近日，Solon AI 框架正式推出了全新产品 ——Solon Code CLI。这款智能终端助手深度融合了 Claude Code CLI 的设计理念，专为 Java 开发者量身打造。Solon Code CLI 不仅仅是一个简单的代码工具，它通过 AI 技术提供了一种全新的编程体验，让开发者在编码过程中如同与一位 资深 程序员对话。 首先，Solon Code CLI 支持项目结构的自动识别。当开发者在终端输入 “init” 命令时，系统会迅速扫描并记录项目中的文件，并生成一份 CLAUDE.md 文件，这份文件不仅为 AI 提供了项目的信息，也为团队成员提供了一份清晰的项目文档。 其次，</description>
       <guid isPermaLink="false">https://news.aibase.com/zh/news/25593</guid>
       <pubDate>Mon, 23 Feb 2026 12:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国大模型强势出海，OpenRouter Token 成跨境科技新风口！</title>
+      <link>https://news.aibase.com/zh/news/25594</link>
+      <description>在全球人工智能领域，中国的大模型正在展现出强劲的竞争力，尤其是在 OpenRouter 平台上表现尤为突出。 最新 数据显示，该平台 前十 名的模型总 Token 量达到了惊人的 8.7 万亿，而中国模型的总量更是独占了 5.3 万亿，占据了 61% 的市场份额。可以说，中国的 AI 技术正在不断蚕食全球开发者市场。 其中，MiniMax M2.5 以 2.45 万亿 Token 荣登榜首，紧随其后的是 Kimi K2.5，以 1.21 万亿 Token 的成绩证明了自己的实力。此外，智谱 GLM 5 和 DeepSeek V3.2 分别位列第三和第五，这无疑是中国在 AI 领域创新能力的体现</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25594</guid>
+      <pubDate>Tue, 24 Feb 2026 08:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>谷歌大手笔！为全美 600 万教师提供免费 Gemini AI 培训，助力 AI 教育新纪元</title>
+      <link>https://news.aibase.com/zh/news/25595</link>
+      <description>近日，谷歌宣布了一项重磅计划，联合教育组织 ISTE 与 ASCD，将为全美 600 万名教师提供免费的 Gemini AI 培训。这一举措不仅是美国教育界的重大事件，也是谷歌在教育领域加深布局的重要一步。 该培训课程主要聚焦于如何有效使用谷歌自家开发的 AI 工具，包括 Gemini 和 NotebookLM。课程设计力求简洁易懂，旨在帮助教师们及其 7400 万学生在课堂上安全地使用人工智能。课程内容涵盖了丰富的实际案例和具体示例，让教师能够快速上手。 预计此项培训计划将在未来几个月内启动，教师们可以直接通过谷歌网站进行报名。这一举措不仅可以提升教师的 AI 素养，还将为学生创造一个更加智</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25595</guid>
+      <pubDate>Tue, 24 Feb 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>​苹果员工有了专属“智能外挂”：Sales Coach 应用上线，内置 AI 聊天机器人</title>
+      <link>https://news.aibase.com/zh/news/25596</link>
+      <description>苹果公司近日对其零售生态的内部工具进行了重大升级。据 AIbase 报道，苹果正式面向 iPhone 和 iPad 用户推出了全新的 Sales Coach（销售教练） 应用。这款应用并非面向普通消费者，而是专门为苹果零售店（Apple Store）员工及苹果授权服务提供商(AASP)量身定制的“业务神器”，旨在取代服役多年的 SEED 应用。 在视觉与交互上，Sales Coach 紧随苹果 最新 的设计语言，采用了被称为“液态玻璃”（Liquid Glass）的界面风格，观感更加现代。而本次更新 最大 的亮点在于 AI 技术的深度嵌入——应用内新增了一个名为“询问(Ask)”的标签页。员工</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25596</guid>
+      <pubDate>Tue, 24 Feb 2026 09:06:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
