@@ -1,8 +1,9 @@
 """
-AIbase 新闻 RSS 爬虫 v3
-- 修复中文日期解析（2026年2月23号 12:42）
-- 标题从详情页 h1 提取，避免列表页拼接摘要的问题
-- ID 递推改为向旧文章方向，补全时间窗口内的历史文章
+AIbase 新闻 RSS 爬虫 v4
+- 主路径：按 ID 递减扫描详情页，不依赖列表页分页（?page=2 无效时也能抓全 24h）
+- 第一页仅用于解析 max_id，从 max_id 向下扫描，遇连续 N 篇早于 cutoff 则停止
+- 中文发布时间按北京时间 UTC+8 解析后转 UTC，避免 8 小时偏差
+- 请求失败重试 + 指数退避，关键节点有日志：max_id、扫描数、命中数、跳过数
 本地测试运行: python scraper.py
 """
 
@@ -29,6 +30,11 @@ CONFIG = {
     # ── 时间过滤 ──────────────────────────────────────────
     "time_filter_enabled": True,    # 是否启用时间过滤
     "time_window_hours": 24,        # 只保留最近 N 小时的文章
+
+    # ── 按 ID 递减扫描（不依赖列表页分页）──────────────────
+    "max_scan": 500,                # 从 max_id 起最多扫描的 id 数量
+    "consecutive_old_stop": 10,     # 连续 N 篇早于 cutoff 则停止，避免偶发乱序误停
+    "request_retries": 3,           # 请求失败重试次数（指数退避）
 }
 
 URLS = {
@@ -61,6 +67,9 @@ HEADERS = {
     "Referer": "https://news.aibase.com/",
 }
 
+# 北京时间 UTC+8（用于解析详情页「YYYY年M月D号 HH:MM」）
+BEIJING_TZ = timezone(timedelta(hours=8))
+
 # 中文月份映射
 ZH_MONTH = {
     "1": 1, "2": 2, "3": 3, "4": 4, "5": 5, "6": 6,
@@ -87,7 +96,7 @@ def parse_date(dt_str: str) -> datetime | None:
     # 剥离前缀 "发布时间 :" 或 "Time :"
     dt_str = re.sub(r"^(发布时间|Time)\s*:\s*", "", dt_str).strip()
 
-    # ── 中文格式：2026年2月23号 12:42 ──
+    # ── 中文格式：2026年2月23号 12:42（站点为北京时间 UTC+8，解析后转 UTC）──
     m = re.search(
         r"(\d{4})年(\d{1,2})月(\d{1,2})[号日]"
         r"(?:\s+(\d{1,2}):(\d{2})(?::(\d{2}))?)?",
@@ -98,7 +107,8 @@ def parse_date(dt_str: str) -> datetime | None:
         hour   = int(m.group(4)) if m.group(4) else 0
         minute = int(m.group(5)) if m.group(5) else 0
         second = int(m.group(6)) if m.group(6) else 0
-        return datetime(year, month, day, hour, minute, second, tzinfo=timezone.utc)
+        dt_beijing = datetime(year, month, day, hour, minute, second, tzinfo=BEIJING_TZ)
+        return dt_beijing.astimezone(timezone.utc)
 
     # ── 英文格式：Jan 14, 2026 或 Jan 14, 2026 09:30 ──
     dt_str_clean = re.sub(r"^Time\s*:\s*", "", dt_str).strip()
@@ -226,11 +236,21 @@ def fetch_page(url: str, lang: str) -> list[dict]:
     cfg = URLS[lang]
     log.info(f"  抓取列表页: {url}")
 
-    try:
-        resp = requests.get(url, headers=HEADERS, timeout=CONFIG["timeout"])
-        resp.raise_for_status()
-    except Exception as e:
-        log.error(f"  列表页请求失败: {e}")
+    last_err = None
+    for attempt in range(CONFIG["request_retries"]):
+        try:
+            resp = requests.get(url, headers=HEADERS, timeout=CONFIG["timeout"])
+            resp.raise_for_status()
+            break
+        except Exception as e:
+            last_err = e
+            if attempt < CONFIG["request_retries"] - 1:
+                delay = (2 ** attempt) * CONFIG["request_delay"]
+                log.warning(f"  列表页请求失败: {e}，{delay:.1f}s 后重试")
+                time.sleep(delay)
+            continue
+    else:
+        log.error(f"  列表页请求最终失败: {last_err}")
         return []
 
     soup = BeautifulSoup(resp.text, "html.parser")
@@ -282,7 +302,183 @@ def fetch_page(url: str, lang: str) -> list[dict]:
     return items
 
 
-# ─── 多页抓取主逻辑 ───────────────────────────────────────
+# ─── 从 URL 解析文章 id ───────────────────────────────────
+def extract_id_from_url(url: str) -> int | None:
+    """从详情页 URL 解析 /zh/news/<id> 或 /news/<id> 中的 id"""
+    m = re.search(r"/news/(\d+)", url)
+    return int(m.group(1)) if m else None
+
+
+# ─── 从第一页获取 max_id（仅用于确定扫描起点）──────────────
+def get_max_id_from_first_page(lang: str) -> int | None:
+    """抓取列表第一页，从链接中解析所有 id，返回最大值；解析不到则返回 None"""
+    cfg = URLS[lang]
+    raw = fetch_page(cfg["list"], lang)
+    ids = []
+    for item in raw:
+        aid = extract_id_from_url(item.get("url", ""))
+        if aid is not None:
+            ids.append(aid)
+    if not ids:
+        log.warning("第一页未解析到任何文章 id，将回退到列表翻页逻辑")
+        return None
+    max_id = max(ids)
+    log.info(f"第一页解析到的 max_id: {max_id}（共 {len(ids)} 个链接）")
+    return max_id
+
+
+# ─── 带重试的详情抓取 ─────────────────────────────────────
+def fetch_article_detail_with_retry(url: str) -> dict:
+    """带指数退避重试的详情抓取；404 直接跳过不重试，失败返回 {}"""
+    last_err = None
+    for attempt in range(CONFIG["request_retries"]):
+        try:
+            log.info(f"  → 详情: {url}" + (f" (重试 {attempt + 1}/{CONFIG['request_retries']})" if attempt else ""))
+            resp = requests.get(url, headers=HEADERS, timeout=CONFIG["timeout"])
+            if resp.status_code == 404:
+                log.info(f"    404 跳过: {url}")
+                return {}
+            resp.raise_for_status()
+            break
+        except Exception as e:
+            last_err = e
+            if attempt < CONFIG["request_retries"] - 1:
+                delay = (2 ** attempt) * CONFIG["request_delay"]
+                log.warning(f"    请求失败: {e}，{delay:.1f}s 后重试")
+                time.sleep(delay)
+            continue
+    else:
+        log.warning(f"    详情请求最终失败: {last_err}")
+        return {}
+
+    soup = BeautifulSoup(resp.text, "html.parser")
+
+    # ── 标题：取第一个 h1 ──
+    title = ""
+    h1 = soup.find("h1")
+    if h1:
+        title = h1.get_text(strip=True)
+
+    # ── 正文摘要 ──
+    summary = ""
+    for selector in ["div.post-content", "div.article-content", "div.content",
+                     "div.news-content", "article", "main"]:
+        el = soup.select_one(selector)
+        if el:
+            for noise in el.select("nav, header, footer, .related, .recommend"):
+                noise.decompose()
+            summary = el.get_text(" ", strip=True)[:300]
+            break
+    if not summary:
+        paras = [p.get_text(strip=True) for p in soup.find_all("p")
+                 if len(p.get_text(strip=True)) > 50]
+        if paras:
+            summary = max(paras, key=len)[:300]
+
+    # ── 发布时间 ──
+    pub_date = None
+    for sel in ["time[datetime]", "time"]:
+        el = soup.select_one(sel)
+        if el:
+            pub_date = parse_date(el.get("datetime") or el.get_text(strip=True))
+            if pub_date:
+                break
+    if not pub_date:
+        full_text = soup.get_text(" ")
+        m = re.search(
+            r"发布时间\s*:\s*(\d{4}年\d{1,2}月\d{1,2}[号日](?:\s+\d{1,2}:\d{2}(?::\d{2})?)?)",
+            full_text,
+        )
+        if m:
+            pub_date = parse_date(m.group(1))
+    if not pub_date:
+        full_text = soup.get_text(" ")
+        m = re.search(r"Time\s*:\s*([A-Za-z]{3,9}\s+\d{1,2},\s*\d{4})", full_text)
+        if m:
+            pub_date = parse_date(m.group(1))
+
+    if pub_date:
+        log.info(f"    日期: {pub_date.strftime('%Y-%m-%d %H:%M UTC')}")
+    else:
+        log.warning("    日期解析失败")
+
+    return {"title": title, "summary": summary, "pub_date": pub_date}
+
+
+# ─── 按 ID 递减扫描（主抓取路径，不依赖分页）──────────────
+def fetch_news_by_id_scan(lang: str) -> list[dict]:
+    """
+    从第一页得到 max_id，再按 id 递减请求详情页，收集最近 time_window 内的文章。
+    连续 consecutive_old_stop 篇早于 cutoff 则停止；404/解析失败则跳过并计数。
+    """
+    cfg = URLS[lang]
+    max_id = get_max_id_from_first_page(lang)
+    if max_id is None:
+        log.info("回退到列表翻页逻辑 fetch_news_list")
+        return fetch_news_list(lang)
+
+    cutoff = get_cutoff() if CONFIG["time_filter_enabled"] else None
+    max_scan = CONFIG["max_scan"]
+    stop_threshold = CONFIG["consecutive_old_stop"]
+    seen_ids = set()
+    all_items = []
+    consecutive_old = 0
+    skip_count = 0
+    scanned = 0
+
+    log.info(f"按 ID 递减扫描: 起点 max_id={max_id}, 最多扫描 {max_scan} 个 id")
+    if cutoff:
+        log.info(f"时间截止: {cutoff.strftime('%Y-%m-%d %H:%M UTC')}，连续 {stop_threshold} 篇过旧则停止")
+
+    for aid in range(max_id, max(0, max_id - max_scan) - 1, -1):
+        if consecutive_old >= stop_threshold:
+            log.info(f"连续 {stop_threshold} 篇早于 cutoff，停止扫描")
+            break
+        if len(all_items) >= CONFIG["max_items"]:
+            break
+
+        url = f"{cfg['base']}{cfg['detail_prefix']}{aid}"
+        if aid in seen_ids:
+            continue
+        scanned += 1
+
+        detail = fetch_article_detail_with_retry(url)
+        time.sleep(CONFIG["request_delay"])
+
+        if not detail:
+            skip_count += 1
+            log.info(f"    跳过 id={aid}（请求失败或非文章页）")
+            continue
+
+        # 404 等可能返回空 title，视为无效
+        if not detail.get("title") and not detail.get("pub_date"):
+            skip_count += 1
+            continue
+
+        seen_ids.add(aid)
+        pub_date = detail.get("pub_date")
+
+        if CONFIG["time_filter_enabled"] and pub_date is not None and pub_date < cutoff:
+            consecutive_old += 1
+            continue
+        consecutive_old = 0
+
+        item = {
+            "title": detail.get("title") or f"Article {aid}",
+            "url": url,
+            "summary": detail.get("summary", ""),
+            "pub_date": pub_date,
+        }
+        all_items.append(item)
+
+    log.info(
+        f"ID 扫描结束: 扫描 id 数={scanned}, 命中={len(all_items)}, 跳过={skip_count}, "
+        f"最终收集文章数={len(all_items)}"
+    )
+    return all_items[:CONFIG["max_items"]]
+
+
+# ─── 多页抓取主逻辑（fallback，当第一页解析不到 id 时使用）───────────────────────
 def fetch_news_list(lang: str) -> list[dict]:
     cfg = URLS[lang]
     base_url = cfg["list"]
@@ -389,29 +585,33 @@ def save_debug_json(items: list[dict], path: str = "docs/debug_items.json"):
 # ─── 主流程 ───────────────────────────────────────────────
 def main():
     lang = CONFIG["lang"]
-    log.info(f"=== AIbase RSS 爬虫 v3 启动 (lang={lang}) ===")
+    log.info(f"=== AIbase RSS 爬虫 v4 启动 (lang={lang}) ===")
     if CONFIG["time_filter_enabled"]:
         cutoff = get_cutoff()
         log.info(f"    时间窗口: {CONFIG['time_window_hours']}h，截止 {cutoff.strftime('%Y-%m-%d %H:%M UTC')}")
 
-    # 1. 抓取列表
-    items = fetch_news_list(lang)
+    # 1. 抓取列表（优先按 ID 递减扫描，拿不到 max_id 时回退列表翻页）
+    items = fetch_news_by_id_scan(lang)
     if not items:
         log.error("未获取到任何新闻，退出")
         return
 
-    # 2. 抓取详情：补全标题（h1）、摘要、精确日期
+    # 2. 抓取详情：仅对尚未有完整详情的条目补全（ID 扫描已带详情则跳过）
     if CONFIG["fetch_detail"]:
-        log.info(f"开始抓取详情 ({len(items)} 篇)...")
-        for item in items:
-            detail = fetch_article_detail(item["url"])
-            if detail.get("title"):
-                item["title"] = detail["title"]          # 用 h1 覆盖列表页标题
-            if detail.get("summary"):
-                item["summary"] = detail["summary"]
-            if detail.get("pub_date"):
-                item["pub_date"] = detail["pub_date"]    # 精确到分钟
-            time.sleep(CONFIG["request_delay"])
+        need_detail = [i for i in items if not i.get("pub_date") or not (i.get("title") and len((i.get("title") or "").strip()) > 2)]
+        if need_detail:
+            log.info(f"开始抓取详情 ({len(need_detail)} 篇需补全)...")
+            for item in need_detail:
+                detail = fetch_article_detail_with_retry(item["url"])
+                if detail.get("title"):
+                    item["title"] = detail["title"]
+                if detail.get("summary"):
+                    item["summary"] = detail["summary"]
+                if detail.get("pub_date"):
+                    item["pub_date"] = detail["pub_date"]
+                time.sleep(CONFIG["request_delay"])
+        else:
+            log.info("所有条目已含详情，跳过详情抓取")
 
         # 详情补全后再做一次时间过滤
         if CONFIG["time_filter_enabled"]:
