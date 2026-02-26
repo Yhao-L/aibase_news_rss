@@ -8,203 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Feb 2026 15:25:41 +0000</lastBuildDate>
-    <item>
-      <title>推理性能翻倍！谷歌发布 Gemini 3.1 Pro，多项基准测试超越 GPT-5.2</title>
-      <link>https://news.aibase.com/zh/news/25641</link>
-      <description>谷歌在人工智能领域再次投下重磅炸弹，正式发布了新一代大语言模型 Gemini3.1Pro。此次发布不仅是技术上的常规迭代，更标志着谷歌在通用人工智能（AGI）核心推理能力上取得了重大突破。 在版本命名上，谷歌打破了以往0.5递进的惯例， 首次 采用了“.1”的命名方式，意在强调该模型在核心推理架构上的质变。Gemini3.1Pro 基于全新的 Core Intelligence 架构开发，其研发重心完全聚焦于提升逻辑思考与复杂问题的解决能力。 根据 最新 的评测数据显示，Gemini3.1Pro 在极其严苛的 ARC-AGI-2测试中表现惊人，取得了77.1% 的高分，这一成绩相较于上一代产品</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25641</guid>
-      <pubDate>Tue, 24 Feb 2026 23:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>美军给AI初创公司下最后通牒！Anthropic 面临合同危机</title>
-      <link>https://news.aibase.com/zh/news/25643</link>
-      <description>近日，美国国防部与人工智能初创公司 Anthropic PBC 之间的紧张关系愈演愈烈。知情人士透露，五角大楼已向 Anthropic 发出警告，如果该公司不遵守关于其技术使用的相关条款，他们将在周五终止现有的军事合同。这一决定可能影响高达 2 亿美元的军方项目，进一步加剧了双方的争端。 在周二的一次会晤中，Anthropic 首席执行官达里奥・阿莫德伊（Dario Amodei）与国防部长进行了交流。会议中，美国官员明确表示，如果 Anthropic 不允许军方无限制使用其人工智能技术，他们将考虑将其列为供应链风险，并可能引用《国防生产法》强制使用该公司的软件。这一威胁反映了国防部对 AI </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25643</guid>
-      <pubDate>Wed, 25 Feb 2026 00:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​马斯克开启“星际算力”时代：拟从月球弹射卫星，在太空建设AI数据中心</title>
-      <link>https://news.aibase.com/zh/news/25644</link>
-      <description>面对地球日益紧张的能源供应与AI算力需求之间的矛盾，SpaceX首席执行官埃隆·马斯克提出了一个极具科幻色彩的解决方案：将AI数据中心搬上太空，并利用月球作为发射基地。 马斯克设想在月球上建造一座巨型电磁弹射装置及卫星组装工厂。由于月球引力小、无大气层阻力且太阳能资源极其丰富，通过电磁弹射将卫星送入地球轨道，其效率将远超传统的地面火箭发射。更重要的是，这种方式能有效避开目前拥挤的近地轨道航天器残骸，为大规模部署提供空间。 据AIbase了解，马斯克认为未来 30 至 36 个月内，由于地球电力系统难以支撑AI基础设施的指数级增长，在太空部署数据中心将成为最具经济效益的选择。太空环境拥有取之不尽</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25644</guid>
-      <pubDate>Wed, 25 Feb 2026 01:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>金融医疗“智”变！普华永道美国深度联手 Anthropic：强监管行业迎来 Claude 企业级插件时代</title>
-      <link>https://news.aibase.com/zh/news/25645</link>
-      <description>大模型在高度监管行业的渗透正从“实验室”走向“生产线”。2026年2月25日，据 36氪 援引新浪财经消息，全球咨询巨头 普华永道（PwC）美国 宣布与 AI 领军企业 Anthropic 达成战略合作。 双方将合力加速在金融、医疗保健及生命科学等 高度监管行业 部署企业级人工智能插件。 核心合作:深度嵌入 Claude 生态 此次协议标志着 普华永道 正在将其咨询能力与 Anthropic 的底层技术深度绑定。通过此次合作， 普华永道 将协助其客户全方位嵌入 Claude 系列产品，包括: 开发者平台 :支持企业级定制化开发。 Claude.ai 与 Claude Cowork :提升企业内</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25645</guid>
-      <pubDate>Wed, 25 Feb 2026 01:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​指控遭驳回！马斯克 xAI 状告 OpenAI 窃取商业机密初审失利</title>
-      <link>https://news.aibase.com/zh/news/25646</link>
-      <description>埃隆·马斯克与萨姆·奥尔特曼之间的法律博弈战近日有了新进展。据美国加州联邦法院消息，法官林瑞塔（Rita Lin）正式驳回了马斯克旗下人工智能公司 xAI 针对 OpenAI 窃取商业机密的诉讼。 这起始于去年 9 月的诉讼指控称，部分 xAI 前员工在离职加入 OpenAI 时，非法带走了与 Grok 聊天机器人相关的源代码及核心机密。然而，主审法官在裁决中明确指出，xAI 目前提供的证据链并不充分。法官表示，诉状中未能证明 OpenAI 存在诱导员工窃密的行为，也缺乏证据表明这些前员工在入职 OpenAI 后实际使用了所谓的“商业机密”。 对此，OpenAI 方面发表声明称，法院的裁决证明</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25646</guid>
-      <pubDate>Wed, 25 Feb 2026 01:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​OpenAI 首席运营官：AI 尚未真正深入企业核心，SaaS 时代远未结束</title>
-      <link>https://news.aibase.com/zh/news/25647</link>
-      <description>尽管生成式 AI 在个人应用领域大放异彩，但在企业级市场的渗透进度却比预想中更为缓慢。OpenAI 首席运营官布拉德·莱特卡普（Brad Lightcap）在近日的印度人工智能影响力峰会上坦言，人工智能尚未真正深度嵌入到企业的核心业务流程中。 莱特卡普指出，虽然现在的 AI 系统已经非常强大，但企业作为极其复杂的组织，涉及跨团队协作、多系统整合以及深厚的业务背景。这种复杂性使得 AI 难以通过简单的工具替换来实现跨越式渗透。针对这一现状，OpenAI 最近推出了名为 OpenAI Frontier 的新平台，旨在探索如何让智能体在混乱且复杂的企业场景中真正落地。 有趣的是，尽管外界频传“AI </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25647</guid>
-      <pubDate>Wed, 25 Feb 2026 01:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>法庭交锋首战遇挫！马斯克指控 OpenAI 窃取机密被驳回，1.3 万亿世纪诉讼变数再起</title>
-      <link>https://news.aibase.com/zh/news/25648</link>
-      <description>人工智能领域的两巨头——埃隆·马斯克与萨姆·奥尔特曼之间的法律暗战有了 最新 进展。2026 年 2 月 24 日，美国加州一名联邦法官正式驳回了 xAI 起诉 OpenAI 窃取其商业机密的诉讼。 尽管 马斯克 遭遇了阶段性挫折，但这场涉及金额高达 1345 亿美元 （约合人民币 9302 亿元）的“世纪官司”远未画上句号。 核心判决：证据不足，OpenAI 暂时胜诉 旧金山联邦地区法官林瑞塔（Rita Lin）在裁决中指出， xAI 目前提交的诉状未能证明 OpenAI 存在直接的不当行为： 缺乏关联性 ：法官表示，虽然 xAI 指控前员工在跳槽时带走了 Grok 机器人的源代码，但并没有</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25648</guid>
-      <pubDate>Wed, 25 Feb 2026 01:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>谷歌 TPU 元老“反向创业”:MatX 获5亿美元融资，誓言将 AI 性能拉升10倍</title>
-      <link>https://news.aibase.com/zh/news/25649</link>
-      <description>近日，由两位前谷歌硬件工程师联手创立的 AI 芯片公司 MatX 宣布完成 5亿美元的 B 轮融资 。本轮融资由知名量化交易巨头 Jane Street 以及前 OpenAI 研究员 Leopold Aschenbrenner 创立的投资基金 Situational Awareness 共同领投。 MatX 的创始团队履历亮眼:首席执行官 Reiner Pope 曾负责谷歌 TPU 的 AI 软件开发，并在谷歌 PaLM 模型的效率优化中扮演关键角色;首席技术官 Mike Gunter 则是谷歌 TPU 硬件的首席设计师，拥有近30年的芯片架构经验。 剑指英伟达:追求10倍性能飞跃 与英伟达 </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25649</guid>
-      <pubDate>Wed, 25 Feb 2026 01:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>IPO 进程加速！OpenAI 挖角 Roblox 顶级高管：任命首位首席人力资源官，开启全球扩员潮</title>
-      <link>https://news.aibase.com/zh/news/25650</link>
-      <description>随着 ChatGPT 全球用户量的持续爆发，AI 领军企业 OpenAI 正在加速其组织架构的升级与扩张。2026年2月25日，据 格隆汇 报道， OpenAI 官方宣布任命 Arvind KC 为公司首任首席人力资源官（CHRO）。 这一重磅人事任命释放出明确信号: OpenAI 正在从一家技术驱动的初创公司，向具备全球管理能力的科技巨头全面转型。 核心亮点:前 Roblox 高管坐镇“人才工厂” 背景显赫 :Arvind KC 此前在元宇宙巨头 Roblox 担任高管，拥有管理大规模技术团队和应对快速增长业务的 资深 经验。 职能重塑 :作为首席人力资源官，KC 将全面接管 OpenAI </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25650</guid>
-      <pubDate>Wed, 25 Feb 2026 01:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​告别复制粘贴！Anthropic 发布企业级插件，Claude 深度植入 Office 办公全家桶</title>
-      <link>https://news.aibase.com/zh/news/25651</link>
-      <description>人工智能独创公司 Anthropic 近日迈出了进军企业级市场的关键一步，正式发布了名为“Cowork &amp; Plugins for the Enterprise”的企业级工具包。这一动作标志着 Anthropic 开始直接深入微软与 OpenAI 的核心腹地，力图重新定义数字办公体验。 长期以来，企业员工在使用 AI 辅助工作时，往往需要频繁在对话窗口与办公软件之间进行“复制粘贴”。而此次 Anthropic 推出的新工具彻底打破了这一壁垒。现在，用户可以直接在微软 Excel、PowerPoint 以及 Slack 等常用软件中调用 Claude。这意味着 AI 不再是一个独立的侧边栏窗口，</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25651</guid>
-      <pubDate>Wed, 25 Feb 2026 01:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​拒绝AI训练“哑火”！Meta 开源 GPU 集群监控利器 GCM，精准捕捉硬件“隐形杀手”</title>
-      <link>https://news.aibase.com/zh/news/25652</link>
-      <description>随着 AI 模型参数量迈向万亿级别，支撑其训练的 GPU 集群已成为世界上最复杂也最脆弱的机器。为了解决大规模训练中的硬件不稳定性问题，Meta AI 研究团队近日宣布开源 GCM（GPU Cluster Monitoring）工具包。这不仅是一项技术发布，更是 Meta 为高性能计算(HPC)领域贡献的一套硬件管理蓝图。 在传统的 Web 开发中，服务器延迟可以通过简单的扩容解决，但在 AI 训练中，规则完全不同。一个拥有数千张显卡的集群中，哪怕只有一张 GPU 出现“静默故障”——即表面在线但性能大幅下降——就会像毒药一样污染整个训练任务的梯度，导致数周的算力白白浪费。Meta 开发 GC</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25652</guid>
-      <pubDate>Wed, 25 Feb 2026 01:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI 芯片初创公司两天揽金 11 亿美元，挑战英伟达霸权</title>
-      <link>https://news.aibase.com/zh/news/25653</link>
-      <description>尽管外界对 AI 泡沫的担忧声不断，但风险投资家们对芯片赛道的热情依然高涨。本周刚到周二，三家 AI 芯片初创公司就已累计获得超过 11 亿美元的融资，显示出资本市场依然看好能够挑战英伟达统治地位的新兴力量。 在这波融资潮中，由前谷歌工程师创立的 MatX 公司拿下了 5 亿美元的大头。MatX 计划在今年晚些时候推出其 首款 芯片 MatX One。不同于 Groq 等公司侧重于推理，MatX 宣称其芯片能“通吃”预训练、强化学习和推理任务。该芯片采用了独特的架构，通过结合超高速的 SRAM 和大容量的 HBM 显存，试图在吞吐量和处理速度之间取得完美平衡。 与此同时，荷兰公司 Axeler</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25653</guid>
-      <pubDate>Wed, 25 Feb 2026 01:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>为了不被 Boss 问住，Uber 工程师直接做了一个“AI 版 CEO”!</title>
-      <link>https://news.aibase.com/zh/news/25654</link>
-      <description>在大多数公司，员工向首席执行官（CEO）汇报工作前往往充满压力;但在全球出行巨头 Uber，工程师们已经找到了“作弊”的新法宝:先让 AI 版的 boss 给自己提提意见。 “Dara AI”:高管会议前的首席陪练 Uber 首席执行官达拉·科斯罗萨西（Dara Khosrowshahi）近日在史蒂文·巴特利特的知名播客节目《CEO 日记》中透露了一个有趣的内幕:他的工程团队开发了一个名为 “Dara AI” 的聊天机器人。 这个 AI 并非噱头，而是工程师们不可或缺的“职场模拟器”。在正式向科斯罗萨西本人演示方案或提交幻灯片之前，团队会先对“Dara AI”进行演练。通过这种方式，工程师们能</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25654</guid>
-      <pubDate>Wed, 25 Feb 2026 01:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>通义千问Qwen3.5开源家族新增多款模型，并上线托管服务</title>
-      <link>https://news.aibase.com/zh/news/25655</link>
-      <description>近日，通义千问（Qwen）团队宣布其开源大模型家族Qwen3.5实现重要扩容，一次发布多款新模型，并同步上线了对应的生产级API服务。 本次新增的开源模型主要包括三款: Qwen3.5-122B-A10B :该模型在复杂Agent任务（如多步推理、工具调用）中表现亮眼，进一步缩小了中小模型与 顶尖 闭源模型的性能差距。 Qwen3.5-35B-A3B :其性能已全面超越前代更大参数规模的Qwen3-235B-A22B等模型，体现了通过优化架构、数据与强化学习协同，而非单纯增加参数来提升智能的技术路径。 Qwen3.5-27B（Dense） :一款主打“小尺寸、高能效”的模型，旨在降低大模型的使</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25655</guid>
-      <pubDate>Wed, 25 Feb 2026 01:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>体积减半性能不减!西班牙 Multiverse 靠量子压缩术挑战 OpenAI</title>
-      <link>https://news.aibase.com/zh/news/25656</link>
-      <description>针对大语言模型（LLM）体积臃肿、部署成本高昂的痛点，西班牙 AI 初创公司 Multiverse Computing 正在通过独特的“压缩术”打破僵局，试图在企业级 AI 市场与 OpenAI 等巨头分庭抗礼。 核心技术:让60B 模型仅占32GB 空间 Multiverse 的核心竞争力源于其受量子计算启发的压缩技术 CompactifAI 。凭借这一技术，该公司成功将其基于 OpenAI 原型（gpt-oss-120b）开发的 HyperNova60B 模型体积缩减了一半。 最新 发布的 HyperNova60B2602 版本现已在 Hugging Face 开放免费获取。该模型大小仅为</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25656</guid>
-      <pubDate>Wed, 25 Feb 2026 01:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>为了开会不被骂，Uber 工程师竟背着老板开发了一个“AI 版 CEO”</title>
-      <link>https://news.aibase.com/zh/news/25657</link>
-      <description>面对严厉的老板，打工人总能想出一些出人意料的“生存套路”。近日，Uber 首席执行官达拉·科斯罗萨西（Dara Khosrowshahi）在接受播客采访时爆料，公司内部的工程师们为了确保向他汇报工作时万无一失，竟然专门开发了一个“AI 版达拉”。 这个有趣的工具被员工们亲切地称为“Dara AI”。科斯罗萨西透露，团队成员告诉他，很多小组在正式向他提交演示文稿（PPT）之前，会先对着这个“虚拟老板”进行模拟汇报。通过“Dara AI”的反馈，工程师们可以反复打磨幻灯片的逻辑，精准预判老板可能会提出的尖锐问题，从而在真正的会议室里表现得无懈可击。 科斯罗萨西对此不仅没有生气，反而对这种创新行为大</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25657</guid>
-      <pubDate>Wed, 25 Feb 2026 01:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​英国 AI 独角兽 Wayve 获 10.5 亿美元融资，软银领投开启自动驾驶新赛道</title>
-      <link>https://news.aibase.com/zh/news/25658</link>
-      <description>英国自动驾驶初创公司 Wayve 近日宣布完成 10.5 亿美元的 C 轮融资。这笔巨额资金由日本软银集团领投，同时吸引了英伟达（NVIDIA）和微软（Microsoft）等科技巨头的深度参与，标志着欧洲 AI 领域迎来了有史以来规模 最大 的单笔融资之一。 与特斯拉或 Waymo 依赖高精地图和昂贵传感器的路径不同，Wayve 走的是一条“端到端”的具体化 AI（Embodied AI）技术路线。AIbase 了解到，Wayve 开发的模型就像人类驾驶员一样，能够通过摄像头数据进行实时学习和推理，从而在未曾见过的复杂城市街道中灵活穿梭。这种“纯视觉+大模型”的方案，被认为更具扩展性，能够更轻</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25658</guid>
-      <pubDate>Wed, 25 Feb 2026 01:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic重磅更新！Claude Code“远程控制”功能上线，手机秒变电脑终端神器</title>
-      <link>https://news.aibase.com/zh/news/25659</link>
-      <description>Anthropic近日向Claude Max订阅用户推送了一项重量级更新:Claude Code正式引入“Remote Control”（远程控制）功能。这项功能让开发者能够在电脑终端启动编码任务后，通过手机或平板无缝接管整个会话，实现真正的“随时随地Coding”。 核心亮点:本地执行+手机接管，上下文零丢失 用户只需在运行中的Claude Code终端输入/remote-control（或简写/rc），系统即会生成一个专属会话链接和QR码。扫描QR码后，即可通过Claude官方iOS/Android App或浏览器(claude.ai/code)直接连接。 最关键的是:所有计算和文件操作依</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25659</guid>
-      <pubDate>Wed, 25 Feb 2026 01:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>豪掷 1000 亿美元！Meta 与 AMD 达成史上最大芯片订单，剑指英伟达霸权</title>
-      <link>https://news.aibase.com/zh/news/25660</link>
-      <description>就在宣布向英伟达采购数百万枚芯片的一周后，社交巨头 Meta 再次出手，与芯片巨头 AMD 签署了一项价值超过 1000 亿美元的多年期巨额协议。这一动作不仅刷新了 AI 芯片市场的交易纪录，更标志着 Meta 在构建算力护城河的道路上迈出了多元化布局的关键一步。 根据协议内容，Meta 将从 AMD 购买总计高达 6 吉瓦（GW）的 AI 计算能力。虽然双方未透露具体的产品型号组合，但外界普遍推测，AMD 最新 的 MI450 GPU 以及 Helios 架构将成为 Meta 下一代 AI 基础设施的核心。首批定制化优化的芯片预计将于今年晚些时候开始交付，重点用于支撑 Meta 在生成式 A</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25660</guid>
-      <pubDate>Wed, 25 Feb 2026 01:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 语音 API 大进化：数字转录更精准，代理速度狂飙 40%</title>
-      <link>https://news.aibase.com/zh/news/25661</link>
-      <description>OpenAI 近日面向全球开发者推出了两项关键 API 更新，旨在大幅提升 AI 智能体在语音交互与复杂任务流中的性能表现。 在模型层面，全新的实时模型 gpt-realtime-1.5 及其配套音频模型正式登场，其核心目标是提高语音命令的可靠性。根据 OpenAI 内部测试数据，新模型在处理数字和字母的转录准确率上提升了约 10% ，逻辑音频任务准确率提高了 5% ，而指令执行的准确率也相应提升了 7% ，有效解决了 AI 在听取关键短语或执行复杂语音指令时的偏差问题。 在架构层面， Responses API 现已支持 WebSocket 协议，这标志着 AI 通信模式的重大变革。与以往每</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25661</guid>
-      <pubDate>Wed, 25 Feb 2026 01:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​超越 Transformer 架构？Inception 发布全球首个基于扩散模型的推理大模型 Mercury 2</title>
-      <link>https://news.aibase.com/zh/news/25662</link>
-      <description>人工智能初创公司 Inception Labs 近日宣布推出 Mercury2，这不仅是一个性能强劲的推理模型，更在底层架构上实现了一次大胆的“范式转移”。 该模型彻底弃用了目前主流的 Transformer 架构，转而采用扩散模型（Diffusion-based）来生成文本，试图打破传统大模型的性能瓶颈。 与传统模型逐个生成 Token（字符）的方式不同，Mercury2的工作原理更像是一位经验丰富的编辑。它不再是一个字一个字地往外蹦，而是能够同时对多个文本块进行全局优化和重写。这种并行处理的逻辑，让 Mercury2在处理复杂逻辑推理任务时，展现出了令人惊叹的速度优势。 根据 AIbase</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25662</guid>
-      <pubDate>Wed, 25 Feb 2026 01:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>谷歌强硬出击：封禁接入OpenClaw的用户，意在独占AI市场？</title>
-      <link>https://news.aibase.com/zh/news/25663</link>
-      <description>近期，谷歌在其人工智能开发平台 Antigravity 上采取了一系列严格措施，限制用户接入第三方智能体。这一消息引发了广泛关注，因为许多使用该平台的开发者发现，他们的账号在接入 OpenClaw、OpenCode 等开源 AI 编码智能体后被封禁，甚至连绑定的邮箱服务也受到影响。 Antigravity 是谷歌在 2025 年 11 月推出的 AI 集成开发环境（IDE）平台，致力于为开发者提供强大的智能体功能，能够直接调用谷歌的底层 AI 模型。随着 OpenCode、OpenClaw 等开源框架的流行，越来越多的开发者选择在 Antigravity 上部署这些第三方框架，以增强其应用的功</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25663</guid>
-      <pubDate>Wed, 25 Feb 2026 01:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>打破语言孤岛！谷歌AI虚拟形象支持 24 种语言：跨时空、跨文化，“数字人”沟通进入无障碍时代</title>
-      <link>https://news.aibase.com/zh/news/25664</link>
-      <description>全球跨语言沟通正因生成式 AI 的进化而变得前所未有的简单。2026年2月，据 企查查 援引虎嗅网消息， 谷歌 宣布对其 AI Avatars（AI 虚拟形象） 与 AI Voiceovers（AI 配音） 功能进行重磅升级，新增7种语言支持。 此次更新不仅标志着 谷歌 在多模态交互领域的进一步深耕，更大幅拓宽了其 AI 工具在全球企业沟通与内容创作中的应用边界。 核心升级:让 AI 虚拟人更“懂”世界 语言矩阵扩张 : 谷歌 的 AI 语音克隆与文本转语音技术目前已能支持 24种语言 的自由切换，覆盖了全球大部分主流商业语种。 原生语音模型 :在 AI Studio 中， 谷歌 新增了24种</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25664</guid>
-      <pubDate>Wed, 25 Feb 2026 02:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>claude 办公大进化:能看 Excel 也能做 PPT，跨应用协作已成现实</title>
-      <link>https://news.aibase.com/zh/news/25665</link>
-      <description>Anthropic 近日为其企业级桌面工具 Cowork 带来重大升级，核心突破在于 Claude 现已具备在 Microsoft Excel 与 PowerPoint 之间独立切换的跨应用协作能力。这意味着 AI 代理在运行完复杂的数据分析后，能够直接根据结果自动生成演示文稿，极大地简化了办公流。该功能目前已作为研究预览版面向所有付费套餐用户开放。 与此同时，Anthropic 正在通过“私有插件市场”扩展 Cowork 的企业功能。管理员现在可以创建自定义插件集，并精准分发给特定团队，将 Claude 转化为人力资源、设计、工程、财务及资产管理等部门的专用 AI 专家。为了降低准入门槛，官</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25665</guid>
-      <pubDate>Wed, 25 Feb 2026 02:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI 正在重塑华尔街！摩根大通启动大规模调岗：200 亿美金预算砸向 AI，运营岗向收入岗大迁移</title>
-      <link>https://news.aibase.com/zh/news/25666</link>
-      <description>华尔街巨头正以前所未有的决心拥抱人工智能带来的职业变革。2026年2月，据 企查查 援引腾讯科技消息， 摩根大通 首席执行官杰米·戴蒙（Jamie Dimon）表示，银行已正式启动大规模内部调岗计划，以应对 AI 对员工结构的深远影响。 核心战略:从“后台支持”向“前端创造”转型 摩根大通 的人才结构在过去一年中发生了显著变化，展现了 AI 驱动下的效率红利: 结构优化 :基础的运营和支持岗位员工比例下降，而直接面向客户服务和具备“收入创造”能力的岗位比例显著增加。 技能重塑 :对于因自动化加速而受影响的员工，银行并未采取简单的裁员，而是投入重金提供再培训，引导其转向更具价值的新岗位。 技术加</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25666</guid>
-      <pubDate>Wed, 25 Feb 2026 02:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI 时代的“支付宝”出圈！“AI 付”活跃用户破亿：支付嵌入对话流，开启对话式购物新元年</title>
-      <link>https://news.aibase.com/zh/news/25667</link>
-      <description>支付交互方式正在迎来代际更迭。2026 年 2 月 24 日， 支付宝 宣布其创新支付产品 “AI 付” 取得里程碑式进展：用户数正式突破 1 亿 大关，单周支付笔数超过 1.2 亿 。 这一数据标志着“对话式购物”已从概念验证转向规模化应用。 核心亮点：支付嵌入对话流，边聊边买 根据 企查查 汇总的信息， 支付宝 的 AI 支付生态呈现出以下三大特征： 无缝交互 ：通过将支付能力深度嵌入 AI 对话流，用户无需跳出聊天界面，即可在与 AI 助手的对话中直接完成交易。 爆发式增长 ：春节期间，“AI 付”订单量出现激增，验证了用户在碎片化场景下对“即聊即买”模式的高度认可。 双模并行 ：除了数</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25667</guid>
-      <pubDate>Wed, 25 Feb 2026 02:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>代码时代终结?货运软件巨头 WiseTech 转型 AI，宣布裁员30%</title>
-      <link>https://news.aibase.com/zh/news/25668</link>
-      <description>人工智能带来的效率风暴正在深度重塑软件行业。澳大利亚货运软件巨头 WiseTech Global 近日宣布了一项激进的业务重组计划:公司将裁减约2000名员工，占其员工总数的近30%，旨在全面向人工智能驱动型企业转型。 首席执行官祖宾·阿普（Zubin Appoo）在电话会议上发表了令人震撼的观点，他直言“以人工编写代码为核心的工程时代已经结束”。WiseTech 认为，AI 正在释放出此前无法想象的效率提升空间，这意味着公司可以用更少的人力和更短的时间，实现更高的生产效率。 AIbase 了解到，此次重组将彻底精简公司的成本结构。受冲击最严重的将是软件研发与客服部门，部分岗位的裁员比例甚至高</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25668</guid>
-      <pubDate>Wed, 25 Feb 2026 03:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>前谷歌 TPU 大佬“亮剑”！MatX 狂揽 5 亿美元融资：MatX One 芯片问世，挑战 LLM 吞吐极限</title>
-      <link>https://news.aibase.com/zh/news/25669</link>
-      <description>大模型（LLM）算力竞赛正向更底层、更专业的芯片领域深入。2026 年 2 月 24 日，由前谷歌 TPU 资深 工程师创立的 AI 芯片初创公司 MatX 宣布完成 5 亿美元（约合 34.45 亿元人民币）的 B 轮融资 。 本轮融资阵容豪华，不仅吸引了 世芯电子（Alchip） 与 美满电子（Marvell） 等半导体巨头的战略参与，也获得了多家 顶尖 投资机构的重金押注。 核心武器：MatX One 芯片 MatX 此次融资的核心底气源于其正在研发的下一代处理器—— MatX One 。该芯片旨在解决大模型推理中“高吞吐”与“低延迟”难以兼得的痛点： 创新架构 ：采用“可分割脉动阵列”</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25669</guid>
-      <pubDate>Wed, 25 Feb 2026 03:36:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Feb 2026 03:37:55 +0000</lastBuildDate>
     <item>
       <title>全线开放！OpenAI 发布 GPT-5.3-Codex：深度融合推理能力的“最强编程智能体”</title>
       <link>https://news.aibase.com/zh/news/25670</link>
@@ -309,6 +113,167 @@
       <description>美国国防部与人工智能巨头 Anthropic 之间的合作僵局正演变为一场前所未有的技术主权争夺战。美国国防部长皮特·赫格塞斯（Pete Hegseth）近日向 Anthropic 发出严厉警告：若该公司不在本周五限期前同意军方提出的条款，五角大楼将援引《国防生产法》（DPA），以国家安全为由强制要求其共享创新技术。 这场风波的核心在于 AI 技术的“使用边界”。AIbase 了解到，作为首家将技术整合进美军机密网络的企业，Anthropic 联合创始人达里奥·阿莫代伊（Dario Amodei）态度极度强硬。他明确表示，旗下 Claude 系列大模型绝不能被用于驱动自主武器系统，或对民众进行大</description>
       <guid isPermaLink="false">https://news.aibase.com/zh/news/25685</guid>
       <pubDate>Wed, 25 Feb 2026 10:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>英伟达季度营收680亿美元创纪录:黄仁勋称“计算就是收入”</title>
+      <link>https://news.aibase.com/zh/news/25686</link>
+      <description>在全球人工智能算力需求持续飙升的背景下，芯片巨头、全球市值 最高 公司之一的英伟达周三公布 最新 季度财报，交出创纪录利润与营收成绩单。AIbase获悉，公司单季营收达680亿美元，同比增长73%;其中数据中心业务贡献620亿美元，占比超过九成。全年营收则达到2150亿美元，再创新高。 从结构来看，英伟达 首次 更为细化地披露数据中心收入构成:510亿美元来自以GPU为核心的计算业务，110亿美元来自包括NVLink在内的网络产品。强劲增长背后，是生成式人工智能训练与推理需求的持续扩张。 CEO黄仁勋在财报电话会上直言:“全球对代币的需求已经呈指数级增长。”他指出，即便是六年前部署在云端的GP</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25686</guid>
+      <pubDate>Thu, 26 Feb 2026 00:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>​全能“数字员工”上线！Perplexity 发布 Computer：打破单一模型局限的通用 AI 代理</title>
+      <link>https://news.aibase.com/zh/news/25687</link>
+      <description>继 Claude Code 和 OpenClaw 引发个人代理热潮后，AI 搜索领军者 Perplexity 于本周三正式发布了下一代通用 AI 代理系统——Perplexity Computer。这款产品被定义为“通用数字工作者”，能够像人类一样操作界面，并支持长达数小时甚至数月的连续任务运行。 不同于市面上依赖单一模型的工具，Perplexity Computer 采用了一种创新的“模型编排”策略。它集成了来自全球 顶级 实验室的19个专有及开源模型，并根据任务特长进行自动指派:例如，由 Opus4.6负责逻辑编排，Gemini 处理深度研究，GPT-5.2支撑长文本记忆，而 Grok 则</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25687</guid>
+      <pubDate>Thu, 26 Feb 2026 00:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>​拒绝“吃相难看”！OpenAI 首席运营官：ChatGPT 广告将是缓慢迭代的过程</title>
+      <link>https://news.aibase.com/zh/news/25688</link>
+      <description>面对日益增长的运营成本，人工智能巨头 OpenAI 终于开启了其商业模式的“B面”。在近日举行的印度 AI 峰会上，OpenAI 首席运营官布拉德·莱特卡普（Brad Lightcap）正式回应了外界关切的广告投放问题，称这将会是一个持续打磨和优化的迭代过程。 此前，OpenAI 已经宣布计划在 ChatGPT 的免费版和 Go 档套餐中引入广告，并已率先向美国用户推行。这一动作曾引发包括 Anthropic 在内的竞争对手的公开嘲讽，认为其损害了产品纯净度。对此，莱特卡普表现得相当谨慎，他强调公司内部“下定决心要把这件事做好”，绝不会为了短期利润而牺牲用户体验。 AIbase 了解到，Ope</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25688</guid>
+      <pubDate>Thu, 26 Feb 2026 00:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>英伟达CEO黄仁勋透露与OpenAI即将达成重磅协议！</title>
+      <link>https://news.aibase.com/zh/news/25689</link>
+      <description>在 最新 的财报电话会议上，英伟达的首席执行官黄仁勋表示，公司与人工智能巨头 OpenAI 的合作协议已接近达成。这一消息引起了业界的广泛关注，表明英伟达在推动 AI 生态系统发展方面的坚定决心。 黄仁勋强调，英伟达的投资战略不仅包括对 OpenAI 的支持，还涵盖了对另一家 AI 公司 Anthropic 的投资。他提到，英伟达希望通过这些合作来填补 AI 生态系统中的技术空白，进一步提升公司的市场竞争力。黄仁勋的言论传达出英伟达对人工智能未来的信心，表明该公司将在这一领域继续深耕。 此外，黄仁勋还透露，英伟达近期与 AI 初创公司 Groq 达成了一项非排他性的技术许可协议。通过这项合作，</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25689</guid>
+      <pubDate>Thu, 26 Feb 2026 00:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic收购Vercept：关闭产品整合团队，加码Claude Code生态</title>
+      <link>https://news.aibase.com/zh/news/25690</link>
+      <description>人工智能公司Anthropic周三宣布收购西雅图AI初创公司Vercept。这是继去年12月收购编码代理引擎Bun后，Anthropic围绕其开发者产品“Claude Code”进行的又一次关键布局。作为交易的一部分，Vercept产品将于3月25日关闭。 Vercept曾开发面向复杂智能任务的工具，其中包括云端计算机代理产品Vy，可远程操控一台苹果MacBook，被视为“AI时代个人电脑重构”路径中的探索者之一。 公司诞生于西雅图AI孵化器A12，该机构源自Allen Institute for AI。多位联合创始人此前均为该研究所研究人员。联合创始人Matt Deitke曾因与Meta谈判</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25690</guid>
+      <pubDate>Thu, 26 Feb 2026 00:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>​Anthropic 舍弃标志性“安全护栏”承诺，AI 行业迎来最剧烈政策转向</title>
+      <link>https://news.aibase.com/zh/news/25691</link>
+      <description>一直以来以“安全卫士”自居的人工智能初创公司 Anthropic 正在经历一次戏剧性的立场大转变。近日，该公司宣布大幅放宽其长期坚持的“安全护栏”政策。这一变动被业内视为 AI 发展史上的分水岭：即使是曾经将“人类福祉”置于首位的理想主义者，如今也开始向利润与商业扩张低头。 根据 Anthropic 在 2023 年发布的《负责任扩展政策》（RSP），公司曾承诺如果 AI 模型达到某些危险阈值，将推迟相关研发。然而，在周二发布的博客文章中，Anthropic 更新了规则：如果公司认为自己在竞争中并不具备显著的领先优势，将不再执行推迟研发的承诺。 AIbase 了解到，这一举动背后的逻辑是残酷的</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25691</guid>
+      <pubDate>Thu, 26 Feb 2026 00:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>三星 Galaxy S26 系列手机强势来袭！十余项 AI 功能大升级</title>
+      <link>https://news.aibase.com/zh/news/25692</link>
+      <description>在刚刚结束的 Galaxy Unpacked 发布会上，三星正式推出了备受期待的 Galaxy S26系列旗舰手机。此次新机的发布不仅聚焦在硬件配置上，更是将 “AI 手机” 的理念推向了一个全新的高度，带来了十余项重磅的 AI 功能升级，力求为用户提供更为便捷的操作体验。 首先，三星在这款手机中推出了 “Now Nudge” 功能。当用户使用 Samsung Keyboard 输入时，这项 AI 工具会主动在工具栏中提供操作建议，帮助用户更快地完成输入任务。同时，升级后的 “Now Brief” 更具上下文感知能力，能在用户最需要的时候主动提供信息，简化了信息获取的过程。 在影像方面，Gal</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25692</guid>
+      <pubDate>Thu, 26 Feb 2026 01:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>加拿大政府给OpenAI下最后通牒：若不改进安全机制，将强制立法整改！</title>
+      <link>https://news.aibase.com/zh/news/25693</link>
+      <description>近日，加拿大一位 高级 官员透露，针对近期校园枪击事件，加拿大政府向 OpenAI 发出了严厉警告。若 OpenAI 未能迅速加强其安全机制，渥太华方面将考虑通过立法手段强制其进行整改。这一消息引起了广泛关注。 据了解，事件的起因是一名 18 岁的年轻人杰西・范・罗特塞拉尔（Jesse Van Rootselaar），他涉嫌于 2 月 10 日在不列颠哥伦比亚省的小镇上进行大规模枪击，导致 8 人遇难后自杀。OpenAI 表示，该嫌犯的 ChatGPT 账号因违反政策而在去年被封禁，但由于内部标准的限制，该公司并未向警方报告此事。由此，加拿大政府对此表示不满，认为这一做法显然不足以保护公众安全</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25693</guid>
+      <pubDate>Thu, 26 Feb 2026 01:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>​防患于未然！Anthropic 收购 AI 初创公司 Vercept，强化“电脑使用”代理解析力</title>
+      <link>https://news.aibase.com/zh/news/25694</link>
+      <description>为了在“AI 代理”赛道筑起更深的技术壁垒，人工智能巨头 Anthropic 正式宣布收购初创公司 Vercept。这是继去年12月收购编码智能体引擎 Bun 之后，Anthropic 在提升 Claude 模型实操能力方面的又一次重要资产并购。 Vercept 诞生于西雅图 著名 的 AI 孵化器 A12，其核心产品是一款名为 Vy 的云端代理，能够直接操控远程 MacBook 完成复杂任务。AIbase 了解到，这家初创公司的创始团队背景极其雄厚，成员大多来自艾伦人工智能研究所（Allen Institute for AI）。此前，该公司的联合创始人之一 Matt Deitke 曾因被 M</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25694</guid>
+      <pubDate>Thu, 26 Feb 2026 01:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>泡沫质疑后的反击！英伟达财报再超预期，年利润暴涨至 1200 亿美元</title>
+      <link>https://news.aibase.com/zh/news/25695</link>
+      <description>面对市场近期对“AI 泡沫”的担忧，芯片巨头英伟达（Nvidia）在周三交出了一份强硬的成绩单。财报显示，英伟达不仅延续了连续数年超越华尔街预期的神话，更以惊人的利润表现证明了其在数据中心领域的 绝对 霸权。 根据财报数据，英伟达本季度的整体营收达到 681.3 亿美元，高于分析师预测的 662 亿美元；每股收益为 1.62 美元，同样高出市场预期。最受瞩目的数据中心业务营收同比猛增 75%，达到 623 亿美元。这一核心业务的强劲增长，支撑起公司整个财年高达 1200 亿美元的净利润，进一步巩固了其作为全球市值 最高 上市公司的地位。 AIbase 了解到，英伟达首席执行官黄仁勋在财报电话会</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25695</guid>
+      <pubDate>Thu, 26 Feb 2026 01:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>估值直冲 389 亿美元！高盛首次覆盖 MiniMax：全球化收割 70% 收入，中国全模态 AI 成“省钱利器”</title>
+      <link>https://news.aibase.com/zh/news/25696</link>
+      <description>中国大模型赛道正诞生出具备全球定价权的“ 超级 独角兽”。2026年2月26日，据证券时报报道，国际金融巨头 高盛（Goldman Sachs） 首次 发布报告覆盖中国全模态 AI 公司 MiniMax。 高盛在报告中给予了MiniMax高达389亿美元（约合人民币2800亿元）的 极高 估值，并对其 极致 的成本控制能力与国际化布局表示高度认可。 核心优势:MoE 架构下的“价格屠夫” MiniMax能够在全球竞争中脱颖而出，核心在于其对算力效率的 极致 榨取: 性能逼近 顶尖 :得益于先进的 MoE（混合专家模型）架构，MiniMax的模型矩阵(涵盖文本、视频、音频)在性能上已直逼美国头部</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25696</guid>
+      <pubDate>Thu, 26 Feb 2026 01:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alphabet 机器人先锋 Intrinsic 正式并入 Google 核心业务</title>
+      <link>https://news.aibase.com/zh/news/25697</link>
+      <description>2026年2月25日，Google 正式宣布将 Alphabet 旗下的机器人软件子公司 Intrinsic 纳入麾下。此举旨在通过整合 Google 的 顶尖 人工智能模型与基础设施，加速机器人技术在工业制造领域的普及。 深度整合:Gemini 赋能物理世界 根据双方周三发布的 公告 ， Intrinsic 加入 Google 后将保持独立运营，但其研发重心将转向与 Google DeepMind 的深度协作。未来，Intrinsic 将全面接入 Gemini AI 模型及 Google 云服务，致力于将复杂的“物理 AI”技术转化为更易用的生产力工具。 发展历程:从实验室到工业前线 诞生与</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25697</guid>
+      <pubDate>Thu, 26 Feb 2026 01:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>硅谷巨头入场“实体 AI”！谷歌并购 Intrinsic 挺进智能制造：联手鸿海，用机器人重塑全球代工厂</title>
+      <link>https://news.aibase.com/zh/news/25698</link>
+      <description>谷歌正将其在数字世界的 AI 统治力，加速渗透进真实的物理生产线。2026 年 2 月 25 日，据 企查查 援引虎嗅网消息， 谷歌 正式将 AI 机器人技术公司 Intrinsic 并入母公司 Alphabet 的核心业务版图。 这一并购举措清晰地展示了 谷歌 的战略野心：从“对话式 AI”向“具身智能（Embodied AI）”与智能制造全面跨越。 核心武器：让机器人拥有“通用大脑” Intrinsic 并非传统的硬件厂商，而是一家专注于 AI 软件平台的极客公司，其加入将为 Alphabet 带来关键的技术底座： AI 整合平台 ：提供可扩展的机器人软件框架，降低了工业机器人编程的门槛。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25698</guid>
+      <pubDate>Thu, 26 Feb 2026 01:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026春招风口:AI岗位需求激增14倍，大模型研发迈入“百万年薪”时代</title>
+      <link>https://news.aibase.com/zh/news/25699</link>
+      <description>随着2026年春晚“红包”与“机器人”大战落下帷幕，大模型领域的流量竞争已演变为激烈的人才争夺战。根据脉脉 最新 发布的《2026春招四大风口行业直通车》数据显示，今年以来，该平台 新发布的AI相关岗位量同比激增14倍 。 高薪抢人:大模型专家身价过百万 在这场人才竞速赛中，头部企业纷纷掷出重金。字节跳动旗下的“豆包”业务为“大模型应用架构专家”开出了高达 128万元 的年薪，而平台产品经理的月薪上限也已触及6万元。 春晚效应:硬科技企业集体扩招 不仅是互联网巨头，亮相春晚的硬科技新锐同样求贤若渴: 宇树科技: HR在春节期间频繁发帖，优先处理研发类简历投递。 松延动力与银河通用: 针对“电机</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25699</guid>
+      <pubDate>Thu, 26 Feb 2026 01:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>低至 7.9 元！阿里云打响 AI 编程价格战：一键集齐四大国产“顶流”模型，Qwen3.5 刷新同级纪录</title>
+      <link>https://news.aibase.com/zh/news/25700</link>
+      <description>爆款标题推荐 中国 AI 编程市场正迎来一场由云巨头发起的“降维打击”。2026 年 2 月 26 日，据 证券时报 报道， 阿里云 正式推出 极致 性价比的 AI 编程订阅套餐 。 通过在全球云厂商中首创的“打包”模式， 阿里云 试图以极低门槛争夺开发者，加速其通用人工智能（AGI）战略的全面落地。 核心亮点：国产“四大名捕”一站式集结 此次 阿里云 推出的订阅服务彻底打破了单一模型的限制，将国内最 顶尖 的四大开源大模型 API 悉数收入囊中： Qwen3.5 ：阿里自研“主力军”，刷新了多项 同级 别性能纪录。 GLM-5 ：智谱 AI 出品的 顶级 开源力量。 另两款 顶级 模型 ：同</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25700</guid>
+      <pubDate>Thu, 26 Feb 2026 01:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>游戏出海“降本神话”！三七互娱“小七大模型”深度落地：覆盖 85% 产品，AI 全息长卷惊艳马来西亚</title>
+      <link>https://news.aibase.com/zh/news/25701</link>
+      <description>中国游戏企业正通过 AI 技术实现文化输出与效率变革的双重飞跃。2026年2月25日，据 企查查 援引同花顺财经消息， 三七互娱 自研的 “小七大模型” 在文化出海与降本增效方面取得了突破性成果。 在近期举行的“欢乐春节·美好安徽走进马来西亚”活动中，一幅由 AI 制作的“安徽自然文化遗产全息长卷”震撼亮相，成为科技赋能非遗传承的典型案例。 核心亮点:AI 成为全球化战略的“发动机” 作为 三七互娱网络科技集团股份有限公司 “游戏+AI”战略的核心支柱，“小七大模型”已深入渗透到业务底层: 超高覆盖率 :该大模型已广泛应用于公司 85% 的出海产品 中，成为内容生产的标准配置。 降本增效显著 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25701</guid>
+      <pubDate>Thu, 26 Feb 2026 01:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1240 分高分夺冠 可灵3. 0 系列位居全球基准测试榜首</title>
+      <link>https://news.aibase.com/zh/news/25702</link>
+      <description>近日，知名AI测试机构 Artificial Analysis 发布 最新 全球视频大模型榜单。在文生视频赛道中，**可灵3.0系列模型（Kling3.0Pro）**以 1240分 的评分力压群雄，成功登顶全球 第一 。 本次测评结果显示，可灵系列展现了极强的技术统治力:在前15名模型中，可灵共有7款模型入榜。该模型在视频的 真实感、一致性及可控性 上均具备行业领先优势。 行业专家指出，可灵3.0的成功登顶，意味着AI生成视频已正式从“娱乐演示”进化到“影视工业级视觉生产”的核心环节。这不仅是中国AI技术的重大突破，也将深度赋能专业内容创作，推动视觉生产力的革新。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25702</guid>
+      <pubDate>Thu, 26 Feb 2026 02:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>​谷歌重磅升级 AI 创意工作室 Flow，集成图像与视频生成</title>
+      <link>https://news.aibase.com/zh/news/25703</link>
+      <description>谷歌近日宣布对其 AI 创意工作室 Flow 进行全面重塑与升级。此次更新不仅是一次品牌焕新，更标志着谷歌正式将散落在各处的 AI 实验工具整合进统一的生产力工作流中。 作为此次升级的核心，谷歌将广受好评的图像生成实验项目 Whisk 和 ImageFX 直接内置于 Flow 中。从3月起，用户可以将现有的项目和文件无缝迁移至新平台。在技术底层，Flow 搭载了谷歌 最新 的图像模型 Nano Banana，用户生成的静态图像可以瞬间作为 Veo 模型的输入，直接转化为高品质的 AI 视频。 AIbase 了解到，新版 Flow 引入了一系列专业级编辑功能。新增的“套索工具”允许用户通过简单的</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25703</guid>
+      <pubDate>Thu, 26 Feb 2026 02:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>谷歌发布新Flow:集成 Nano Banana 模型并打通 Veo 视频工作流</title>
+      <link>https://news.aibase.com/zh/news/25704</link>
+      <description>2026年2月25日，谷歌正式宣布对其人工智能创意工作室 Flow 进行重大版本升级与生态整合。本次更新的核心在于将原有的图像生成实验项目 Whisk 与 ImageFX 深度嵌入 Flow 平台，标志着谷歌多模态 AI 工具从零散实验向统一工作流的战略转型。 新版 Flow 搭 载了谷歌 最新 的图像模型 Nano Banana ，用户不仅能通过该模型生成高精度图像，还能将其作为底层素材直接导入 Veo 视频模型，实现从静态到动态的无缝衔接。 此外，平台引入了支持文本驱动的局部编辑套索工具、增强的镜头运动控制以及用于素材管理的“收藏集”功能。 自去年推出以来，Flow 已累计产出超过15亿份</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25704</guid>
+      <pubDate>Thu, 26 Feb 2026 02:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>零代码封装专业 SOP，MiniMax 推出 Expert2.0与云端 AI 助手 MaxClaw</title>
+      <link>https://news.aibase.com/zh/news/25705</link>
+      <description>今日，大模型厂商 MiniMax 宣布对其 Agent 架构进行重大升级，正式推出 Expert2.0（专家） 功能并同步上线基于 OpenClaw 构建的云端助手 MaxClaw 。此次发布标志着 MiniMax 从单一模型能力输出转向深度垂直领域 SOP（标准作业程序）的封装与生态构建。 Expert2.0 实现了从“提示词工程”向“自然语言定义 SOP”的范式转变。用户无需配置复杂的 Skill、SubAgent 或 MCP 协议，仅需通过自然语言描述任务目标，系统即可自动完成工具编排与能力配置。以财务建模为例，Agent 能自主拆解 DCF 估值、敏感性分析等专业流程，并交付逻辑严密的</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25705</guid>
+      <pubDate>Thu, 26 Feb 2026 02:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>华强北“神秘力量”横扫亚马逊！AI 眼镜销量暴涨 80%：国产平价替代正加速“围猎”Meta</title>
+      <link>https://news.aibase.com/zh/news/25706</link>
+      <description>深圳华强北再次向世界展示了其敏锐的商业嗅觉。2026年2月，据企查查援引 VR 陀螺消息，春节期间华强北全域营收同比增长35%，而其中最引人注目的“单品王”当属 AI 眼镜，其销量同比激增70% 至80%。 这股来自东方的电子旋风，正通过亚马逊等跨境平台，直接切入全球 最大 的 AI 眼镜消费市场——美国。 核心洞察:高端与平价的“美式博弈” 目前的美国 AI 眼镜市场正呈现出明显的两极分化格局: 巨头统治高端局:在亚马逊Best Sellers 榜单上，Meta 系列依然稳居霸主地位，尤其是 Oakley Meta HSTN 和 Ray-Ban Meta1代，凭借品牌溢价与生态优势占据了大部</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25706</guid>
+      <pubDate>Thu, 26 Feb 2026 02:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>​网页杂乱救星！微软 Edge 浏览器上线 AI 标签整理功能：秒速归类海量页面</title>
+      <link>https://news.aibase.com/zh/news/25707</link>
+      <description>针对重度上网用户经常面临的“标签页地狱”痛点，微软在 Edge 浏览器中推出了全新的 AI 标签页整理功能（AI Tab Organizer）。根据 最新 的实测显示，该功能展现出了 极高 的实用性与智能化水平，能够在不到1秒的时间内，将40个杂乱无章的网页精准分类。 该功能的核心在于利用人工智能深度分析每个已打开页面的信息承载内容。AI 不仅会扫描网页标题，还会挖掘页面主题，随后自动将相似的网页归纳进不同的标签组。更贴心的是，AI 会根据内容自动为这些标签组分配精准的名称（如“数码评测”、“社交媒体”等）以及不同的视觉颜色，极大提升了信息检索的直观性。 AIbase 了解到，在媒体的压力测试</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25707</guid>
+      <pubDate>Thu, 26 Feb 2026 03:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>微软拟于Edge浏览器深度集成Outlook与Copilot联动功能</title>
+      <link>https://news.aibase.com/zh/news/25708</link>
+      <description>微软计划进一步强化其AI助手Copilot在生态系统中的渗透率，根据 最新 的Microsoft365路线图信息，Microsoft Edge浏览器预计将于2025年5月推出一项深度协作功能。该功能生效后，当用户在Outlook邮件客户端中点击网页链接时，Edge浏览器在加载目标页面的同时，将自动在侧边栏唤起Copilot。 这一技术升级的核心在于实现“上下文感知”的无缝浏览体验。Copilot将同步解析邮件正文与目标网页的内容，通过跨页面的数据整合，为用户提供即时的摘要提取、重点内容标注以及可操作的下一步建议。微软此举旨在减少用户在多应用间切换的认知成本，通过主动式的AI介入延长用户在Edg</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25708</guid>
+      <pubDate>Thu, 26 Feb 2026 03:26:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
