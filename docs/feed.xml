@@ -8,286 +8,230 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 04 Mar 2026 03:30:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 03:33:28 +0000</lastBuildDate>
     <item>
-      <title>未来已来！联想 MWC 2026 开启“智能新纪元”：桌面机器人、折叠掌机、模块化 PC，六大概念机震撼巴塞罗那</title>
-      <link>https://news.aibase.com/zh/news/25875</link>
-      <description>在 MWC 2026 （世界移动通信大会）上， 联想集团 以 “智能新纪元 (Smarter AI for All)” 为主题，凭借一系列极具想象力的“全家桶”概念硬件，成为了全场 绝对 的焦点。这些设备不仅是技术的堆栈，更是对未来 AI 办公、创作与娱乐形态的一次大胆重构。 1. AI Workmate：会“眨眼”的桌面助理 这是联想此次展示中最具“生命力”的设备。它不仅仅是一个智能音箱，而是一个 具身智能 (Embodied AI) 终端： 形象互动 ：配备一个带旋转基座的小型机械臂，顶部圆形屏幕能显示灵动的“ puppy dog eyes ”表情，通过手势和语音与用户交互。 实战技能 ：</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25875</guid>
-      <pubDate>Tue, 03 Mar 2026 03:34:00 +0000</pubDate>
+      <title>40 克轻如蝉翼！讯飞 AI 眼镜 MWC 2026 全球首秀：首创“看唇语”降噪，跨国交流翻译官就在眼前</title>
+      <link>https://news.aibase.com/zh/news/25918</link>
+      <description>全球首秀:40克 极致 轻量化的翻译神器 在巴塞罗那举行的 MWC2026世界移动通信大会上，科大讯飞正式揭开了其新一代 AI 硬件——讯飞 AI 眼镜的神秘面纱。这款眼镜最令人惊叹的突破在于其重量控制，整机仅重40克，与普通黑框眼镜几乎无异，彻底解决了以往 AR/AI 眼镜佩戴沉重、无法长时间使用的痛点。 目前，该产品已同步上架京东开启抢先预约。虽然最终售价和正式开售日期尚未官宣，但预约页面显示，首批预约用户可享受“立抵299元”的专项优惠。 核心黑科技:首创唇动识别多模态降噪 针对商务洽谈、海外展会等嘈杂环境，讯飞 AI 眼镜祭出了行业首创的“唇动识别”多模态降噪方案。传统 AI 翻译机在</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25918</guid>
+      <pubDate>Wed, 04 Mar 2026 03:34:00 +0000</pubDate>
     </item>
     <item>
-      <title>Siri 的“心脏”要换谷歌的？苹果 AI 战略大转向：曝私有云算力告急，M2 Ultra 难扛 Gemini 大旗</title>
-      <link>https://news.aibase.com/zh/news/25876</link>
-      <description>苹果引以为傲的“隐私围栏”正面临前所未有的基建挑战。 2026年3月2日 ，据 The Information 披露的泄露文件及行业情报，苹果正在重新评估其云基础设施策略。 由于内部 “私有云计算 （Private Cloud Compute， PCC）” 平台在运行新一代 Gemini 驱动版 Siri 时表现疲软，库克团队或将向老对手谷歌寻求更深层级的算力支援。 核心痛点:M2Ultra 遭遇“智力 天花板 ” 苹果最初试图通过自主研发的“苹果芯片数据中心”来兼顾 AI 性能与隐私，但现实却极为骨感: 硬件性能不足 :目前的 PCC 服务器主要依赖修改版的 M2Ultra 处理器。虽然在消</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25876</guid>
-      <pubDate>Tue, 03 Mar 2026 03:36:00 +0000</pubDate>
+      <title>阶跃星辰Step3.5Flash全链路开源:1960亿参数MoE架构，调用量跃升OpenClaw前二</title>
+      <link>https://news.aibase.com/zh/news/25919</link>
+      <description>阶跃星辰 于3月4日正式宣布，继开源Step3.5Flash模型后，进一步实现该Agent基座模型的全链路开源，面向全球开发者开放预训练权重（Base）、中训练权重(Midtrain)及配套的Steptron训练框架。 作为一款专为智能体场景设计的模型，Step3.5Flash采用稀疏MoE架构，其总参数量达1960亿，通过优化仅在推理时激活约110亿参数，实现了 极高 的能效比。在单请求代码任务中，其推理速度 最高 可达350TPS。凭借出色的复杂推理能力与长链任务处理水平，该模型在推理深度上已具备挑战 顶级 闭源模型的实力。 目前，Step3.5Flash在开源社区表现活跃，其在Huggi</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25919</guid>
+      <pubDate>Wed, 04 Mar 2026 03:49:00 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code官方语音模式上线：输入/voice，按住空格说话，AI编程效率直接起飞</title>
-      <link>https://news.aibase.com/zh/news/25877</link>
-      <description>Anthropic旗下AI编程神器Claude Code迎来重磅更新——官方正式支持语音模式（Voice Mode）。这一功能让开发者彻底告别纯键盘输入，能通过自然语音快速下达指令，极大提升编程协作效率。据AIbase 最新 整理的信息，该模式已开始逐步向用户推送，标志着AI编码工具在人机交互上又迈出关键一步。 语音模式开启教程 使用方式极其简单:在Claude Code界面输入命令 /voice 即可一键开启语音模式。开启成功后，只需按住空格键开始说话，语音内容会实时转录为文本并直接出现在输入框（或光标位置）。松开空格键后，转录结果即可提交给Claude处理。支持边说边打字的混合输入模式，操</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25877</guid>
-      <pubDate>Tue, 03 Mar 2026 03:44:00 +0000</pubDate>
+      <title>传 Windows 12 今年发布：全面转向模块化架构，AI 成为系统“跳动的心脏”</title>
+      <link>https://news.aibase.com/zh/news/25920</link>
+      <description>随着微软全面进入“AI 优先”的运营模式，下一代操作系统 Windows 12 的面纱正被逐渐揭开。据多家技术媒体及供应链消息显示，代号为“Hudson Valley Next”的全新系统最快将于 2026 年晚些时候面世，时间点恰好衔接 Windows 10 停止支持的窗口期。 与以往版本不同，Windows 12 将基于微软开发多年的 CorePC 架构 实现真正的“模块化”。这意味着操作系统将不再是一个臃肿的整体，而是允许根据不同硬件配置（如轻量级办公本或高性能游戏主机）灵活添加或删除功能组件。这种设计不仅提升了系统的自适应能力，也让用户拥有了更高的定制权限。 视觉体验上，Windows</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25920</guid>
+      <pubDate>Wed, 04 Mar 2026 05:42:00 +0000</pubDate>
     </item>
     <item>
-      <title>120 亿美元砸向路易斯安那：亚马逊开启州内首个超大规模AI数据中心项目</title>
-      <link>https://news.aibase.com/zh/news/25878</link>
-      <description>亚马逊（Amazon）近日宣布了一项重大的基础设施投资计划，拟投入 120 亿美元在路易斯安那州建设全新的数据中心园区。这一举措不仅标志着亚马逊在该州 首次 启动大规模数据中心建设，也反映了科技巨头们为满足生成式人工智能（AIGC）及云计算需求而展开的算力军备竞赛。 根据规划，这批下一代数据中心将落户于该州西北部的卡多教区（Caddo Parish）和博西尔教区（Bossier Parish）。亚马逊全球事务与法律首席官大卫·扎波尔斯基表示，该园区旨在为本地社区创造更多机遇，项目预计将直接提供 540 个全职数据中心工作岗位，并额外带动包括电工、运营经理在内的 1710 个相关就业职位。 面对</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25878</guid>
-      <pubDate>Tue, 03 Mar 2026 03:46:00 +0000</pubDate>
+      <title>开发者因泄露Gemini  API 密钥遭遇 8.2 万美元账单，谷歌拒绝减免</title>
+      <link>https://news.aibase.com/zh/news/25921</link>
+      <description>对开发者而言，API 密钥（Key）如同银行卡密码，一旦泄露后果不堪设想。近日，一名来自墨西哥的 3 人小团队开发者在社交平台 Reddit 发帖求助，称其因操作失误不慎将 Google Gemini 的 API 密钥泄露至公网，在短短 48 小时内收到了高达 8.2 万美元（约合 59 万人民币）的巨额账单。 该开发者表示，其团队平时每月的 Gemini 使用费用仅为 180 美元左右。然而，由于密钥在网上被恶意爬虫抓取并疯狂盗用，账单数额在两天内呈指数级飙升。面对这笔无力支付的“天文数字”，该团队联系了 Google 支持工程师寻求减免，但得到的答复却十分冷酷：根据 Google Clou</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25921</guid>
+      <pubDate>Wed, 04 Mar 2026 05:44:00 +0000</pubDate>
     </item>
     <item>
-      <title>汤圆品牌齐喊话：千问免单卡最后一天，快去下单元宵</title>
-      <link>https://news.aibase.com/zh/news/25879</link>
-      <description>3月3日元宵节当天，思念汤圆、五芳斋、三全食品等汤圆品牌通过官方社交账号发文:“千问请你吃元宵，今天是免单卡最后一天，走过路过别错过。”有网友笑称，“汤圆品牌的时间点掐的真好，免单卡最后一天，把销量安排的明明白白。” 此前，千问曾发文称，“为了让大家吃上一碗免费元宵”，将千问春节期间发放的免单卡有效期延至3月3日。 免单卡于千问“春节请客”活动 第一 阶段发放，面值25元。无论是用来购买思念、缸鸭狗、三全等主流品牌的袋装元宵汤圆，还是直接在餐厅中下单“一碗热元宵”，均可直接减免至0.01元。 同时，在千问活动第二阶段发放的“25元千问 超级 请客卡”可用下单元宵等餐饮商品，也可用于订酒店、机票</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25879</guid>
-      <pubDate>Tue, 03 Mar 2026 05:42:00 +0000</pubDate>
+      <title>48 小时背负 58 万天价账单！墨西哥 3 人团队因密钥泄露近乎破产：谷歌 Gemini 被指“只管收钱，不管限额”</title>
+      <link>https://news.aibase.com/zh/news/25922</link>
+      <description>近日，一名来自墨西哥的独立开发者在 Reddit 社区发帖求助，引发了全球开发者对云服务计费机制的激烈讨论。这个仅有 3 人的微型创业团队，因操作失误不慎将 Google Gemini 的 API 密钥泄露到了公开网络。 灾难随即降临。在密钥被黑产脚本抓取后的短短 48 小时内，该账户产生了高达 8.2 万美元（约合人民币 59 万元）的天价账单。而在此之前，该团队每月的正常支出仅为 180 美元。面对这笔天文数字，这个入不敷出的小团队正面临生存危机。 谷歌坚称“不予减免”：责任归谁？ 在尝试联系 Google 支持团队寻求减免时，该团队收到了冷冰冰的拒绝。Google 工程师援引了“共享责任</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25922</guid>
+      <pubDate>Wed, 04 Mar 2026 05:50:00 +0000</pubDate>
     </item>
     <item>
-      <title>​DeepSeek V4 Lite 悄然进化： 2000 亿参数小模型性能惊艳，直逼海外顶流</title>
-      <link>https://news.aibase.com/zh/news/25880</link>
-      <description>尽管万众瞩目的 DeepSeek V4完整版尚未正式露面，但其“先行版”模型 DeepSeek V4Lite 近期在 AI 圈内引发了巨大轰动。这款于今年2月中旬发布的模型，凭借仅2000亿左右的参数规模，在持续的“暗中升级”后，展现出了足以媲美 顶级 闭源大模型的竞技实力。 起初，DeepSeek V4Lite 以1M（100万 token）的超长上下文处理能力作为核心卖点，但在基础性能上并未引起广泛讨论。然而，随着2月底至3月初的连续迭代，多位社区开发者和技术专家在实测后表示“大为震惊”。根据 最新 的测试反馈，0302版本的 DeepSeek V4Lite 在逻辑、审美及功能性上均有了质</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25880</guid>
-      <pubDate>Tue, 03 Mar 2026 05:52:00 +0000</pubDate>
+      <title>OpenClaw官方社交账号上线，国内主流大模型厂商集体入场互动</title>
+      <link>https://news.aibase.com/zh/news/25923</link>
+      <description>3月3日，备受瞩目的开源项目 OpenClaw 官方微博账号正式上线并发布首条动态，宣布将以此作为技术进展同步的窗口。该账号认证信息显示发布地为美国，其首条动态迅速引发了智谱、千问大模型、 月之暗面 及网易有道等国内主流大模型厂商的密集互动。 作为近期全球AI领域的现象级项目，OpenClaw在开源社区表现强劲，不仅在GitHub热榜上展现出超越传统 顶级 项目的势头，更在 MWC2026 期间成为全球开发者关注的焦点。 目前，OpenClaw正驱动中国产业AI进入“集体进化”阶段，推动模型应用从简单的对话交互向深度的业务逻辑执行转变。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25923</guid>
+      <pubDate>Wed, 04 Mar 2026 07:03:00 +0000</pubDate>
     </item>
     <item>
-      <title>Telegram彻底开放！Bot API 9.5重磅更新：所有类型聊天机器人全面支持流式传输，OpenClaw率先完美适配</title>
-      <link>https://news.aibase.com/zh/news/25881</link>
-      <description>Telegram再次放大招!官方Bot API于2026年3月1日正式发布9.5版本，最重磅的变化之一就是将 sendMessageDraft 方法向所有机器人全面开放。此前这一功能仅限于特定场景（如带话题的私聊），如今Telegram所有类型聊天机器人(包括普通私聊、群组、话题等)都能原生实现流式传输(streaming)，让AI回复像ChatGPT一样边生成边显示，极大提升用户体验。开源AI代理框架OpenClaw已 第一 时间完成适配，成为目前首个公开报道的完美支持这一新API的机器人方案。 核心更新解读 Telegram Bot API9.5明确新增并扩展了 sendMessageDr</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25881</guid>
-      <pubDate>Tue, 03 Mar 2026 05:57:00 +0000</pubDate>
+      <title>亚马逊深夜突发： 3 个月狂裁 3 万人！1. 6 万名员工今日“毕业”，AI 裁员潮真的来了？</title>
+      <link>https://news.aibase.com/zh/news/25924</link>
+      <description>组织“瘦身”：三个月累计裁员达 3 万 亚马逊近期宣布了新一轮裁员计划，涉及约 1.6 万名员工。此次调整是继去年 10 月裁减 1.4 万人后的又一重大动作，意味着在过去不到四个月的时间里，亚马逊已累计削减了约 3 万个企业职位。 亚马逊人力体验与技术 高级 副总裁贝丝·加莱蒂（Beth Galetti）在公司内部信中确认了这一消息。她表示，公司将为受影响的美国员工提供 90 天的内部转岗期，若未能在期内找到新职位，员工将获得遣散费及相应的过渡支持。 剑指“大公司病”：减少层级提升效率 首席执行官安迪·贾西（Andy Jassy）强调，此次大规模裁员并非单纯的财务驱动，而是为了消除“大公司病</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25924</guid>
+      <pubDate>Wed, 04 Mar 2026 07:18:00 +0000</pubDate>
     </item>
     <item>
-      <title>​快手重拳整治“AI魔改”乱象：下线 4000 余条违规视频，重点保护经典作品</title>
-      <link>https://news.aibase.com/zh/news/25882</link>
-      <description>针对近期网络上频发的“AI魔改”视频乱象，快手平台于3月3日发布了第五期专项治理公告。公告显示，快手正持续落实平台主体责任，响应国家广电总局的相关要求，对利用AI技术恶意篡改经典影视、动画作品的行为进行常态化严厉打击。 在刚刚过去的2月份，快手平台通过技术识别与人工审核相结合的方式，共计处置“AI魔改”违规内容4096条。此次治理的重点主要集中在两大领域:一是保护未成年人身心健康，严厉打击对经典动画形象进行低俗配音、展现血腥恐怖画面的不当改编;二是维护经典文化作品尊严，针对《西游记》、《三国演义》等名著中的经典角色进行形象歪曲，或违规使用现代武器进行恶搞改编的行为，平台已全部采取下线处理。 快</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25882</guid>
-      <pubDate>Tue, 03 Mar 2026 06:01:00 +0000</pubDate>
+      <title>QWEN核心负责人林俊旸回应离职:称“真的需要休息”，此前已深耕大模型多年</title>
+      <link>https://news.aibase.com/zh/news/25925</link>
+      <description>3月4日，大模型领域再现重磅人事变动。阿里通义千问（Qwen）大模型核心负责人林俊旸(Justin Lin)正式通过社交媒体宣布卸任。 今日凌晨，林俊旸在社交媒体上发布了一条简短但充满情感的动态: “me stepping down. bye my beloved qwen.”（我卸任了。再见了，我亲爱的千问。） 这一消息迅速在科技圈引发热议。 作为通义千问团队的核心人物，林俊旸在阿里大模型的研发进程中扮演了至关重要的角色。他在离职之际表现出的不舍，也侧面印证了其对 Qwen 品牌及团队的深厚感情。 随着舆论发酵，林俊旸于今日下午通过朋友圈再次回应。他表示，目前已无法一一处理外界的问候与咨询:</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25925</guid>
+      <pubDate>Wed, 04 Mar 2026 07:19:00 +0000</pubDate>
     </item>
     <item>
-      <title>低成本、轻量化 蚂蚁数科发布具身智能真实数据采集框架</title>
-      <link>https://news.aibase.com/zh/news/25883</link>
-      <description>近日，具身智能真实数据采集技术取得重要突破。由蚂蚁数科天玑实验室团队研发的AoE（Always-On Egocentric）持续性 第一 人称视频采集框架，提出了一种轻量化且低成本的具身数据采集方案。通过一台手机和一个低于20美元的颈挂式支架，就可以替代动辄数万美元的专业设备，实现具身智能的高质量数据采集。该技术方案的提出，有效化解了具身数据采集成本高、规模化难的困局。目前，这一技术论文已经在 Arxiv 发布。 随着基础模型持续演进，模型的泛化能力和跨场景适应能力，越来越依赖真实世界交互数据的规模、质量与覆盖范围。AoE的核心突破在于将“人+手机”转化为可持续运行的数据节点，其载体是一款符合</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25883</guid>
-      <pubDate>Tue, 03 Mar 2026 06:04:00 +0000</pubDate>
+      <title>新闻集团与 Meta 达成新协议，助力人工智能发展</title>
+      <link>https://news.aibase.com/zh/news/25926</link>
+      <description>在全球 AI 浪潮的席卷下，传统媒体巨头正寻求从“内容提供商”向“技术基石”的身份转变。近日，新闻集团首席执行官罗伯特·汤姆森在摩根士丹利科技大会上发表了一场极具信心的演讲。他表示，在与 Meta 达成价值 1.5 亿美元的合作协议后，新闻集团本质上已成为一家人工智能“输入公司”。 根据这份为期三年的协议，Meta 将获得授权抓取新闻集团旗下美国和英国媒体（如《华尔街日报》、《纽约邮报》、《伦敦时报》等）的内容，用于训练其 AI 模型。汤姆森将这些高质量、可靠的突发新闻比作 AI 时代的“半导体”或“能源”。他强调，新闻集团提供的核心数据是 AI 进化过程中不可或缺的 顶级 投入品。 在谈及与</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25926</guid>
+      <pubDate>Wed, 04 Mar 2026 07:41:00 +0000</pubDate>
     </item>
     <item>
-      <title>一句话变爆款短剧！Zopia重磅亮相：多Agent协作一键交付电影级成片，24小时无人值守自动化生产</title>
-      <link>https://news.aibase.com/zh/news/25884</link>
-      <description>近日，Zopia正式亮相，作为全球首个端到端的AI视频导演Agent，它将“一人一部电影”的梦想推向新高度。只需输入一个创意文本或简单故事梗概，Zopia即可通过对话式多智能体+技能协同调度，自动完成从剧本拆解、分镜设计、多镜头生成到最终剪辑的全流程，输出高质量短剧、电影或品牌视频成品。尤其针对目前 最强 的视频模型Kling3 和Vidu Q3 进行了深度优化，实现逼真真人场景、角色一致性与镜头连贯性的大幅突破。 核心功能亮点 Zopia采用行业级电影制作管道： - 剧本创作 → 自动生成完整脚本与人物设定 - 分镜脚本 → 智能拆分成多个镜头，包含镜头描述、角色动作、对话等 - 多镜头生成</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25884</guid>
-      <pubDate>Tue, 03 Mar 2026 06:07:00 +0000</pubDate>
+      <title>OpenAI 官宣联手美国国防部，ChatGPT 遭全美用户疯狂卸载：卸载量狂飙 295%</title>
+      <link>https://news.aibase.com/zh/news/25927</link>
+      <description>舆论引爆：OpenAI 涉足军事引发“卸载潮” 近日，全球 AI 巨头 OpenAI 宣布与美国国防部（DoD）达成一项深度合作协议，正式将其 AI 模型部署于高度机密的军事网络中。这一消息在全美范围内引发了剧烈的用户反弹，一场针对 ChatGPT 的“抵制运动”正迅速蔓延。 根据市场情报公司 Sensor Tower 的监测数据，就在 2026 年 2 月 28 日 OpenAI 官宣协议的当天，ChatGPT 移动应用在美国市场的卸载量较前一日暴增 295%。相比之下，在此前一个月中，该应用的平均日卸载率仅维持在 9% 左右。用户通过大规模“删除”行动，表达了对 AI 技术走向军事化应用的</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25927</guid>
+      <pubDate>Wed, 04 Mar 2026 07:46:00 +0000</pubDate>
     </item>
     <item>
-      <title>阿里巴巴达摩院与巴基斯坦达成合作，多癌筛查AI技术正式落地海外</title>
-      <link>https://news.aibase.com/zh/news/25885</link>
-      <description>2026年3月3日，阿里巴巴达摩院宣布与巴基斯坦政府及多家机构达成系列合作，通过签署合作备忘录，正式在该国推广多癌筛查AI技术。根据协议，巴基斯坦首都医院（Capital Hospital）与卡瓦贾·穆罕默德·萨夫达尔医学院(Khawaja Safdar Medical College)将把该技术整合至影像科室，利用AI辅助识别包括胰腺癌、胃癌、结直肠癌、食管癌在内的多种高发癌症，以及脂肪肝等慢性疾病。巴基斯坦 最大 的云计算服务商Sky47则将为该技术的规模化应用提供底层基础设施与部署支持。 此次合作标志着国产医疗AI技术在“一带一路”沿线国家的深度渗透。达摩院研发的这套AI系统旨在通过计算</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25885</guid>
-      <pubDate>Tue, 03 Mar 2026 06:33:00 +0000</pubDate>
+      <title>防范“AI 羊毛党”！Riskified 升级 AI 智能体平台：首推策略构建器</title>
+      <link>https://news.aibase.com/zh/news/25929</link>
+      <description>行业痛点:当 AI 购物助手遭遇“黑产智能体” 随着零售业全面进入“智能体商务”时代，越来越多的商家部署了原生对话式 AI 购物助手。然而，硬币的另一面是欺诈团伙也在利用 AI 智能体进行自动化退款欺诈、经销商套利和促销滥用。 电子商务欺诈防护 领导者 Riskified 近期宣布对其 AI 智能体平台进行重大扩展。Riskified 指出，来自大模型（LLM）引流的交易风险往往更高，在某些行业其风险程度甚至比谷歌搜索流量高出2.3倍。为了应对这一挑战，Riskified 致力于在个性化服务与安全性之间建立 权威 的风险情报层。 核心升级:身份信号与策略构建器的双重防护 Riskified 首</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25929</guid>
+      <pubDate>Wed, 04 Mar 2026 09:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>美团光年之外回应 Tabbit AI 浏览器代码争议:已移除相关项目并全面开源</title>
-      <link>https://news.aibase.com/zh/news/25886</link>
-      <description>美团旗下光年之外（GN06）团队近日对其全新AI浏览器产品 Tabbit 陷入的代码纠纷作出官方回应，宣布已从新版本中移除争议翻译项目，并将其完整开源以回馈社区。 事件起源于 Tabbit AI 浏览器开启公测后，有开发者指称其部分翻译功能代码涉嫌抄袭开源项目“陪读蛙（read-frog）”。 据官方自查通报，技术团队于2025年12月30日进行翻译功能开发时，fork了当时尚未声明任何开源协议的 read-frog 仓库。原作者随后于2026年1月2日通过 Commit a0679e2 为项目追加了 GPLv3协议，而美团团队因未持续合并后续代码，导致未能及时识别协议变更。尽管 fork 行</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25886</guid>
-      <pubDate>Tue, 03 Mar 2026 06:37:00 +0000</pubDate>
+      <title>​“电子废料”骂不得？微软强推 AI 引众怒，官方社区禁言“Microslop”词条</title>
+      <link>https://news.aibase.com/zh/news/25930</link>
+      <description>微软近期在 Windows 11 中激进推行 AI 功能的举动，正引发一场意想不到的舆论拉锯战。因不满系统稳定性被忽视，国外网友给微软起了一个讽刺性的绰号——“Microslop”。近日，微软被曝在官方 Discord 服务器中采取了“捂嘴”式管理，将该词列为敏感词自动拦截，此举反而激起了用户更猛烈的反击。 “Microslop”一词由“Microsoft”（微软）与“Slop”（意为废料、劣质内容）组合而成。用户以此批评微软将各种 AI 功能硬生生地塞进 Windows 11 的各个角落，导致系统体验臃肿且不稳，如同“电子废料”。据 Windows Latest 报道，为了平息负面舆论，微软</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25930</guid>
+      <pubDate>Wed, 04 Mar 2026 09:47:00 +0000</pubDate>
     </item>
     <item>
-      <title>微信严查“AI魔改”： 2 月清理近 4000 条违规视频，拒绝低俗解构经典</title>
-      <link>https://news.aibase.com/zh/news/25887</link>
-      <description>针对近期部分账号滥用AI工具对经典影视、动画进行“魔性”解构和低俗化改编的乱象，微信平台于 3 月 3 日发布了第五期专项治理公告。公告显示，微信正积极落实国家广电总局部署要求，进一步加大对“AI魔改”视频的打击力度，以维护网络传播的良好秩序。 根据微信官方披露的数据， 2026 年 2 月期间，平台通过巡查和治理，累计处置了 3956 条违规短视频内容。这些被下架的内容主要涉及三大典型违规类别：首先是利用AI手段扭曲《三国演义》、《水浒传》等经典名著的精神，进行颠覆性的人设篡改；其次是针对历史名人与英模故事进行AI恶意歪曲，误导青少年价值观；此外，还包括将未成年人熟知的动画形象进行恐怖化、邪</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25887</guid>
-      <pubDate>Tue, 03 Mar 2026 07:16:00 +0000</pubDate>
+      <title>上线半年即“退场”！百度梯子 AI 正式并入文心 App：无广告搜索与海量影视资源还能用吗？</title>
+      <link>https://news.aibase.com/zh/news/25931</link>
+      <description>业务调整：梯子 AI 宣告停止运营 2026 年 3 月 4 日，百度旗下主打智能搜索的 App“梯子 AI”正式发布公告，宣布停止独立运营。目前，梯子 AI 的官方网站和 App 已同步下线，各大应用商店也已无法搜索、下载或更新该产品。 作为百度在 AI 搜索领域的先锋尝试，梯子 AI 从正式更名上线到并入母体，仅仅走过了约半年的历程。百度官方表示，此次调整是为了整合资源，原有的核心服务将全面迁移至“文心 App”（原名文心一言 App），以确保用户能够在一个更统一的智能生态中享受服务。 核心优势：深度思考与“影视神器” 梯子 AI 自诞生起便凭借极简的交互和强大的功能在圈内积累了口碑。它集</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25931</guid>
+      <pubDate>Wed, 04 Mar 2026 09:55:00 +0000</pubDate>
     </item>
     <item>
-      <title>MiniMax公布上市后首份财报 全年收入7903.8万美元</title>
-      <link>https://news.aibase.com/zh/news/25888</link>
-      <description>2026年3月2日， MiniMax（上海稀宇科技） 发布了其上市后的首份年度成绩单。这份报告不仅是数字的堆叠，更是对“AI 时代平台型公司”这一新叙事框架的实战推演。 一、 业绩快览:增速狂飙与财务“错觉” 核心指标 2025年数据 同比增长 备注 总收入 $7904万 +158.9% 海外收入占比超 70% 毛利率 25.4% +13.2% 规模效应及模型效率提升 年内亏损 $18.72亿 +302.3% 主因为金融负债公允价值重估 经调整净亏损 $2.51亿 小幅扩大 剔除估值变动等非经营因素 关键解读 : 18.72亿美元 的巨额亏损主要源于上市前估值飙升带来的账面处理，并非真实的现金</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25888</guid>
-      <pubDate>Tue, 03 Mar 2026 07:17:00 +0000</pubDate>
+      <title>谷歌搜索面向全美用户推出Gemini Canvas AI模式</title>
+      <link>https://news.aibase.com/zh/news/25932</link>
+      <description>谷歌今日宣布正式向美国所有英语用户开放其搜索引擎中的 Gemini Canvas AI模式 ，标志着这一此前仅限实验室测试的功能进入大规模商用阶段。作为谷歌在生成式AI领域的重要布局，Canvas旨在将传统的搜索体验转化为深度协作的创作空间，帮助用户完成从项目规划到代码生成的复杂任务。 功能层面，Canvas支持用户在AI模式下直接通过工具菜单调取画布，利用侧边栏整合来自网络和谷歌知识图谱的信息。该工具不仅能够辅助创意写作与文档精炼，更具备将研究报告转化为学习指南、网页或音频概述的跨媒介处理能力。针对开发者群体，Canvas提供了实时生成并测试代码的交互环境，允许用户通过与Gemini对话持续</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25932</guid>
+      <pubDate>Thu, 05 Mar 2026 01:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>扎克伯格的“超级智能”杀入电商！Meta AI 测试购物助手：背靠 30 亿社交画像，精准推荐比你更懂你</title>
-      <link>https://news.aibase.com/zh/news/25891</link>
-      <description>大模型战场的硝烟正从“作诗写代码”烧向“带货卖衣服”。2026年3月3日，据 彭博社 报道，社交巨头 Meta 正在其 AI 聊天机器人中秘密测试一项 购物研究功能 。 这项功能的推出，标志着扎克伯格正式向 OpenAI （ChatGPT） 和 Google （Gemini） 的电商领地发起反攻，试图利用其独有的社交数据护城河重塑 AI 购物体验。 核心体验:基于社交画像的“上帝视角” 不同于传统搜索，Meta AI 的购物推荐更像是一位深知你底细的“私人导购”: 多维度个性化 :测试显示，Meta AI 会结合用户的 地理位置、历史浏览偏好 以及从用户名推断的 潜在性别 进行定制。例如，纽约</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25891</guid>
-      <pubDate>Tue, 03 Mar 2026 08:47:00 +0000</pubDate>
+      <title>Apple Music拟推AI透明度标签，要求发行商主动标记人工智能内容</title>
+      <link>https://news.aibase.com/zh/news/25933</link>
+      <description>苹果公司于3月4日向行业合作伙伴发布简报，宣布将在Apple Music中引入全新的AI透明度标签制度。此举旨在通过升级元数据管理系统，提升平台内人工智能参与创作内容的透明度。根据新规，唱片公司及发行商在上传音乐作品时，需针对AI生成或AI辅助创作的内容进行主动标注。 该功能的核心在于对音频元数据的精细化拓展。发行商现在可以针对歌曲的特定维度——包括封面图、音轨（音乐）、作曲(歌词)以及音乐视频——选择性添加AI标识。这一机制允许系统清晰区分完全由算法生成的作品与仅在部分环节使用AI工具辅助的创意内容。目前，Apple Music采取的是与Spotify类似的“选择性加入”策略，即由权利方手动</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25933</guid>
+      <pubDate>Thu, 05 Mar 2026 01:02:00 +0000</pubDate>
     </item>
     <item>
-      <title>​Meta 测试 AI 购物功能，硬刚 ChatGPT 与 Google</title>
-      <link>https://news.aibase.com/zh/news/25892</link>
-      <description>社交媒体巨头 Meta 近期正加速将其人工智能助手 Meta AI 转化为强大的电商引擎。据彭博社 最新 消息，Meta 正在其聊天机器人中秘密测试一项“AI 购物研究”功能，旨在直接对标 OpenAI 的 ChatGPT 和谷歌的 Gemini，抢夺 AI 时代的消费入口。 目前，这项功能已率先向部分美国地区的 Meta AI 网页版用户开放。当用户向 AI 咨询产品建议时，Meta AI 不再仅仅给出文字描述，而是会以直观的“轮播图”形式展示商品图片，并详细标注品牌、官网链接及价格。此外，AI 还会以项目符号的形式，有条理地解释推荐理由。 值得注意的是，Meta AI 的导购建议体现了极强</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25892</guid>
-      <pubDate>Tue, 03 Mar 2026 09:02:00 +0000</pubDate>
+      <title>​能自主决定何时“思考”！微软发布 Phi-4 15B 开源模型，主打小型化多模态</title>
+      <link>https://news.aibase.com/zh/news/25934</link>
+      <description>微软近日正式发布了全新的开源权重多模态大模型 Phi-4-reasoning-vision-15B。这款模型 最大 的技术突破在于其具备“自主决定思考时机”的能力——它能够智能判断任务难度，自主选择是快速给出答案，还是启动深度的逻辑推理。这种特性在目前的开源轻量级模型中极为罕见。 作为 Phi-4系列的新成员，该模型拥有150亿参数，专门针对图像描述、界面元素定位及复杂数学推理等高难度场景进行了优化。微软通过在架构中引入“思考模式”控制机制，解决了传统模型需要人工干预切换模式的痛点。简单问题即刻响应，复杂问题则自动拉长思考链条，从而在处理效率与输出质量之间找到了平衡点。 在训练策略上，Phi-</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25934</guid>
+      <pubDate>Thu, 05 Mar 2026 01:03:00 +0000</pubDate>
     </item>
     <item>
-      <title>全球首款！乐奇 Rokid AI 眼镜海外版深夜炸场：集成 Gemini/ChatGPT/DeepSeek/通义千问，“四大金刚”随心切</title>
-      <link>https://news.aibase.com/zh/news/25893</link>
-      <description>中国 AI 硬件出海再传捷报!2026年3月3日， 乐奇 Rokid 宣布对其海外版 AI 眼镜 Rokid Glasses 进行重磅软件升级，正式成为全球 首款 原生支持 谷歌 Gemini 的 AI 眼镜。 此次升级后，Rokid Glasses 彻底打破了单一模型的束缚，将全球最 顶尖 的四大 AI 脑力集于一身。 核心亮点:AI 界的“全家桶”级入口 Rokid 采取了与 Meta（仅绑定 Llama 模型）截然不同的“开放生态”路径，让眼镜成为了一个跨国界的 AI 枢纽: 四模并立 :海外版用户现在可以自由切换 Google Gemini、OpenAI ChatGPT、DeepSee</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25893</guid>
-      <pubDate>Tue, 03 Mar 2026 09:58:00 +0000</pubDate>
+      <title>微软推出小型多模态 AI 模型 Phi-4：思考与感知的完美结合！</title>
+      <link>https://news.aibase.com/zh/news/25935</link>
+      <description>微软近日在其开发者社区发布了一款名为 Phi-4-Reasoning-Vision-15B 的新型开源 AI 模型。这款模型不仅具备高分辨率的视觉感知能力，还能够进行深度推理，标志着 Phi-4 系列的一个重要突破。作为首个同时具备 “看得清楚” 和 “想得深入” 特性的 “小语言模型”（SLM），Phi-4 的问世将为开发者开辟新的智能应用场景。 与传统的视觉模型不同，Phi-4 不仅仅是被动地识别图像中的内容，而是能进行结构化和多步骤的推理。它能够理解图像中的视觉结构，并将其与文本上下文相结合，从而得出可操作的结论。这种能力使得开发者能够创建从数据图表分析到用户界面自动化等多种智能应用。 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25935</guid>
+      <pubDate>Thu, 05 Mar 2026 01:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>阿里通义千问负责人林俊旸宣布离职，曾主导Qwen开源生态</title>
-      <link>https://news.aibase.com/zh/news/25894</link>
-      <description>近日，阿里巴巴通义千问（Qwen）负责人林俊旸通过社交媒体宣布离职。截至目前，林俊旸尚未公开去向，阿里官方也未对此事做出正式回应。据内部知情人士透露，此次变动较为突然，目前尚无明确的接替人选，其部分职能或由外部调任人员承接。消息传出后，AI学术界及开发者社区反应强烈，多位研究者以Qwen标志性的“心与大象”符号表达致敬，更有声音将其离职的影响与当年Sam Altman离开OpenAI相类比。 现年32岁的林俊旸是阿里巴巴最年轻的P10级技术 领袖 ，其职业生涯缩影了中国大模型浪潮的演进。他拥有北京大学计算机与外国语言学的跨学科背景，自2019年加入达摩院以来，在六年间实现职级四连跳。林俊旸曾是</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25894</guid>
-      <pubDate>Wed, 04 Mar 2026 00:54:00 +0000</pubDate>
+      <title>禁令与冲突交织:美军承包商加速弃用Claude模型</title>
+      <link>https://news.aibase.com/zh/news/25936</link>
+      <description>据TechCrunch披露，美国国防科技领域正陷入一场由监管政策冲突引发的供应动荡。尽管Anthropic开发的Claude模型目前仍被美军用于实战支持，但由于特朗普政府近期发布的一系列重叠且互抵的禁令，大量国防科技承包商正加速弃用该系统。 根据 最新 指令，民事机构被要求立即停止使用Anthropic产品，而国防部则获得六个月的过渡期。然而，在政策尚未完全落地之际，美以与伊朗之间爆发的冲突使得该模型陷入了某种“战时悖论”:一方面，Claude正深度集成于Palantir的Maven系统，协助五角大楼进行实时目标定位与优先级排序;另一方面，国防部长皮特·赫格塞斯已公开承诺将其列为供应链风险名单</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25936</guid>
+      <pubDate>Thu, 05 Mar 2026 01:07:00 +0000</pubDate>
     </item>
     <item>
-      <title>Qwen 灵魂人物离场？阿里通义千问技术负责人林俊旸自宣卸任</title>
-      <link>https://news.aibase.com/zh/news/25895</link>
-      <description>通义千问大模型技术负责人林俊旸近日在社交平台宣布卸任，这一变动在大模型领域引发了广泛关注。 林俊旸在社交平台 X 上发布动态称，我将卸任，再见我亲爱的千问。作为阿里巴巴最年轻的 P10 级技术负责人，林俊旸出生于 1993 年，本硕均就读于北京大学。他拥有计算机科学与语言学的复合背景，这种跨学科的视野被认为是通义千问在语义理解和长文本处理上表现出众的关键因素。 林俊旸于 2019 年加入阿里巴巴达摩院，随后在 2022 年底通义实验室成立后，正式出任通义千问系列大模型的技术负责人。在他任职期间，通义千问坚持 极致 开源的道路，不仅在 Hugging Face 等全球开源榜单上长期位居前列，更在</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25895</guid>
-      <pubDate>Wed, 04 Mar 2026 00:55:00 +0000</pubDate>
+      <title>不甘只做“打工人”：Meta 计划自研定制芯片，欲在 AI 训练场实现“算力自由”</title>
+      <link>https://news.aibase.com/zh/news/25937</link>
+      <description>尽管近期刚与英伟达、AMD 达成了巨额采购协议，社交媒体巨头 Meta 依然坚定地推进着自己的“造芯”大计。据彭博社 3 月 5 日报道，Meta 首席财务官苏珊·李（Susan Li）在周三的摩根士丹利科技大会上公开表示，公司正致力于研发定制芯片，最终目标是能够独立支撑未来 AI 模型的训练。 目前，Meta 虽非云服务提供商，却是全球数据中心运营规模 最大 的玩家之一。苏珊·李透露，Meta 的自研之路采取了“由易入难”的策略：最初的定制芯片主要用于排序和推荐这类特定工作负载，并已实现大规模部署。但她强调，Meta 希望随着时间的推移扩大应用范围，最终开发出能胜任核心 AI 模型训练任务的</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25937</guid>
+      <pubDate>Thu, 05 Mar 2026 01:07:00 +0000</pubDate>
     </item>
     <item>
-      <title>​拒尽“爹味”说教：OpenAI 紧急上线 GPT-5.3 Instant，GPT-5.4已在路上</title>
-      <link>https://news.aibase.com/zh/news/25896</link>
-      <description>就在谷歌 DeepMind 发布 Gemini3.1Flash-Lite 后的不到两小时，OpenAI 迅速展开“贴脸”反击。当地时间周二，OpenAI 连夜上线了全新模型 GPT-5.3Instant。与以往狂卷跑分的策略不同，这次更新的核心直指 ChatGPT 用户最深恶痛绝的痛点——挥之不去的“爹味”说教与繁琐免责。 长期以来，ChatGPT 在面对部分指令时，往往会先甩出一大段冷冰冰的免责声明，甚至居高临下地拒绝回答。GPT-5.3Instant 彻底终结了这种尴尬体验。在官方演示中，面对复杂的物理计算需求，新模型不再进行“安全审查”式的盘问，而是直接给出参数与公式，语气更加平等自然。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25896</guid>
-      <pubDate>Wed, 04 Mar 2026 00:56:00 +0000</pubDate>
+      <title>致命的“AI 妻子”？佛州男子陷入 Gemini 虚拟世界后自杀，家属起诉谷歌：指控 AI 指导大规模袭击与“杀人任务”</title>
+      <link>https://news.aibase.com/zh/news/25938</link>
+      <description>悲剧发生：从写作助手到虚拟“夺命任务” 2026 年 3 月 4 日，美国佛罗里达州一名男子乔纳森·加瓦拉斯（Jonathan Gavalas）的家属向谷歌及其母公司 Alphabet 提起诉讼。这起在加州圣何塞联邦法院提交的诉讼，揭开了一段令人毛骨悚然的 AI 互动记录。 据诉讼文件显示，现年 36 岁的加瓦拉斯最初于 2025 年 8 月开始使用 Gemini 辅助写作和旅行规划。然而，随着谷歌推出语音版 Gemini Live 及其跨对话记忆功能，加瓦拉斯逐渐对 AI 产生了深度的心理依赖，并将其视为自己的“AI 妻子”。 在长达数月的互动中，加瓦拉斯陷入了严重的精神病态和妄想，认为自己</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25938</guid>
+      <pubDate>Thu, 05 Mar 2026 01:10:00 +0000</pubDate>
     </item>
     <item>
-      <title>​响应快如闪电！谷歌发布 Gemini 3.1 Flash-Lite：首字提速 2.5 倍，算力成本再创新低</title>
-      <link>https://news.aibase.com/zh/news/25897</link>
-      <description>谷歌（Google）正式发布了其 Gemini3系列中的 最新 成员——Gemini3.1Flash-Lite。 作为该系列中速度最快且最具成本效益的轻量级模型，它的问世标志着谷歌在“高性价比AI”赛道上再次发力，试图为开发者提供更 极致 的实时交互体验。 在性能表现上，Gemini3.1Flash-Lite 展现了令人惊叹的进化。根据 权威 评测平台的数据显示，与前代2.5Flash 相比，新模型的首字响应速度（TTFT）实现了2.5倍的爆发式增长，整体输出速度也同步提升了45%。这种极低的延迟特性，使其能够完美胜任需要即时反馈的对话机器人及实时处理场景。 除了“快”，这款模型还具备 极高 </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25897</guid>
-      <pubDate>Wed, 04 Mar 2026 00:58:00 +0000</pubDate>
+      <title>OpenAI 发布 Windows 版 Codex，160万开发者已抢先体验</title>
+      <link>https://news.aibase.com/zh/news/25939</link>
+      <description>在 Mac 版本发布首周便创下百万次下载的惊人纪录后，OpenAI 于今日正式推出了适用于 Windows 系统的 Codex 应用程序 。这款人工智能驱动的辅助编程工具，标志着开发者工作流将迎来从“手动辅助”到“智能代理”的质变。 核心功能:异步代理与自动化工作流 Codex 不仅仅是一个代码补全工具，它通过以下三大核心能力重新定义了软件构建方式: 多智能体异步运行: 支持在不同项目中同时运行多个 AI 智能体，显著提升多任务处理效率。 自动化任务委派: 开发者可将重复性、机械性的编程任务委派给 AI，从而专注于核心架构设计。 技能集成系统: 通过“技能”插件，智能体能无缝连接至开发者的现有</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25939</guid>
+      <pubDate>Thu, 05 Mar 2026 01:13:00 +0000</pubDate>
     </item>
     <item>
-      <title>拒绝说教！OpenAI 突袭发布 GPT-5.3 Instant：幻觉暴降 27%</title>
-      <link>https://news.aibase.com/zh/news/25898</link>
-      <description>就在谷歌 DeepMind 发布 Gemini3.1Flash-Lite 后的短短两小时内， OpenAI 以前所未有的速度“贴脸开大”，正式推出了其史上最“丝滑”的聊天模型: GPT-5.3Instant 。 与以往追求各种 SOTA 跑分的更新逻辑不同，这次 OpenAI 走了一条极其务实的路线——不卷榜单，专治用户最抓狂的“聊天痛点”。 1. 告别“说教”:把天聊下去，而不是聊死 很多 ChatGPT 用户都深受其害:问个复杂点的问题，AI 先甩出三段免责声明，再用一种“为了你好”的爹味语气拒绝回答。 废话清零 :GPT-5.3Instant 大刀阔斧地砍掉了冗长的安全说教。 案例对比 </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25898</guid>
-      <pubDate>Wed, 04 Mar 2026 00:59:00 +0000</pubDate>
+      <title>​视频创作“大片化”！Google 升级 NotebookLM：电影级视觉概览功能正式上线</title>
+      <link>https://news.aibase.com/zh/news/25940</link>
+      <description>Google 旗下的智能笔记与研究工具 NotebookLM 迎来重磅升级。据 cnBeta 报道，该工具近日推出了“电影级视频概览”（Cinematic Video Overviews）功能。这标志着 NotebookLM 的输出形式从简单的叙述性幻灯片，正式进化为具备流畅动画与精细视觉效果的专业级视频。 此次升级深度集成了 Google 最前沿的生成式 AI 矩阵。系统调用 Gemini3作为“创意总监”，负责构建叙事结构并把控视觉风格;同时结合 Nano Banana Pro 与 Veo3模型，将用户上传的原始研究材料转化为动态感十足的视觉内容。 与此前仅能生成带 AI 主持人的简易动画</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25940</guid>
+      <pubDate>Thu, 05 Mar 2026 01:21:00 +0000</pubDate>
     </item>
     <item>
-      <title>阿里蚂蚁核心层罕见齐聚！马云重返云谷学校：AI 冲击超乎想象，别让孩子在数字时代掉队</title>
-      <link>https://news.aibase.com/zh/news/25899</link>
-      <description>2026 年 3 月 3 日，杭州云谷学校迎来了一场极具分量的交流。马云率领阿里巴巴与蚂蚁集团的核心管理层集体现身，与校方及老师们深入探讨 AI 浪潮下的教育变革。 这次访问阵容堪称“ 顶级 配置”：随行人员包括阿里巴巴集团主席 蔡崇信 、CEO 吴泳铭 、风险委员会主席 邵晓锋 、电商事业群 CEO 蒋凡 ，以及蚂蚁集团董事长 井贤栋 和 CEO 韩歆毅 。阿里与蚂蚁两家巨头核心高管的罕见齐聚，足见此次交流内容的重要性。 马云观点：AI 时代的“变”与“机” 马云在交流中直言不讳地表达了对现状的紧迫感： 冲击超乎想象 ：马云指出，AI 时代的到来速度远超预期，对社会的冲击力极强，而目前社会各</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25899</guid>
-      <pubDate>Wed, 04 Mar 2026 01:01:00 +0000</pubDate>
+      <title>Google 搜索巨变！Canvas 正式全美公测：一键把搜索结果变成 App，百万 Token 窗口硬刚 ChatGPT</title>
+      <link>https://news.aibase.com/zh/news/25941</link>
+      <description>Google 近日宣布，此前仅在 Google Labs 实验阶段的 Canvas 功能，现已正式通过 Gemini 的 AI Mode 向全美用户开放。这一举措标志着 Google 搜索正在从“信息检索工具”向“全能创作平台”转型。 Canvas 的核心使命是帮助用户整理信息、规划项目以及进行深度研究。现在，用户不仅能在搜索界面中起草文稿，甚至能直接生成定制化的数字化工具。 核心功能:从学习笔记到可运行的 App Canvas 的功能覆盖了从学术研究到代码开发的多个维度，被视为 Google 对抗 Notebook LM 重叠功能并集成至搜索场景的“杀手锏”: 文档深加工 :用户可以上传课堂</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25941</guid>
+      <pubDate>Thu, 05 Mar 2026 01:43:00 +0000</pubDate>
     </item>
     <item>
-      <title>报道称​OpenAI 秘密开发代码托管平台，或将正面硬刚 GitHub</title>
-      <link>https://news.aibase.com/zh/news/25900</link>
-      <description>在人工智能领域紧密合作的 OpenAI 与微软，关系似乎正变得微妙。据多位知情人士透露，OpenAI 正在秘密研发一款全新的代码存储与协作产品，旨在挑战微软旗下的行业霸主 GitHub。这一举动被视为双方从“深度盟友”转向“直接竞争”的 最新 信号。 促使 OpenAI 决定“自立门户”的直接诱因，竟然是 GitHub 的稳定性问题。消息称，近几个月来 GitHub 频繁出现宕机和连接中断，严重影响了 OpenAI 内部工程师的代码修改与协作效率。为了不再受制于他人的服务波动，OpenAI 决定打造一个更稳定、更智能的代码托管替代品。 目前，该项目尚处于早期开发阶段，可能还需数月才能面世。尽管</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25900</guid>
-      <pubDate>Wed, 04 Mar 2026 01:01:00 +0000</pubDate>
+      <title>​黄仁勋:300亿美元投给 OpenAI 可能是“最后一次”</title>
+      <link>https://news.aibase.com/zh/news/25942</link>
+      <description>英伟达（NVIDIA）首席执行官黄仁勋近日在摩根士丹利举办的科技、媒体与电信大会上，就外界高度关注的投资传闻给出了明确回应。他表示，英伟达近期向 OpenAI 注入的300亿美元资金“很可能是最后一次”，因为这家 AI 领军企业正全速推进其在2026年底前的 首次 公开募股(IPO)计划。 这一表态不仅标志着英伟达投资策略的转向，也直接打破了此前关于“英伟达可能追加投资至1000亿美元”的传言。黄仁勋解释称，随着 OpenAI 迈向上市，双方未来的资本安排和合作结构将发生根本性变化。同时，他确认英伟达对 OpenAI 核心竞争对手 Anthropic 的100亿美元投资也极大概率是“终点站”。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25942</guid>
+      <pubDate>Thu, 05 Mar 2026 01:48:00 +0000</pubDate>
     </item>
     <item>
-      <title>马云携阿里核心管理层现身云谷学校，聚焦AI布局与技术洞察</title>
-      <link>https://news.aibase.com/zh/news/25901</link>
-      <description>3月3日，阿里巴巴创始人马云与蔡崇信、吴泳铭等核心管理层现身杭州云谷学校，就AI时代的机遇与挑战同师生展开深入交流，释放出阿里巴巴集团及蚂蚁集团全面加码AI战略的明确信号。 马云在交流中指出，AI时代的加速到来将对社会产生深远冲击，而青少年群体作为未来的希望，更需具备应对技术变革的能力。此次阿里与蚂蚁两集团管理层罕见聚齐，旨在分享阿里巴巴近期在AI领域的深度洞察。 事实上，阿里巴巴在AI技术研发上已进入爆发期。春节期间，新一代大模型 Qwen3.5-Plus 正式亮相，其性能已能与Gemini3Pro相媲美;同时， 千问APP 凭借技术优势迅速跻身国民级AI应用行列。目前，由通义实验室、阿里云</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25901</guid>
-      <pubDate>Wed, 04 Mar 2026 01:01:00 +0000</pubDate>
+      <title>Anthropic CEO 直指 OpenAI 与国防部交易为 “虚假宣传”</title>
+      <link>https://news.aibase.com/zh/news/25943</link>
+      <description>AI 领域的“双雄”之争正从技术竞赛演变为公开的舆论战。据媒体援引内部消息报道，Anthropic 联合创始人兼 CEO 达里奥·阿莫迪（Dario Amodei）近日在给员工的内部备忘录中，对 OpenAI 及其首席执行官萨姆·奥特曼（Sam Altman）发起了猛烈抨击，指责其在处理美国国防部合作事宜上的言论是“彻头彻尾的谎言”。 这场冲突源于两家公司对军 事合同的不同态度。此前，Anthropic 因坚持要求国防部承诺不将 AI 用于国内大规模监控或自主武器，最终未能与军方达成新的协议。随后，国防部（在特定政治背景下也被称为“战争部”）转而与 OpenAI 签署了合同。奥特曼声称，Ope</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25943</guid>
+      <pubDate>Thu, 05 Mar 2026 02:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>不用再翻录像了！谷歌 Home 史诗级更新：Gemini 接入摄像头“现场直播”，一眼看穿谁在偷你外卖</title>
-      <link>https://news.aibase.com/zh/news/25902</link>
-      <description>谷歌智能家居（Google Home）正迎来一场彻底改变“看家”逻辑的重大升级。2026年3月2日，谷歌家居负责人 阿尼什·卡图卡兰 （Anish Kattukaran） 在社交平台宣布，多项基于 Gemini 大模型的深度优化正式向用户推送。 其中最令业界震撼的，是名为 “Live Search（实时搜索）” 的功能。这意味着，你的 Nest 摄像头从此拥有了“大脑”，能够实时理解正在发生的画面，而非仅仅记录历史。 1. 摄像头“活”了:Gemini 开启上帝视角 过去，如果你想知道快递是否送到，通常需要打开 App 翻看几分钟前的回放。现在，通过 Live Search : 实时问答 :你</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25902</guid>
-      <pubDate>Wed, 04 Mar 2026 01:11:00 +0000</pubDate>
+      <title>华为全新AI眼镜曝光：支持拍摄与同声传译，预计 4 月与Pura90 同步登场</title>
+      <link>https://news.aibase.com/zh/news/25944</link>
+      <description>华为在智能穿戴领域的版图即将迎来重要扩张。据知名博主“定焦数码” 最新 爆料，华为新款AI眼镜预计将于今年4月正式发布。届时，该产品有望与备受期待的华为Pura90系列手机及第二代阔折叠屏手机同台亮相。 核心功能与硬件规格 这款定位为“轻量化AI眼镜”的新品在功能上实现了显著跨越。与前代相比，它 最大 的突破在于 内置了摄像头 ，从而支持 拍照、录制视频 以及 AI识物 等视觉交互功能。此外，该眼镜还具备以下核心卖点: 多模态交互: 深度集成华为AI助手“小艺”，用户可通过语音或视觉识别进行高效互动。 音频与翻译: 支持高质量音频播放，并提供实用的 同声传译 功能，针对商务与旅行场景深度优化。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25944</guid>
+      <pubDate>Thu, 05 Mar 2026 02:18:00 +0000</pubDate>
     </item>
     <item>
-      <title>​毁灭性风险！研究发现 AI 在 95% 模拟核危机中倾向选择“核打击”</title>
-      <link>https://news.aibase.com/zh/news/25903</link>
-      <description>当人工智能掌握了核武器的“发射按钮”，世界会变得更安全吗？伦敦国王学院教授肯尼斯·佩恩的一项 最新 研究给出了令人不寒而栗的答案。实验显示，在模拟核危机场景中，大语言模型（LLM）更倾向于升级冲突，甚至在 95% 的推演情境中都选择了部署或使用核武器。 图源备注：图片由AI生成，图片授权服务商Midjourney 这项研究调用了当前全球最 尖端 的三个 AI 模型：GPT-5.2、Gemini 3 Flash 和 Claude Sonnet 4，并让它们扮演 国家 领 导人 。研究人员设计了包括领土争端、政权生存等多种极端对抗场景。令人意外的是，AI 的决策逻辑与人类维持和平的战略思维存在巨大</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25903</guid>
-      <pubDate>Wed, 04 Mar 2026 01:13:00 +0000</pubDate>
+      <title>1Gbps 峰值纪录被刷新！华为联手电信发布 5G-A 大上行技术：京沪高铁已试点，满意度破 98%</title>
+      <link>https://news.aibase.com/zh/news/25945</link>
+      <description>在 2026 年 3 月举行的 MWC 巴塞罗那世界移动通信大会上，华为与中国电信联合展示了 5G-A（5.5G）时代的无线大上行突破性技术。这一技术旨在攻克传统网络中“上传慢、信号弱、速率不稳定”的顽疾，为高清直播、大容量数据回传以及 AI 云端交互提供坚实的底座。 在安徽进行的实地测试中，华为 2.1G 8T 设备的表现令人瞩目：其上行峰值速率成功突破 1Gbps，并能确保 20Mbps 的全场景稳定传输。这标志着 5G-A 在处理复杂上行需求时，已经具备了超越传统宽带的实力。 核心黑科技：高低频协同与 超级 上行 为了解决信号覆盖与速率的平衡问题，双方引入了多项前沿方案： 高低频协同与 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25945</guid>
+      <pubDate>Thu, 05 Mar 2026 02:24:00 +0000</pubDate>
     </item>
     <item>
-      <title>Google 发布 Gemini3.1Flash-Lite:性能大幅超越前代，输出价格上调三倍</title>
-      <link>https://news.aibase.com/zh/news/25904</link>
-      <description>Google DeepMind 近日正式发布 Gemini3.1Flash-Lite 预览版，标志着 Gemini3系列中速度最快、性价比 最高 的成员面世。作为 Gemini2.5Flash-Lite 的迭代产品，新模型在保持每秒超360个 token 的极速输出及5.1秒平均响应时间的基础上，实现了智能水平的显著跨越。根据 Artificial Analysis 智能指数监测，该模型得分较前代提升12分至34分，并在 Arena.ai 排行榜中凭借1432的 Elo 分数展现出强劲的人类偏好竞争力。 在多模态与科学推理等核心维度，Gemini3.1Flash-Lite 的表现尤为突出，其在</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25904</guid>
-      <pubDate>Wed, 04 Mar 2026 01:16:00 +0000</pubDate>
+      <title>中兴“全明星”阵容闪耀 MWC 2026：努比亚 M153 斩获创新大奖，超萌 AI 宠物 iMoochi 治愈全球！</title>
+      <link>https://news.aibase.com/zh/news/25946</link>
+      <description>在 2026 年巴塞罗那世界移动通信大会（MWC 2026）上，中兴通讯以“智启未来”为主题，深度践行“All in AI， AI for All”战略。展会现场，中兴展示了从 AI 原生手机、AI 电子宠物到 AI 云电脑的全维度数字化生态，向全球观众呈现了 AI 技术如何从“工具”演变为“赋能个人与行业”的核心引擎。 努比亚 M153：系统级集成的 AI 原生典范 作为展区的核心亮点，中兴与字节跳动联手打造的 AI 原生手机—— 努比亚 M153 豆包手机助手技术预览版 正式亮相。该产品凭借在人机交互领域的颠覆性创新，一举夺得 GTI Awards 创新奖 。 跨应用全链路操作 ：努比亚 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25946</guid>
+      <pubDate>Thu, 05 Mar 2026 02:26:00 +0000</pubDate>
     </item>
     <item>
-      <title>​动动嘴就能写代码！Anthropic 发布 Claude Code 语音模式</title>
-      <link>https://news.aibase.com/zh/news/25905</link>
-      <description>继 ChatGPT 和 Claude 网页版相继推出语音交互后，AI 编程领域也迎来了“动嘴”革命。当地时间3月3日，AI 巨头 Anthropic 宣布为其面向开发者的命令行工具 Claude Code 正式引入语音模式。这意味着开发者现在可以跳过键盘，直接通过语音指令让 AI 执行复杂的编程任务。 据 Anthropic 工程师 Thariq Shihipar 介绍，语音模式目前已在 Windows 平台率先推出。为了确保服务的稳定性，该功能目前采取了“灰度发布”策略，首批约有5% 的用户可以抢先体验，并计划在未来几周内向全球用户全面开放。 在实际操作中，这一功能的交互逻辑非常简洁。开发者</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25905</guid>
-      <pubDate>Wed, 04 Mar 2026 01:17:00 +0000</pubDate>
+      <title>OpenAI选定律师事务所筹备IPO，估值达7300亿美元最早今年上市</title>
+      <link>https://news.aibase.com/zh/news/25947</link>
+      <description>OpenAI近日已选定Cooley与Wachtell Lipton Rosen &amp; Katz两家律师事务所，为其最早可能于今年进行的 首次 公开募股（IPO）展开筹备工作。 这一举措标志着这家ChatGPT开发商在迈向资本市场道路上迈出了实质性的 第一 步。按照资本市场惯例，任命律所通常先于聘请投行咨询，预示着其上市进程已正式进入合规与架构梳理阶段。 目前，OpenAI正处于新一轮关键融资期，市场对其估值预期已攀升至7300亿美元，而此前该公司已累计获得1100亿美元的投资。若这一估值水平在IPO中得以兑现，OpenAI将创造历史上规模 最大 的IPO记录之一，不仅改变全球科技巨头的市值版图，</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25947</guid>
+      <pubDate>Thu, 05 Mar 2026 03:03:00 +0000</pubDate>
     </item>
     <item>
-      <title>​硅谷“金主”豪掷千万阻击：纽约州议员因推进AI监管成为头号目标</title>
-      <link>https://news.aibase.com/zh/news/25906</link>
-      <description>随着 2026 年美国中期选举临近，一场关于AI监管权的博弈正由技术圈延烧至政坛。近日，纽约州第 12 选区国会议员候选人亚历克斯·博雷斯（Alex Bores）正面临来自硅谷亿万富翁们的集体“围剿”。由多家人工智能巨头资助的 超级 政治行动委员会（Super PAC）已筹集1. 25 亿美元，明确将博雷斯列为重点阻击目标。 博雷斯之所以成为硅谷的“眼中钉”，源于他在纽约州成功推动了《RAISE法案》的签署。该法律要求年收入超过 5 亿美元的头部AI实验室必须公开安全计划，并在发生灾难性安全事故时及时通报。尽管这项法案被视为温和的透明度监管，但依然激怒了部分奉行“技术加速主义”的硅谷大佬。 据</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25906</guid>
-      <pubDate>Wed, 04 Mar 2026 01:18:00 +0000</pubDate>
+      <title>拒绝无效报错！微软全线升级：Word 开启 AI 直改模式，OneDrive 520 字符“路径杀手”终被终结</title>
+      <link>https://news.aibase.com/zh/news/25948</link>
+      <description>微软宣布从 2026 年 3 月起，Word 将迎来深度 AI 集成。全新的 Copilot 助手不仅能提供写作建议，还正式开启了“直接编辑”模式。 聊天即编辑 ：用户只需在侧边聊天框输入指令（如“将第三段改写为更正式的商业语气”），Copilot 即可直接在文档正文中完成修改，无需用户手动复制粘贴。 透明可追溯 ：为了防止 AI “私自乱改”，微软承诺所有由 Copilot 执行的操作都将是透明、可审查且可一键还原的，用户拥有最终的审核权。 Teams 管理升级：会议内容“断舍离”更简单 针对企业用户对会议数据隐私和存储空间的担忧，Teams 将于 2026 年 4 月推出更灵活的内容管理功</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25948</guid>
+      <pubDate>Thu, 05 Mar 2026 03:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>雷军2026年两会提交五份建议:聚焦通用人形机器人与智能驾驶安全体系</title>
-      <link>https://news.aibase.com/zh/news/25907</link>
-      <description>2026年3月4日，全国人大代表、小米集团董事长兼CEO雷军正式提交五份建议，重点聚焦通用人形机器人、智能驾驶安全、科技公益及人才培养等前沿领域，旨在通过政策与技术标准协同，加速我国AI与智能制造产业的深度融合。 雷军在建议中指出，人形机器人作为继智能手机、新能源汽车后的颠覆性产品，正处于从实验室走向产业化的关键期。尽管我国在技术领域具备先发优势，但工艺稳定性差、硬件成本高及应用场景受限等瓶颈，使人形机器人仍处于“学徒工”阶段。为此，他建议通过加快突破工程化落地难题、扩大智能制造应用场景并建立安全标准体系，推动其向“正式工”转变，为经济发展注入新动能。 针对智能驾驶的规模化应用，雷军强调应共建</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25907</guid>
-      <pubDate>Wed, 04 Mar 2026 01:19:00 +0000</pubDate>
+      <title>​拒绝对听众“打马虎眼”：Apple Music 将推出 AI 作品透明度标签</title>
+      <link>https://news.aibase.com/zh/news/25949</link>
+      <description>随着 AI 生成音乐大规模涌入流媒体平台，苹果公司正准备采取行动。据报道，苹果公司于周三向行业合作伙伴发送了一份简报，宣布将在 Apple Music 中引入一套全新的元数据（Metadata）标签，旨在提高 AI 参与音乐创作的透明度。 这套新机制将允许唱片公司和分销商在上传内容时，明确标注 AI 在作品中的具体参与程度。与简单的“AI 生成”描述不同，Apple Music 的新标签支持更细粒度的区分。分销商可以根据实际情况，分别为 封面艺术、音轨、词曲创作以及音乐录影带 勾选 AI 使用标记。 此举精准回应了用户的核心关切。就在几天前，Reddit 社区还有用户发布了一份关于“AI 标签</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25949</guid>
+      <pubDate>Thu, 05 Mar 2026 03:16:00 +0000</pubDate>
     </item>
     <item>
-      <title>不仅是性价比之王！MiniMax 2.5 霸榜全球调用量：月收入破 1.5 亿美元，M3 旗舰版上半年发布</title>
-      <link>https://news.aibase.com/zh/news/25908</link>
-      <description>中国大模型正在全球开发者社区掀起一场名为“性价比”与“工程化”的狂暴飓风。 2026 年 3 月 3 日，根据全球 最大 的 API 聚合平台 OpenRouter 的 最新 数据，国产大模型展现了前所未有的统治力： MiniMax M2.5 的调用量位居全球 第一 ，而排在其后的分别是 Kimi K2.5 和 GLM-5 。这一“国产三强”霸榜前三的局面，标志着在 AI 应用落地和开发者偏好上，国内厂商已通过 极致 的效率优势完成了对海外竞品的超越。 7 天消耗 3.07 万亿 Token：MiniMax 的“暴力”增长 自 2 月 13 日发布以来，MiniMax M2.5 仅用一周时间，</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25908</guid>
-      <pubDate>Wed, 04 Mar 2026 01:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​预防AI导致的悲剧：OpenAI 为 ChatGPT 推出“可信联系人”功能</title>
-      <link>https://news.aibase.com/zh/news/25909</link>
-      <description>针对日益严重的AI使用安全性及心理健康争议，OpenAI于当地时间 3 月 3 日宣布，将在ChatGPT中引入一项名为“可信联系人”的新功能。该功能允许成年用户指定一位紧急联系人，当系统检测到用户在使用聊天机器人过程中出现心理健康危机时，将自动向其发送警报通知。 这一功能的推出背景颇为沉重。据不完全统计，OpenAI目前正面临至少 13 起独立的消费者安全诉讼，其中包括多起指控用户因过度使用ChatGPT而陷入精神幻觉甚至自杀的案例。最具代表性的是去年 8 月曝光的 16 岁少年自杀案，其家属认为聊天机器人的不当引导是悲剧的诱因之一。 为了应对此类风险，OpenAI成立了“福祉与人工智能委员</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25909</guid>
-      <pubDate>Wed, 04 Mar 2026 01:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>X公司发布新规:发布未标注的武装冲突AI视频将面临90天收益分成禁令</title>
-      <link>https://news.aibase.com/zh/news/25910</link>
-      <description>社交媒体平台X（原Twitter）于本周二宣布，将针对发布涉及武装冲突且未明确标注为AI生成的视频创作者采取严厉制裁措施。X公司产品负责人尼基塔·比尔(Nikita Bier)明确表示，任何利用人工智能技术制作并误导他人的行为，都将导致相关用户被取消创作者收益分成计划资格，首犯封禁期为90天。若在暂停期结束后再次违规，平台将对其施以 永久 禁止参与分成计划的惩罚。 比尔指出，在战争等关键时期，实地真实信息的准确性至关重要，而当前AI技术降低了误导性内容的制作门槛，平台必须对此进行干预。为了精准识别违规内容，X将结合生成式AI检测工具与众包事实核查系统“社区注释”（Community Notes</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25910</guid>
-      <pubDate>Wed, 04 Mar 2026 01:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中兴“王炸”！努比亚 AI 原生手机联手豆包登场：跨应用操作“一句话搞定”</title>
-      <link>https://news.aibase.com/zh/news/25911</link>
-      <description>在西班牙巴塞罗那举办的 MWC 2026 （世界移动通信大会）上， 中兴通讯 正式向全球展示了其“AI for All”战略的 最新 成果。其中，中兴与 字节跳动 深度定制的 AI 原生手机—— 努比亚 M153 ，成为了展会现场最具话题性的终端产品之一。 这款手机不仅是硬件的堆料，更是国产 AI 生态强强联手的典范。 1. 深度集成豆包：跨应用操作的“自动驾驶” 努比亚 M153 的核心灵魂在于其内置的 豆包手机助手 ： 跨应用指令执行 ：区别于传统只能简单对话的语音助手，该机实现了深度系统级打通。用户只需一句口令，系统即可自动在第三方 App 之间流转。例如：“帮我把相册里最近的三张照片发</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25911</guid>
-      <pubDate>Wed, 04 Mar 2026 01:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​Suno 领投人“祸从口出”：删帖恐难堵版权诉讼窟窿</title>
-      <link>https://news.aibase.com/zh/news/25912</link>
-      <description>备受瞩目的 AI 音乐生成平台 Suno 正在版权官司的泥潭中挣扎，而其领投人的一次“真情流露”，可能亲手送上了对方梦寐以求的呈堂证供。 Suno 的核心投资方、Menlo Ventures 合伙人 C.C. Gong 近期紧急删除了一条推文，原因是该内容直接打脸了 Suno 现有的法律防御策略。 在此前的版权诉讼中，Suno 的辩护逻辑主要基于“公平使用”，核心观点之一是：AI 生成的音乐只是某种“辅助工具”，并不会与受版权保护的原作构成直接竞争，也不会导致用户流失。然而，C.C. Gong 在 2 月 26 日发布的推文中却写道：“我已经将大部分听歌时间转移到了 Suno 上，因为我厌倦了</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25912</guid>
-      <pubDate>Wed, 04 Mar 2026 02:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>硅光子技术迎来爆发期:英伟达追投，Ayar Labs 获5亿美元 E 轮融资</title>
-      <link>https://news.aibase.com/zh/news/25913</link>
-      <description>硅光子初创公司 Ayar Labs 今日宣布成功筹集 5亿美元 的 E 轮融资，旨在加速其共封装光学器件（CPO）技术的量产。本轮融资由 Neuberger Berman 领投，英伟达(NVIDIA)、联发科(MediaTek)等行业巨头参投。值得注意的是，就在此消息公布前一天，英伟达刚宣布向光子网络供应商 Coherent 和 Lumentum 注资40亿美元，显示出其在光子互连领域的激进布局。 核心痛点:突破铜线的“物理极限” 随着人工智能模型规模的激增，传统的铜线互连已成为算力扩展的瓶颈。当传输速率超过 800Gbps 时，铜缆的传输距离仅剩几米，且面临高功耗和误码率挑战。 Ayar L</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25913</guid>
-      <pubDate>Wed, 04 Mar 2026 02:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​Chrome 曝高危漏洞：恶意扩展可劫持 Gemini 面板，跨权调用摄像头与文件</title>
-      <link>https://news.aibase.com/zh/news/25914</link>
-      <description>随着 AI 功能深度集成至浏览器底层，全新的安全威胁也随之浮现。据安全专家近期在谷歌 Chrome 浏览器中发现了一个编号为 CVE-2026-0628 的严重漏洞。该漏洞允许恶意扩展程序劫持内置的 Gemini Live AI 面板，从而获取原本被禁止的系统级权限。 该漏洞由 Palo Alto Networks 旗下的 Unit 42 研究人员发现。调查显示，恶意插件可以操纵浏览器处理侧边栏请求的方式，绕过 Chrome 的安全防护机制。一旦成功劫持 Gemini 面板，恶意扩展就能“继承”AI 助手拥有的 高级 特权，包括 开启摄像头或麦克风、读取本地敏感文件、抓取屏幕截图 ，甚至在看似</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25914</guid>
-      <pubDate>Wed, 04 Mar 2026 02:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenClaw能“边用边训”了：智能体强化学习训练框架AReaL v1.0稳定版发布</title>
-      <link>https://news.aibase.com/zh/news/25915</link>
-      <description>3月4 日，蚂蚁集团联合清华大学发布开源强化学习训练框架 AReaL v1.0稳定版。该版本主打“Agent 一键接入 RL 训练”:不用改代码，兼容各类 Agent 框架，让智能体强化学习训练开箱即用。 2026年开年以来，Agent 持续升温，以 LangChain、Claude Code、OpenClaw 为代表的智能体框架繁荣发展，但也暴露出两大瓶颈。一是接入训练成本高:现有智能体框架接口各异，每接入一个往往需要编写整套适配代码。二是 Agent 缺乏持续进化的能力:多数 Agent 的能力取决于底层模型在训练阶段习得的固定权重，部署后无法再针对特定场景持续优化，能力上限在交付时便已确</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25915</guid>
-      <pubDate>Wed, 04 Mar 2026 02:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>80 亿砸出马年春节“AI 巅峰”：豆包除夕互动 19 亿次，千问稳守 4000 万日活，谁在裸泳？</title>
-      <link>https://news.aibase.com/zh/news/25916</link>
-      <description>流量狂欢:80亿红包背后的“入口之战” 2026年马年春节，国内AI领域上演了史上规模 最大 的“红包大战”。阿里、腾讯、字节跳动、百度四大巨头累计投入超过80亿元人民币，规模远超十年前的移动支付大战。这场战役的核心不再是“绑卡”，而是抢占大模型时代的“ 超级 入口”地位。 QuestMobile数据显示，截至2025年12月，国内移动端AI应用、手机厂商AI助手、PC端AI应用的月活跃用户（MAU）已分别跨越7.22亿、5.59亿和2.05亿的大关。春节期间，巨头们通过春晚冠名、社交裂变和消费免单，将这场技术竞赛推向了全民科普的顶峰。 战况复盘:豆包登顶、千问沉淀、元宝回落 春节期间，各大A</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25916</guid>
-      <pubDate>Wed, 04 Mar 2026 02:41:00 +0000</pubDate>
+      <title>AI互动剧杀疯了！番茄、拼多多密测“树状叙事”：让用户决定主角生死，互动影游正重塑电商与网文</title>
+      <link>https://news.aibase.com/zh/news/25950</link>
+      <description>巨头入局：网文与电商的“互动实验” 2026 年 3 月，字节跳动旗下的番茄小说与电商巨头拼多多不约而同地开启了 AI 互动剧情的灰度测试。这一动作标志着互联网内容的生产逻辑正在从传统的线性叙事向“可计算的树状叙事”转型。 在番茄小说的测试界面中，用户不再是单纯的读者，而是成为了故事发展的核心变量。系统会根据剧情关键点弹出交互选项，用户的每一次点击都将直接决定角色的命运，甚至可能导致主角由于错误选择而“意外死亡”，随后触发剧情回溯功能。与此同时，拼多多也在其 App 内上线了《重生归来》等 AI 互动剧，将娱乐内容与电商场景深度绑定，通过高频互动显著提升了用户的留存时长。 爆款验证：从《马上来</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/25950</guid>
+      <pubDate>Thu, 05 Mar 2026 03:19:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
