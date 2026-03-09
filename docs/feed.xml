@@ -8,118 +8,174 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 07 Mar 2026 03:21:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 03:38:14 +0000</lastBuildDate>
     <item>
-      <title>​隐私危机：Meta AI 眼镜被曝将用户私密视频发送至肯尼亚进行人工审核</title>
-      <link>https://news.aibase.com/zh/news/25991</link>
-      <description>据瑞典媒体 最新 调查披露，Meta 公司的雷朋（Ray-Ban）AI 智能眼镜存在严重的隐私泄露风险。报道称，该设备拍摄的大量敏感视频正被发送给位于肯尼亚内罗毕的人工审核员，用于人工智能模型的标注与训练。 调查显示，这些被发送至海外承包商手中的录像包含了极其私密的瞬间，包括用户上厕所、裸体以及亲密行为等场景。尽管 Meta 声称该眼镜旨在保护隐私，并会对画面中的人脸进行自动模糊处理，但肯尼亚的审核员在采访中透露，由于技术漏洞，模糊处理经常失效，导致用户面部依然清晰可见。 此事件已引发强烈的法律反弹。目前，Meta 已面临至少一起集体诉讼，指控其违反了虚假广告和隐私法。诉讼指出，Meta 向消</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25991</guid>
-      <pubDate>Fri, 06 Mar 2026 03:24:00 +0000</pubDate>
+      <title>千问AI眼镜全渠道暂时售罄，明日10点再次开售</title>
+      <link>https://news.aibase.com/zh/news/26008</link>
+      <description>3月8日晚，当日现货开售的千问AI眼镜宣布，已全渠道暂时售罄，9日上午10点将再次开售。 此次发售的是千问AI眼镜G1系列，配备双旗舰芯片双系统、内置64GB存储空间。此次发售覆盖线上线下全渠道，官方标价2899元，叠加国补和优惠后到手价低至1997元起。 开售后，千问AI眼镜就受到市场热烈欢迎，3小时即登顶全平台智能眼镜热销榜，部分渠道提前售罄。 据悉明天上午10点，将再次开启全渠道售卖，这一次用户可在一周左右收到眼镜。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26008</guid>
+      <pubDate>Sun, 08 Mar 2026 16:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>携程率先下线“AI生意助手” 推动酒店定价回归理性</title>
-      <link>https://news.aibase.com/zh/news/25992</link>
-      <description>携程近日宣布，自2026年3月10日起，其商家管理后台Ebooking将正式下线“AI生意助手”（调价助手）功能，成为在线旅游(OTA)行业首个主动关停此类自动调价工具的平台。该决策源于携程对当前酒旅行业高质量发展要求的深度审视，旨在通过技术“减法”减少酒店间非理性的价格内卷，为商户释放更大的自主定价空间与盈利潜能，进而激发其提升服务质量的内生动力。 在在线酒店预订领域，自动调价工具曾被视为提升定价效率与订单转化的核心组件。然而，随着行业进入存量竞争与品质升级阶段，过度依赖算法导致的自动化削价竞争已在一定程度上损害了行业生态的健康。 携程表示，在收集各方优化建议后，公司认为该类工具已不再适应当</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25992</guid>
-      <pubDate>Fri, 06 Mar 2026 03:39:00 +0000</pubDate>
+      <title>因不满OpenAI与五角大楼达成军事协议，硬件负责人Kalinowski宣布离职</title>
+      <link>https://news.aibase.com/zh/news/26009</link>
+      <description>2026年3月8日，OpenAI机器人与消费硬件负责人凯特琳·卡利诺夫斯基（Caitlin Kalinowski）正式宣布辞职，其离职导火索指向OpenAI近期与美国国防部(现更名为“战争部”)达成的争议性协议。作为曾领导Meta增强现实眼镜开发的核心专家，卡利诺夫斯基自2024年11月加入OpenAI后，在关键的硬件战略期选择离去，引发行业高度关注。 卡利诺夫斯基通过社交媒体表示，这一决定系“出于原则而非个人原因”。她警告称，该协议在缺乏司法监督的情况下监控公民，以及赋予人工智能非人类授权的致命自主权，这些红线未经过充分探讨。她直指OpenAI在保障措施尚未明确界定的情况下仓促发布公告，本质</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26009</guid>
+      <pubDate>Mon, 09 Mar 2026 00:56:00 +0000</pubDate>
     </item>
     <item>
-      <title>用灵光“手搓”副业，2026或将迎来“超级个体”爆发</title>
-      <link>https://news.aibase.com/zh/news/25993</link>
-      <description>这个春节假期，“手搓经济”火了。 AIbase发现，有多位网友在社交平台分享并出售他们通过灵光App手搓的闪应用，单个小应用成交量从百单到千单。这些闪应用生成门槛非常低，网友通过自然语言和灵光App对话，0成本创作，不会写代码也能搓出一个可交互的小应用。因其制作便捷，不受赛道限制，被当下年轻人发展成了一门“生意”。譬如，有用户手搓了主题为“36个10天”的个人成长目标打卡小工具用来督促自己成长，随后将其在个人店铺上架，不仅累计获得了近千笔订单，还得到了大量好评，购买者评价“操作界面简单、没有乱七八糟广告”。记者不完全统计，在某社交平台，用灵光手搓出来的个人成长主题的小应用已售出数千单。 （灵光</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25993</guid>
-      <pubDate>Fri, 06 Mar 2026 03:42:00 +0000</pubDate>
+      <title>马化腾直言“没想到这么火”：OpenClaw引发腾讯大厦线下排队盛况</title>
+      <link>https://news.aibase.com/zh/news/26010</link>
+      <description>近日，腾讯宣布通过腾讯云正式推出AI代理 OpenClaw （原名Clawdbot/Moltbot）的免费安装服务，随即引发市场剧烈反响。该消息发布后仅数小时，已有数百只OpenClaw被部署至腾讯云服务器。腾讯公司创始人 马化腾 对此公开表示，产品的火爆程度超出预期。 据悉，OpenClaw是一款支持在个人电脑及云端部署的AI代理工具，其显著的“龙虾”图标设计已成为行业焦点。针对用户在腾讯大厦排队咨询的盛况，包括腾讯云、 阿里云 、京东云、火山引擎及百度智能云在内的国内主流云服务商均已跟进，相继上线了OpenClaw云端极简部署及全套配套服务，实现了用户一键式安装体验。 此次OpenClaw</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26010</guid>
+      <pubDate>Mon, 09 Mar 2026 00:59:00 +0000</pubDate>
     </item>
     <item>
-      <title>GPT-5.4 震撼突袭：原生操控电脑黑科技首秀！OSWorld 胜率超人类，联手 OpenClaw 打造 2026 最强个人 AI 员工</title>
-      <link>https://news.aibase.com/zh/news/25994</link>
-      <description>降维打击：GPT-5.4 开启“原生电脑操控”时代 2026 年 3 月，OpenAI 毫无预兆地发布了 GPT-5.4 ，这一举动彻底重塑了 AI Agent（智能体）的竞争格局。作为 OpenAI 首个具备“原生电脑使用能力”的通用模型，GPT-5.4 不再依赖外部适配层，而是直接通过屏幕截图识别、模拟鼠标点击和键盘输入，像人类一样在桌面环境中操作软件。 在衡量真实桌面导航能力的 OSWorld-Verified 基准测试中，GPT-5.4 的成功率飙升至 75.0% 。作为对比，人类的平均基准线仅为 72.4%，而前代 GPT-5.2 仅为 47.3%。这意味着，AI 操控电脑的熟练度历</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25994</guid>
-      <pubDate>Fri, 06 Mar 2026 05:52:00 +0000</pubDate>
+      <title>比韦布望远镜更强？清华“星衍”大模型让宇宙“黎明”看清了！</title>
+      <link>https://news.aibase.com/zh/news/26011</link>
+      <description>国产天文大模型突破观测深度极限 在深邃无垠的宇宙面前，人类的视力始终存在一个“ 天花板 ”。即便拥有詹姆斯·韦布空间望远镜这样的国之重器，在面对宇宙极早期的暗弱信号时，仍常被背景噪声遮挡。近日，清华大学的一项研究打破了这一僵局。由清华大学自动化系戴琼海院士团队与天文系蔡峥副教授团队联合打造的AI天文观测增强模型—— “星衍” ，成功攻克了极低信噪比下的高保真光子重构难题，让天文观测深度实现了跨越式突破。 这套国产“黑科技”的实力究竟有多硬核？实验数据显示，“星衍”模型将韦布空间望远镜的探测深度直接提升了 1 个星等，探测准确度更是跃升了1. 6 个星等。在天文学中，这看似微小的数值背后，意味着</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26011</guid>
+      <pubDate>Mon, 09 Mar 2026 01:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>​博通发布宏大业绩预告：2027 年 AI 芯片收入将突破 1000 亿美元</title>
-      <link>https://news.aibase.com/zh/news/25995</link>
-      <description>博通（Broadcom）首席执行官陈福阳（Hock Tan）在周三的财报电话会议上发布了激进的业绩预测。他预计，到 2027 年，公司的 AI 芯片收入将“大幅超过 1000 亿美元”。这一乐观预期直接点燃了资本市场情绪，推动博通股价在盘后交易中上涨超过 5%。 陈福阳表示，来自大客户的定制芯片（ASIC）需求正在强劲回升，博通已经确保了实现这一目标所需的供应链支持。财报数据显示，博通 第一 季度 AI 业务表现亮眼，收入同比翻倍至 84 亿美元，带动公司总销售额增长 29% 至 193 亿美元。公司预计，本季度 AI 半导体收入将进一步攀升至 102 亿美元。 在解读增长动力时，陈福阳指出定</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25995</guid>
-      <pubDate>Fri, 06 Mar 2026 05:58:00 +0000</pubDate>
+      <title>​全球 2.2 亿人的“赛博初恋”：学者称 AI 伴侣正成为孤独者的情感避风港</title>
+      <link>https://news.aibase.com/zh/news/26012</link>
+      <description>随着人工智能技术的深层渗透，人类的亲密关系正迎来一场前所未有的“范式转移”。英国埃塞克斯大学副教授詹姆斯·穆尔顿在其新著《爱情机器：人工智能如何改变我们的人际关系》中指出，AI 不仅仅是聊天工具，更成为了重塑人类情感联结的核心力量。 数据揭示了一个惊人的现状：全球主打陪伴与社交功能的 AI 伴侣应用累计下载量已突破 2.2 亿次 ，催生了一个估值数十亿美元的庞大市场。穆尔顿认为，在传统社交关系日益脆弱的今天，AI 伴侣通过提供“永远在线、永远肯定”的情感反馈，模拟出了一种极具真实感的亲密关系。 针对这一趋势，学术界与监管层给出了不同的反馈： 积极意义 ：对于长期深陷孤独、社交恐惧或心灵受创的群</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26012</guid>
+      <pubDate>Mon, 09 Mar 2026 01:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>陈天桥九年首度露面！身家百亿重启“传奇”：砸 20 亿美元赌“发现式 AI”，历史将以 ChatGPT 划线</title>
-      <link>https://news.aibase.com/zh/news/25996</link>
-      <description>昔日首富回归：从“游戏 之王 ”到“意识黑客” 2026 年 3 月，盛大集团创始人陈天桥在隐退九年后， 首次 接受国际媒体采访。这位曾在 31 岁就征服中国游戏界、问鼎中国首富的传奇人物，如今在加州的家中重塑自我。他现在的目标不再是虚拟的《热血传奇》，而是更难以捉摸的 终极 命题：破解人类意识的源代码。 陈天桥表示，他正致力于打造一种“比人类更聪明”的 AI，并致力于追求通用人工智能（AGI）的实现。他幽默地预测，未来历史的分界线将不再是公元前后，而是“ChatGPT 之前”与“ChatGPT 之后”。 核心布局：什么是“发现式 AI”？ 陈天桥利用早年积累的财富，承诺在 AI 领域总计投入</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25996</guid>
-      <pubDate>Fri, 06 Mar 2026 07:04:00 +0000</pubDate>
+      <title>周志华院士犀利发声：大模型不是万能药，别让“盲目跟风”毁了人工智能！</title>
+      <link>https://news.aibase.com/zh/news/26013</link>
+      <description>周志华建议：纠正“大模型解决一切”误区，建立交叉学科特区 在人工智能热潮席卷全球的当下， 大模型 似乎成了科研圈的“万灵金丹”。然而， 中国科学院院士周志华 近日的一番话，给这股躁动投下了一剂清醒剂。他明确指出，当前科研领域存在盲目跟风“大模型解决一切”的严重误区，必须进一步优化人工智能的科研统筹布局。 周志华院士敏锐地观察到，不少所谓的“AI赋能科研”其实只是在“玩噱头”。很多研究仅仅停留在对工具的简单套用上，甚至有人幻想靠训练一个通用的“科学大模型”来包打天下，应对所有的科学问题。这种“力大砖飞”的思维模式，导致资源过度向算力消耗型的应用层倾斜，反而忽视了最核心的算法基础研究。 除了研究方</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26013</guid>
+      <pubDate>Mon, 09 Mar 2026 01:08:00 +0000</pubDate>
     </item>
     <item>
-      <title>小米 AI Agent“龙虾”Xiaomi miclaw低调现身：承诺不使用用户数据训练</title>
-      <link>https://news.aibase.com/zh/news/25997</link>
-      <description>小米技术官方今日正式宣布，其基于小米 MiMo 大模型构建的全新 AI 交互探索产品 Xiaomi miclaw （内部代号“龙虾”）开启小范围封闭测试。 该产品定位为移动端 AI Agent（智能体），旨在通过系统底层能力、个人上下文理解、生态互联及自进化四个维度，重构移动端的人机交互体验。目前，首批测试仅面向科技发烧友与极客用户，优先支持小米17系列机型，采取邀请制入场，暂不开展大规模公开招募。 针对外界关注的隐私安全与数据合规问题，小米明确回应称，该产品在研发全生命周期内严格遵循数据最小化原则，承诺“绝不使用用户数据训练 AI 系统”。 据官方披露， Xiaomi miclaw 的所有模</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25997</guid>
-      <pubDate>Fri, 06 Mar 2026 07:07:00 +0000</pubDate>
+      <title>OpenAI 推出开源开发者支持计划:提供 ChatGPT Pro 与 GPT-5.4驱动的 Codex Security 权限</title>
+      <link>https://news.aibase.com/zh/news/26014</link>
+      <description>OpenAI 近日宣布启动一项全新的开源开发者支持计划，旨在通过提供前沿 AI 工具矩阵，深度赋能公共软件项目的核心维护者。根据该计划，符合条件的申请者将获得为期六个月的 ChatGPT Pro 免费使用权，其权益范畴涵盖了 Codex 模型、高额 API 额度以及 首次 亮相的增强型安全工具 Codex Security。 作为本次计划的核心技术亮点，Codex Security 被定位为一款专注于代码安全审查的先进 AI 工具。OpenAI 透露，该工具基于性能更为强劲的 GPT-5.4模型构建，具备 极高 的代码缺陷识别与漏洞预警能力。由于技术敏感性及算力成本，Codex Securit</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26014</guid>
+      <pubDate>Mon, 09 Mar 2026 01:10:00 +0000</pubDate>
     </item>
     <item>
-      <title>GitHub Copilot全面接入GPT-5.4:数小时内完成升级，支持多IDE代理模式</title>
-      <link>https://news.aibase.com/zh/news/25998</link>
-      <description>3月6日，GitHub宣布旗下代码辅助工具GitHub Copilot已在OpenAI发布GPT-5.4模型后的数小时内完成接入，成为首批集成该旗舰模型的开发者工具。 此次升级标志着AI编程助手进入“代理型”工作流的新阶段。在GitHub的内部早期测试中，GPT-5.4在处理多步骤任务的成功率上表现出显著增长，能够更精准地执行复杂的逻辑推理与跨工具调用。 技术层面，GPT-5.4继承并强化了Codex系列的专业能力，并将其深度融合于通用大模型中，使其在代码生成、深度网页检索及计算机原生操作（Computer Use）方面展现出更高效率。目前，该模型已全面覆盖Copilot Pro、Busine</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25998</guid>
-      <pubDate>Fri, 06 Mar 2026 07:15:00 +0000</pubDate>
+      <title>Roblox 推出 AI 实时改写功能，让聊天违规不“断片”</title>
+      <link>https://news.aibase.com/zh/news/26015</link>
+      <description>在线游戏巨头 Roblox 日前宣布上线一项创新的 AI 聊天净化功能。以往玩家发送违规内容时，系统会简单粗暴地用“#”号进行屏蔽，而新功能则利用人工智能将违规表述实时改写为礼貌、合规的语言，同时尽力保留玩家原本的表达意图。 Roblox 官方表示，大段的屏蔽符号不仅破坏对话节奏，还常令玩家感到困惑。通过这一新机制，系统不再仅仅是“消音”，而是进行“润色”。例如，原本会被完全屏蔽的粗鲁话语“Hurry TF up!”，现在会被自动优化为更中性的“Hurry up!”。当消息被 AI 改写时，聊天窗口会向所有参与者发出提示，以确保交流氛围的透明与友好。 除了提升沟通连贯性，Roblox 还大幅升</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26015</guid>
+      <pubDate>Mon, 09 Mar 2026 01:10:00 +0000</pubDate>
     </item>
     <item>
-      <title>​极速迭代：GitHub Copilot 仅用数小时即完成 GPT-5.4 接入</title>
-      <link>https://news.aibase.com/zh/news/25999</link>
-      <description>微软旗下代码辅助工具 GitHub Copilot 再次展现了惊人的响应速度。在 OpenAI 正式发布其 最新 旗舰大模型 GPT-5.4 后仅数小时，GitHub 便宣布已完成接入，为全球开发者提供了基于这一 顶尖 模型的智能编程支持。 GitHub 官方表示，内部早期测试数据显示，GPT-5.4 在“代理型（Agentic）”软件开发场景中表现出色，任务成功率较前代有显著提升。该模型不仅继承了 Codex 系列在代码生成方面的专业性，更在复杂的多步骤逻辑推理上展现了更强的稳定性。 GPT-5.4 在 Copilot 中的核心能力提升包括： 多步骤任务执行 ：在处理需要调用多个工具或复杂工</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/25999</guid>
-      <pubDate>Fri, 06 Mar 2026 07:44:00 +0000</pubDate>
+      <title>分手预警？英伟达砍掉千亿投资计划，OpenAI正失去它的“最强金主”</title>
+      <link>https://news.aibase.com/zh/news/26016</link>
+      <description>在人工智能的淘金热潮中，英伟达与 OpenAI 曾被视为“ 最强 利益共同体”。然而，这对曾经如胶似漆的盟友似乎正陷入“蜜月期”后的冷静。近日，英伟达首席执行官 黄仁勋 在公开场合明确表示，公司对 OpenAI 的 300 亿美元投资极有可能是“最后一笔”。 这一表态无异于在硅谷投下了一枚重磅炸弹。要知道，去年 9 月双方曾高调抛出高达 1000 亿美元的投资愿景。当时的市场逻辑非常直观：英伟达出钱买 OpenAI 的股权，OpenAI 则拿着这笔钱反手买回等额甚至更多的英伟达芯片。这种“左手倒右手”的循环本应构建一个坚不可摧的商业闭环，但如今黄仁勋直言千亿计划“不太可能实现”，显示出这家芯片</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26016</guid>
+      <pubDate>Mon, 09 Mar 2026 01:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>​AI 将胜任 80% 岗位！硅谷大佬预言：未来人类无需为生存而工作</title>
-      <link>https://news.aibase.com/zh/news/26001</link>
-      <description>硅谷知名亿万富翁、OpenAI 首批投资人维诺德·科斯拉（Vinod Khosla）近日在接受采访时发表了一系列震撼预言。他认为，人工智能技术的爆发将彻底改写人类社会的运作逻辑，到 2030 年左右，全球 80% 的工作岗位将能够由 AI 独立完成。 科斯拉指出，随着 AI 的大规模替代，劳动力成本将趋近于零，从而带动商品和服务价格的大幅下降。他描绘了一个“通货紧缩型经济”的未来：到 2040 年，1 万至 3 万美元的购买力可能就足以超过现在的 10 万美元。在这种背景下，现在的 5 岁儿童在成年后可能根本不需要为了生存而寻找传统意义上的工作。 科斯拉的核心观点包括： 机器人大军降临 ：未来</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26001</guid>
-      <pubDate>Fri, 06 Mar 2026 07:48:00 +0000</pubDate>
+      <title>​安全领域的“绩效核定”：Anthropic Claude 两周内挖出 Firefox 22 个漏洞</title>
+      <link>https://news.aibase.com/zh/news/26017</link>
+      <description>程序员们或许正迎来一份“不请自来”的绩效考核。近日，Anthropic 宣布与 Mozilla 达成合作，利用其 AI 模型 Claude Opus 4.6 对 Firefox 浏览器进行安全审计。令人吃惊的是，在短短两周内，Claude 就发现了 22 个安全漏洞 。 在这 22 个漏洞中，有 14 个被归类为高危漏洞 。据统计，这一数字竟占到了 Mozilla 在 2025 年全年修复的高危漏洞总数的五分之一。这一高效表现不仅展现了 AI 在处理大规模复杂代码库时的卓越能力，也让不少 资深 安全专家感叹：AI 正在彻底改变漏洞挖掘的经济格局。 与常见的 AI 幻觉不同，这 22 个漏洞均经</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26017</guid>
+      <pubDate>Mon, 09 Mar 2026 01:26:00 +0000</pubDate>
     </item>
     <item>
-      <title>听出来的“真实感”？Apple Music 新增 AI 标签：封面、作词、编曲全透明，是辅助还是生成一目了然</title>
-      <link>https://news.aibase.com/zh/news/26002</link>
-      <description>行业新规：Apple Music 引入 AI 元数据标签系统 2026 年 3 月，据 Music Business Worldwide 报道，苹果公司正式向其行业合作伙伴及唱片公司发送通知，宣布将推出一套全新的元数据系统。该系统的核心目的在于提高音乐作品中 AI 使用方式和时机的透明度，让用户能够清晰分辨哪些创作元素出自人类之手，哪些由算法驱动。 所谓的“元数据”，通常是指歌曲的标题、专辑名、流派及艺术家姓名等基础信息。而在这次升级后，Apple Music 为发行商增加了专属的 AI 标注字段，用于对音乐作品的各个维度进行颗粒化说明。 颗粒化透明度：封面、音轨、作词精准标注 不同于一刀切的</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26002</guid>
-      <pubDate>Fri, 06 Mar 2026 08:00:00 +0000</pubDate>
+      <title>Anthropic 被列为风险实体，OpenAI 迅速“接盘”引发争议</title>
+      <link>https://news.aibase.com/zh/news/26018</link>
+      <description>随着美国国防部（DOD）与 AI 初创公司之间的关系骤然紧张，硅谷正面临一场关于“防御性业务”的认知冲击。在过去的一周内，Anthropic 与五角大楼关于 Claude 技术的谈判宣告破裂，随后该公司被正式列入“供应链风险名单”。 面对这一变局，Anthropic 明确表示将在法庭上挑战这一认定。与此同时，竞争对手 OpenAI 迅速填补了真空，宣布与国防部达成合作协议。这一举动在用户群中引发了剧烈反弹，数据显示，在协议官宣后， ChatGPT 的卸载量激增了 295% ，而大量流失的用户转头将 Anthropic 的 Claude 推向了应用商店排行榜首位。 本次风波的核心焦点包括： 合同</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26018</guid>
+      <pubDate>Mon, 09 Mar 2026 01:28:00 +0000</pubDate>
     </item>
     <item>
-      <title>​黄仁勋盛赞 OpenClaw：普及速度创纪录，三周走完 Linux 三十年路</title>
-      <link>https://news.aibase.com/zh/news/26003</link>
-      <description>英伟达（NVIDIA）首席执行官黄仁勋在近日的摩根士丹利会议上发表重磅演讲，指出智能体 AI(Agentic AI)正迎来历史性拐点，并对开源项目 OpenClaw 给予了 极高 评价。 黄仁勋将 OpenClaw 称为“当代最重要的软件发布”。他对比指出，Linux 操作系统达到如今的普及程度花费了约30年时间，而 OpenClaw 仅用短短3周就实现了全面超越，成为史上下载量 最大 的开源软件。 在演讲中，黄仁勋提出了 AI 产业的“五层蛋糕”理论: 能源层、 芯片与计算基础设施层、 云数据中心层、 AI 模型层、 应用层 他强调，能够为超大规模云厂商带来 最大 回报的正是处于顶端的“应用</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26003</guid>
-      <pubDate>Fri, 06 Mar 2026 08:29:00 +0000</pubDate>
+      <title>​数据中心建设热潮下：美前拘留中心运营商转型“AI 工人营地”</title>
+      <link>https://news.aibase.com/zh/news/26019</link>
+      <description>随着人工智能数据中心在全美范围内的扩建，安置数以千计建设工人的需求正催生出一个利润丰厚的新市场。令人关注的是，曾在移民管理领域饱受争议的私营运营商正在这一领域发掘“商机”。 为了在偏远地区快速部署基础设施，开发商日益依赖被称为“工人营地（Man Camps）”的临时社区。这种模式最初起源于偏远油田的工人住宿。例如，在德克萨斯州狄更斯县，一个原本用于比特币挖矿的设施正被改造为 1.6 吉瓦的数据中心，其建设工人便居住在配备了健身房、洗衣房甚至自助牛排餐厅的模块化宿舍单元中。 Target Hospitality 公司目前已签署了价值 1.32 亿美元的合同，负责建设和运营此类营地。该公司首席商务</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26019</guid>
+      <pubDate>Mon, 09 Mar 2026 01:38:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI 音乐“马斯克”时刻:Suno v5与 Lyria3联手炸场!全链路智能生产开启，打工人的创意魂稳了?</title>
-      <link>https://news.aibase.com/zh/news/26004</link>
-      <description>三巨头会师:2026年2月的音乐基点 2026年2月，AI 音乐生成领域迎来历史性拐点。三大巨头 Suno、Udio 与 Google 几乎在同一时间发布了划时代的产品迭代，彻底将 AI 音乐从“玩具”推向了“工业级生产工具”的高度。 Suno v5:情绪化歌唱的 巅峰 。Suno v5实现了对真人歌唱情感的超高精度模拟，告别了电子合成的生冷感。最令专业音乐人惊喜的是，v5允许多层人声叠加（Stem-based Vocals），让复杂的和声编写成为可能。 Udio2.0:录音室级音质标准 。Udio2.0专注于音频频响与空间感的重塑，其生成的曲目在清晰度与动态范围上已能直接匹配专业流媒体发行标</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26004</guid>
-      <pubDate>Fri, 06 Mar 2026 08:49:00 +0000</pubDate>
+      <title>只需2%参数就能“干翻”GPT-4o？阿里通义千问Qwen 3. 5 小模型杀疯了！</title>
+      <link>https://news.aibase.com/zh/news/26020</link>
+      <description>40 亿参数实现“以小博大”，国产大模型开启本地部署新时代 在AI圈，一直流传着“参数量决定智商”的暴力美学。然而，阿里最近发布的 通义千问Qwen 3.5 系列小模型，却用实力演绎了一场教科书级的“以弱胜强”。其中，仅有 40 亿参数的 Qwen 3.5-4B 在实测中硬刚参数量过千亿的 GPT-4o，不仅没落下风，甚至还小赢了一把。 这场“跨级挑战”由第三方机构 N8 Programs 发起。测试者从 WildChat 数据集中随机抽取了 1000 个真实问答，让 Qwen 3.5-4B 与 GPT-4o 同台竞技，并请出目前公认 最强 的 Opus 4.6 担任裁判。结果令人大跌眼镜：在</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26020</guid>
+      <pubDate>Mon, 09 Mar 2026 01:46:00 +0000</pubDate>
     </item>
     <item>
-      <title>“养龙虾”热潮席卷开发者社区 腾讯大厦门口排队安装OpenClaw</title>
-      <link>https://news.aibase.com/zh/news/26005</link>
-      <description>近日，由奥地利开发者研制的开源AI代理工具OpenClaw（原名Clawdbot）在 全网 引发热议，并吸引腾讯云、阿里云等多家主流云厂商迅速跟进。 该工具因其“张开钳子”的图标设计被开发者昵称为“龙虾”，其核心价值在于填补了市场中缺乏“通过消息指令直接处理事务”的AI工具空白。OpenClaw支持Qwen、Llama等主流大模型调用，用户可实现代码生成、数据分析及复杂的流程自动化。 今日，腾讯云于深圳腾讯大厦北广场设立线下安装站，由20位技术工程师现场为开发者提供从部署、模型配置到IM渠道打通的一站式服务，反映出市场对个人AI助手部署的迫切需求。除腾讯云外，阿里云、京东云、火山引擎及百度智能</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26005</guid>
-      <pubDate>Fri, 06 Mar 2026 09:13:00 +0000</pubDate>
+      <title>ChatGPT“成人模式”又跳票！奥特曼：先把智商搞上去，搞颜色再等等</title>
+      <link>https://news.aibase.com/zh/news/26021</link>
+      <description>OpenAI再度推迟争议功能：资源优先流向个性化与主动交互 在AI圈，“搞颜色”是否应该成为生产力的一部分，一直是备受争议的话题。曾许诺要让ChatGPT更懂成年人的 OpenAI ，最近又给满心期待的用户泼了一盆冷水。据 IT之家 报道， OpenAI 官方近日确认，原定于 2026 年 第一 季度上线的“成人模式”将再次推迟。 这已经不是 萨姆·奥尔特曼 第一 次“食言”了。早在 2025 年底，奥尔特曼就曾提出“把成年人当成年人看待”的原则，打算放宽对情色内容的限制，并计划在 12 月上线。然而，这一计划在内部遭遇了紧急刹车，资源被迅速调配到了更核心的体验升级上。如今，2026 年 第一</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26021</guid>
+      <pubDate>Mon, 09 Mar 2026 01:51:00 +0000</pubDate>
     </item>
     <item>
-      <title>千问宣布持续投入“AI办事”:春节期间已完成2亿笔真实订单</title>
-      <link>https://news.aibase.com/zh/news/26006</link>
-      <description>2026年3月6日，千问宣布将持续投入“AI办事”领域，旨在通过大模型技术让用户仅凭“一句话”即可下单各类生活服务。这一动作标志着AI交互正从信息问答向实操闭环演进，用户在享受便捷服务的同时，还将获得相应的立减优惠。 进入2026年，“办事能力”（Action Capability）已成为全球AI竞争的新高地。谷歌与OpenAI等巨头相继加大对Agent(智能体)执行能力的研发，而国内AI应用则更早地步入了真实消费场景。关键数据显示，阿里千问在今年春节期间已累计完成2亿笔真实订单，验证了AI在复杂生活场景中处理高频、实操任务的可靠性。千问内部人士指出，AI办事不仅能通过极简交互降低大众使用门槛</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26006</guid>
-      <pubDate>Fri, 06 Mar 2026 09:38:00 +0000</pubDate>
+      <title>两周揪出 100 个漏洞！Claude AI 成了 Firefox 的“最强外挂”</title>
+      <link>https://news.aibase.com/zh/news/26022</link>
+      <description>近日，浏览器界发生了一场足以载入网络安全史册的“闪电战”。 Mozilla 基金会 对外宣布，通过与 AI 巨头 Anthropic 深度合作，在短短 14 天内，利用 Claude AI 辅助挖掘出 Firefox 浏览器中超过 100 个安全与稳定性漏洞。其中，包含 14 个足以威胁用户安全的高危漏洞，目前已全数修复。 在这场技术秀中，Anthropic 的 Frontier Red Team 扮演了关键角色。他们带着一套全新的 AI 辅助“挖洞”方法找到 Mozilla ，并将目标锁定在浏览器最核心、也最易受攻击的组件——JavaScript 引擎。 AI 表现出的“专业度”令传统安全界</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26022</guid>
+      <pubDate>Mon, 09 Mar 2026 02:13:00 +0000</pubDate>
     </item>
     <item>
-      <title>马云定调 AI 时代胜负手：不在“芯片”在“心跳”，阿里核心高管罕见齐聚云谷谈教育</title>
-      <link>https://news.aibase.com/zh/news/26007</link>
-      <description>阿里系 最高 规格聚齐:新年开工 第一 站选在“试验田” 2026年3月3日，新学期开学伊始，阿里巴巴创始人马云与阿里、蚂蚁集团的核心管理层罕见集体亮相杭州云谷学校。随行阵容堪称“天团”:阿里巴巴集团主席蔡崇信、CEO 吴泳铭、风险委员会主席邵晓锋、电商事业群 CEO 蒋凡，以及蚂蚁集团董事长井贤栋、CEO 韩歆毅悉数到场。 此次高规格访问被外界解读为阿里系在 AI 竞争进入深水区后，将视角从“算力博弈”转向“人才底座”与“人文尺度”的重大战略信号。马云直言，AI 时代的冲击将超出想象，而教育是应对这一变革、让孩子们学会与 AI 共存的最核心阵地。 马云断言:AI 拥有的是“芯片”，而人类拥有</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26007</guid>
-      <pubDate>Fri, 06 Mar 2026 09:59:00 +0000</pubDate>
+      <title>惊动国内半个大模型圈!网红AI智能体OpenClaw创始人紧急发声从未入驻微博、B站等中文社交媒体平台</title>
+      <link>https://news.aibase.com/zh/news/26023</link>
+      <description>开源AI智能体项目OpenClaw创始人Peter Steinberger近日公开辟谣，称该项目从未入驻微博、B站等中文社交媒体平台，目前活跃的相关“官方账号”及认证信息全系伪造。 作为近期在开发者社区备受瞩目的开源项目， OpenClaw 凭借其主打的本地运行能力、自主文件操作及浏览器自动化控制等特性，被网友亲切地称为“龙虾”。该项目核心价值在于实现“本地代理主权”，允许大模型在受控环境下获得操作系统权限，从而执行真实复杂的办公任务。 事件起源于2026年3月初，一个带有“OpenClaw开源社区”认证标识的账号在微博上线，并迅速吸引了国内多家主流AI大模型厂商互动站台。然而，Steinbe</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26023</guid>
+      <pubDate>Mon, 09 Mar 2026 02:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>小红书新款AI编辑模型FireRed-Image-Edit v1.1开源，攻克ID一致性与复杂融合难题</title>
+      <link>https://news.aibase.com/zh/news/26024</link>
+      <description>2026年3月9日，小红书Super Intelligence团队正式发布图像编辑模型FireRed-Image-Edit v1.1。此次更新距离1.0版本发布仅过去不足一个月，标志着小红书在多模态大模型领域的迭代步频显著加快。 该模型在保持前代优势的基础上，针对ID一致性编辑、多元素融合、人像美妆以及字体风格参考等复杂场景进行了深度优化，展现出更强的语义理解与视觉生成能力。技术指标显示，v1.1版本已支持训练与部署的全流程优化，推理耗时缩短至4.5秒，显存占用控制在30GB以内，显著提升了工业级应用的工程可行性。 作为小红书布局通用智能的核心引擎，Super Intelligence团队目前</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26024</guid>
+      <pubDate>Mon, 09 Mar 2026 02:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>​​英国专家警示：ChatGPT 意外推动“仪式性虐待”报告数量激增</title>
+      <link>https://news.aibase.com/zh/news/26025</link>
+      <description>英国反虐待专家近日发出警告，随着幸存者开始尝试将 AI 工具作为心理咨询和探索的手段，由 ChatGPT 引导出的“有组织的仪式性虐待（Organized Ritual Abuse）”报告数量正呈现持续上升趋势。 英国警方指出，针对儿童的“巫术、附身和精神虐待（WSPRA）”在英国一直存在报告不足的问题。这类犯罪通常涉及性虐待、暴力和忽视，并带有仪式性元素，施害者往往利用撒旦崇拜、法西斯主义或神秘宗教信仰来控制受害者。 英国全国童年受虐者协会（Napac）首席执行官加布里埃尔·肖表示，过去 18 个月内相关报告持续增加。许多求助者明确提到，是 ChatGPT 建议他们联系专业支持机构的。尽管将</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26025</guid>
+      <pubDate>Mon, 09 Mar 2026 02:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>​OpenAI 硬件与机器人负责人辞职：指责军方合作缺乏足够审议</title>
+      <link>https://news.aibase.com/zh/news/26026</link>
+      <description>OpenAI 硬件与机器人负责人凯特琳·卡利诺夫斯基（Caitlin Kalinowski）宣布辞职，理由是她对公司近期达成的军 事合作感到担忧。卡利诺夫斯基曾是 Meta 增强现实眼镜 Orion 的核心开发者，于 2024 年 11 月加入 OpenAI，其离职被视为公司硬件愿景的重大挫折。 在 LinkedIn 和 X 平台的声明中，卡利诺夫斯基直言不讳地指出，涉及“缺乏司法监督的监控”以及“无需人类确认的致命自主武器”等议题，“理应得到比现在更多的审议”。她认为，公司在这些关乎伦理底线的决策上过于仓促。 此次人事地震源于 OpenAI 与美国国防部（五角大楼）签署的一份合同，该合同允许</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26026</guid>
+      <pubDate>Mon, 09 Mar 2026 03:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>美团AI浏览器刚公测就翻车？“借鉴”争议背后，大厂的AI焦虑藏不住了</title>
+      <link>https://news.aibase.com/zh/news/26027</link>
+      <description>互联网大厂的AI竞赛，正从大模型卷向最基础的入口——浏览器。 3 月 2 日， 美团 正式推出了旗下的AI原生浏览器“Tabbit”并开启免费公测。然而，这款背负着 美团 “AI梦”的新产品，还没来得及靠功能出圈，就先因为一场尴尬的“撞脸”争议被推上了风口浪尖。 起因是独立开发者“梦溪睡了吗”发现，Tabbit的界面设计与其开源项目ReadFrog高度相似，这种“大厂截胡小龙虾（ReadFrog）”的既视感迅速引发业界热议。尽管 美团 随后进行了澄清并火速修改界面，但这出插曲无疑给Tabbit的亮相蒙上了一层阴影，也暴露了大厂在产品打磨上的急功近利。 作为一款“AI原生”浏览器，Tabbit试</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26027</guid>
+      <pubDate>Mon, 09 Mar 2026 03:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>从0到大师：用这个AI Skill，一句描述就能生成惊艳海报</title>
+      <link>https://news.aibase.com/zh/news/26028</link>
+      <description>最近在AI圈子里刷屏的一个 超级 实用小技能来了!它叫 qiaomu-mondo-poster-design，一句话就能让AI帮你做出大师级海报、书籍封面、专辑封面，甚至公众号头图、小红书爆款配图。完全不需要你会PS、不用懂配色、更不用背艺术史和设计师名字——AI自己帮你挑最合适的风格，效果直接吊打很多付费设计工具。 为什么这个Skill突然这么火? 核心亮点就一句话:“你描述需求，AI自动选传奇设计师风格 + 优化提示词 + 出图”。它到底能干啥?举几个真实场景 输入:“一张赛博朋克风格的科幻小说封面，主角是孤独的黑客站在霓虹雨中” → AI可能自动选Olly Moss或Akira风格，给你</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26028</guid>
+      <pubDate>Mon, 09 Mar 2026 03:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>消息称腾讯内测QClaw一键启动包:支持微信QQ双端接入OpenClaw智能体</title>
+      <link>https://news.aibase.com/zh/news/26029</link>
+      <description>2026年3月9日，腾讯被爆出正在内测一款名为QClaw的OpenClaw一键启动包产品，旨在通过产品化封装降低AI开源智能体的使用门槛。该产品核心功能在于实现本地电脑的快速部署，并支持微信、QQ双端接入“小龙虾”（OpenClaw）。 作为近期大热的开源Agent框架，OpenClaw因具备自动执行文件整理、邮件收发及接管设备操作等能力而备受行业关注，而QClaw的出现则解决了普通用户在环境部署与连接上的技术痛点。 据悉，QClaw并非腾讯自研的底层Agent框架，而是基于OpenClaw进行的二次封装与优化。在产品形态上，它提供本地一键安装环境，支持已安装OpenClaw的用户直接关联。在</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26029</guid>
+      <pubDate>Mon, 09 Mar 2026 03:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>砸下 400 亿！谷歌在欧洲“疯狂扫货”，柏林AI超级中心正式揭牌</title>
+      <link>https://news.aibase.com/zh/news/26030</link>
+      <description>当全球AI竞赛进入白热化阶段，搜索巨头谷歌选择在欧洲心脏地带再次“重仓”。 3 月 9 日， 谷歌 正式宣布，在德国柏林市中心启用全新的“谷歌人工智能中心”。这不只是搬进一栋新大楼那么简单，而是谷歌 首次 将旗下的 顶尖 大脑——DeepMind、谷歌研究（Google Research）以及谷歌云（Google Cloud）三大核心团队整合在同一屋檐下。 这种“海陆空三军联动作战”的布局，正是谷歌在德国 55 亿欧元（约合人民币 420 亿元）巨额投资计划的核心支柱。根据规划，这笔投资将持续注入直至 2029 年，除了柏林的研发中心，谷歌还准备在黑森州迪岑巴赫拔地而起一座全新的数据中心，并同</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26030</guid>
+      <pubDate>Mon, 09 Mar 2026 03:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>​Block 裁员 4000 人：杰克·多西深信 AI 提效，员工反驳“那是 CEO 的胡言乱语”</title>
+      <link>https://news.aibase.com/zh/news/26031</link>
+      <description>支付巨头 Block（原 Square）的首席执行官杰克·多西（Jack Dorsey）近期宣布裁撤公司约 4000 名员工，比例接近员员总数的一半。多西在致股东的信中明确表示，裁员底气源于 AI 带来的生产力飞跃，称“规模更小的团队利用 AI 工具可以完成更多、更好的工作”。 然而，这一观点遭到了现任及被裁员工的集体反击。多名员工在接受采访时表示，多西对 AI 潜力的解读存在严重误导，甚至带有“表演性”。 多西希望将公司打造为“迷你 AGI（通用人工智能）”，并称 Anthropic 的 Opus 4.6 和 OpenAI 的 Codex 5.3 带来了质变。但工程师指出，目前 95% 的 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26031</guid>
+      <pubDate>Mon, 09 Mar 2026 03:31:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
