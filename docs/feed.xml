@@ -8,90 +8,160 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Mar 2026 03:26:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 03:47:53 +0000</lastBuildDate>
     <item>
-      <title>阿里五年新目标：云与 AI 商业收入冲刺千亿美元，吴泳铭亮出全栈家底</title>
-      <link>https://news.aibase.com/zh/news/26418</link>
-      <description>在 AI 驱动的全球商业版图中，阿里巴巴正在画出一道极为强劲的增长曲线。 随着2025年第四季度财报的揭晓， 阿里巴巴 集团收入达到2848.43亿元。尽管宏观环境多变，但剔除已处置业务后的9% 同比增长，依然显示出这家巨头深厚的经营韧性。而在这份财报中最令市场振奋的，莫过于集团 CEO 吴泳铭 提出的战略“军令状”:未来五年内，包含 MaaS（模型即服务）在内的云和 AI 商业化年收入目标要突破 1000亿美元 。 支撑这一宏大目标的，是 阿里云 已经跑出的加速态势: 营收爆发: 本季度 阿里云 收入同比增长36%，外部商业化收入增长35%。 AI 引擎: AI 相关产品收入已连续十个季度实</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26418</guid>
-      <pubDate>Fri, 20 Mar 2026 03:36:00 +0000</pubDate>
+      <title>知识界最后的反击？大英百科全书状告 OpenAI：AI 模型被指“搭便车”</title>
+      <link>https://news.aibase.com/zh/news/26432</link>
+      <description>当最古老的知识 权威 遇上最激进的 AI 巨头，一场足以重塑行业规则的版权大战在曼哈顿联邦法院拉开帷幕。 近日， 大英百科全书公司 （Encyclopaedia Britannica）及其子公司 梅里亚姆—韦伯斯特 （Merriam-Webster）正式起诉 OpenAI 。这场诉讼的核心直指生成式 AI 的“原罪”：未经授权使用近 10 万篇高质量百科文章训练模型，究竟是技术创新的“合理使用”，还是对人类知识遗产的“系统性侵权”？ 输入端之争：是“转换性使用”还是“搭便车”？ 在诉状中， 大英百科全书 痛斥 ChatGPT 是在“搭便车”。他们认为，百科条目是经过严格编撰的原创版权产品，具有</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26432</guid>
+      <pubDate>Mon, 23 Mar 2026 00:55:00 +0000</pubDate>
     </item>
     <item>
-      <title>“知识掠夺”还是“技术变革”？《不列颠百科全书》正式起诉 OpenAI</title>
-      <link>https://news.aibase.com/zh/news/26419</link>
-      <description>在 AI 领域版权争议愈演愈烈的背景下，老牌知识 权威 也坐不住了。本周五，全球 著名 的《不列颠百科全书》及其子公司韦氏词典（Merriam-Webster）正式向法院提起诉讼，指控 OpenAI 涉嫌未经授权使用其受版权保护的参考资料，进行“大规模”的 AI 模型训练。 这是继去年两家机构起诉 AI 搜索公司 Perplexity 后的又一重磅维权行动。根据诉状内容，《不列颠百科全书》称 OpenAI 非法复制了其近 10 万篇在线文章、百科条目及词典定义，用于喂养旗下的 GPT 系列大模型。 “蚕食”流量与近乎逐字的“搬运” 原告方在起诉书中列举了多个实例，指出 ChatGPT 在回答用</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26419</guid>
-      <pubDate>Fri, 20 Mar 2026 05:41:00 +0000</pubDate>
+      <title>超越美国！中国 AI 调用量领跑全球：算力产业链开启“全链通胀”模式</title>
+      <link>https://news.aibase.com/zh/news/26433</link>
+      <description>中国大模型正在以惊人的速度重塑全球 AI 的消费版图。 根据全球 最大 AI 模型 API 聚合平台 OpenRouter 最新 发布的数据显示，截至 3 月 15 日，中国 AI 大模型的周调用量达到了惊人的 4.69 万亿 Token 。这不仅是国产大模型连续第二周在调用量上超越美国，更实现了全球前三名被中国模型包揽的壮举。 Token 消耗爆炸：从问答到 Agent 的质变 这种指数级的增长，核心动力源于 OpenClaw 等 AI Agent（智能体）应用的爆发。与传统的单次问答不同，Agent 具备自主执行任务的链式反应特性： 消耗强度： 传统对话可能仅消耗数千 Token，而一个复</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26433</guid>
+      <pubDate>Mon, 23 Mar 2026 00:57:00 +0000</pubDate>
     </item>
     <item>
-      <title>腾讯 QClaw 正式开启公测：无需邀请码，微信远程操控 PC 的 AI“小龙虾”来了</title>
-      <link>https://news.aibase.com/zh/news/26420</link>
-      <description>腾讯 AI 官方发布消息，宣布旗下 AI 助手产品 QClaw 正式进入开放公测阶段。此前仅限邀请的 beta 测试已结束，正式进入开放公测，用户无需任何邀请码即可直接下载使用。 腾讯进一步介绍产品核心: “把🦞想象成 QClaw 里的数字小我。它能总结聊天、起草回复、安排会议、撰写文档。” 配图显示像素风温馨办公室场景，一只拟人化龙虾坐在沙发上，聊天界面列出其强大能力，包括网页搜索、文件读写编辑、Shell 命令执行、浏览器自动化控制、日历管理、跨平台消息发送（Telegram、WhatsApp、Discord 等）、提醒设置、天气查询、文本转语音、新闻总结、云存储上传等，覆盖从基础办公到复</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26420</guid>
-      <pubDate>Fri, 20 Mar 2026 05:52:00 +0000</pubDate>
+      <title>价格仅为海外模型十分之一！MiniMax M2.5 连夺五周全球调用量冠军</title>
+      <link>https://news.aibase.com/zh/news/26434</link>
+      <description>国产大模型正凭借 极致 的性价比，在全球算力市场上演一场“降维打击”。 据 最新 报道，国产大模型 MiniMax M2.5 已连续五周稳居全球大模型调用量榜首。这一成绩不仅刷新了国产模型在国际舞台上的活跃纪录，更揭示了中国 AI 产业在全球竞争中的核心杀手锏：在同等能力水平下，国产模型的价格与海外竞品相比竟有十几倍的巨大差距。 这种让对手汗颜的性价比优势，主要源于两大战略护城河： 底层架构创新：让 Token 更“值钱” MiniMax 研发人员指出，通过底层架构的根本性创新，模型推理成本得到了大幅压降。简单来说，由于算法效率的提升，模型能够用更少的 Token 消耗完成同样的复杂任务，从技</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26434</guid>
+      <pubDate>Mon, 23 Mar 2026 01:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>大反转！谷歌向英国出版商妥协：AI 概览功能将支持“一键退出”</title>
-      <link>https://news.aibase.com/zh/news/26421</link>
-      <description>在内容创作者与 AI 巨头的博弈中，流量天平正迎来一次关键的利益重构。 据 最新 报道，针对英国竞争与市场管理局（CMA）关于市场竞争措施的咨询， 谷歌 (Google) 正式作出回应，同意允许网站自主选择退出其搜索结果中的“生成式 AI 概览”功能。这一决策被视为搜索引擎在保护出版商权益方面迈出的重要一步。 此前， 谷歌 的 AI 概览功能因其直接在搜索顶层提供答案，引发了内容生产者的集体焦虑。多家机构向监管部门反映： 流量缩水： AI 概览导致用户无需点击原始链接即可获取信息，相关网站的内容点击率出现明显下降。 排名担忧： 出版商普遍担心，如果选择退出 AI 概览，会遭到算法的“隐形惩罚”</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26421</guid>
-      <pubDate>Fri, 20 Mar 2026 06:09:00 +0000</pubDate>
+      <title>Cursor发布Composer2模型，承认底层基于Moonshot AI开源底座Kimi</title>
+      <link>https://news.aibase.com/zh/news/26435</link>
+      <description>本周，拥有高估值的美国AI编程初创公司Cursor正式推出新一代模型Composer2，官方宣称其具备“前沿级编码智能”。然而，该模型发布后不久即陷入舆论风暴。社交平台X用户Fynn通过代码取证指出，Composer2的底层疑似为Moonshot AI（月之暗面）近期发布的开源模型Kimi k2.5，并质疑Cursor在未重命名模型ID的情况下直接加装了强化学习功能。 针对质疑，Cursor开发者教育副总裁Lee Robinson迅速作出回应，承认Composer2确实基于开源项目开发，但他强调最终模型的计算量仅有约四分之一来自开源底座，其余部分均源自Cursor的自主训练，这使得Compos</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26435</guid>
+      <pubDate>Mon, 23 Mar 2026 01:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>Qwen3.5-Max预览版登顶LMArena，国产大模型矩阵集体跻身全球前列</title>
-      <link>https://news.aibase.com/zh/news/26422</link>
-      <description>3月20日 ， 权威 大模型盲测榜单 LMArena 发布的 最新 一期排名显示，阿里巴巴旗下千问系列 最新 旗舰预览版模型 Qwen3.5-Max-Preview 表现强劲，以 1464分 的成绩位列榜单前列。这一数据不仅刷新了国产模型的得分纪录，更在多维度评测中实现了对比海外 顶尖 模型GPT5.4、Claude4.5及Grok4.1的性能超越。此次更新标志着中国自研大模型在通用能力上已正式进入全球 第一 梯队，彻底打破了此前由少数海外头部厂商长期垄断榜首的局面。 在本次盲测中，Qwen3.5-Max-Preview展现了 极高 的逻辑推理与指令遵循能力，其评分显著领先于同期的国产模型豆包</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26422</guid>
-      <pubDate>Fri, 20 Mar 2026 06:11:00 +0000</pubDate>
+      <title>马斯克披露Terafab芯片工厂计划，拟为特斯拉与SpaceX提供自研算力</title>
+      <link>https://news.aibase.com/zh/news/26436</link>
+      <description>埃隆·马斯克近日在德克萨斯州奥斯汀举行的一场活动中，正式披露了旗下SpaceX与特斯拉在半导体制造领域的深度合作蓝图。据彭博社报道，马斯克计划在特斯拉奥斯汀总部及“ 超级 工厂”附近兴建一座名为“Terafab”的专用芯片制造中心。此举旨在通过垂直整合供应链，彻底解决现有半导体产能无法满足其在人工智能与机器人技术领域爆发式需求的核心矛盾。 马斯克在活动现场直言，目前半导体厂商的生产速度已成为其技术演进的瓶颈，“要么建造Terafab，要么就面临芯片短缺”，因此自主制造已成必然选择。根据披露的技术愿景，Terafab的目标是生产能够支持每年地球端100至200吉瓦、以及太空端1太瓦计算能力的超高</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26436</guid>
+      <pubDate>Mon, 23 Mar 2026 01:17:00 +0000</pubDate>
     </item>
     <item>
-      <title>亚马逊收购苏黎世机器人初创公司 Rivr，布局“爬楼梯”末端配送</title>
-      <link>https://news.aibase.com/zh/news/26423</link>
-      <description>电子商务巨头亚马逊（Amazon）近日完成了对苏黎世自主机器人初创公司 Rivr 的收购。此举标志着亚马逊在攻克物流“最后一公里”——尤其是复杂城市环境下的自动送货服务上，迈出了关键一步。 核心技术:会滑板的“四足犬” Rivr 的核心产品是一款独特的 四足轮式机器人 。联合创始人兼 CEO 马尔科·比耶洛尼奇（Marko Bjelonic）曾形象地将其描述为“ 穿着溜冰鞋的狗 ”。与传统的轮式送货机器人不同，Rivr 的设计兼具了轮式的高效移动速度与四足机器人的地形适应能力，能够自主爬楼梯并克服马路牙子等障碍，直接将包裹送达住户门口。 交易背后的战略布局 资本前缘: 亚马逊对 Rivr 的兴</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26423</guid>
-      <pubDate>Fri, 20 Mar 2026 06:25:00 +0000</pubDate>
+      <title>律师费也“打折”：Anthropic 15 亿美元版权和解案迎来新进展</title>
+      <link>https://news.aibase.com/zh/news/26437</link>
+      <description>在 AI 行业最具标杆意义的版权纠纷案中，关于“分蛋糕”的争论再次引发关注。据 最新 法庭文件显示，针对人工智能巨头 Anthropic 此前达成的 15 亿美元版权和解案，原告律师团已主动将其申请的律师费用从 3 亿美元大幅下调至 1.875 亿美元。 这一动作并非律所“慷慨解囊”，而是迫于法院和被告方的双重压力。此前，Anthropic 公司以及负责审理此案的法官均对高达 3 亿美元的“天价”律师费表示反对，认为该数额严重溢价，且涉及不合理的费用分摊计划。 15 亿美元和解背后：AI 训练的代价 作为 Claude 系列模型的开发者，Anthropic 于去年 8 月同意支付 15 亿美元</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26437</guid>
+      <pubDate>Mon, 23 Mar 2026 01:21:00 +0000</pubDate>
     </item>
     <item>
-      <title>欧洲 AI 霸主祭出“全能王”！Mistral Small 4 发布：推理、多模态、编程我全都要</title>
-      <link>https://news.aibase.com/zh/news/26424</link>
-      <description>在开源大模型赛道，欧洲之光 Mistral AI 再次展现了其惊人的进化速度。 当地时间3月16日， Mistral AI 正式发布了 Mistral Small4 。这是该实验室 首款 真正意义上的“全能型”大模型， 首次 在单一模型中完美兼顾了旗舰级推理、多模态理解以及强悍的编程能力。对于开发者而言，这意味着不再需要在各种垂直模型之间做“选择题”，因为新一代 Small4实现了“我全都要”。 Mistral Small4 采用了先进的 MoE（混合专家）架构: 核心参数: 总参数量为119B，激活参数仅为6B，在保证性能的同时极大优化了运行效率。 超长视野: 拥有 256k 的超长上下文窗</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26424</guid>
-      <pubDate>Fri, 20 Mar 2026 07:17:00 +0000</pubDate>
+      <title>大厂不再需要 AI Lab？腾讯重组研发体系：混元 3.0 预计4 月发布</title>
+      <link>https://news.aibase.com/zh/news/26438</link>
+      <description>在通用大模型加速落地的下半场，互联网巨头的研发组织架构正迎来一场前所未有的“去实验室化”变革。 3月20日， 腾讯 内部的一则调整通知引发了行业震动:成立近十年的 腾讯 AI Lab 正式被撤销，其研究能力将被整体并入大模型体系。这一变动意味着，曾经作为集团级基础研究机构的 AI Lab，将告别“独立探索”时代，全面服务于 混元大模型 的迭代与应用。 研发路径聚焦:混元团队成为 唯一 中枢 根据 最新 的组织架构调整，原 AI Lab 的部分核心人员已并入大语言模型部，向腾讯首席 AI 科学家 姚顺雨 汇报。作为普林斯顿博士及前 OpenAI 研究员， 姚顺雨 目前同时统领 AI Infra（</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26438</guid>
+      <pubDate>Mon, 23 Mar 2026 01:21:00 +0000</pubDate>
     </item>
     <item>
-      <title>西南首个 AI 影像人才高地来了！成都东部新区签约 OPC 人才社区</title>
-      <link>https://news.aibase.com/zh/news/26427</link>
-      <description>随着人工智能深度介入影视内容生产，一场关于“AI+创意”的人才争夺战已在西南腹地悄然打响。 近日， 成都东部新区 与 成都东麓树莓影视科技有限公司 正式签署合作协议，宣布共同打造 AI 影像 OPC 人才社区 。这一动作不仅是成都布局未来产业的关键一环，更标志着西南地区在“个体创意+AI 赋能”领域迈出了实质性的探索步伐。 何为 OPC?AI 时代的创意新物种 所谓 OPC（Original Personal Creator），是指在 AI 技术加持下，具备独立完成高质量影像创作能力的个体。此次落地 成都东部新区 的社区，正是精准聚焦这一新兴人才群体的培育与集聚: 核心模式: 采取“个体创意+</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26427</guid>
-      <pubDate>Fri, 20 Mar 2026 08:27:00 +0000</pubDate>
+      <title>千问上线打车skill，可告诉AI“我要空气清新的车”</title>
+      <link>https://news.aibase.com/zh/news/26439</link>
+      <description>3月23日，千问上线打车能力，可一句话完成选车型、添加途经点、预约时间等操作，还支持“要空气清新的车，价格不超过30元”、“驾驶平稳”、“服务态度好”等个性化需求。 即便是复杂需求，用户只需直接表达，千问都能理解意图并完成车辆匹配。例如，“我们一家人想去什刹海看夕阳，打车去，6个人”，系统可自动判断人数并匹配商务车;而对于“去医院、车上有病人、要开得稳的老司机”，千问则会优先推荐驾驶平稳的车，还可以给司机捎句话，请“提前开窗通风”。行程结束后，用户直接通过“支付宝AI付”即可完成支付。 在途经点选择上，用户可以通过自然语言灵活调整。行程开始前，说“帮我打车到西湖乌龟潭，顺路先去西溪湿地北门送个</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26439</guid>
+      <pubDate>Mon, 23 Mar 2026 01:33:00 +0000</pubDate>
     </item>
     <item>
-      <title>Traction智导正式上线：让每一次教育选择，都清晰可见、有据可依</title>
-      <link>https://news.aibase.com/zh/news/26428</link>
-      <description>经过数月的产品打磨与内测，感谢所有早期参与者的真诚反馈与耐心等待，今天非常激动地正式宣布: Traction智导 1.0 网页版本正式上线 。 这是一个从零开始构建的产品，但它的起点并非技术本身，而是我们团队在过去多年国际教育工作中反复目睹的一个困境。 留学家庭面对的，从来不是“信息太少”，而是“信息太杂”。上百个院校官网、数十份排名榜单、碎片化的经验分享、相互矛盾的升学建议。当每个选择都关乎数十万至数百万的投入和数年的人生轨迹，“决策”变成了一场充满不确定性的人生豪赌。 Traction智导想要改变的，正是这件事。 我们相信，AI不能代替人类思考，但能帮你无限接近属于自己的答案。在Tract</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26428</guid>
-      <pubDate>Fri, 20 Mar 2026 08:27:00 +0000</pubDate>
+      <title>OpenAI计划2026年底扩员至8000人，增设“技术大使”加速企业级应用落地</title>
+      <link>https://news.aibase.com/zh/news/26440</link>
+      <description>在全球科技巨头持续裁员的背景下，OpenAI正逆势开启大规模扩张。据《金融时报》报道，该公司计划在2026年底前将其员工总数由目前的4500人扩充至8000人。此次招聘重点覆盖产品开发、工程研发及销售部门，并特别增设“技术大使”（Technical Ambassadors）专家岗位，旨在通过现场指导协助企业深度集成AI工具，提升商业化落地效率。 这一扩张动作被视为OpenAI应对Anthropic及其Claude模型竞争的战略反击。金融科技公司Ramp发布的 最新 AI指数显示，尽管OpenAI仍占据企业市场 最大 份额（34.4%），但在新用户获取上正面临严峻挑战——约70%的 首次 购买A</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26440</guid>
+      <pubDate>Mon, 23 Mar 2026 01:40:00 +0000</pubDate>
     </item>
     <item>
-      <title>腾讯元宝 AI 换新装：Logo“长眼睛”了</title>
-      <link>https://news.aibase.com/zh/news/26429</link>
-      <description>在 AI 助手的视觉竞争中，腾讯元宝正试图变得更有“灵气”。本周五，腾讯旗下大模型应用 腾讯元宝 AI 正式宣布更换品牌 Logo。与原版扁平的视觉设计相比，新 Logo 最显著的变化是在原有的元宝形态基础上添加了一双“大眼睛”，整体风格更加拟人化且充满活力。 腾讯官方表示，全新的元宝旨在以“更活泼灵动的姿态”陪伴在用户身边。从品牌视觉的进化可以看出，腾讯正试图淡化 AI 工具的冷冰冰的技术感，转而强化产品的“陪护”属性与亲和力。 此次品牌升级紧随2026年春节期间的强劲表现。根据 最新 数据显示，元宝在春节期间的表现堪称惊艳:其日活跃用户数（DAU）峰值已突破4000万，月活跃用户数(MAU</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26429</guid>
-      <pubDate>Fri, 20 Mar 2026 09:23:00 +0000</pubDate>
+      <title>力压全球巨头！国产大模型 MiniMax 连续五周夺得全球调用量冠军</title>
+      <link>https://news.aibase.com/zh/news/26441</link>
+      <description>在全球大模型竞速赛中，国产力量正展现出惊人的爆发力。根据 最新 行业数据显示，国产大模型 MiniMax M2.5 已连续五周霸榜全球大模型调用量冠军。这一成绩不仅刷新了国产 AI 在国际市场的活跃度纪录，更标志着以 MiniMax 为代表的中国大模型正在从“追随者”向“定义者”转型。 MiniMax 研发团队在受访时坦言，目前产品最核心的护城河在于 极致 的“性价比”。在实现同等智力水平的前提下，MiniMax 的调用成本与海外主流模型相比，竟然存在高达十几倍的巨大差距。这种近乎代差的成本优势，正吸引着全球开发者大规模倒戈。 技术与能源：构筑双重成本防线 这种令人咋舌的价格优势并非来自补贴，</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26441</guid>
+      <pubDate>Mon, 23 Mar 2026 01:45:00 +0000</pubDate>
     </item>
     <item>
-      <title>雷军亮剑：三年豪掷 600 亿突围 AI！小米 SU7 升级加价涨粉两不误</title>
-      <link>https://news.aibase.com/zh/news/26430</link>
-      <description>在造车与 AI 的双重赛道上， 小米 正在以前所未有的资金密度筑起竞争壁垒。 3 月 19 日晚， 小米公司 在北京举办春季新品发布会。创始人 雷军 不仅带来了新一代 小米 SU7 电动轿车，更现场立下“军令状”：小米今年在 AI 领域的研发和资本投入将超过 160 亿元 ，未来三年的累计投入计划更是突破 600 亿元 大关。 自研大模型冲入全球 第一 梯队 支撑这份高昂投入的是小米在 AI 算法上的硬核突破。发布会上，小米正式推出了 MiMo-V2-Pro 、 MiMo-V2-Omni 与 MiMo-V2-TTS 三款大模型。其中，拥有万亿参数的旗舰模型 MiMo-V2-Pro 在全球大模型</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26430</guid>
-      <pubDate>Fri, 20 Mar 2026 09:32:00 +0000</pubDate>
+      <title>叫板微软！马斯克官宣“巨硬”计划：Grok 智能体即将接管你的电脑</title>
+      <link>https://news.aibase.com/zh/news/26442</link>
+      <description>在 AI 领域， 马斯克 的野心正在从“聊天框”延伸至每一台 PC 的深度操作。 3月21日， 马斯克 在 X 平台正式确认，备受瞩目的 Grok Computer 智能体即将上线。这一动作被外界解读为马斯克旗下 AI 平台 Grok 迈向系统级交互的关键一步，也是其此前透露的“巨硬（Macrohard）”计划的先行预览版。 什么是 Grok Computer?AI 界的“总指挥” 根据马斯克披露的构想， Grok 的定位不再仅仅是一个问答助手，而是化身为电脑的“大脑决策中心”。其核心逻辑被划分为两个系统: 系统1（数字擎天柱）: 负责基础的生理性反应，即执行具体的键盘、鼠标和实时屏幕操作。 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26442</guid>
+      <pubDate>Mon, 23 Mar 2026 01:47:00 +0000</pubDate>
     </item>
     <item>
-      <title>Meta 官宣裁撤外包审核员：AI 将全面接管内容审查系统</title>
-      <link>https://news.aibase.com/zh/news/26431</link>
-      <description>在内容监管与技术迭代的十字路口，Meta 迈出了激进的一步。本周，Meta 正式宣布了一项具有里程碑意义的计划：在未来几年内，公司将利用自研的 AI 审核系统全面取代目前依赖的第三方外包人类审核员。这意味着，长期以来支撑 Facebook 和 Instagram 内容安全的“人力长城”将逐渐瓦解。 Meta 表示，随着 AI 技术（尤其是生成式 AI 助手）的广泛部署，大模型已经具备了处理高重复性、高压力任务的能力。这一转变不仅是为了追求更高的技术效率，更是对长期以来困扰该行业的劳工伦理问题的回应。 终结“数字创伤”：AI 接手高危内容 多年来，大型科技公司的内容审核员一直面临着巨大的心理压力</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26431</guid>
-      <pubDate>Fri, 20 Mar 2026 09:51:00 +0000</pubDate>
+      <title>腾讯推出微信ClawBot插件，个人AI助手“龙虾”可直连微信聊天</title>
+      <link>https://news.aibase.com/zh/news/26443</link>
+      <description>腾讯今日推出“微信ClawBot”插件，正式打通个人AI助手“OpenClaw”（龙虾）与微信的私密连接通道。该举措标志着腾讯正加速其模型生态与主流社交应用的无缝整合，为用户在移动端高频场景调用个人AI助手提供了便捷入口。 目前，该插件正逐步向用户放量。通过该插件，用户仅需两个步骤即可完成连接:首先在微信“我-设置-插件”中启用“微信ClawBot”，随后在运行OpenClaw的设备上执行官方安装命令，并用微信扫描生成的二维码进行绑定。连接成功后，用户可直接在微信聊天界面内向自己的AI助手发送指令并接收回复，将其应用于个人学习、工作问题与内容创作等场景。 官方强调，此通道为个人专用，其他用户无</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26443</guid>
+      <pubDate>Mon, 23 Mar 2026 01:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>告别“纯净”时代：OpenAI 官宣将在 ChatGPT 免费版中投放广告</title>
+      <link>https://news.aibase.com/zh/news/26444</link>
+      <description>曾经坚持“无广告”体验的 OpenAI 终于向商业化压力妥协。本周日，OpenAI 发言人正式确认，公司计划在未来几周内开始向美国地区的 ChatGPT 免费版 及 Go 版 用户展示广告。这一举动标志着全球 最受欢迎 的 AI 聊天应用正式开启了大规模流量变现之路。 据悉，广告技术巨头 Criteo 已被选为首批合作伙伴，接入了 ChatGPT 的广告测试项目。Criteo 目前正向潜在广告主发起招商，要求每位客户的初始投放预算在 5 万至 10 万美元之间（约合人民币 34.5 万至 69 万元）。 入不敷出？昂贵算力逼出的变现招式 OpenAI 此次“变现”背后，是生成式 AI 领域日益</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26444</guid>
+      <pubDate>Mon, 23 Mar 2026 01:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>雷军证实小米电脑版“龙虾”MiClaw正在开发，MiMo-V2-Pro大模型全平台上线</title>
+      <link>https://news.aibase.com/zh/news/26445</link>
+      <description>在2026年中国发展高层论坛年会上，小米集团雷军明确表示，备受关注的电脑版AI智能体“龙虾”（MiClaw）已列入开发计划。此前，小米已于3月6日开启手机版MiClaw的小范围封测，并于3月19日的春季新品发布会上释放了跨端协作的信号。随着小米自研大模型MiMo-V2-Pro于上周正式实现全平台上线，MiClaw功能同步迎来全面更新并开放体验。 作为具备实打实任务执行能力的AI智能体，MiClaw与传统语音助手有着本质区别，其核心定位是通过接入大模型实现复杂指令的自动化处理，而非单纯的逻辑思考。在MiMo-V2-Pro的赋能下，MiClaw已深度融入小米“人车家全生态”，支持本地化部署以强化隐</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26445</guid>
+      <pubDate>Mon, 23 Mar 2026 02:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>阶跃星辰推出 Step Plan “养虾”套餐：开发者社区尊享半价，AI 编程进入普惠时代</title>
+      <link>https://news.aibase.com/zh/news/26446</link>
+      <description>在 AI 编程工具（OpenClaw/Coding）用户群体中，如何在高频任务与算力成本之间取得平衡一直是核心痛点。今日，大模型领军企业 阶跃星辰 正式发布了专为开发者设计的月度订阅方案 —— Step Plan 。这一被戏称为“养虾套餐”的新方案，旨在为重度依赖 AI 编程和 Agent 任务的用户提供更高性价比的算力支持。 此次首发阵容亮点十足，全面接入了备受好评的 Step3.5Flash 模型。作为全球开发者公认的“速度与逻辑双效王”，Step3.5Flash 在 Step Plan 方案中将默认开启极速模式，用户无需额外付费即可享受“狂飙”般的推理体验。 四档套餐精准覆盖，用量诚意翻</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26446</guid>
+      <pubDate>Mon, 23 Mar 2026 02:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>5600 亿参数震撼开源！美团 LongCat 登顶：数学证明领域迎来新“天花板”</title>
+      <link>https://news.aibase.com/zh/news/26447</link>
+      <description>在大模型向垂直专业领域进军的征途中， 美团 刚刚交出了一份令学术界与工业界瞩目的答卷。 3月21日， 美团 正式开源了名为 LongCat-Flash-Prover 的超大规模数学证明模型。这款拥有 5677亿参数 的巨兽，采用了先进的 MoE （混合专家模型）架构，专门针对极其复杂的数学形式化证明问题进行了深度优化。 在衡量模型逻辑推理能力的 顶级 基准测试中， LongCat-Flash-Prover 展现出了统治级的实力: 刷新纪录: 在 MiniF2F-Test 测试中取得了 97.1% 的惊人成绩，仅需72次推理尝试。 攻克难题: 在 PutnamBench 任务中成功解决了41.5</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26447</guid>
+      <pubDate>Mon, 23 Mar 2026 02:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>开发者狂欢！小米 MiMo 大模型联合 OpenClaw 等五大框架，开启首周限免</title>
+      <link>https://news.aibase.com/zh/news/26448</link>
+      <description>在自研大模型密集发布的冲刺期， 小米 正在通过“生态联姻”的方式，迅速扩大其 AI 技术的全球影响力。 3月21日， 小米 官方宣布，旗下全新的 MiMo-V2-Pro 、 MiMo-V2-Omni 以及 MiMo-V2-TTS 大模型已正式发布。为了加速开发者生态的构建， 小米 此次联动 OpenClaw 、 OpenCode 、 KiloCode 、 Cline 及 BLACKBOXAI 五大主流 Agent 框架，向全球开发者开放为期一周的免费 API 接口。 主流框架全线适配，实现“开箱即用” 此次限免活动几乎覆盖了当前最受关注的 AI 智能体与编程辅助工具，开发者可以通过以下方式轻松</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26448</guid>
+      <pubDate>Mon, 23 Mar 2026 02:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reddit CEO 逆向抢人：不惧 AI 取代岗位，将大规模扩招“AI 原生代”应届生</title>
+      <link>https://news.aibase.com/zh/news/26449</link>
+      <description>当全球职场还在为“AI 是否会抢走入门级饭碗”而焦虑时，社交巨头 Reddit 却给出了截然不同的答案。Reddit 首席执行官史蒂夫·霍夫曼（Steve Huffman）近日在播客节目中公开表态：Reddit 不仅不会缩减开支，反而计划大规模招聘应届毕业生，因为他们是真正的“AI 原生一代”。 霍夫曼认为，这一届毕业生拥有天然的竞争优势。他们从大学时代起就深度借助 AI 学习编程和处理任务，这种与生俱来的“人机协作”能力，使其在进入职场时就具备了 极高 的生产力价值。 “ 顶尖 人才不抢就没了” 在霍夫曼看来，招聘应届生是一场争分夺秒的竞争。他直言，那些 最优 秀的应届生如果不在 第一 时间</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26449</guid>
+      <pubDate>Mon, 23 Mar 2026 02:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>​月之暗面正面回应Cursor“套壳”Kimi K2.5 ：属授权商业合作</title>
+      <link>https://news.aibase.com/zh/news/26450</link>
+      <description>AI 编程界的一场“血统”争议，终于在当事方的正面回应下尘埃落定。 3月21日，针对近期热议的“ Cursor 疑似套壳 Kimi K2.5 ”事件， 月之暗面 （Moonshot AI）官方发布声明。官方表示，对于 Kimi K2.5 能为这一领先的编程平台奠定技术基础感到自豪，并明确指出双方属于正式的授权商业合作。 马斯克下场“实锤”，意外引发跨国互动 此前，全球热门 AI 编程平台 Cursor 发布了全新的 Composer2 模型。然而，细心的开发者在测试中发现，该模型的内核特征与 Kimi K2.5 高度重合。这一发现迅速引发舆论发酵，甚至吸引了埃隆·马斯克的关注。马斯克在社交平台</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26450</guid>
+      <pubDate>Mon, 23 Mar 2026 02:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>千问上线AI打车，支持支付宝“AI付”</title>
+      <link>https://news.aibase.com/zh/news/26451</link>
+      <description>3月23日，千问上线打车能力。用户可一句话完成选车型、设途经点、预约时间等操作，并支持“要空气清新的车，价格不超过30元”、“驾驶平稳”、“服务态度好”等个性化需求，行程结束后通过支付宝“AI付”直接完成付款。 具体操作仅需三步: 1.打开千问App，说出打车要求; 2.选定车型、价格后生成用车订单; 3.行程结束，点击“去支付”完成付款，支付时以面容、指纹或密码等核身，也可选择开通免密支付。 目前，除了打车，用户在千问点餐饮、囤零食百货、买电影票、订机票火车票、订酒店等消费场景，均可使用安全、便捷的支付宝“AI付”。 值得注意的是，支付宝“AI付”已成为全球首个支付笔数和用户数双双破亿的AI</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26451</guid>
+      <pubDate>Mon, 23 Mar 2026 02:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>疯狂扩军！OpenAI 开启史上最大规模招聘：明年末员工数或翻倍至 8000 人</title>
+      <link>https://news.aibase.com/zh/news/26452</link>
+      <description>就在硅谷大厂普遍缩减开支、谨慎招人的寒冬里，人工智能领头羊 OpenAI 却反其道而行之，准备拉开一场震撼行业的“抢人大战”。据知情人士透露，OpenAI 内部正酝酿一项宏大的扩张计划，旨在通过大规模的人才引进，应对当前进入白热化的全球 AI 竞赛。 消息显示，OpenAI 计划在短时间内释放约 3500 个新岗位 。如果这一目标达成，到 2026 年年底，该公司的员工总数将从目前的约 4500 人激增至 8000 人 。这种近乎翻倍的扩张速度，再次印证了其在技术研发与商业落地上的极度自信。 此次大规模扩员的背后，折射出 OpenAI 战略重心的重大偏移。除了继续保持在基础模型研发上的领先地位</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26452</guid>
+      <pubDate>Mon, 23 Mar 2026 03:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MiniMax发布Token Plan:全球首个全模态订阅计划支持M2.7及视频语音模型</title>
+      <link>https://news.aibase.com/zh/news/26453</link>
+      <description>MiniMax（稀宇科技）于2026年3月23日宣布将其原有的Coding Plan全面升级为“Token Plan”，推出全球首个支持全模态模型的订阅计划。此次升级标志着MiniMax从单一编程提效工具向全场景专业办公与创作生态的战略扩张。通过统一的Token Plan Key，用户现可调用包括 最新 M2.7编程模型、Hailuo视频模型、Speech语音模型、Music音乐模型及Image图像生成模型在内的全系多模态能力，实现了单一订阅覆盖文、图、音、视全维度创作需求。 在产品架构上，Token Plan延续了原Coding Plan的编程模型用量标准（按5小时周期计调），并为Plus及</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26453</guid>
+      <pubDate>Mon, 23 Mar 2026 03:17:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
