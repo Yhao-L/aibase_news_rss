@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Mar 2026 03:26:59 +0000</lastBuildDate>
-    <item>
-      <title>4000 亿参数“生啃”成功！iPhone 17 Pro 挑战本地运行超大模型，但速度只有 0.6 token</title>
-      <link>https://news.aibase.com/zh/news/26504</link>
-      <description>智能手机的算力极限在哪里? 苹果 的 最新 旗舰 iPhone17Pro 刚刚给出了一个既令人震撼又略显尴尬的答案。 3月23日，拥有 4000亿参数 的大语言模型在 iPhone17Pro 上成功跑通。要知道，即便经过量化压缩，此类模型通常也需要至少200GB 的内存才能运行，而 iPhone17Pro 的硬件配置仅为12GB LPDDR5X 内存。 技术“黑科技”: 闪存流转与混合专家模型 在内存容量严重不足的情况下，这次“不可能的任务”主要依靠两个技术路径实现: SSD 强行“扩容”: 借助 Flash-MoE 开源项目，设备直接从固态硬盘（SSD）向 GPU 流式传输数据，突破了物理内</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26504</guid>
-      <pubDate>Tue, 24 Mar 2026 03:34:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Mar 2026 03:42:34 +0000</lastBuildDate>
     <item>
       <title>集成 Sora 与 Veo！智象未来发布首个多模态“龙虾”应用 HiDreamClaw</title>
       <link>https://news.aibase.com/zh/news/26505</link>
@@ -232,6 +225,20 @@
       <description>近日，小米集团正式发布2025年全年财报，各项核心指标刷新历史纪录，其中总收入达4573亿元，同比增长25%，经调整净利润大增43.8%至392亿元。在业绩电话会议上，小米高管明确指出，2026年将成为AI应用的大爆发之年，公司正加速推动大模型、多模态能力与“人车家全生态”的深度耦合。 技术层面，小米已完成基础模型与多模态能力的全面布局，其自研大模型已在语音、语言等多个维度实现交付。近期备受关注的智能助手MiClaw已成功实现手机端侧部署。不同于第三方互联网平台工具，MiClaw具备系统级权限，通过底层数据的深度融合与云端协同，初步展现了未来AI Agent的雏形。尽管该产品目前仍处于研发迭代</description>
       <guid isPermaLink="false">https://news.aibase.com/zh/news/26536</guid>
       <pubDate>Wed, 25 Mar 2026 03:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>闲鱼发布 AI 相机，5 秒内让闲置物品“开口说话”</title>
+      <link>https://news.aibase.com/zh/news/26537</link>
+      <description>在二手交易市场，最消耗用户耐心的一环莫过于“写商品描述”和“研究定价”。为了彻底消除这一交易门槛，闲鱼在 3 月 25 日正式推出了核心战略产品—— “闲鱼 AI 相机” 。这一功能的上线，标志着二手交易从“手动编辑时代”正式跨入“全自动辅助时代”，让每一个普通人都能拥有专业卖家的发布效率。 一拍即合：AI 重新定义“上架”速度 传统的闲置发布需要用户拍摄多张照片、手动输入标题、详细描述成色以及类目。而通过“闲鱼 AI 相机”，这个过程被极度压缩： 图像识别引擎： 用户只需对着商品简单拍照，AI 即可瞬间识别物体类别、品牌乃至具体的型号。 5 秒全流程： 从拍照到自动生成吸引人的标题与描述，再</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26537</guid>
+      <pubDate>Wed, 25 Mar 2026 03:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>狂赚 391 亿！雷军宣布小米未来三年追投 600 亿，MiMo 大模型跻身第一梯队</title>
+      <link>https://news.aibase.com/zh/news/26538</link>
+      <description>小米的2025年，交出了一份令市场侧目的“成绩单”。 3月24日， 小米集团 正式发布2025年度业绩报告。财报显示，过去一年 小米 实现总收入4572.87亿元，同比增长25%;经调整净利润更是高达391.66亿元，同比暴增 43.8% 。在智能手机与造车双赛道的加持下，小米正迎来史上 最强 劲的增长周期。 研发投入创纪录:2.5万名工程师背后的技术野心 利润增长的背后，是雷军对底层技术近乎执着的投入。 人才规模: 截至2025年末， 小米 研发人员总数达到25457人，刷新历史 最高 纪录。 重金砸向 AI: 雷军在发布会上正式宣布，未来三年小米将在 AI 领域持续投入 600亿元 。 模</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26538</guid>
+      <pubDate>Wed, 25 Mar 2026 03:37:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
