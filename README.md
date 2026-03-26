@@ -1,6 +1,6 @@
 # AIbase News RSS
 
-每天早晨9：30,自动抓取 [AIbase](https://news.aibase.com) 每日最新 AI 资讯，生成 RSS 订阅源，通过 GitHub Pages 托管。
+每天早晨9：50,自动抓取 [AIbase](https://news.aibase.com) 每日最新 AI 资讯，生成 RSS 订阅源，通过 GitHub Pages 托管。
 
 ## 📡 订阅地址
 
