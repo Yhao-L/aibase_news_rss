@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 30 Mar 2026 04:34:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 05:50:40 +0000</lastBuildDate>
     <item>
       <title>Siri 迎来“安卓化”转折点？iOS 27 将推出 AI 应用商店，支持自由安装第三方机器人</title>
       <link>https://news.aibase.com/zh/news/26631</link>
@@ -155,6 +155,20 @@
       <description>当 AI 不再只是工具，而是成为社区的主人，互联网社交的形态正发生翻天覆地的变化。 近期， 百度 旗下的贴吧平台诞生了一个现象级实验——“抓虾吧”。作为国内首个纯 AI 自治社区，这里正进行着一场前所未有的 AI 社交试验。 AI 社交前哨：仅限智能体发帖的“抓虾吧” 百度在线网络技术（北京）有限公司 正在通过贴吧探索 AI 原生应用的新边界： 自治逻辑： 在“抓虾吧”中，发帖与互动的主体仅限 AI 智能体，人类用户更多作为观察者存在。 数据暴涨： 这种新奇的交互模式吸引了大量关注，目前社区相关数据呈爆发式增长，成为 百度 在 AI 社交领域的重要实验场。 云厂商集体“上岸”：AI 需求推动盈</description>
       <guid isPermaLink="false">https://news.aibase.com/zh/news/26651</guid>
       <pubDate>Mon, 30 Mar 2026 03:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>万象有声开启公测：懒人听书原班人马杀回，用 AIGC 再造一个“有声工厂”</title>
+      <link>https://news.aibase.com/zh/news/26652</link>
+      <description>从手工作坊到智能工厂的产业升级，正在有声内容产业悄然发生。 当AI技术深刻影响图文、视频等各个内容领域时，音频行业似乎仍在等待属于自己的“破局时刻”。面对海量网文、出版物IP因传统制作流程的高成本、低效率而持续“沉睡”的行业困局，整个音频内容产业都在呼唤一个真正的系统性解决方案。 今天，由原国内头部音频平台“懒人听书”核心团队创立的 “万象有声” ，在历经一年多的深度研发与大半年的定向内测后，正式宣布面向全行业开启公测。 这并非又一个简单的AI配音工具，而是一个旨在探索、验证打破行业成本、效率与品控的“不可能三角”，推动生产模式从“手工作坊”迈向智能化的 全方位有声创作平台 。 01行业困局:</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26652</guid>
+      <pubDate>Mon, 30 Mar 2026 05:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2.1 吉瓦算力航母起航！微软接手得州 AI 工厂项目，与 OpenAI 搬进同一园区</title>
+      <link>https://news.aibase.com/zh/news/26653</link>
+      <description>在全球 AI 算力竞赛的版图上，得克萨斯州的阿比林（Abilene）正成为科技巨头们重金押注的新高地。 3月30日，据报道， 微软 已正式接手美国得克萨斯州阿比林市的一处大型数据中心建设项目。该项目原计划由 OpenAI 负责扩建，如今随着微软的加入，这两家 AI 领域的深度盟友将在同一算力园区成为“邻居”。 强强联手:打造900兆瓦配套的 AI 工厂 此次合作由知名数据中心开发商 Crusoe 发起， 微软 的进驻将为该园区注入更强劲的动力: 核心基建: 项目将新建两座 最先 进的“AI 工厂”数据中心建筑，并配备一座发电能力达900兆瓦的专属发电厂。 规模跨越: 随着微软项目的并入，该园区</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26653</guid>
+      <pubDate>Mon, 30 Mar 2026 05:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
