@@ -8,63 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 31 Mar 2026 02:24:28 +0000</lastBuildDate>
-    <item>
-      <title>千问开启AI体验活动，邀用户共同参与AI能力进化</title>
-      <link>https://news.aibase.com/zh/news/26644</link>
-      <description>近期，千问密集上线AI打车、AI充话费等一系列“AI办事”新能力。为更好地理解人类复杂意图与真实物理世界， 3 月 30 日，千问启动AI体验活动，邀请用户成为AI体验官，对新上线的“AI办事”做出反馈，共同推动AI能力的持续进化。 今年以来，千问已先后推出多项“AI办事”能力，而真实生活场景中的需求极度复杂与个性化，如何让AI准确理解意图，并匹配相应的执行动作，仍是一项重大挑战。引入真实用户的反馈，才能更有效地纠正AI助手在调度物理世界时的决策偏差。 此次，千问的AI体验官计划特别设置了反馈机制，鼓励用户通过真实体验与有效反馈，增强千问在调度真实物理世界时的准确度与执行力。在 3 月 30 </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26644</guid>
-      <pubDate>Mon, 30 Mar 2026 02:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>深度绑定！谷歌豪掷数十亿美元，为 Anthropic 打造专属 AI 算力基地</title>
-      <link>https://news.aibase.com/zh/news/26645</link>
-      <description>在 AI 领域的“金元竞赛”中，除了模型能力的肉搏，底层的算力基建正成为科技巨头们划分势力范围的核心筹码。 据 最新 消息 ，科技巨头 谷歌 即将与人工智能领域的独角兽 Anthropic 达成一项具有里程碑意义的融资协议。根据协议， 谷歌 将为专门租借给 Anthropic 的数据中心提供高达数十亿美元的资金支持。 算力即权力：谷歌与 Anthropic 的“盟友”升级 此次协议的达成，标志着 谷歌 对 Anthropic 的支持从单纯的股权投资转向了更深层次的资源保障： 资金输血： 面对训练 顶级 大模型所需的惊人开支，谷歌的数十亿美元融资将直接转化为 Anthropic 的算力弹药，确保</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26645</guid>
-      <pubDate>Mon, 30 Mar 2026 02:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>全栈生产力爆发！昆仑万维发布 2026 AGI 战略，三大 SOTA 模型震撼登场</title>
-      <link>https://news.aibase.com/zh/news/26646</link>
-      <description>在2026中关村论坛年会的聚光灯下，中国 AI 领军企业 昆仑万维 再次向全球展示了其技术雄心。 3月27日， 昆仑万维集团 成功举办“世界模型前沿技术与天工 AIGC 全家桶大模型生态”专场发布会，不仅一口气推出了三大核心模型，更重磅发布了面向2026年的 AGI 全新战略。 战略升级:构建“3+1”AI 平台经济生态 天工 AI 董事长兼 CEO 周亚辉在会上正式宣布， 昆仑万维 的 AGI 战略已全面升级为“3+1”生态架构: 核心底座: 以4个 SOTA 大模型为技术基石。 三大平台: 包括 DramaWave、Mureka 和猫森学园，旨在通过“大模型+内容生产+内容分发”实现端到端</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26646</guid>
-      <pubDate>Mon, 30 Mar 2026 02:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>打通 AI 办公最后 100 米！企业微信正式开源 CLI，Claude、Codex 可一键接管 7 大能力</title>
-      <link>https://news.aibase.com/zh/news/26647</link>
-      <description>企业办公的 AI 智能化正在从“对话框”向“深度执行”进化。 3 月 30 日，据“微信公开课”公众号消息， 企业微信 官方正式在 GitHub 上架了 CLI（命令行界面）开源项目。这一举措意味着 深圳市腾讯计算机系统有限公司 正式向主流 AI 智能体（Agent）开放了其核心办公生态，标志着 AI 与企业协同办公的融合进入了“原生调用”时代。 能力外放：AI 助手从此拥有“数字手脚” 通过此次开源的 CLI 项目，开发者可以轻松让 AI Agent 调用企业微信的 7 大核心能力 。 全场景覆盖： 包括消息收发、日程管理、文档编辑、会议发起等高频办公场景。 主流适配： 该项目已原生支持 C</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26647</guid>
-      <pubDate>Mon, 30 Mar 2026 02:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>企业微信 CLI 正式开源：AI 获授权调用日程与文档等 7 大能力</title>
-      <link>https://news.aibase.com/zh/news/26648</link>
-      <description>在腾讯刚刚发布的 Agent 产品全景图中，企业微信的开放性迈出了关键一步。2026年3月27日，腾讯宣布 企业微信 CLI （命令行界面）正式对外开源。 这一举措意味着开发者现在可以通过标准化的接口，让 AI 助手直接“接管”企业微信的核心办公功能。通过这一工具，AI 不再仅仅是一个对话窗口，而是成为了能够深入企业业务流程的数字员工。 深度打通办公生态:AI 具备“手脚”处理复杂任务 此次开源的 企业微信 CLI 赋予了 AI 调用7大核心能力权限，包括日程管理、会议发起、文档编辑、打卡状态读取、审批流触发、通讯录查询以及消息群发。 例如，AI 现在可以根据对话上下文，自动在企业微信中为团队</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26648</guid>
-      <pubDate>Mon, 30 Mar 2026 03:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Runway 发布 Multi-Shot App，实现 AI 视频“一键成片”跨越</title>
-      <link>https://news.aibase.com/zh/news/26649</link>
-      <description>AI 视频生成领军企业 Runway 近日正式推出里程碑式应用 Multi-Shot App，标志着行业从单镜头生成迈向“全场景自动设计”新阶段。该应用通过集成对话、音效及自动化剪辑技术，允许用户仅凭一段场景描述，即可直接获得具有电影质感的完整短片，极大地简化了传统视频制作中繁琐的后期拼接流程。 Multi-Shot App 的核心优势在于其强大的场景拆解与智能规划能力。系统能够自动将用户指令转化为最多 5 个逻辑连贯的镜头，并同步处理构图、运镜、节奏控制及音效匹配。在输入方式上，该应用提供“图像起点”与“纯文本”两种模式：前者支持用户上传图片作为视觉基准进行故事扩展，后者则支持从零开始的纯文</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26649</guid>
-      <pubDate>Mon, 30 Mar 2026 03:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>刘慈欣 vs 王晋康：AI 是否会终结人类文学创作？</title>
-      <link>https://news.aibase.com/zh/news/26650</link>
-      <description>在近日举行的 2024 中国科幻大会期间，中国科幻界的两位泰斗级人物刘慈欣与王晋康针对 AI 对文学创作的影响展开了一场跨时空的对话。 面对生成式 AI 的强势崛起，两位作家的观点呈现出微妙而深刻的分歧：一位坚守人类灵魂的独特性，另一位则预见了技术带来的颠覆性革命。 刘慈欣：AI 尚无“灵魂”，暂无法替代人类作家 刘慈欣 在发言中明确表示，尽管 AI 在逻辑处理和素材堆砌上表现惊人，但目前它还不能完全代替人类作家。他认为，文学创作的核心在于对生命的感悟和对复杂情感的细腻捕捉，而 AI 缺乏真实的人生体验。 不过，他也向同行发出了预警：作家们不能因此高枕无忧，必须时刻关注技术的迭代。在他看来，A</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26650</guid>
-      <pubDate>Mon, 30 Mar 2026 03:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI 社交实验：百度贴吧“纯 AI 自治社区”爆火，中国云厂商迎来盈利拐点</title>
-      <link>https://news.aibase.com/zh/news/26651</link>
-      <description>当 AI 不再只是工具，而是成为社区的主人，互联网社交的形态正发生翻天覆地的变化。 近期， 百度 旗下的贴吧平台诞生了一个现象级实验——“抓虾吧”。作为国内首个纯 AI 自治社区，这里正进行着一场前所未有的 AI 社交试验。 AI 社交前哨：仅限智能体发帖的“抓虾吧” 百度在线网络技术（北京）有限公司 正在通过贴吧探索 AI 原生应用的新边界： 自治逻辑： 在“抓虾吧”中，发帖与互动的主体仅限 AI 智能体，人类用户更多作为观察者存在。 数据暴涨： 这种新奇的交互模式吸引了大量关注，目前社区相关数据呈爆发式增长，成为 百度 在 AI 社交领域的重要实验场。 云厂商集体“上岸”：AI 需求推动盈</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26651</guid>
-      <pubDate>Mon, 30 Mar 2026 03:33:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Mar 2026 04:24:03 +0000</lastBuildDate>
     <item>
       <title>万象有声开启公测：懒人听书原班人马杀回，用 AIGC 再造一个“有声工厂”</title>
       <link>https://news.aibase.com/zh/news/26652</link>
@@ -213,7 +157,7 @@
       <pubDate>Tue, 31 Mar 2026 01:04:00 +0000</pubDate>
     </item>
     <item>
-      <title>Qwen3.5-Omni 震撼发布:215项 SOTA 开启全感官 AI 时代</title>
+      <title>全面超越 Gemini-3.1Pro！Qwen3.5-Omni 震撼发布:215项 SOTA 开启全感官 AI 时代</title>
       <link>https://news.aibase.com/zh/news/26674</link>
       <description>通义实验室昨晚正式发布全新多模态大模型 Qwen3.5-Omni 。相比前代，该模型在理解力、交互感与任务执行力上实现了跨越式进化，标志着 AI 正在从“屏幕内的助手”真正走向“理解物理世界的智能体”。 核心突破:全模态与215项 SOTA Qwen3.5-Omni 采用原生的 “全模态”架构 ，能够无缝处理文本、图像、音频及视频输入。在涵盖音视频分析、推理、对话及翻译的测试中，该模型斩获了 215项 SOTA（业界 最佳 ） 战绩。特别是在通用音频理解与识别领域，其表现已全面超越 Gemini-3.1Pro，而视觉与文本能力则保持了与同尺寸 Qwen3.5模型持平的 顶尖 水准。 技术深剖:</description>
       <guid isPermaLink="false">https://news.aibase.com/zh/news/26674</guid>
@@ -288,6 +232,55 @@
       <description>在大模型商业化落地的“生死时速”中， 月之暗面 （Moonshot AI） 再次刷新了行业的吸金纪录。 3月30日，据 Readhub 报道，在 Kimi K2.5模型发布仅一个月后， 月之暗面 的年度经常性收入（ARR）已正式突破 1亿美金 大关。这一成绩不仅创下了“AI 六小虎”中的新纪录，也标志着国产大模型在企业级市场的变现能力进入了爆发期。 算力配额“一票难求”:千万美金预付只为锁住供应 随着 Kimi K2.5 性能的跨越式提升，其背后的算力资源已成为市场上的稀缺资产: 供应趋紧: 知情人士透露，K2.5模型上线后，其 API 供应的 TPM（每分钟 Token 数）配额迅速告急。 </description>
       <guid isPermaLink="false">https://news.aibase.com/zh/news/26684</guid>
       <pubDate>Tue, 31 Mar 2026 02:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>国产大模型调用量连续一月超越海外，OpenClaw带动Token消耗激增</title>
+      <link>https://news.aibase.com/zh/news/26685</link>
+      <description>2026年3月30日，全球大模型聚合路由平台 OpenRouter 发布的 最新 数据显示，国产大模型全球调用量已连续一个月超越海外模型。 数据显示，上周模型调用前九名中，国产模型占六席，总调用量为9.82T，较此前一周的7.359T增长33.4%。海外模型上榜企业仍旧只有Anthropic与，总调用量为2.99T，较此前一周的3.536T降低15.4%。 此轮爆发式增长的核心驱动力源于 OpenClaw 的走红。截至3月中旬，该平台$20%$的Token消耗由其贡献，其周度平均用量已达2025年Q4水平的2倍以上。受此影响，智谱、 阿里云 及 腾讯云 等厂商相继宣布涨价。智谱CEO张鹏指出，</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26685</guid>
+      <pubDate>Tue, 31 Mar 2026 02:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>蚂蚁灵波开源2.7T深度数据集，200万对真实样本，覆盖6款相机</title>
+      <link>https://news.aibase.com/zh/news/26686</link>
+      <description>3月31日，蚂蚁灵波科技正式开源大规模 RGB-D 深度数据集 LingBot-Depth-Dataset。该数据集包含300万对高质量样本，其中200万对来自真实场景采集、100万对由渲染生成，总规模达 2.71TB，覆盖6款主流深度相机，是目前开源社区中规模 最大 的真实场景 RGB-D 数据集。此次开源将为具身智能、空间感知和三维视觉等方向提供更丰富、更贴近真实应用的数据支撑。 （图说:LingBot-Depth-Dataset 数据样例。从上到下依次为 RGB 图像、传感器原始深度图和真值深度图。该数据集同时提供原始深度与真值深度信息，为相关模型在真实场景中的训练和评估提供有力支撑。）</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26686</guid>
+      <pubDate>Tue, 31 Mar 2026 02:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>外卖员变身“AI 喂粉员”？DoorDash 动员 800 万骑手为机器人采集数据</title>
+      <link>https://news.aibase.com/zh/news/26687</link>
+      <description>当你在为生计奔波送餐时，你可能也在无意中成为了 顶尖 AI 模型的“导师”。 据媒体报道，美国外送巨头 DoorDash 近期推出了一款名为“Tasks”的独立应用。这款应用允许其平台下超过 800万名 外卖员在送餐之余，通过完成简单的数字化任务来赚取额外报酬。 长尾场景克星:让骑手采集“真实物理世界” DoorDash， Inc. 此举的核心目的并非简单的业务扩张，而是为了解决 AI 训练中的核心痛点——高质量真实场景数据的匮乏: 任务多样化: 骑手们通过拍摄特定的街景、录制日常对话、记录行走或交付动作等，为 AI 提供最接地气的素材。 攻克长尾场景: 相比于实验室模拟，分布在全球各地的80</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26687</guid>
+      <pubDate>Tue, 31 Mar 2026 02:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>加州硬刚特朗普：拟推行全美最严 AI 监管新规</title>
+      <link>https://news.aibase.com/zh/news/26688</link>
+      <description>加利福尼亚州政府近日宣布，将无视特朗普政府放宽技术约束的号召，执意推进一系列严苛的人工智能监管法案。此举旨在填补联邦层面在 AI 安全治理上的真空，确保前沿技术开发不会对公众利益造成实质性损害。 作为全球 AI 创新的心脏，加州的这一表态无疑是在向白宫发出的直接挑战，进一步加剧了州政府与联邦在技术主权上的博弈。加州官员明确表示，即便面临来自华盛顿的压力，保护公民隐私与防止算法歧视仍是该州的底线。 此次拟议的新规涵盖了从模型训练透明度到灾难性风险预防的多个维度，要求 顶级 AI 企业必须提交详细的合规性报告。这种高标准的准入门槛，被外界视为加州在试图定义全美甚至全球的人工智能治理范式。 特朗普政</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26688</guid>
+      <pubDate>Tue, 31 Mar 2026 03:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>划清界限：AI 接入层巨头 LiteLLM 宣布弃用争议插件 Delve</title>
+      <link>https://news.aibase.com/zh/news/26689</link>
+      <description>近日，在开发者群体中备受推崇的 AI 网关初创公司 LiteLLM 正式对外宣布，将彻底移除其平台中极具争议的辅助工具 Delve。此举旨在回应社区对数据隐私及模型透明度的强烈质疑，试图通过“断臂求生”来挽回核心用户的信任。 作为连接开发者与多种大模型的关键桥梁，LiteLLM 此前引入 Delve 原意是为了优化提示词分析与响应速度。然而，不少技术专家指出，Delve 在处理敏感数据时存在暗箱操作风险，其底层逻辑与主流开源精神背道而驰。 面对愈演愈烈的舆论压力，LiteLLM 创始人公开承认，在筛选合作伙伴时未能进行足够严谨的安全评估。为了维护平台中立性，团队决定迅速剔除所有关联代码，并承诺</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26689</guid>
+      <pubDate>Tue, 31 Mar 2026 03:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>预言 2026：OpenClaw 创始人称今年将成为通用 AI 代理元年</title>
+      <link>https://news.aibase.com/zh/news/26690</link>
+      <description>近日，开源 AI 项目 OpenClaw 的创始人在技术峰会上语出惊人，预言 2026 年将正式开启“通用 AI 代理”的爆发纪元。他认为 AI 正在从单纯的聊天机器人，进化为能够自主处理复杂工作流的智能数字员工。 这种转变意味着 AI 不再仅仅是信息的搬运工，而是具备了跨平台操作和逻辑拆解能力的执行者。在 OpenClaw 的技术蓝图中，AI 代理可以像人类一样操作软件、管理日程并协同多项复杂任务。 行业内对“通用代理”的定义一直存在争议，但 2026 年的一系列技术突破显然正让这一概念具象化。从底层架构的优化到多模态交互的成熟，AI 已经能够精准理解模糊指令并转化为实际的生产力输出。 AI</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26690</guid>
+      <pubDate>Tue, 31 Mar 2026 03:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>意外还是预演?苹果国行 AI 凌晨短暂“偷跑”，自曝内置百度文心大模型</title>
+      <link>https://news.aibase.com/zh/news/26691</link>
+      <description>苹果国行版 AI 的面纱，似乎在一次“系统意外”中被提前揭开了。 3月31日凌晨，不少 iPhone 用户在社交平台反馈，其系统设置中突然出现了可开启的“Apple 智能与 Siri”选项。这一突如其来的更新引发了关于“苹果国行 AI 正式上线”的热议，但仅数小时后，该功能便被苹果官方撤回并下线。 深夜“偷跑”:新 Siri 亲口承认“我是文心” 在功能短暂开放期间，部分抢先体验的用户与新版 Siri 进行了深度对话，并挖出了核心商业机密: 身份自曝: 当用户询问新版 Siri 使用的是什么大模型时，AI 明确回复称其使用的是由 百度在线网络技术（北京）有限公司 开发的“文心大模型”。 功能撤</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26691</guid>
+      <pubDate>Tue, 31 Mar 2026 03:47:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
