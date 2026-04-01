@@ -1,34 +1,32 @@
 name: Update AIbase RSS Feed
-
 on:
   schedule:
-    - cron: '50 1 * * *'
+    - cron: '50 23 * * *'   # UTC 23:50 = 北京时间 07:50，提前2.5小时
+    - cron: '50 1  * * *'   # UTC 01:50 = 北京时间 09:50，作为补跑保底
   workflow_dispatch:
   push:
     branches: [main]
+    paths:
+      - 'scraper.py'        # 只有改了这两个文件才触发
+      - 'requirements.txt'  # docs/feed.xml 的提交不会再触发新的运行
 
 jobs:
   scrape-and-deploy:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           cache: 'pip'
-
       - name: Install dependencies
         run: pip install -r requirements.txt
-
       - name: Run scraper
         run: python scraper.py
-
       - name: Commit and push feed.xml
         run: |
           git config user.name "github-actions[bot]"
