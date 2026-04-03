@@ -1,7 +1,7 @@
 name: Update AIbase RSS Feed
 on:
   schedule:
-    - cron: '00 1  * * *'   # UTC 01:00 = 北京时间 09:00，作为补跑保底
+    - cron: '00 0  * * *'   # UTC 00:00 = 北京时间 08:00，作为补跑保底
   workflow_dispatch:
   push:
     branches: [main]
