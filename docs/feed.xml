@@ -8,202 +8,125 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 04 Apr 2026 02:08:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 02:25:41 +0000</lastBuildDate>
     <item>
-      <title>拒绝算力焦虑!苹果 LGTM 框架问世:让4K 级3D 渲染在 Vision Pro 上起飞</title>
-      <link>https://news.aibase.com/zh/news/26822</link>
-      <description>近日，苹果公司研究团队联合香港大学发表了名为《少用高斯函数，多用纹理:4K 前馈纹理飞溅》（Less Gaussians， More Textures:4K Feedforward Texture Splatting）的 最新 研究成果，推出了一项名为 LGTM 的全新技术框架。该技术旨在解决当前3D 高斯喷溅（3D Gaussian Splatting）在高分辨率下的计算瓶颈，为 Apple Vision Pro 等高像素显示设备的图形渲染开辟了新路径。 技术突破:几何与分辨率的“解耦” 目前主流的前馈3D 高斯喷溅技术虽然能快速将2D 图像转换为3D 场景，但随着渲染分辨率的提升，计算需求</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26822</guid>
-      <pubDate>Fri, 03 Apr 2026 02:12:00 +0000</pubDate>
+      <title>OpenAI多位创始成员成立Zero Shot基金，首轮募资2000万美元目标1亿</title>
+      <link>https://news.aibase.com/zh/news/26851</link>
+      <description>由OpenAI多位元老级成员联合创立的新型风险投资基金 Zero Shot ，近日宣布已完成 2000万美元 的首轮募资，最终目标规模定为 1亿美元 。该基金由OpenAI前应用工程主管Evan Morikawa、首位提示工程师Andrew Mayne及前研究员Shawn Jain共同发起，并吸引了 资深 风险投资家Kelly Kovacs与跨界高管Brett Rounsaville加盟。 Zero Shot的核心竞争力在于其创始团队深度参与了DALL·E、ChatGPT等划时代产品的研发与部署，经历过OpenAI最核心的增长期。这种背景使他们能够洞察AI技术发展的非线性轨迹，识别市场真实需求</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26851</guid>
+      <pubDate>Tue, 07 Apr 2026 00:54:00 +0000</pubDate>
     </item>
     <item>
-      <title>​微软推出全球最高精度的语音转写模型 MAI-Transcribe-1</title>
-      <link>https://news.aibase.com/zh/news/26823</link>
-      <description>近日，微软宣布推出全新的语音转文字模型 MAI-Transcribe-1，该模型在 25 种语言上的平均词错误率（WER）仅为 3.9%，被誉为目前全球最精准的转写模型。这是微软自研的 MAI 系列模型中的第三款，之前还发布了语音合成模型 MAI-Voice-1 和图像生成模型 MAI-Image-2。 根据微软的介绍，MAI-Transcribe-1 在 FLEURS 行业标准基准测试中表现出色，尤其是在 25 种语言中，11 种 “核心语言” 如英语、法语、德语等的转写精度排名 第一 。这款模型不仅在多种语言的转写场景中表现优异，还在与 OpenAI 的 Whisper-large-v3 </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26823</guid>
-      <pubDate>Fri, 03 Apr 2026 02:25:00 +0000</pubDate>
+      <title>巨头跨界“投行”？Anthropic 拟出资 2 亿美元，布局新私募股权基金</title>
+      <link>https://news.aibase.com/zh/news/26852</link>
+      <description>4 月 6 日，据行业消息称，人工智能初创巨头 Anthropic 正进行深入洽谈，计划向一家新成立的私募股权企业投资 2 亿美元 。这一罕见的“反向投资”动作，标志着 AI 领军企业正在通过资本纽带，加速构建深层产业生态。 角色转换：从“吸金王”到“出资人” 作为全球估值 最高 的 AI 初创公司之一， Anthropic 此前曾获得亚马逊、谷歌等巨头的百亿级注资。此次角色调换，显示出其战略重心的演变： 资本杠杆： 通过投入 2 亿美元种子资金， Anthropic 有望在一流私募股权框架下，撬动更大规模的社会资本流向 AI 及相关前沿技术领域。 生态卡位： 与私募股权机构绑定，有助于其在更</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26852</guid>
+      <pubDate>Tue, 07 Apr 2026 01:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>​OpenAI 收购科技脱口秀 TBPN，欲引导 AI 公众对话</title>
-      <link>https://news.aibase.com/zh/news/26824</link>
-      <description>近日，OpenAI 宣布收购了科技脱口秀节目 TBPN，这一举动引发了硅谷内外的广泛关注。TBPN 的共同主持人约翰・库根和霍尔德・海斯表示，该节目将继续每周一到周五在洛杉矶进行三小时的直播，邀请包括创始人、风险投资家及科技界重要人物在内的嘉宾参与讨论。 OpenAI 的战略主管菲吉・西莫在给员工的内部信中提到，此次收购将帮助公司在人工智能快速发展的关键时刻，与公众建立更为真实的沟通。“我们正在推动一场重大的技术变革。带来通用人工智能的使命伴随着责任，我们有义务为有关 AI 所带来的变化创造一个真实而建设性的讨论空间，” 她写道。 西莫表示，TBPN 将继续自主选择嘉宾和进行节目编排，这对节目</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26824</guid>
-      <pubDate>Fri, 03 Apr 2026 02:47:00 +0000</pubDate>
+      <title>正面硬刚！OpenAI 呼吁美政府调查马斯克：指其反竞争、蓄意阻碍 AGI 进程</title>
+      <link>https://news.aibase.com/zh/news/26853</link>
+      <description>据路透社 4 月 7 日报道， OpenAI 周一正式致信加利福尼亚州和特拉华州的总检察长，敦促政府部门对马斯克及其关联方的“不当及反竞争行为”展开深度调查。 核心指控：1000 亿美元索赔意在“瘫痪”公司 在致罗伯·邦塔和凯西·詹宁斯两位总检察长的信函中， OpenAI 详细阐述了马斯克诉讼带来的潜在威胁： 致命索赔： 马斯克在诉讼中要求其非营利基金会赔偿超过 1000 亿美元 。 OpenAI 明确表示，这一天文数字的索赔额实质上是为了让该组织陷入瘫痪。 阻碍进程： OpenAI 首席战略官杰森·权指出，马斯克的这一系列法律行动可能会破坏公司确保 通用人工智能 (AGI) 造福全人类的既定</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26853</guid>
+      <pubDate>Tue, 07 Apr 2026 01:16:00 +0000</pubDate>
     </item>
     <item>
-      <title>广电行业组织发声：严禁AI演员换脸、声纹克隆复刻</title>
-      <link>https://news.aibase.com/zh/news/26825</link>
-      <description>据报道， 中国广播电视社会组织联合会 （中广联）演员委员会近日发布严正声明，针对当前 AI 换脸、声纹克隆等行业乱象明确划定红线，严禁任何主体未经授权擅自使用演员的影像与声频数据。 行业红线:严禁 AI “偷脸”与声纹复刻 声明指出，当前市场上存在大量未经授权擅自采集演员影像及声频，并用于 AI 模型训练、换脸合成、声纹克隆复刻的侵权行为。对此， 中广联演员委员会 提出明确合规要求: 授权 唯一 性: 未经演员本人书面正式授权，严禁任何主体擅自采集并使用其相关内容。 免责无效: 即便在作品中标注“非商用”、“仅供娱乐”等字样，只要未获授权，均不构成法律免责事由。 平台责任:建立核验机制，排查下</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26825</guid>
-      <pubDate>Fri, 03 Apr 2026 02:54:00 +0000</pubDate>
+      <title>AI巨头Anthropic年收飙至 300 亿美元，联合谷歌博通强势扩张算力</title>
+      <link>https://news.aibase.com/zh/news/26854</link>
+      <description>人工智能领军企业Anthropic近日宣布，其年化收入已正式突破 300 亿美元大关。 这一数字相比 2025 年底的 90 亿美元实现了跨越式增长，展现了极强的市场扩张动能。 企业级需求爆发式增长 公司透露，旗下Claude系列人工智能服务的市场需求在今年持续走高。 目前已有超过 1000 家企业客户的年均消费超过 100 万美元，该比例自 2 月以来翻了一倍。 尽管此前与美国政府存在法律纠纷，但这并未动摇核心客户对Anthropic技术能力的信任。 部分合作伙伴甚至表示，公司在原则问题上的坚持反而增强了双方长期合作的信心。 三方联手构筑算力护城河 为了支撑业务的快速扩张，Anthropic</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26854</guid>
+      <pubDate>Tue, 07 Apr 2026 01:19:00 +0000</pubDate>
     </item>
     <item>
-      <title>​苹果携手香港大学推出 LGTM 渲染框架，打破 4K 画质瓶颈​苹果携手香港大学推出 LGTM 渲染框架，打破 4K 画质瓶颈</title>
-      <link>https://news.aibase.com/zh/news/26826</link>
-      <description>苹果研究团队与香港大学合作发布了一项名为 LGTM 的新渲染框架。这一框架的全称为 “Less Gaussians， Texture More”，旨在突破4K 超高清画质的渲染瓶颈。 LGTM 框架的核心创新在于将3D 场景的几何结构与表面纹理进行解耦，从而简化几何形状的复杂性，同时通过叠加纹理层实现高质量的视觉效果。传统的 “前馈3D 高斯泼溅” 技术虽然可以将2D 图像快速转换为3D 场景，但在高分辨率处理时，随着像素数量的增加，计算需求呈指数增长，使得设备难以承载。 为了解决这一问题，LGTM 采取了两步走的策略。首先，模型从低分辨率图像中学习场景结构，确保在2K 或4K 渲染时几何框架</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26826</guid>
-      <pubDate>Fri, 03 Apr 2026 03:06:00 +0000</pubDate>
+      <title>为省 Token 牺牲安全！Claude Code 泄露源码被挖出首个高危漏洞</title>
+      <link>https://news.aibase.com/zh/news/26855</link>
+      <description>据 4 月 7 日 最新 消息，安全研究机构 Adversa AI 在对此前意外泄露的 Claude Code 源代码进行深度审查时，发现了一个足以令开发者背脊发凉的致命高危漏洞：当该工具处理超过 50 条子命令的复合命令时，会静默绕过用户设置的所有安全过滤规则。 漏洞复现：第 51 条命令是“隐身”的恶意代码 Claude Code 作为 Anthropic 旗下增长最快的 AI 编程助手，允许开发者通过命令行直接管理代码库。为了防止敏感数据外泄，系统内置了权限校验（如禁止执行 curl 或 rm）。然而，研究人员发现： 静默绕过： 如果攻击者在一串命令中通过 &amp;&amp; 或 ; 连接超过 50 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26855</guid>
+      <pubDate>Tue, 07 Apr 2026 01:20:00 +0000</pubDate>
     </item>
     <item>
-      <title>腾讯云推出 “龙虾” 记忆服务Agent Memory，提升 AI 助理智能水平</title>
-      <link>https://news.aibase.com/zh/news/26827</link>
-      <description>近日，腾讯云正式发布了 “龙虾” 记忆服务 ——TencentDB Agent Memory，为其 OpenClaw 系统增添了强大的长期记忆能力。这项创新的记忆引擎由腾讯云数据库团队研发，采用了四层渐进式记忆系统，使 AI 助理能够更好地理解和记住用户的需求。 Agent Memory 服务的推出，使 OpenClaw 的回答准确率达到了76.10%，相比原有的记忆系统提升了近59%。用户在使用过程中，可以体验到龙虾不仅能处理简单的日常对话，还能在复杂的项目中保持信息的连贯性，避免因缺乏长期记忆而导致的 “失忆” 现象。 为了实现这一目标，Agent Memory 采用了独特的四层记忆架构。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26827</guid>
-      <pubDate>Fri, 03 Apr 2026 03:14:00 +0000</pubDate>
+      <title>谷歌悄然发布 Google AI Edge Eloquent:基于 Gemma4的免费离线 AI 听写神器</title>
+      <link>https://news.aibase.com/zh/news/26856</link>
+      <description>当地时间4月6日（周一），谷歌在 iOS 平台低调上线了一款名为 “Google AI Edge Eloquent” 的实验性语音输入应用。该应用主打“离线优先”与“智能润色”，旨在利用边缘侧 AI 技术，将自然的口语实时转化为专业、精炼的文本。此举标志着谷歌正式切入由 Wispr Flow 和 SuperWhisper 领跑的高端 AI 语音转文字赛道。 核心技术与功能亮点: Eloquent 搭载了谷歌 最新 发布的 Gemma4 系列（E2B/E4B 规格）自动语音识别(ASR)模型。该模型支持完全离线运行，用户在下载模型包后即可实现本地转录，有效保障隐私并降低延迟。应用具备强大的“智能</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26856</guid>
+      <pubDate>Tue, 07 Apr 2026 01:22:00 +0000</pubDate>
     </item>
     <item>
-      <title>腾讯云发布Agent Memory记忆服务，解决大模型“易失忆”痛点</title>
-      <link>https://news.aibase.com/zh/news/26828</link>
-      <description>4月3日，腾讯云正式推出针对智能体（Agent）的长期记忆服务“TencentDB Agent Memory”，旨在为OpenClaw等AI框架补齐长效记忆短板。该服务由腾讯云数据库团队研发，核心亮点在于构建了从原始对话到用户画像的“四层渐进式记忆系统”，实现了碎片化对话向结构化事实、场景化认知及个性化画像的深度转化。 技术评测显示，接入该服务后，OpenClaw在PersonaMem评测集下的总回答准确率从48%提升至76.10%，较原生记忆表现优化近六成。针对开发者痛点，Agent Memory通过插件形式无缝集成于腾讯云Lighthouse及ClawPro等产品， 随着AI Agent从</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26828</guid>
-      <pubDate>Fri, 03 Apr 2026 03:24:00 +0000</pubDate>
+      <title>苹果亚马逊OpenAI集体卷入诉讼，被控非法抓取YouTube视频训练AI</title>
+      <link>https://news.aibase.com/zh/news/26857</link>
+      <description>科技巨头苹果、亚马逊及OpenAI近日集体陷入法律风波，面临多名内容创作者发起的集体诉讼。 原告指控这些公司绕过了YouTube的反爬虫保护机制，私自下载并使用数百万条视频数据进行AI模型训练。 违规抓取数据引发众怒 多位YouTube频道主表示，苹果等公司通过名为Panda-70M的数据集定位并提取视频片段。 原告称其原创内容在该数据集中被非法调用超过 500 次，这构成了对版权保护系统的故意规避。 苹果的一篇研究论文揭示了其视频生成模型对该数据集的依赖，这成为了案件的关键证据。 创作者们认为，即便数据集仅提供索引，但实际的抓取和训练行为已经侵害了其法定权益。 原告方索赔并申请禁令 原告方目</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26857</guid>
+      <pubDate>Tue, 07 Apr 2026 01:22:00 +0000</pubDate>
     </item>
     <item>
-      <title>智元机器人开启“发布周”:密集展示具身智能自研成果</title>
-      <link>https://news.aibase.com/zh/news/26829</link>
-      <description>具身智能领军企业**智元（AGIBOT）**于4月3日正式宣布，将于下周一(4月7日)开启为期六天的“ 智元AI发布周 ”（AGIBOT AI Week）。此次活动将以前所未有的密度，集中展示其在具身智能领域的一系列核心自研成果，旨在攻克行业痛点，推动物理AI的全面进化。 针对当前具身智能产业普遍存在的“ 技术拼凑、落地断层 ”等挑战，智元计划在发布周期间，以“每日解锁一项核心突破”的节奏，完整拼叠出其在物理AI方面的能力版图。 此次系列发布的重点在于: 构建基础设施 :为具身智能产业的发展建设底层AI能力基础设施。 技术版图闭环 :通过六天的连续发布，展示从基础算法到硬件协同的完整自研能力。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26829</guid>
-      <pubDate>Fri, 03 Apr 2026 03:32:00 +0000</pubDate>
+      <title>Meta 计划借款 30 亿美元建设 AI 数据中心，助力未来算力需求</title>
+      <link>https://news.aibase.com/zh/news/26858</link>
+      <description>根据 最新 消息，Meta 公司正寻求约 30 亿美元的建设贷款，旨在打造一个名为 “Prometheus” 的大型人工智能数据中心项目。该数据中心项目的规模达到 1 吉瓦，标志着 Meta 在人工智能领域的持续投入与发展。 “Prometheus” 数据中心位于美国俄亥俄州的新奥尔巴尼，将包含多个数据中心建筑，整体算力达到 1GW。这一发电能力相当于一座核反应堆，可以为大约 100 万户家庭提供电力。为确保项目顺利进行，Meta 计划将数据中心设施与独立的发电系统结合在同一融资结构中，采用天然气发电为数据中心提供电力，从而减少对外部电网的依赖。 该项目的融资方案设定的贷款利率为较担保隔夜融资</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26858</guid>
+      <pubDate>Tue, 07 Apr 2026 01:28:00 +0000</pubDate>
     </item>
     <item>
-      <title>微软开启“AI 自主化”总攻：拟 2027 年问世最强自研模型</title>
-      <link>https://news.aibase.com/zh/news/26830</link>
-      <description>据媒体报道， 微软 正全速推进其自研 尖端 AI 模型计划。该公司的目标极其宏大：在未来几年内打造出足以与 OpenAI 和 Anthropic 正面硬刚的前沿 AI 系统，并计划在 2027 年实现文本、图像和音频处理能力的行业全方位领先。 战略“松绑”：从强力外援转向核心自主 这一动作被视为微软 AI 战略的重大转折。自去年微软与 OpenAI 调整合作协议以来， 微软 获得了实质性的技术开发自由度。 自主化期限： 微软内部制定的目标是在未来三到五年内实现 AI 能力的全面自主化。 生态兼容： 虽然转向自研，但微软表示仍将继续支持包括外部开源模型在内的多元化生态。 算力军备：豪掷英伟达 G</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26830</guid>
-      <pubDate>Fri, 03 Apr 2026 03:43:00 +0000</pubDate>
+      <title>​美国职场新词 “FOBO”：AI带来职场人对被淘汰的恐惧加剧</title>
+      <link>https://news.aibase.com/zh/news/26859</link>
+      <description>根据《财富》杂志的报道，2026 年，美国职场出现了一个新的心理现象 ——FOBO（Fear of Becoming Obsolete），即对被淘汰的恐惧。这种情绪不同于传统的 “失业焦虑”，它更多地反映了人们对自身价值和相关性的担忧。毕马威的调查显示，40% 的员工将因 AI 导致的失业视为主要焦虑源，而 63% 的人认为 AI 让工作环境变得更加缺乏人性。 近年来，岗位技能需求变化的速度显著加快，相比于一年前提高了 66%。这种心理状态逐渐成为职场的主流情绪。企业高管和政策制定者的预测进一步加剧了这种焦虑。例如，Anthropic 的首席执行官达里奥・阿莫代伊表示，AI 可能在五年内消灭 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26859</guid>
+      <pubDate>Tue, 07 Apr 2026 01:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI 搜索引擎 Perplexity 被控隐私侵犯，用户数据疑遭泄露</title>
-      <link>https://news.aibase.com/zh/news/26831</link>
-      <description>AI 搜索引擎 Perplexity 面临集体诉讼，原因是其 “隐身模式” 被指形同虚设，用户的聊天记录被完整共享给谷歌和 Meta，用于广告投放。诉讼由一名匿名用户发起，指出 Perplexity 存在严重的隐私侵犯行为，称其所谓的隐私保护措施实际上是一个骗局。 根据诉状，无论用户是否登录账户或开启隐私保护，所有对话内容都会被自动共享给谷歌和 Meta，这使得用户的个人信息暴露于广告商之下。调查还发现，Perplexity 的平台中嵌入了 Facebook Meta Pixel 和 Google Ads 等追踪器，甚至使用了 Meta 的 “Conversions API” 技术，这些工具常</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26831</guid>
-      <pubDate>Fri, 03 Apr 2026 05:40:00 +0000</pubDate>
+      <title>全球调用量突破 27 万亿！中国 AI 大模型连续五周力压美国，包揽榜单前六</title>
+      <link>https://news.aibase.com/zh/news/26860</link>
+      <description>根据 OpenRouter 最新 监测数据显示，在3月30日至4月5日期间，全球 AI 大模型总调用量飙升至 27万亿 Token ，环比增长18.9%。在这场算力竞速中，中国 AI 表现尤为抢眼，周调用量达到 12.96万亿 Token ，环比涨幅高达31.48%，已连续五周在调用规模上超越美国同期水平。 榜单“大满贯”:前六名清一色中国制造 在全球模型调用量排行榜上，中国大模型展现了统治级的优势，直接包揽了前六位席位: 阿里千问蝉联榜首: 阿里旗下的 Qwen3.6Plus （free） 以4.6万亿 Token 的周调用量稳居 第一 ;其预览版 Qwen3.6Plus Preview 亦</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26860</guid>
+      <pubDate>Tue, 07 Apr 2026 01:35:00 +0000</pubDate>
     </item>
     <item>
-      <title>美的集团转型 AI 科技巨头：日均 1.3 万个智能体同时在线</title>
-      <link>https://news.aibase.com/zh/news/26832</link>
-      <description>据媒体报道， 美的集团 正在深度推进 AI 技术赋能。目前，该集团每天有超过 1.3万个 智能体在高效运行，标志着 AI 已从实验室走向大规模产业应用。 核心底座:1.3万个智能体覆盖全价值链 不同于碎片的 AI 应用， 美的集团 的智能体已经渗透进企业的每一个“毛细血管”: 全环节覆盖: 智能体已全面覆盖研发、制造、供应链及营销等各个核心环节。 协同效应: 通过海量智能体的并发运行，实现了从需求洞察到产品交付的高效协同，极大提升了企业的运营效率。 制造样本:荆州工厂的“工厂大脑” 在 美的 荆州洗衣机工厂，AI 赋能展现了工业4.0的真实样貌: 统一调度: 由“工厂大脑”统一调度各类智能体，</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26832</guid>
-      <pubDate>Fri, 03 Apr 2026 06:09:00 +0000</pubDate>
+      <title>​微软 iOS 版 Word 引入 AI 协同创作功能，提升文档编写效率</title>
+      <link>https://news.aibase.com/zh/news/26861</link>
+      <description>近日，微软在其官方博客上宣布，邀请 Microsoft 365 Insider 项目成员测试其在 iOS 版 Word 中新增的 Copilot 协同创作功能。该功能旨在帮助用户通过自然语言与 AI 进行互动，从而更加高效地编写和编辑文档。 用户可以在新建或已有文档中，点击 Copilot 图标，然后在提示框内用自然语言输入自己的想法。Copilot 将会根据用户的指示生成文档内容，用户可以进一步优化和调整这些输出结果。此外，微软还为提升用户体验提供了一些实用的操作技巧，比如使用 “/” 字符来引用其他内容，或通过简单的撤销操作来撤回不当的修改。 在协作方面，该功能也引入了安全机制。在共享文档</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26861</guid>
+      <pubDate>Tue, 07 Apr 2026 01:44:00 +0000</pubDate>
     </item>
     <item>
-      <title>小米MiMo大模型发布Token订阅套餐:四档位覆盖全模态，月费39元起</title>
-      <link>https://news.aibase.com/zh/news/26833</link>
-      <description>3月底，小米正式面向全球开发者推出自研MiMo大模型的首个Token Plan订阅套餐，标志着小米AI商业化进入规模化交付阶段。 此次推出的Token Plan共分为Lite、Standard、Pro、Max四档，月费从39元至659元不等，通过统一Credit点数体系实现了多模型、多模态调用的计费透明化。该套餐全面覆盖了包括MiMo-V2-Omni及近期在OpenRouter平台连续霸榜的MiMo-V2-Pro在内的核心模型，支持文本、图像、音频等全模态能力的一站式订阅。 技术层面，MiMo-V2-Pro凭借万亿级参数及百万级上下文窗口，在Text Arena双盲评测中位列全球Model R</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26833</guid>
-      <pubDate>Fri, 03 Apr 2026 06:10:00 +0000</pubDate>
+      <title>​谷歌 Gemma 4 全面开源：小型模型展现超强 AI 能力</title>
+      <link>https://news.aibase.com/zh/news/26862</link>
+      <description>谷歌近日正式发布了 Gemma4系列的开源模型，标志着人工智能领域的一次重大进步。这些模型的特别之处在于，某一款仅需激活3.8亿个参数，便能在 权威 榜单上超越体量是其20倍的其他大型模型。这意味着，强大的 AI 能力可以轻松装进手机和轻薄笔记本电脑中，为用户提供便捷的人工智能服务。 Gemma4系列包含多个尺寸的模型，具体包括有效参数量为2.3B 的 gemma-4-E2B、4.5B 的 gemma-4-E4B、26B 参数的混合专家模型以及31B 参数的稠密模型。这些模型通过底层架构的创新，提升了计算效率和性能。新引入的逐层嵌入技术使得小模型在保持高速运算的同时，能够掌握超出自身体量的知识</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26862</guid>
+      <pubDate>Tue, 07 Apr 2026 01:52:00 +0000</pubDate>
     </item>
     <item>
-      <title>滴滴AI出行助手用户增长37倍，清明假期成智能调度大考</title>
-      <link>https://news.aibase.com/zh/news/26834</link>
-      <description>滴滴出行今日发布数据显示，其AI出行助手“小滴”用户量呈现爆发式增长，近一周活跃用户较年初激增37倍，其中00后群体占比超过40%。随着清明假期的到来，滴滴预测4月3日16时将提前进入打车晚高峰，前往交通枢纽的需求将同比上涨239%，异地用车需求预计增长近40%。面对复杂的假期出行场景，滴滴通过AI技术实现了从“打到车”向“打对车”的服务升维。 目前，AI助手小滴已集成90多个服务标签，支持通过自然语言交互实现复杂的出行决策。用户只需输入班次或航次信息，AI即可结合实时路况、预计抵达时间自动推算出发时刻，并智能匹配大后备箱车型或具备“本地通”属性的司机。这种基于大模型能力的个性化调度，不仅解决</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26834</guid>
-      <pubDate>Fri, 03 Apr 2026 06:24:00 +0000</pubDate>
+      <title>国家安全部发布Token安全警示:日均词元调用量超140万亿，严防身份劫持与金融骗局</title>
+      <link>https://news.aibase.com/zh/news/26863</link>
+      <description>国家安全部今日就AI核心术语“词元”（Token）发布安全警示，强调在日均调用量突破140万亿规模的市场背景下，需高度警惕由此引发的数据泄露与金融诈骗风险。 随着国家数据局对Token的正式定名，这一兼具可计量、可定价、可交易特征的AI信息最小单元已成为智能时代的“结算单位”。数据显示，截至2026年3月，我国词元调用量较2024年初增长超千倍，其应用场景已从AI文本生成、音视频剪辑深度延伸至数字身份凭证及区块链权益通证等领域。 然而，技术爆发伴随着安全挑战。国家安全部指出，不法分子正利用跨站脚本攻击、公共Wi-Fi嗅探等手段窃取词元，一旦泄露，攻击者可直接接管用户身份，诱发隐私窃取或资产非法</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26863</guid>
+      <pubDate>Tue, 07 Apr 2026 01:53:00 +0000</pubDate>
     </item>
     <item>
-      <title>小米 MiMo 大模型首推 Token 套餐：最低 39 元起</title>
-      <link>https://news.aibase.com/zh/news/26835</link>
-      <description>据媒体报道，小米官宣为其 MiMo 大模型 推出首个 Token Plan 。这是一套专门面向开发者以及“养虾”用户（AI 兴趣群体）量身定制的 AI 大模型调用套餐，标志着小米 AI 生态正式进入付费订阅时代。 四档方案：按需订阅，覆盖不同使用强度 本次推出的 MiMo Token Plan 共设置了四个梯度，以满足从轻度试用到高频开发的不同需求： Lite 版： 39 元/月 Standard 版： 99 元/月 Pro 版： 329 元/月 Max 版： 659 元/月 一票通行：单次订阅解锁三大核心模型 与零散调用不同，用户只需订阅任一档位的套餐，即可同时获得 MiMo 家族三大主力模</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26835</guid>
-      <pubDate>Fri, 03 Apr 2026 06:29:00 +0000</pubDate>
+      <title>谷歌发布首款离线 AI 听写应用 Eloquent：手机秒变专业速录员</title>
+      <link>https://news.aibase.com/zh/news/26864</link>
+      <description>当地时间周一， 谷歌 正式在 iOS 平台推出了主打全离线使用的语音听写应用 Google AI Edge Eloquent 。这款应用不仅打破了对网络环境的依赖，更凭借大模型的润色能力，直击语音转录中“废话多、不通顺”的行业痛点。 核心亮点:离线运行，隐私与效率兼得 Eloquent 的核心竞争力在于其完全基于本地算力的处理机制: 原生大模型驱动: 该应用基于谷歌轻量化模型 Gemma 构建，在完成对应的 ASR（自动语音识别）模型下载后，即可实现100% 离线工作。 隐私护城河: 所有音频处理均在本地设备完成，有效解决了商务会议、私人访谈等高敏感场景下的数据泄露隐忧。 特色功能:智能“去水</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26864</guid>
+      <pubDate>Tue, 07 Apr 2026 01:53:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI 初创公司 Ex-Human 起诉苹果:指控其非法下架应用并扣留50万美元收入</title>
-      <link>https://news.aibase.com/zh/news/26836</link>
-      <description>人工智能初创公司 Ex-Human 近日正式起诉苹果公司，指控其“任意执行”应用商店规则，导致旗下 AI 社交应用 Botify AI 与 Photify AI 遭到下架并被扣留约50万美元收入。 此前，有调查指称 Botify AI 托管的聊天机器人存在绕过审核机制提供涉及未成年角色的露骨色情内容，并允许用户生成真人脱衣图像。对此，Ex-Human 在诉讼中反驳称，下架通知仅模糊提及“不诚实或欺诈行为”而未提供确凿证据，并指控苹果此举旨在通过打击第三方 AI 应用来为自家 Image Playground 扫清竞争障碍。 尽管 Ex-Human 强调其系统用户黏性已超越 ChatGPT 等主</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26836</guid>
-      <pubDate>Fri, 03 Apr 2026 06:36:00 +0000</pubDate>
+      <title>腾讯 AI 新平台“探梦 DreamNow”曝光：人人都可创作 AI 大剧</title>
+      <link>https://news.aibase.com/zh/news/26865</link>
+      <description>据4月7日相关媒体报道， 腾讯 正在研发一款名为 “探梦 DreamNow” 的全新 AI 产品。这不仅是一个 AIGC 内容的展示空间，更是一个集创作、社交、互动于一体的多功能平台。 核心亮点:互动影游的“全民创作”时代 与市面上常见的 AI 展示平台不同， “探梦 DreamNow” 最具杀伤力的功能在于对“互动影游”的支持: 沉浸式体验: 用户不仅能观看 AI 生成的视频和图片，还能直接参与创作具备多分支剧情的互动作品。 低门槛创作: 平台拟开放创建功能，意味着普通用户也有机会利用 AI 工具，像制作幻灯片一样编排属于自己的互动数字内容。 实测案例:国风新作《魏晋风骨》先行 目前，平台内</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26865</guid>
+      <pubDate>Tue, 07 Apr 2026 01:56:00 +0000</pubDate>
     </item>
     <item>
-      <title>阿里通义实验室发布Wan2.7-Video视频生成模型</title>
-      <link>https://news.aibase.com/zh/news/26837</link>
-      <description>通义实验室推出了全新的视频创作工具 Wan2.7-Video，旨在提升创作者的自由度与灵活性。针对当前 AI 视频创作领域中常见的两个主要问题 —— 内容生成不专业和视频修改困难，Wan2.7-Video 提供了一系列强大的功能，帮助用户轻松实现创作与编辑。 在内容生成方面，Wan2.7-Video 采用了更为先进的模型，支持文本、图像、视频和音频的全模态输入，用户可以在画面结构、剧情走向、局部细节等方面进行精确控制。这意味着用户可以像编辑文档一样，对视频内容进行修改，满足更高的创作需求。 该工具的超强编辑能力让视频的修改变得更加简单。用户只需通过指令即可对视频中的元素进行精准调整，诸如删除不</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26837</guid>
-      <pubDate>Fri, 03 Apr 2026 07:05:00 +0000</pubDate>
+      <title>要做“AI 时代的皮克斯”！专业动画 Agent 工具 OiiOii 正式上线</title>
+      <link>https://news.aibase.com/zh/news/26866</link>
+      <description>4月2日，全球首个专业级动画创作 Agent 工具 OiiOii 正式结束内测，宣告全球同步上线。这款在内测阶段就曾凭100个名额吸引10 万人疯抢 的“黑马”产品，正试图通过 AI 技术打破动画制作的专业壁垒。 核心亮点:7个 Agent 协同，“玩具化”的专业工具 OiiOii 的核心竞争力在于其独特的“多智能体”协作模式: 原生 Agent 架构: 内部集成了7个专门的 AI Agent 共同工作，用户无需理解复杂的提示词（Prompt）或技术名词，只需表达模糊的创意，AI 即可将其具象化。 降低门槛: 相比其他只能生成单镜头的工具， OiiOii 覆盖了从分镜、角色连贯性到视频生成的全</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26866</guid>
+      <pubDate>Tue, 07 Apr 2026 02:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>​谷歌发布 Gemini API 新定价策略，推理服务按需计费</title>
-      <link>https://news.aibase.com/zh/news/26838</link>
-      <description>谷歌近期对其 Gemini API 的计费结构进行了更新，旨在更好地满足用户的推理使用需求。这次更新带来了多种新的服务档位，包括标准、弹性、优先、批量和缓存版。用户可以根据自身的实际需求选择最合适的档位。 首先，标准档位提供了基础的推理服务，用户可以根据自己的使用情况进行选择。弹性档位则是一个创新的选择，它利用非高峰时段的闲置算力资源，为用户提供了标准价格的五折优惠。这个档位的目标延迟在 1 至 15 分钟之间，但并不保证固定的延迟时间，适合那些对时间要求不太严格的应用场景。 此外，批量档位同样为用户提供了标准费率的五折优惠，适合需要处理大量数据的用户，延迟时间最长可达 24 小时。此档位特别</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26838</guid>
-      <pubDate>Fri, 03 Apr 2026 07:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>蚂蚁GPASS再拓智能眼镜场景：一句话解锁共享单车</title>
-      <link>https://news.aibase.com/zh/news/26839</link>
-      <description>近日，千问AI眼镜接入蚂蚁GPASS，上线共享单车骑行与停车缴费等一系列“AI办事”功能。 基于GPASS底层能力，用户佩戴千问AI眼镜后，只需语音唤醒，即可完成多项高频生活服务。在出行场景中，“你好千问，我要骑车”，按提示注视车辆二维码即可完成核验开锁;抵达目的地后，说一句“你好千问，我要还车”即可自动还车并结算费用。全流程无需手动操作，真正实现无感化骑行。 据悉，停车缴费功能此次也同步上线千问AI眼镜。车辆进入停车场后，眼镜通过语音告知用户计费开始时间;离开停车场前，用户无需掏出手机扫码，仅需通过眼镜语音唤醒服务或扫描停车码，即可自动完成缴费离场。 在安全、连接和交互层面，GPASS为这些</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26839</guid>
-      <pubDate>Fri, 03 Apr 2026 07:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apache 2.0 协议加持！谷歌 Gemma 4 正式开源：31B 参数性能直逼头部大模型</title>
-      <link>https://news.aibase.com/zh/news/26840</link>
-      <description>4月3日凌晨，Google DeepMind 正式发布新一代开源模型系列 Gemma4 。此次更新距离上一代产品发布整整一年，谷歌不仅在性能上实现了“代际跨越”，更在开源诚意上放出了大招:将许可证由自有协议彻底更换为全球通用的 Apache2.0 ，这意味着开发者可以更自由地进行商用与二次开发。 规格全覆盖:从手机端到工作站的“四剑客” Gemma4 此次一口气推出了四款不同规格的模型，实现了全场景覆盖: 31B Dense（旗舰版）: 310亿全激活参数，支持256K 超长上下文。在 Arena AI 开源排行榜中高居第三，未量化版本仅需一张 H100即可运行。 26B A4B MoE（性价</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26840</guid>
-      <pubDate>Fri, 03 Apr 2026 07:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​人工智能公司 Ex-Human 起诉苹果，指控 App Store 审核不公</title>
-      <link>https://news.aibase.com/zh/news/26841</link>
-      <description>近日，一家名为 Ex-Human 的人工智能创业公司在美国对苹果公司提起诉讼，指控其在未提供具体证据的情况下，错误地下架了其应用，并拖欠约 50 万美元的收入。Ex-Human 的旗下应用 BotifyAI 和 PhotifyAI 曾在苹果 App Store 上架，但目前仍可在 Google 应用商店下载。 Ex-Human 曾因其服务涉嫌引发争议，包括未成年角色的色情化对话和生成真实人物的裸露图像。苹果公司对此表示，确保 App Store 符合规定是其责任，但如何执行这一责任常常难以界定。Ex-Human 在诉状中称，苹果在通知其下架时仅提到 “欺骗或欺诈性活动”，却没有提供任何详细的违</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26841</guid>
-      <pubDate>Fri, 03 Apr 2026 07:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>红果短剧下架AI剧《桃花簪》:出品方涉“盗脸”侵权被停职</title>
-      <link>https://news.aibase.com/zh/news/26842</link>
-      <description>4月3日，短剧平台红果短剧正式发布公告，宣布全面下架AI短剧《桃花簪》并对出品方处以暂停上传剧集15天的处罚。此次下架源于多位博主投诉该剧在制作过程中未经授权擅自使用其面部形象进行AI处理，且涉及丑化角色。在平台给出的72小时审核期内，出品方因无法证明素材使用的合规性，被判定违反内容合规规定。 该事件始于3月31日，“AI短剧偷脸”话题引发社会广泛讨论。受害者包括汉服博主“白菜”及商业模特“七海”，两人均指出其个人妆造及面部特征被AI高度还原并植入剧集。此案再次推向了生成式AI技术在影视创作中肖像权认定的法律边界。专家指出，AI肖像权侵权的核心在于“可识别性”而非技术手段，即便制作方声称是软件</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26842</guid>
-      <pubDate>Fri, 03 Apr 2026 08:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>语音秒变亲友声！广汽本田 P7 开启 OTA 升级：AI 大模型正式上车</title>
-      <link>https://news.aibase.com/zh/news/26843</link>
-      <description>4 月 3 日， 广汽本田 P7 正式推送了智导互联 4.2.2 系统的 OTA 升级。本次更新的核心亮点在于 AI 大模型 的全面集成以及极具温情色彩的“声音复刻”功能，标志着本田在华纯电车型正式步入大模型原生驱动的新阶段。 核心亮点：AI 大模型变身“全能管家” 接入 AI 大模型 后， 广汽本田 P7 的座舱交互能力实现了质变： 旅行规划大师： 能够根据用户意图自动生成旅行攻略，提供保姆级的路线建议。 用车解惑： 告别翻阅纸质说明书，车主可直接通过语音询问各类用车功能与故障排查。 闲聊解闷： 语义理解能力大幅提升，支持更自然、更有逻辑的多轮对话。 温情科技：手机录制即可“复刻”亲友声音 </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26843</guid>
-      <pubDate>Fri, 03 Apr 2026 08:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​Cursor 3 发布：软件开发迈入智能体自主时代</title>
-      <link>https://news.aibase.com/zh/news/26844</link>
-      <description>Cursor 团队正式发布了 Cursor3版本，这标志着软件开发进入了一个全新的阶段，软件开发方式由过去的 “人机协作” 转向 “智能体自主工作”。新版本围绕智能体构建了一个统一的工作区，旨在提升开发者的编程体验，并实现多代码仓库的协同工作。 Cursor3的核心创新在于其 “智能体统一工作区” 设计。这个设计允许用户与多个智能体同时协作，不论是本地环境还是云端，所有智能体都能在侧边栏中集中展示。用户可以从不同的终端，如移动设备、Web、桌面和 Slack 等地方，方便地启动智能体。此外，云端智能体还能够生成工作成果的演示和截图，帮助用户更直观地确认项目进展。 另一大亮点是本地与云端智能体的</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26844</guid>
-      <pubDate>Fri, 03 Apr 2026 08:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>北京市新增15款已完成登记的生成式人工智能服务</title>
-      <link>https://news.aibase.com/zh/news/26846</link>
-      <description>北京市互联网信息办公室正式发布了关于生成式人工智能服务的登记公告。根据《生成式人工智能服务管理暂行办法》及相关规定，使用 API 接口或其他方式直接调用已备案大模型的生成式人工智能应用或功能，将采用登记管理方式，这意味着这些应用或功能可以合法上线并提供服务。 截至2026年4月3日， 北京市已新增15款完成登记的生成式人工智能服务。 这些服务的上线为市民提供了更多便利和选择，促进了智能科技的应用和发展。 根据规定，所有已上线的生成式人工智能应用和功能，需在显著位置或产品详情页面公示其上线编号。此外，相关产品还需遵循《人工智能生成合成内容标识办法》，为生成的合成内容添加标识，确保透明度和用户知情</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26846</guid>
-      <pubDate>Fri, 03 Apr 2026 08:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>儿童安全联盟背后暗藏玄机：OpenAI 悄然出资引发质疑</title>
-      <link>https://news.aibase.com/zh/news/26847</link>
-      <description>在三月中旬，来自全国各地的儿童安全组织接到了一个名为 “父母与儿童安全 AI 联盟” 的组织的电子邮件，询问他们是否愿意支持该组织的政策优先事项。邮件中提到的 AI 监管原则包括年龄验证、家长控制以及禁止针对儿童的广告等相对不具争议的建议。然而，许多组织并不知情的是，这个联盟完全由全球知名的 AI 聊天公司 OpenAI 资助。 OpenAI 正在推动加州的立法进程，并与越来越多的支持者建立了联盟。然而，部分原本加入联盟的组织 领导者 表示，他们对 OpenAI 的参与程度并不知情，甚至在联盟正式公布后才得知相关信息，并因此选择退出。某些非营利组织的 领导者 对此感到十分不安，认为 OpenA</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26847</guid>
-      <pubDate>Fri, 03 Apr 2026 09:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>亚马逊、英伟达集体入局！印度 AI 新星 Sarvam 开启 3.5 亿美元巨额融资</title>
-      <link>https://news.aibase.com/zh/news/26848</link>
-      <description>4月3日消息，印度人工智能初创公司 Sarvam AI 已正式开启新一轮融资，计划筹集 3亿至3.5亿美元 。据悉，本轮融资后其估值将达到 15亿至15.5亿美元 ，最快有望在未来一周内尘埃落定。 豪华天团:全球科技巨头竞相押注 本轮融资的参投名单堪称“全明星”阵容，显示出全球资本对印度 AI 潜力的高度认可: 领投方: 预计由知名风投机构 贝塞默风险投资 （Bessemer Venture Partners）担纲。 重量级巨头: 科技巨头 亚马逊 与 AI 芯片霸主 英伟达 均有意参与。 中东资本: 沙特阿美旗下的风险投资机构 Prosperity7Ventures 也在潜在大股东名单之列。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26848</guid>
-      <pubDate>Fri, 03 Apr 2026 09:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>美团发布原生多模态 LongCat-Next：视觉语音实现底层统一</title>
-      <link>https://news.aibase.com/zh/news/26849</link>
-      <description>4 月 3 日， 美团技术团队 正式发布原生多模态大模型 LongCat-Next 。该模型突破了传统“语言基座+插件”的拼凑架构，通过将图像、语音与文本统一转化为同源的离散 Token，让 AI 第一 次能够像处理文字一样，原生地“看”与“听”物理世界。 技术核心：DiNA 架构实现“模态内化” 为了打破模态间的隔阂， 美团 构建了 DiNA（离散原生自回归）架构 ，实现了多模态建模的深度统一： 全模态统一： 无论是文字、图像还是音频，模型都采用同一套参数、注意力机制和损失函数。 理解与生成对称： 在统一的数学形式下，预测文字 Token 即为“理解”，预测图像 Token 即为“生成”，两</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26849</guid>
-      <pubDate>Fri, 03 Apr 2026 09:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>千问App上线Wan2.7视频模型：几句话搞定视频编辑和动作续写</title>
-      <link>https://news.aibase.com/zh/news/26850</link>
-      <description>4月3日，千问APP正式上线全新万相2.7视频生成模型，凭借其更全面的创作控制能力，千问APP推出了视频编辑、视频续写与动作模仿三大核心功能，几句话即可让视频实现猫狗或人物替换。 在视频编辑上，用户只用几句话即可完成画面修改:给画面里加一个人、换一套衣服、调整背景环境，整体光影和细节也能自然匹配。此外，视频风格也支持一键切换，动画、3D、黏土等多种创意风格均可快速实现。 用户也可直接针对剧情内容修改，如直接调整角色的动作、表情，甚至修改台词内容，同时保持口型和语气的自然一致。同一段视频，还可以切换不同拍摄方式，比如换个机位、拉近镜头，让画面呈现出完全不同的感觉。 千问App支持视频续写，可将2</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/26850</guid>
-      <pubDate>Fri, 03 Apr 2026 14:24:00 +0000</pubDate>
+      <title>Word 迎来最强“搭子”！微软 iOS 版开启 Copilot 协同创作测试</title>
+      <link>https://news.aibase.com/zh/news/26867</link>
+      <description>4月6日， 微软 发布博文宣布，正式邀请 Microsoft365Insider 项目成员在 iOS 版 Word 中测试全新的 Copilot 协同创作 功能。该功能由原先的 Agent Mode 更名而来，旨在通过自然语言交互，彻底改变移动端文档的生产效率。 核心亮点:自然语言“即刻成文” 持有 Copilot 许可证的 iOS 用户现在可以在文档中直接呼唤 AI 助手: 指令驱动: 用户只需点击文档内的 Copilot 图标并输入想法，AI 即可根据指令自动生成草稿或完善现有内容。 引用增强: 微软引入了便捷操作技巧，用户可以通过输入“/”符号快速引用其他参考内容，让 AI 的输出更精准</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/26867</guid>
+      <pubDate>Tue, 07 Apr 2026 02:11:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
