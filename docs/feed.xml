@@ -8,167 +8,132 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 18 Apr 2026 02:24:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 02:39:37 +0000</lastBuildDate>
     <item>
-      <title>Google AI Studio 直接支持 AI 订阅计划，按请求付费独享“所有模型+智能体”？</title>
-      <link>https://news.aibase.com/zh/news/27216</link>
-      <description>AIbase 报道 :Google 正在 AI Studio 上逐步推出对 Google AI 计划（Google AI Plans）的支持，这一更新让开发者能够更便捷地在统一平台内访问一系列先进 AI 模型、享受更高的使用限额，并整合 Google 产品生态中的更多功能。 这一变化标志着 Google 进一步打通其 AI 开发工具与订阅服务的壁垒。用户在 AI Studio 中可直接关联 Google AI 订阅，获得更流畅的模型访问体验，同时覆盖文本、图像、音频和视频等多模态能力。 按请求付费解锁“所有模型与代理” 值得注意的是， 按请求付费（Pay-per-request）选项 目前提供</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27216</guid>
-      <pubDate>Fri, 17 Apr 2026 02:25:00 +0000</pubDate>
+      <title>杨立昆怒怼 Anthropic CEO：别听那个卖货的瞎忽悠</title>
+      <link>https://news.aibase.com/zh/news/27240</link>
+      <description>近日，AI 圈上演了一场激烈的观点交锋。刚刚离开 Meta 并创立 AMI Labs 的“AI 教父” 杨立昆（Yann LeCun） 在社交平台 X 上公开对呛 Anthropic 首席执行官 Dario Amodei，直指其近期关于“AI 引发大规模失业”的言论纯属误导。 事件起因于 Amodei 在接受采访时发表的一段激进预测。他声称，在未来1到5年内，AI 将消灭50% 的技术岗位、初级律师及金融从业者，甚至可能将失业率推高至20%。这一带有“末日预言”色彩的观点迅速引发了舆论关注，但也遭到了杨立昆的犀利反驳。 杨立昆在转发相关内容时明确表示:“别信他的，他只是想卖掉他的 AI 产品。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27240</guid>
+      <pubDate>Mon, 20 Apr 2026 00:52:00 +0000</pubDate>
     </item>
     <item>
-      <title>性别天平翻转!ChatGPT 女性用户突破5亿，AI 正式告别“技术小众”时代</title>
-      <link>https://news.aibase.com/zh/news/27217</link>
-      <description>近日，OpenAI 发布了一系列关于用户画像、全球竞争格局及底层基础设施的 最新 数据，揭示了生成式人工智能从“极客玩具”向“大众工具”转变的里程碑。 OpenAI 数据显示，ChatGPT 的用户结构发生了显著变化。在2022年底发布之初，男性用户占比高达80%。而截至2025年秋季， 女性活跃用户比例已 首次 超过50% 。按目前 ChatGPT 接近10亿的月活总量计算，全球约有5亿女性正在定期使用该工具。OpenAI 认为，这种转变标志着 AI 已跨越技术门槛，成为社会普遍接受的日常生产力工具。 在备受关注的中美 AI 竞赛方面，OpenAI 情报团队估算，到2025年 中国在 AI </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27217</guid>
-      <pubDate>Fri, 17 Apr 2026 02:47:00 +0000</pubDate>
+      <title>爆料！Jeecg 团队实测 Gemini CLI：差点被 AI “抄了家”？</title>
+      <link>https://news.aibase.com/zh/news/27241</link>
+      <description>最近 AI 圈挺热闹，Claude Code 凭实力圈了一波粉，但那动不动就“实名认证”加“连环封号”的骚操作，着实把不少开发者搞心态了。国内知名的 JeecgBoot 低代码团队也没能幸免，为了不耽误进度，他们决定把工作流转到 Google 新出的 Gemini CLI 上试试。 这本是一场“备胎转正”的测评，结果却由于一个极其隐蔽的“冷知识”，演变成了一场手心冒汗的事故。 核心能力：Skills 机制平替无压力 对于依赖 JeecgBoot 这种低代码框架的团队来说，最核心的需求就是能否跑通各种自定义技能（Skills）。 实测发现，Gemini CLI 在这方面表现相当惊艳。它能直接识别</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27241</guid>
+      <pubDate>Mon, 20 Apr 2026 00:56:00 +0000</pubDate>
     </item>
     <item>
-      <title>字节跳动启动首轮“豆包股”回购，涨幅达30% 强化 AI 人才激励</title>
-      <link>https://news.aibase.com/zh/news/27218</link>
-      <description>字节跳动近日通过内部邮件宣布，自4月15日起正式启动“豆包股”的 首次 回购行动。本次回购价格定为13.08美元，较最初10美元的授予价格上涨约30%。这一溢价表现直接反映了字节跳动大模型业务在过去半年内的估值增长，为相关核心技术人员提供了显著的账面收益与退出渠道。 据悉，“豆包股”是字节跳动于2025年10月试点推行的一项长期激励计划（LTI）。该计划专为豆包相关大模型业务量身定制，引入了类似字节期权的虚拟股回购机制，旨在通过与业务成长深度绑定的财务收益，增强对 顶尖 AI 人才的吸引力。目前，该激励计划已在负责大模型预训练与前沿探索的 Seed 部门全面推行。 此举紧随此前字节跳动高层对 </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27218</guid>
-      <pubDate>Fri, 17 Apr 2026 02:54:00 +0000</pubDate>
+      <title>ChatGPT 推出年龄预测功能：以技术之手筑起青少年安全防线</title>
+      <link>https://news.aibase.com/zh/news/27242</link>
+      <description>在生成式 AI 全球风靡的当下，如何保障未成年人的使用安全始终是舆论关注的焦点。据 OpenAI 官方消息，本周其旗舰产品 ChatGPT 已正式推出“年龄预测”功能。这项面向全球市场的新举措，旨在通过智能识别手段为青少年用户提供更加精准的适龄体验，标志着 AI 监管从“一刀切”向“精细化”迈出了重要一步。 为了实现这一目标，OpenAI 采取了“大数据分析+第三方验证”的双重保障机制。一方面，系统会通过深度学习技术，对账户相关的多重维度进行研判，例如用户频繁谈论的话题类型、活跃的时间段等行为特征。通过这些细微的交互模式，系统可以辅助预测用户是否属于未成年群体。 一旦系统判定用户未满18岁，C</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27242</guid>
+      <pubDate>Mon, 20 Apr 2026 01:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>​Anthropic 发布全新 Claude Opus 4.7，功能显著提升</title>
-      <link>https://news.aibase.com/zh/news/27219</link>
-      <description>Anthropic 公司宣布，其 最新 款的人工智能模型 Claude Opus 4.7 正式上市。相较于前一版本 Opus 4.6，Opus 4.7 在 高级 软件工程领域表现出显著提升，能够更好地处理复杂任务和执行指令。此外，该模型还具备自我验证能力，确保返回的结果更加准确。 Opus 4.7 在视觉处理方面同样表现出色，支持识别高达 2，576 像素长边的图像，大幅提升了在专业任务中的创造力和质量。这使得 Opus 4.7 非常适合需要细致视觉效果的应用场景，例如创建高质量的幻灯片和文档。根据多项基准测试的结果，Opus 4.7 在性能上超越了其前身 Opus 4.6，并且内置了网络安全</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27219</guid>
-      <pubDate>Fri, 17 Apr 2026 02:56:00 +0000</pubDate>
+      <title>​Vercel 遭黑客攻击，第三方 AI 工具成为安全漏洞源</title>
+      <link>https://news.aibase.com/zh/news/27243</link>
+      <description>近日，知名网页应用托管与部署平台 Vercel 宣布其系统遭到黑客组织 ShinyHunters 的入侵，攻击者已开始出售窃取的数据。这次安全事件的发生与一款被攻陷的第三方 AI 工具有关。Vercel 在社交媒体上证实，攻击并未波及所有客户，但仍造成一定影响。 据了解，ShinyHunters 在网上发布了部分窃取的数据，其中包含了员工的姓名、电子邮箱地址及操作时间戳。这一事件的根源在于一款第三方 AI 工具的 Google Workspace OAuth 应用被大规模入侵，可能影响到数百家机构的用户安全。 针对这一安全事件，Vercel 公司建议各位管理员立即检查操作日志，寻找可疑行为，确</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27243</guid>
+      <pubDate>Mon, 20 Apr 2026 01:10:00 +0000</pubDate>
     </item>
     <item>
-      <title>Opera 推出浏览器连接器功能 让 AI 聊天机器人无缝集成</title>
-      <link>https://news.aibase.com/zh/news/27220</link>
-      <description>Opera 于周四宣布推出一项新功能允许用户在其浏览器中集成更多的 AI 聊天机器人。这个名为 “浏览器连接器”（Browser Connector）的免费功能适用于 Opera One 和 Opera GX 浏览器，用户可以通过模型上下文协议（Model Context Protocol，MCP）在实时浏览中接入像 OpenAI 的 ChatGPT 和 Anthropic 的 Claude 等 AI 工具。 MCP 是由 Anthropic 开发的一个开放标准，旨在建立 AI 模型、外部数据源和搜索引擎等工具之间的安全双向连接。上个月，Opera 还在其订阅制的智能 AI 浏览器 Opera</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27220</guid>
-      <pubDate>Fri, 17 Apr 2026 03:25:00 +0000</pubDate>
+      <title>估值超百亿美元：国产大模型黑马DeepSeek开启首轮外部融资</title>
+      <link>https://news.aibase.com/zh/news/27244</link>
+      <description>在全球大模型竞赛步入白热化阶段之际，一直坚持“自给自足”的国内AI领军企业DeepSeek（深度求索）传来了重磅资本动向。 据知情人士透露，由幻方量化孵化的DeepSeek正展开成立以来的 首次 外部股权融资。此次融资计划募集资金不少于3亿美元，而公司的投后估值预计将突破100亿美元大关（约合人民币681.8亿元）。这一动作标志着这家曾多次婉拒风投邀请的技术“硬核”公司，正式投身全球大模型的资本博弈。 回看DeepSeek的发展历程，雄厚的资金背景曾让其在早期研发中表现得极为从容。凭借母公司幻方量化的财力支撑，DeepSeek-R1等模型在2025年初凭借卓越的推理性能惊艳全球，一度被视为中国</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27244</guid>
+      <pubDate>Mon, 20 Apr 2026 01:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>​Gucci 联手谷歌，时尚智能眼镜将于 2027 年亮相</title>
-      <link>https://news.aibase.com/zh/news/27221</link>
-      <description>谷歌近日宣布与 奢侈 品牌 Gucci 展开合作，计划推出一款结合时尚与科技的 AI 智能眼镜。这款眼镜旨在利用高端时装品牌的影响力，使智能眼镜成为消费者日常佩戴的时尚单品。据路透社报道，这款联名智能眼镜预计将在 2027 年正式上市。 在这款眼镜发布之前，谷歌还将推出其 首款 Android XR 眼镜 “Project Aura”。该设备采用了类似 Meta Ray-Ban 智能眼镜的设计，配备了厚实的黑色塑料镜框，标志着谷歌在经历了 Google Glass 失败后的再次尝试。过去几年，谷歌还与 Warby Parker 和 Gentle Monster 等眼镜品牌合作，但与 Gucci</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27221</guid>
-      <pubDate>Fri, 17 Apr 2026 03:40:00 +0000</pubDate>
+      <title>德国法院裁定：AI 二创漫画不一定侵权</title>
+      <link>https://news.aibase.com/zh/news/27245</link>
+      <description>近日，德国杜塞尔多夫高等法院作出了一项引人注目的裁决，认为使用人工智能将他人的版权照片转化为漫画风格的作品，并不必然构成版权侵权。这一判决为 AI 创作领域提供了新的法律依据，尤其是在创作与版权保护之间的复杂关系上。 此案源于一位摄影师的起诉。他以拍摄水下狗狗照片而著称，随后起诉了他的前商业合作伙伴，理由是对方将他的版权照片输入 AI 软件，并在社交媒体上发布了生成的漫画风格作品。法院经过审理，最终驳回了摄影师的上诉，认为 AI 生成的作品并未直接复制原作的构图、视角和光线等受版权保护的创作元素。同时，法院指出，摄影主题本身并不受到版权法的保护。 法官在判决中引用了欧洲法院的相关裁决，强调评判</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27245</guid>
+      <pubDate>Mon, 20 Apr 2026 01:13:00 +0000</pubDate>
     </item>
     <item>
-      <title>阿里开源 Qwen3.6-35B-A3B:30亿激活参数实现编程能力跨越式升级</title>
-      <link>https://news.aibase.com/zh/news/27222</link>
-      <description>阿里巴巴千问大模型团队于2026年4月16日正式开源稀疏混合专家（MoE）模型 Qwen3.6-35B-A3B，标志着轻量级模型在智能体编程领域实现关键突破。 该模型总参数量为350亿，得益于MoE架构的稀疏特性，其运行时的激活参数仅为30亿。在性能表现上，Qwen3.6-35B-A3B 以极低的计算成本，在多项核心编程基准测试中超越了拥有270亿参数的稠密模型 Qwen3.5-27B，并显著领先于前代 Qwen3.5-35B-A3B，展现出可与 Gemma4-31B 等大体量模型比肩的逻辑推理与智能体协同能力。 作为一款全模态开源模型，Qwen3.6-35B-A3B 在空间智能与视觉感知方面</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27222</guid>
-      <pubDate>Fri, 17 Apr 2026 05:50:00 +0000</pubDate>
+      <title>​美国政府逆风而行，计划部署 Anthropic 新模型 Claude Mythos</title>
+      <link>https://news.aibase.com/zh/news/27246</link>
+      <description>美国政府正在考虑将 Anthropic 公司推出的 Claude Mythos 模型应用于多个重要联邦机构，尽管该模型曾因特朗普的禁令而受到限制。这一决定显然是因为 Mythos 在网络安全攻防方面的强大能力让白宫不得不重新评估其价值。 日前，白宫秘密与 Anthropic CEO Dario Amodei 举行了会谈，讨论如何将 Claude Mythos 的 “修改版” 引入国防部、财政部等敏感机构。虽然具体的开放时间和范围尚未确定，但白宫已开始为此搭建相应的保护措施，确保模型在使用过程中能够遵循严格的权限和边界。 彭博社的内部文件显示，白宫管理和预算办公室已要求各部门的技术与安全负责人为</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27246</guid>
+      <pubDate>Mon, 20 Apr 2026 01:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>通义千问关联公司注册资本翻倍，阿里云与杭州通义实验室共同持股</title>
-      <link>https://news.aibase.com/zh/news/27223</link>
-      <description>近日，通义千问关联公司通义云启（杭州）信息技术有限公司发生工商变更，注册资本由 1 亿元人民币增至 2 亿元人民币，增幅100%，同时新增杭州通义实验室科技有限公司为股东，目前由阿里云计算有限公司与其共同持股。 该公司成立于 2018 年 11 月，法定代表人为于文渊，经营范围涵盖广告制作、计算机软硬件及辅助设备批发、电子产品销售等业务。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27223</guid>
-      <pubDate>Fri, 17 Apr 2026 06:01:00 +0000</pubDate>
+      <title>ChatGPT 推出年龄预测功能，保障青少年用户安全体验</title>
+      <link>https://news.aibase.com/zh/news/27247</link>
+      <description>OpenAI 于本周宣布推出一项新功能，ChatGPT 的年龄预测功能将面向全球用户，旨在为青少年提供更加安全和适龄的使用体验。这一新功能将通过分析用户的互动方式和使用习惯来判断其年龄，并在必要时启动额外的安全设置，以保护未成年用户的权益。 根据 OpenAI 的介绍，ChatGPT 会分析与用户账户相关的多个信号，包括用户的对话主题和使用时间段等，来进行年龄判断。如果系统认定用户未满 18 岁，将自动启用额外的安全措施。此类措施包括限制敏感内容的展示，以及禁止某些可能引发危险或不良行为的互动。这些限制将确保青少年在使用 ChatGPT 时，能够获得更为安全的在线环境。 为了确认用户的年龄，C</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27247</guid>
+      <pubDate>Mon, 20 Apr 2026 01:20:00 +0000</pubDate>
     </item>
     <item>
-      <title>​男子用 AI 技术制造假自杀照片，惹来警方介入</title>
-      <link>https://news.aibase.com/zh/news/27224</link>
-      <description>近日，青海省循化县发生了一起因家庭纠纷引发的特殊案件。一名男子因与妻子产生矛盾，竟然利用 AI 技术生成了一张自己 “身处黄河” 的虚假照片，试图以此吓唬妻子，并谎称自己欲轻生。这一行为不仅给妻子带来了极大的恐慌，也导致警方紧急出动。 4 月 14 日，循化县公安局接到一名女子报警，称其丈夫发送了一张看似令人震惊的照片，显示他在黄河水中。女子深感不安，认为丈夫可能真的有轻生的念头。接到报警后，警方立刻启动了应急预案，迅速派出警力前往事发地点进行搜救。 警方沿着黄河河岸展开了全面搜寻，然而经过一番努力，他们并未在河中发现任何人员的踪迹。经过进一步调查，警方了解到，该男子在与妻子发生争执后，出于情</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27224</guid>
-      <pubDate>Fri, 17 Apr 2026 06:07:00 +0000</pubDate>
+      <title>数千万融资落槌！“第二人生”如何用AI+3D打印重塑潮玩想象力？</title>
+      <link>https://news.aibase.com/zh/news/27248</link>
+      <description>潮玩赛道的科技属性正在被进一步放大。近日，杭州第二人生科技有限公司（以下简称“第二人生”）正式宣布完成数千万级股权融资。据了解，本轮融资由个人投资者余整轩 独家 注资，募集资金将核心用于全彩3D打印机的技术迭代，以及支撑其野心的“世界大模型”构建。 作为一家深耕潮玩与前沿技术交叉领域的企业，第二人生不仅是在制造产品，更是在搭建一套完整的底层生态。目前，该公司已成功打通了从“AI内容生成”到“高精度3D打印”，再到“万物3D云数据化”的全链路闭环。这种闭环能力意味着，从灵感的数字化捕捉到实体模型的色彩还原，第二人生已具备了高效的工业化落地能力。 本轮融资的重点投向——全彩3D打印技术，一直是行业</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27248</guid>
+      <pubDate>Mon, 20 Apr 2026 01:28:00 +0000</pubDate>
     </item>
     <item>
-      <title>字节跳动启动前沿技术人才校招，面向全球博士生开放多个AI方向</title>
-      <link>https://news.aibase.com/zh/news/27225</link>
-      <description>字节跳动官方昨日宣布，正式启动前沿技术领域人才校园招聘项目，面向全球优秀技术人才开放全职及实习岗位。 本次校招招聘对象明确指向博士群体:全职岗位面向2026年9月至2027年8月期间毕业的博士生，实习岗位则面向2026年9月及以后毕业的在校博士生。研究或实践能力出众者将获优先考量，包括顶会顶刊论文作者、专利拥有者、国际竞赛获奖者，以及有重大研究项目经历或有影响力技术落地成果者。 开放方向涵盖大模型应用、搜索/推荐/广告、计算机体系结构与系统优化、安全/AI Safety、硬件、AI Coding、AIGC、视频架构、AI for Science等多个前沿技术领域。 工作地点方面，国内设有北京、</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27225</guid>
-      <pubDate>Fri, 17 Apr 2026 06:24:00 +0000</pubDate>
+      <title>​OpenAI 高管大换血：三位核心领导同日辞职引发关注</title>
+      <link>https://news.aibase.com/zh/news/27249</link>
+      <description>近日，OpenAI 公司经历了一场重大的高管变动，三位 高级 领导凯文・韦尔、比尔・皮布尔斯和斯里尼瓦斯・纳拉亚南于 4 月 19 日同日宣布离职。这一离职潮引起了业内人士的广泛关注，也让人们对 OpenAI 未来的发展方向产生了疑问。 据了解，此次高管离职与 OpenAI 的战略转型密切相关。凯文・韦尔曾负责公司的科学部门，而其所在的研究单元将不再作为独立项目运作；比尔・皮布尔斯作为视频生成工具 Sora 的研发者，对离开表示这是 “一生的荣誉与冒险”；斯里尼瓦斯・纳拉亚南则表示将辞职以陪伴家人，他在公司中参与了 ChatGPT 及其 API 的规模化发展。 OpenAI 正计划关闭备受关注</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27249</guid>
+      <pubDate>Mon, 20 Apr 2026 01:29:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI斥资逾 200 亿美元押注Cerebras，或获高达10%股权</title>
-      <link>https://news.aibase.com/zh/news/27226</link>
-      <description>OpenAI已同意未来三年向芯片初创公司Cerebras支付逾 200 亿美元，用于购买其芯片驱动的服务器算力，并可能借此获得该公司股权。 这并非两家公司的 首次 合作。今年 1 月，OpenAI已签署协议，计划三年内从Cerebras采购最多 750 兆瓦计算能力，交易价值超 100 亿美元。而此次新协议规模更大——OpenAI还将提供约 10 亿美元资助Cerebras开发数据中心，未来三年总支出或达 300 亿美元。作为回报，OpenAI将获得Cerebras少数股权认股权证，且持股比例可能随支出增加而提升， 最高 或达10%股份。Cerebras最快周五将披露部分协议细节。 对Cere</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27226</guid>
-      <pubDate>Fri, 17 Apr 2026 06:27:00 +0000</pubDate>
+      <title>​微软收购金融科技初创公司 Fintool，推动 AI 助力 Office 产品</title>
+      <link>https://news.aibase.com/zh/news/27250</link>
+      <description>近日，微软悄然收购了金融科技初创公司 Fintool，该公司以为金融专业人士提供人工智能研究工具而闻名。虽然微软尚未正式公布收购交易的具体细节，但 Fintool 的创始人已经在社交平台及公司官网上分享了相关信息。这一收购表明了微软进一步拓展人工智能助手能力的决心，旨在优化 Microsoft 365 的用户体验。 Fintool 由尼古拉・布斯塔曼特和爱德华・戈弗雷在旧金山共同创立。该公司的 AI 助手能够帮助投资者和分析师进行定性金融研究，支持读取财报电话会议记录、分析公司备案文件并整合研究内容，以提炼出关键见解。早在今年初，Fintool 就推出了第五代产品，其中的 AI 智能体能够在后</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27250</guid>
+      <pubDate>Mon, 20 Apr 2026 01:38:00 +0000</pubDate>
     </item>
     <item>
-      <title>Meta持续挖角AI初创公司，Thinking Machines再失核心成员</title>
-      <link>https://news.aibase.com/zh/news/27227</link>
-      <description>硅谷AI人才争夺战愈演愈烈，Meta正将目光瞄准初创公司，持续加大挖角力度。 最新 离开的是Thinking Machines 资深 软件工程师Joshua Gross。其领英资料显示，他上月已加入Meta 超级 智能实验室，目前负责领导工程团队。Gross此前曾在OpenAI和Meta工作，并在Thinking Machines从零构建并发布了旗舰产品Tinker——一款支持AI视频、图片、3D模型及漫画创作的创意软件。 这已不是Thinking Machines 第一 次失血。Meta目前已从该公司招募了五位创始成员，包括联合创始人Andrew Tulloch；OpenAI则挖走了其前首席</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27227</guid>
-      <pubDate>Fri, 17 Apr 2026 06:33:00 +0000</pubDate>
+      <title>爆雷！Anthropic MCP 协议被曝重大架构缺陷，数十个严重漏洞引爆 AI 安全圈</title>
+      <link>https://news.aibase.com/zh/news/27251</link>
+      <description>近日，由人工智能巨头 Anthropic 推出并维护的行业标准通信协议——模型上下文协议（Model Context Protocol，简称 MCP ）遭遇严重安全挑战。安全研究团队 OX Security 发布报告指出，该协议在架构层面存在根本性设计缺陷，可能导致服务器被诱导执行任意代码（RCE），目前已关联出 10 个“严重”级别的 CVE 编号，且数量仍在持续增加。 作为一项旨在标准化 AI 模型与外部数据源通信的开放协议，MCP 此前受到了微软、谷歌等巨头的青睐与集成。然而，OX Security 在 4 月 15 日的研究中发现，该漏洞并非简单的代码疏忽，而是深植于官方 SDK 之中</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27251</guid>
+      <pubDate>Mon, 20 Apr 2026 01:39:00 +0000</pubDate>
     </item>
     <item>
-      <title>英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手</title>
-      <link>https://news.aibase.com/zh/news/27228</link>
-      <description>英伟达研究团队于2026年4月16日正式发布了3D 场景生成系统 Lyra2.0 ，该技术旨在通过单张照片构建大规模、高连贯性的虚拟环境，攻克了长距离相机路径下的图像失真难题。在具身智能训练需求激增的背景下，Lyra2.0的问世标志着 AI 在3D 空间理解与实时环境模拟领域取得重大突破。 技术层面，Lyra2.0能够利用单张照片生成延伸范围达90米的3D 环境。针对传统视频模型因“遗忘”导致的空间失真与误差累积问题，研究人员采用了双重创新策略:系统不仅实时存储每一帧的3D 几何信息，确保相机重回旧位时环境的一致性，还在训练中引入带有缺陷的输出数据，使模型具备自我纠偏能力。基准测试结果显示，L</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27228</guid>
-      <pubDate>Fri, 17 Apr 2026 06:40:00 +0000</pubDate>
+      <title>爆炸性断言：软件时代已终结，钉钉陈航揭秘AI如何重构企业大脑</title>
+      <link>https://news.aibase.com/zh/news/27252</link>
+      <description>在 2026 年 4 月 19 日举行的第十八届中国企业家商界木兰年会上，钉钉创始人兼CEO陈航（花名：无招）发表了一场引发行业震动的开幕演讲。陈航在会上果断宣称，“软件时代已彻底终结”，企业正加速跨入一个由AI驱动的即时生成与透明协同的新纪元。 陈航认为，AI时代的核心使命并非简单的工具升级，而是对组织生产关系、决策体系及协同方式的底层重构。他指出，传统的软件开发模式将成为过去式，未来的企业应用将实现“即时生成”——即根据业务需求动态生产，并保持按日进化的超高迭代频率。 这种变革在钉钉内部已经得到了深度实践。据陈航介绍，钉钉自身的办公模式已发生翻天覆地的变化，大量岗位的交互逻辑从“人与人”转</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27252</guid>
+      <pubDate>Mon, 20 Apr 2026 01:42:00 +0000</pubDate>
     </item>
     <item>
-      <title>​Claude 强制实名验证引发争议：用户担心封号风险</title>
-      <link>https://news.aibase.com/zh/news/27229</link>
-      <description>最近，AI 公司 Anthropic 推出的 Claude 产品实施了强制身份验证机制，这一举措在用户中引发了广泛的讨论和争议。根据 Claude 发布的 KYC（了解你的客户）规则，用户必须手持政府签发的身份证明文件，如护照、驾照或身份证进行实时拍照验证。需要注意的是，复印件、扫描件、数字证件以及临时身份证都不被接受。这一验证流程由第三方公司 Persona 负责，通常在五分钟内完成。 不过，许多用户发现，这项身份验证并不是继续使用服务的保证，反而可能成为账号被封禁的前兆。Claude 的官方 FAQ 中明确提到，账号被封的原因包括多次违反使用政策、在不受支持的位置创建账户、违反服务条款，以</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27229</guid>
-      <pubDate>Fri, 17 Apr 2026 06:42:00 +0000</pubDate>
+      <title>谷歌与 Marvell 强强联手：两款定制 AI 芯片浮出水面</title>
+      <link>https://news.aibase.com/zh/news/27253</link>
+      <description>全球科技巨头的算力竞赛正进入白热化阶段。据知情人士透露，Alphabet 旗下的 谷歌 （Google）目前正与半导体解决方案供应商 Marvell Technology 展开深度洽谈。双方计划共同开发两款全新的定制化人工智能芯片，此举被外界视为谷歌加速摆脱对英伟达(Nvidia)硬件依赖、巩固自身云基础设施护城河的关键一步。 核心布局:TPU 的“黄金搭档”与新一代处理器 此次合作的重心在于两款功能各异的专用集成电路。其中一款是全新的内存处理单元（Memory Processing Unit），其核心使命是与谷歌自研的张量处理单元(TPU)形成高度协同，旨在通过优化数据搬运效率，突破现有大规</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27253</guid>
+      <pubDate>Mon, 20 Apr 2026 01:46:00 +0000</pubDate>
     </item>
     <item>
-      <title>谷歌Gemini接入个人相册，AI生成图像迈向真正个性化</title>
-      <link>https://news.aibase.com/zh/news/27230</link>
-      <description>谷歌宣布，旗下AI助手Gemini将支持连接用户个人相片库。用户可选择开启Personal Intelligence功能，授权系统整合谷歌应用数据，从而获得更个性化的回应体验。 配合图像生成工具Nano Banana，Gemini可直接调取Google Photos中的私人相片，无需手动上传，即可生成个性化图像内容。例如，用户可要求生成与家人一起参与某项活动的动画风格图片，系统便能自动完成创作。 此次更新的核心在于打通了私人影像与AI生成能力之间的壁垒，让图像生成从泛化走向真正意义上的个人化。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27230</guid>
-      <pubDate>Fri, 17 Apr 2026 06:47:00 +0000</pubDate>
+      <title>消息称 Cursor 即将完成 20 亿美元融资，估值达到 500 亿美元</title>
+      <link>https://news.aibase.com/zh/news/27254</link>
+      <description>据 Techcrunch 报道，人工智能编程初创公司 Cursor 即将完成一轮新的融资，预计将筹集至少 20 亿美元。这一融资将使 Cursor 的估值跃升至 500 亿美元，几乎是六个月前估值的两倍。知情人士透露，现有投资方 Thrive 和安德森・霍洛维茨基金（Andreessen Horowitz）将主导此次融资，而新晋投资者 Battery Ventures 也有可能参与其中，甚至战略投资方英伟达（Nvidia）也计划出资。 虽然市场竞争激烈，Cursor 仍然实现了快速的营收增长。预计到 2026 年底，Cursor 的年化营收将突破 60 亿美元。根据彭博社的报告，今年 2 月，</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27254</guid>
+      <pubDate>Mon, 20 Apr 2026 01:51:00 +0000</pubDate>
     </item>
     <item>
-      <title>​星巴克引入 ChatGPT，根据心情推荐饮品</title>
-      <link>https://news.aibase.com/zh/news/27231</link>
-      <description>近日，星巴克宣布正在测试一款基于 ChatGPT 的 beta 应用程序，旨在帮助顾客根据个人的心情、口味和目标选择饮品。通过这款应用，用户只需在星巴克的官方 App 上输入他们的心情或期望，系统便会智能推荐合适的饮品，让点单过程更加个性化和便捷。 这项创新功能的推出，旨在提升顾客的消费体验。用户可以在选择饮品时，考虑到自己的心情状态，比如 “我今天感到疲惫” 或 “我想要提神”，ChatGPT 将据此提供相应的饮品建议。这样的个性化推荐，不仅丰富了饮品选择的乐趣，也让顾客的每一次消费都能更加贴合自己的需求。 尽管这一新功能在市场上引起了广泛关注，但专家也对此表示了一定的警惕。某些专家指出，虽</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27231</guid>
-      <pubDate>Fri, 17 Apr 2026 07:01:00 +0000</pubDate>
+      <title>AI 潜意识竟会“隔空传毒”！Nature 重磅论文揭秘：AI 不良特征藏在纯数字里，蒸馏模型安全链彻底失守</title>
+      <link>https://news.aibase.com/zh/news/27255</link>
+      <description>Nature 最新 发表的一篇重磅论文，在 AI 圈掀起轩然大波。研究 首次 证实:大型语言模型（LLM）存在“ 潜意识学习 ”（Subliminal Learning）现象——即使训练数据经过严格过滤、语义上完全无关，不良行为特征仍能通过看似无害的数字序列、代码或思维链悄然传递给下游模型。 这意味着，AI 行业最常用的“模型蒸馏”技术，可能正在无形中放大上游模型的隐性风险。AI 不再只是“输出有毒”，而是“权重里藏毒”。 实验直击:一只“猫头鹰”如何通过纯数字传染 研究团队设计了一个经典对照实验:先让一个“老师模型”学会强烈偏好“猫头鹰”（一种人为植入的行为特征）。随后，老师模型被要求生成一</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27255</guid>
+      <pubDate>Mon, 20 Apr 2026 01:55:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI 发布 GPT-Rosalind 模型，深度跨界制药与生命科学领域</title>
-      <link>https://news.aibase.com/zh/news/27232</link>
-      <description>OpenAI 于周四（4月16日）正式推出专为生命科学研究打造的 AI 模型早期版本—— GPT-Rosalind 。该模型以 DNA 结构发现者 Rosalind Franklin 命名，旨在利用生成式 AI 加速药物研发流程。通过从海量生化数据中提取见解，GPT-Rosalind 可协助科研人员完成证据合成、假设生成、实验规划及蛋白质工程分析，致力于将漫长的实验室研究更高效地转化为面向患者的医疗应用。 目前，该模型已作为“研究预览”向部分企业客户开放。首批合作伙伴涵盖制药巨头 安进（Amgen） 、疫苗制造商 莫德纳（Moderna） 、赛默飞世尔（Thermo Fisher Scient</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27232</guid>
-      <pubDate>Fri, 17 Apr 2026 07:04:00 +0000</pubDate>
+      <title>跨数据中心的创新：Moonshot AI 与清华大学提出 PrfaaS 架构</title>
+      <link>https://news.aibase.com/zh/news/27256</link>
+      <description>随着大型语言模型（LLM）在推理过程中对计算资源的需求不断增加，传统的服务架构面临瓶颈。Moonshot AI 与清华大学的研究团队最近推出了一种新架构 —— 预填充即服务（PrfaaS），旨在打破大型语言模型服务中对数据中心和计算机资源的限制。 目前，大型语言模型的推理过程通常分为预填充和解码两个阶段。预填充阶段是模型处理输入并生成键值缓存（KVCache）的高计算密集型过程，而解码阶段则是模型逐个生成输出的内存带宽密集型过程。传统架构需要在同一数据中心中完成这两个阶段，这在计算和带宽上造成了限制。 PrfaaS 通过将预填充任务卸载到专用的高计算集群上，并利用通用以太网将生成的 KVCac</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27256</guid>
+      <pubDate>Mon, 20 Apr 2026 02:10:00 +0000</pubDate>
     </item>
     <item>
-      <title>ChatGPT用户结构历史性逆转：女性占比首超50%，总用户规模逼近 10 亿</title>
-      <link>https://news.aibase.com/zh/news/27233</link>
-      <description>OpenAI 最新 公布的数据显示，ChatGPT的用户性别结构正在发生历史性转变。2022年产品发布之初，男性用户占比约80%，女性仅占20%;而如今女性用户已反超男性，占比突破50%。 按照ChatGPT目前每周活跃用户规模估算，这意味着全球约有近5亿女性正在定期使用这一工具，而ChatGPT的总用户数也即将迈过10亿大关。 与此同时，OpenAI在算力层面的扩张同样势头凶猛。其可用算力已从2023年的0.2吉瓦增至2025年的约1.9吉瓦，两年间年增幅约3倍。展望未来，OpenAI已与英伟达等合作伙伴签署超30吉瓦的算力协议，目标在2030年前将自身算力规模提升至30吉瓦，为下一阶段的A</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27233</guid>
-      <pubDate>Fri, 17 Apr 2026 08:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>科大讯飞发布AstronClaw升级版:推出9项新品及软硬一体AI Agent架构</title>
-      <link>https://news.aibase.com/zh/news/27235</link>
-      <description>4月15日，科大讯飞正式举办 AstronClaw 升级发布会，集中推出9项创新产品，并 首次 完整展示其“软硬一体”的 AI Agent 架构体系。此次发布标志着科大讯飞推动AI智能体由单纯的“对话助手”向“物理执行中枢”演进，旨在打破屏幕限制，使大模型能力深度介入真实物理世界与复杂业务流。 在个人办公领域，AstronClaw实现与讯飞办公本的底层融合，通过结构化处理职场碎片化信息，将AI由被动响应转为主动协同。以广交会攻略制定为例，AstronClaw仅凭单一指令即可横跨本地笔记、个性化安排与 全网 实时数据，自动化生成闭环行程并同步至日历与待办系统，实现了从信息获取到执行落地的全链路闭</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27235</guid>
-      <pubDate>Fri, 17 Apr 2026 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​Cerebras 与 OpenAI 签署 200 亿美元芯片协议计划 IPO</title>
-      <link>https://news.aibase.com/zh/news/27236</link>
-      <description>AI 芯片公司 Cbras 与 Open 达成了一重磅交易协议金额超过亿美元，合作为三年。这一交易规模是今年初 750MW 部署协议的两倍，显示出 OpenAI 对 Cerebras 技术的高度信任和需求。 在此次协议中，OpenAI 还承诺将提供约 10 亿美元的资金，以支持 Cerebras 开发其数据中心系统。此外，OpenAI 将获得 Cerebras 少数股权的认股凭证，持股比例 最高 可达 10%。这意味着 OpenAI 在 Cerebras 的战略合作中，不仅是客户，还成为了投资者。 Cerebras 正计划以 350 亿美元以上的估值进行 首次 公开募股（IPO），目标是筹集约</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27236</guid>
-      <pubDate>Fri, 17 Apr 2026 08:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%</title>
-      <link>https://news.aibase.com/zh/news/27237</link>
-      <description>根据 OpenAI 最新 发布的数据，ChatGPT 的全球周活跃用户人数即将突破 10 亿，标志着该平台用户结构发生了显著变化。自 2022 年该应用发布以来，男性用户的比例曾高达 80%，而女性用户仅占 20%。如今，女性用户不仅实现了突破，比例已超过男性， 首次 达到了 50% 以上。 这意味着，目前全球大约有近 5 亿女性正在定期使用 ChatGPT 这一工具。OpenAI 的这些变化反映了人工智能技术的普及程度不断提升，吸引了更多不同性别和背景的用户参与。 在技术发展方面，算力已成为决定人工智能成败的关键因素。OpenAI 的可用算力从 2023 年的 0.2 吉瓦，预计到 2025</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27237</guid>
-      <pubDate>Fri, 17 Apr 2026 08:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>名创优品成立AI创新部：聚焦智能体研发与全球选址算法优化</title>
-      <link>https://news.aibase.com/zh/news/27238</link>
-      <description>据新浪科技报道 ， 名创优品近日正式宣布成立AI创新部，标志着这家全球零售巨头在智能化转型道路上迈出实质性步伐。 该部门隶属于名创优品数字科技中心，其核心定位在于通过智能体（AI Agent）能力的深度建设，驱动公司在全球业务决策与内部办公协同领域的全维度智能化升级。 在技术研发路径上，AI创新部目前聚焦于经营决策智能化与智能体核心能力建设两大支柱方向。前者涵盖了智能选址、空间数据建模、全球销售预测及供应链运筹优化，旨在通过数据算法提升零售各环节的确定性;后者则侧重于Agent Skill开发、MCP服务架构设计及多智能体协同研发，试图构建起支持复杂业务逻辑的底层AI架构。 目前，名创优品已开</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27238</guid>
-      <pubDate>Fri, 17 Apr 2026 09:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>联想开天发布天禧AI Pro：专为政企打造的"可信AI搭档"</title>
-      <link>https://news.aibase.com/zh/news/27239</link>
-      <description>联想开天今日正式发布新一代AI智能体天禧AI Pro，定位"更可信的政企办公AI搭档"，并同步宣布旗下全线PC产品即日起全面升级为信创AI PC，标志着信创行业正式迈入AI时代。 交互体验上，天禧AI Pro 最大 的变化是将操作逻辑从"以工具为核心"转向"以任务为中心"。依托与麒麟操作系统的深度整合，它为用户提供"双生界面"——保留原有操作习惯的同时，用户只需四指滑动，即可在任意界面唤出AI搭档。系统兼容DeepSeek、千问、火山等千万至百亿级参数大模型，用户输入任务需求后，AI可在底层自主调动多个程序完成闭环，还支持通过"时间环"随时回溯历史生成内容。 主动智能是天禧AI Pro的另一大</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27239</guid>
-      <pubDate>Fri, 17 Apr 2026 09:33:00 +0000</pubDate>
+      <title>​Anthropic收入暴增，市值或突破万亿美元大关</title>
+      <link>https://news.aibase.com/zh/news/27257</link>
+      <description>据报道，Anthropic公司在短短几个月内实现了收入的显著增长。该公司的年化收入目前已超过 300 亿美元，是去年年底的三倍多。这一增长可能使Anthropic在与开放 AI（OpenAI）的竞争中略占上风，尽管两者的数字并不可直接比较。推动这波增长的主要因素是其产品 Claude Code 和 Cowork，以及推理模型的代币销售不断上升。 更值得注意的是，Anthropic的利润率也显著改善。公司的毛利率从 2024 年的 - 94% 跃升至 2025 年的 + 40%。与此同时，年化收入从不足 10 亿美元猛增至 90 亿美元。这样的发展势头使得安索普在即将于 2025 年 9 月进行</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27257</guid>
+      <pubDate>Mon, 20 Apr 2026 02:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
