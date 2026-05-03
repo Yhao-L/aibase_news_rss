@@ -8,153 +8,41 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 01 May 2026 02:58:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 02:51:30 +0000</lastBuildDate>
     <item>
-      <title>谷歌相册上线AI衣橱管家，一键提取单品并支持虚拟试穿</title>
-      <link>https://news.aibase.com/zh/news/27640</link>
-      <description>谷歌宣布，谷歌相册将迎来一项极具创意的AI功能，旨在帮助用户将凌乱的相册转化为井然有序的“数字衣橱”。这项功能利用人工智能技术，自动识别并提取用户照片中出现的服装图像，让旧照片里的穿搭单品焕发新生。 AI驱动数字收藏实现智能分类 该功能的核心在于其强大的视觉识别系统，能够从海量照片库中精准锁定服装单品，并根据种类自动创建收藏夹。用户可以轻松按照珠宝、上装或下装等类别进行筛选，从而快速找回那些长期埋藏在相册深处、甚至已经被遗忘的服饰。 除了整理功能，谷歌相册还引入了穿搭设计工具。用户可以自由混搭衣橱里的不同单品，为夏季婚礼、海外旅行或日常通勤等场景定制专属的“情绪板”，并能将这些搭配创意一键分享</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27640</guid>
-      <pubDate>Thu, 30 Apr 2026 03:00:00 +0000</pubDate>
+      <title>OpenAI 发布 ChatGPT Images2.0，印度市场贡献首周最大用户增量</title>
+      <link>https://news.aibase.com/zh/news/27662</link>
+      <description>OpenAI 周四宣布，其 最新 推出的图像生成工具 ChatGPT Images2.0自上周发布以来，印度已迅速成为该功能 最大 的用户群体所在地。这款新工具旨在处理复杂提示词并生成包含多语言精确文本的精细图像，标志着 OpenAI 在多模态交互领域的进一步深耕。 Sensor Tower 数据显示，ChatGPT 应用在全球范围内的反响呈现地域性差异，发布首周下载量环比增长11%，但日活跃用户数和会话数等核心参与度指标增幅仅约1%。Similarweb 的数据同样印证了这一温和趋势，全球网站流量环比增长约1.6%。然而，以印度为首的新兴市场表现出极强的增长动力，巴基斯坦、越南和印度尼西亚等</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27662</guid>
+      <pubDate>Sat, 02 May 2026 06:38:00 +0000</pubDate>
     </item>
     <item>
-      <title>全模态全尺寸全国产！央企发布十项数字技术成果，星辰大模型领衔自主可控新突破</title>
-      <link>https://news.aibase.com/zh/news/27641</link>
-      <description>在数字中国建设的宏大版图中，中央企业再次展现了其作为科技创新“排头兵”的力量。 4 月 29 日下午，第九届数字中国建设峰会传出重磅消息，国务院国资委正式发布了十项代表当前央企 最高 水平的数字技术成果。这不仅是一次技术实力的集中展示，更标志着我国在关键领域自主可控能力上迈出了坚实的一步。 此次发布的成果涵盖了工业软件、核心电子元器件及人工智能等多个战略性前沿领域。其中，由中国电信推出的“星辰大模型”成为了现场关注的焦点。据介绍，该模型已经实现了“全模态、全尺寸、全国产化”，这意味着从底层架构到顶层应用，整个技术链条均做到了自主可控，为我国大模型技术安全提供了底层保障。 除了备受瞩目的AI大模</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27641</guid>
-      <pubDate>Thu, 30 Apr 2026 03:04:00 +0000</pubDate>
+      <title>剑指 AGI 物理训练，Meta 吞并 ARI 补齐全身人形机器人控制版图</title>
+      <link>https://news.aibase.com/zh/news/27663</link>
+      <description>社交媒体巨头 Meta 近日宣布已正式收购人形机器人初创公司 Assured Robot Intelligence （ARI），旨在强化其在复杂动态环境下机器人理解与预测人类行为的前沿能力。收购完成后，包括联合创始人王晓龙(前英伟达研究员、加州大学圣地亚哥分校副教授)与勒雷尔·平托(前纽约大学教授)在内的 ARI 核心团队将整体并入 Meta 超级 智能实验室(Superintelligence Labs)。 ARI 此前曾获 AIX Ventures 的种子轮融资，核心业务专注于为人形机器人构建基础模型，使其能够胜任家务等各种体力劳动。Meta 发言人指出，该团队在机器人控制、自学习模型以及</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27663</guid>
+      <pubDate>Sat, 02 May 2026 06:40:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI商业化瓶颈被打破：零犀科技凭借因果大模型实现规模化盈利</title>
-      <link>https://news.aibase.com/zh/news/27642</link>
-      <description>近日，AI应用初创企业零犀科技通过自研的因果大模型，成功在保险、金融等高门槛销售赛道跑通了从技术到业绩的闭环，宣布在2025年实现规模化盈利及正现金流，为行业提供了大模型落地的全新范式。 长期以来，B端企业对于大模型落地的获得感相对较低。尽管通用大模型在对话理解上表现出色，但面对保险、金融等逻辑严密且专业性极强的销售场景时，往往因“幻觉”频发、决策不稳定等问题，难以直接替代真人完成复杂的销售任务。许多企业面临着“投入高、交付难、效果不稳定”的尴尬局面，大模型在业务一线往往被视为只能聊天而无法产生实际业绩的工具。 针对这一痛点，零犀科技并未跟随主流卷模型规模，而是专注于提升AI的“归因”与决策能</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27642</guid>
-      <pubDate>Thu, 30 Apr 2026 03:08:00 +0000</pubDate>
+      <title>四大科技巨头2026年 AI 资本开支上调至7250亿美元，同比激增77%</title>
+      <link>https://news.aibase.com/zh/news/27664</link>
+      <description>据《金融时报》 最新 报道，谷歌、亚马逊、微软及 Meta 计划在2026年共计投入7250亿美元用于人工智能领域，较去年创纪录的4100亿美元大幅增长77%，显著高于今年2月预估的6100亿美元。仅在2026年 第一 季度，这四家巨头的资本开支已累计达1300亿美元，显示出 AI 基础设施竞赛正处于极度升温状态。 具体财务数据显示，各大厂商投入均呈翻倍式增长:微软开支预计达1900亿美元，增幅高达192.3%，领跑行业;Alphabet（谷歌母公司）与 Meta 的投入亦分别突破1450亿与1900亿美元，增幅均超100%;亚马逊则计划投入逾2000亿美元。尽管谷歌云计算业务 最新 季度营收</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27664</guid>
+      <pubDate>Sat, 02 May 2026 06:43:00 +0000</pubDate>
     </item>
     <item>
-      <title>爆破 9000 亿美元！Anthropic拟在IPO前完成AI史上最高融资</title>
-      <link>https://news.aibase.com/zh/news/27643</link>
-      <description>在人工智能领域竞速白热化的当下，Claude的开发者Anthropic再次投下了一枚震撼弹。据知情人士透露，由于急需在正式IPO（ 首次 公开募股）前完成最后一轮私募融资，Anthropic目前已收到多份“抢先融资”要约，其潜在估值被推高到了惊人的 8500 亿至 9000 亿美元之间。 据悉，这一轮融资规模预计在 400 亿至 500 亿美元之间。如果该计划最终落锤，Anthropic的估值将在短短数月内翻倍，甚至有可能一举超越其核心对手OpenAI在今年 2 月达到的 8520 亿美元估值。 资本市场的“疯狂”竞逐 尽管Anthropic董事会预计在 5 月份才会对最终的融资细节做出决策，</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27643</guid>
-      <pubDate>Thu, 30 Apr 2026 03:11:00 +0000</pubDate>
+      <title>告别通用模型依赖，微软通过定制算法开启垂直领域 AI 助手新范式</title>
+      <link>https://news.aibase.com/zh/news/27665</link>
+      <description>微软近日宣布通过美国 Frontier 计划正式推出专为法律专业人士设计的 AI 工具——“法律助手”（Legal Assistant）。该助手深度集成于 Word 环境中，旨在通过自动化手段彻底简化合同处理流程，标志着微软在垂直行业 AI 应用领域的又一重要动作。 功能层面，“法律助手”支持对合同进行逐条审查，能够精准标记潜在风险与法律义务，并实现跨文档版本的快速比对。该助手直接在文档内提供带有“修订追踪”功能的修改建议，在保持原有排版格式不变的前提下，清晰区分早期版本与新提案。此外，用户可将现有合同与公司内部的合规标准进行一键比对。 技术路径上，微软采取了差异化的设计理念。该代理并非单纯依</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27665</guid>
+      <pubDate>Sat, 02 May 2026 06:45:00 +0000</pubDate>
     </item>
     <item>
-      <title>文心一言5.1预览版上线 LMSYS 竞技场，目前位列全球第13位</title>
-      <link>https://news.aibase.com/zh/news/27644</link>
-      <description>百度文心一言5.1预览版近日低调上线国际 权威 大模型盲测平台 LMSYS Chatbot Arena。 最新 竞技数据显示，该版本目前在总榜中位列第13位。此次“悄然入场”标志着百度核心模型已进入新一轮快速迭代周期，并开始接受全球用户的直接质量检验与基准对标。 尽管百度官方尚未公开5.1预览版的具体参数规模及架构改进细节，但根据过往迭代逻辑与竞技场表现分析，该版本预计在语义理解、多轮对话逻辑及长文本处理稳定性上进行了针对性强化。进入 LMSYS 竞技场通常被视为模型具备高度成熟交互能力及全球化视野的信号，意味着国产大模型正加速通过公开的国际主流评价体系验证其实战能力。 行业观察认为，文心一言</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27644</guid>
-      <pubDate>Thu, 30 Apr 2026 03:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>1%的性能提升已成过去式？CVPR2026 揭示视觉智能正经历“范式重写”</title>
-      <link>https://news.aibase.com/zh/news/27645</link>
-      <description>从早期的ImageNet分类到如今的扩散模型，计算机视觉在过去十年间一直致力于让机器“看清世界”。然而，当感知能力接近人类极限，单纯追求准确率的边际收益正在递减。在CVPR2026上，视觉智能的研究重点发生了深刻转向:视觉不再是终点，而是服务于推理、决策与交互的中介。 告别“盲目推理”:迈向自适应与隐式路径 长期以来，多模态模型默认通过“思维链”（CoT）展开逻辑推理。但 最新 研究指出，这种“每一次都推理”的做法往往低效。例如VideoAuto-R1框架提出了“按需推理”概念:对于简单感知任务直接作答，仅在复杂逻辑场景下触发推理。实验显示，这种方式在保持 最优 性能的同时，将平均输出长度缩减</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27645</guid>
-      <pubDate>Thu, 30 Apr 2026 03:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 新模型系统指令泄露，GPT-5.5 竟被禁止谈论“哥布林”？</title>
-      <link>https://news.aibase.com/zh/news/27646</link>
-      <description>近日，随着 OpenAI 旗下 Codex CLI 代码的 最新 开源，关于下一代 AI 模型 GPT-5.5 的部分底层运行逻辑浮出水面。据科技媒体 Ars Technica 披露，在泄露的系统提示词（System Prompt）中，出现了一项极为罕见的指令：严禁模型在没有明确关联的情况下提及“哥布林”等特定生物。 在这份长达 3500 多个单词的基础指令集中，OpenAI 明确要求 GPT-5.5 在与用户交流时，除非查询内容存在 绝对 且必要的联系，否则必须回避讨论哥布林（goblins）、小精灵（gremlins）、浣熊（raccoons）、巨魔（trolls）、食人魔（ogres）以</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27646</guid>
-      <pubDate>Thu, 30 Apr 2026 05:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI系统提示词遭泄露，新模型GPT-5. 5 严禁讨论“哥布林”</title>
-      <link>https://news.aibase.com/zh/news/27647</link>
-      <description>科技媒体Ars Technica于 4 月 30 日发布的一则报道引发了AI圈的广泛关注。在 最新 开源的Codex CLI代码中，OpenAI旗下GPT-5. 5 模型的系统提示词意外曝光，其中包含一条极为古怪的指令：严禁在对话中谈论“哥布林”及“小精灵”等幻想生物 神秘禁令防范AI陷入特定幻觉 这份长达 3500 多词的基础指令集显示，除非用户查询存在 绝对 明确的关联性，否则GPT-5. 5 明确禁止讨论哥布林、小精灵、浣熊、巨魔及鸽子等生物。令人费解的是，这一禁令在指令中重复出现了两次，其权重与“禁止执行破坏性命令”等常规准则并列。 技术专家分析认为，这并非某种营销噱头，而是针对特定技</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27647</guid>
-      <pubDate>Thu, 30 Apr 2026 05:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>小红书官宣组织升级:柯南出任总裁，成立 AI 一级部门 Dots 与海外部 Rednote</title>
-      <link>https://news.aibase.com/zh/news/27648</link>
-      <description>4月30日，小红书发布全员内部信，宣布开启新一轮组织架构升级。此次调整的核心在于全面整合社区、电商、商业化三大业务线及公司技术体系，并设立 AI 一级部门“Dots” ，标志着小红书正式将 AI 提升至公司 最高 战略优先级，试图实现从工具化应用向核心生产力的底层转型。 在人事任命方面， 柯南（丁玲）出任小红书总裁 ，全面负责公司核心业务经营，直接向 CEO 星矢汇报。具体业务板块负责人也同步明确: 之恒 执掌大商业板块，统筹广告与电商交易; 帕鲁 牵头社区板块，深耕用户规模与生态健康; 夏侯 则统一负责算法体系，为核心业务提供底层技术支撑。 此次新设立的 Dots 部门 将构建涵盖模型研发、</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27648</guid>
-      <pubDate>Thu, 30 Apr 2026 06:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>微软第三财季营收突破 820 亿美元，AI年收入激增123%成核心增长极</title>
-      <link>https://news.aibase.com/zh/news/27649</link>
-      <description>微软近日正式公布了截至 2026 年 3 月 31 日的第三财季业绩报告。得益于人工智能与云业务的深度融合，公司在本季度实现了强劲增长，总营收达到 829 亿美元，同比增长18%。 云服务与AI基座驱动业绩全面爆发 微软AI业务的表现尤为亮眼，年化营收已正式突破 370 亿美元，同比增速高达123%。这一数据标志着AI技术已从实验阶段完全转化为公司的“印钞机”，成为驱动整体增长的 最强 引擎。 作为核心支撑的智能云部门表现稳健，季度营收达 347 亿美元，增长30%。其中，Azure及其他云服务凭借40%的收入增长，继续扩大其在企业级市场的领先优势，助力各行各业实现智能化转型。 个人计算业务微</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27649</guid>
-      <pubDate>Thu, 30 Apr 2026 06:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>蚂蚁集团牵头推动ASL协议，填补智能体可信协作空白</title>
-      <link>https://news.aibase.com/zh/news/27650</link>
-      <description>随着AI智能体走向自主与协作，企业面临的安全挑战超越技术本身，转而演变为深层的信任危机。4月29日，第九届数字中国建设峰会“智能体创新与治理”论坛上，蚂蚁集团大安全CTO陈亮发表主题演讲， 首次 系统揭示了跨Agent协作中暗藏的三大“信任黑洞”，并发布面向企业级智能体的原生安全架构。 三大“信任黑洞”:跨Agent协作的致命软肋 2026年初，由Northeastern University等机构联合开展的Agents of Chaos研究，基于OpenClaw框架部署多个具备真实工具调用能力的自主智能体，进行了为期两周的红队测试。结果显示，智能体在复杂开放环境中可能普遍面临非所有者合规、敏</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27650</guid>
-      <pubDate>Thu, 30 Apr 2026 06:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​小红书重磅组织调整，柯南出任总裁并成立 AI 部门</title>
-      <link>https://news.aibase.com/zh/news/27651</link>
-      <description>根据《科创板日报》的报道，小红书近日在全员内部信中宣布了一项重要的组织升级。此次调整的核心内容是成立了两个全新的 AI 一级部门：Dots 和企业智能部。这一变革意味着小红书将在产品技术和组织结构上进一步加大对人工智能的投入，以应对不断变化的市场需求。 与此同时，小红书还宣布任命柯南（本名丁玲）为总裁。柯南将全面负责整合小红书的社区、电商和商业化三大核心业务，并向现任 CEO 星矢（本名毛文超）汇报。此外，木兰（本名瞿芳）将继续担任董事会主席，维持公司治理结构的稳定。 值得注意的是，小红书的技术团队近期研发了一款名为 OpenStoryline 的视频剪辑 AI 产品。这款产品被定义为 “AI</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27651</guid>
-      <pubDate>Thu, 30 Apr 2026 06:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>欧莱雅中国发布“AI向美”新战略：科技加码透明度，拒绝虚假妆效</title>
-      <link>https://news.aibase.com/zh/news/27652</link>
-      <description>4 月 30 日，欧莱雅中国在上海举办的2025/ 2026 年度战略沟通会上，正式发布了名为“AI向美”的核心发展战略。这一举措不仅展示了科技对美妆行业的重塑，更在行业合规与透明度上划下了鲜明的底线：明确严禁使用AI生成虚假妆效图。 这一决策背后有着深刻的市场洞察。调研数据显示，中国消费者对AI辅助美妆决策的接受度 极高 ，超过70%的本土消费者会参考AI建议进行消费选择，这一比例远超40%的全球平均水平。在如此高密度的依赖下，如何确保AI技术的应用不仅是单纯的“视觉盛宴”，而是真实的消费参考，成为了企业必须面对的课题。 此次战略升级意味着欧莱雅已将AI技术渗透进全产业链条。在前端研发与供应</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27652</guid>
-      <pubDate>Thu, 30 Apr 2026 06:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>亚马逊上线AI语音问答功能，打造 24 小时在线购物专家</title>
-      <link>https://news.aibase.com/zh/news/27653</link>
-      <description>4月30日，电商巨头亚马逊（Amazon）正式发布了一项名为“Join the chat”的全新AI音频问答功能。这一举措标志着生成式AI技术在电商交互领域的进一步落地，旨在改变消费者在商品详情页获取信息的方式，将传统的“阅读模式”升级为更加高效、自然的“对话模式”。 AI购物专家实时答疑解惑 据悉，该功能的核心由一位数字“AI购物专家”驱动。当用户进入特定商品页面时，可以通过对话形式直接提出疑问。AI会迅速调取并整合商品的详细参数、功能特性以及海量的用户真实评价，随后以自然的语音回答实时反馈给消费者。这种交互方式能够帮助用户在几秒钟内抓住商品的核心卖点或潜在问题，大幅缩减了以往翻阅详情介绍和</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27653</guid>
-      <pubDate>Thu, 30 Apr 2026 07:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​小红书成立 AI 一级部门 “Dots”</title>
-      <link>https://news.aibase.com/zh/news/27654</link>
-      <description>小红书在内部信中宣布了一项重要的组织架构升级，旨在全面整合其社区、电商与商业化业务。此次升级的核心是设立 AI 一级部门 “Dots” 和企业智能部，以增强对人工智能的技术投入。这一变化标志着小红书在推动技术进步和业务协同方面迈出了重要一步。 据悉，新设立的 “Dots” 部门将涵盖 AI 模型研发、基础设施、工程落地和产品应用等多个环节，旨在建立起一套完整的 AI 全链路体系。该部门将直接向新任总裁柯南（丁玲）汇报工作。此外，企业智能部则整合了原有的企业效率部和数据科学部，旨在为公司在 AI 时代的发展提供更加适合的组织架构和人才支撑。 在此次人事调整中，柯南被任命为总裁，全面负责小红书的核</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27654</guid>
-      <pubDate>Thu, 30 Apr 2026 07:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​红果短剧全面清理超万部低质 AI 剧 规范内容提升品质</title>
-      <link>https://news.aibase.com/zh/news/27655</link>
-      <description>近日，红果短剧平台展开了一项大规模的内容治理行动，已成功处置超过万部低质 AI 剧。这次行动的重点在于改善剧集的剧情导向、价值观表达和制作质量，特别是针对那些内容低俗、画面粗糙、剧情逻辑混乱以及渲染极端情绪的作品。 根据红果官方的数据，从 4 月 7 日至 15 日，仅在短短九天内，平台就下架了 3522 部不符合标准的低质剧集。红果短剧的总编辑乐力表示，平台将通过加强审核体系，严格禁止低俗庸俗、炫富和传播负面价值观的内容，从源头杜绝低质量短剧的出现。 此外，红果短剧还表示将加强对版权的保护，严厉打击创意抄袭和肖像侵权等行为，以维护原创和合法权益。4 月 6 日，红果短剧官方发布公告，重申内容</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27655</guid>
-      <pubDate>Thu, 30 Apr 2026 07:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​巨日禄宣布与火山引擎达成深度合作 AI短剧进入“工业化”时代</title>
-      <link>https://news.aibase.com/zh/news/27656</link>
-      <description>近期，杭州巨日禄科技有限公司宣布与火山引擎达成深度合作，正式接入豆包视频生成模型Seedance 2.0。这一动作标志着AI剧的制作模式正在从过去零散、低效的“手工作坊”形态，向高度稳定、可控的工业化流程转变。 核心突破：效率与质量的双重飞跃 通过将火山引擎的多款先进模型嵌入其自主研发的AI Agent，并依托其云基础设施，影视制作的各项核心指标实现了质的突破。数据显示，精品AI剧的制作效率已提升近 10 倍。原本需要 15 至 30 天的生产周期，如今被极速压缩至 1 到 3 天。 除了速度的提升，画面的“可用性”这一行业痛点也得到了妥善解决。在传统AI生成模式下，画面合格率往往仅有30%左</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27656</guid>
-      <pubDate>Thu, 30 Apr 2026 08:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI从实验室走向生活，科大讯飞多款黑科技亮相福州</title>
-      <link>https://news.aibase.com/zh/news/27657</link>
-      <description>4 月 28 日，第九届数字中国建设峰会在福州海峡国际会展中心正式拉开帷幕。作为国内数字化发展的风向标，本届峰会吸引了众多科技巨头参与。其中，科大讯飞携多项前沿人工智能展项重磅登场，成为展区内最吸睛的“流量高地”，生动诠释了AI技术如何从硬核“炫技”转化为触手可及的实用工具。 场景全覆盖：从办公助手到具身智能机器人 在本次展会上，人工智能的应用边界被进一步拓宽。科大讯飞展示的展品横跨了互动体验、办公创作、健康服务、教育及消费电子等多个维度。在办公领域，Loomy办公助手与讯飞智作展现了 极高 的创作效率；而智能体平台AstronClaw则揭示了未来人机协作的新形态。备受瞩目的具身智能通用机器人</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27657</guid>
-      <pubDate>Thu, 30 Apr 2026 08:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​快手推出 KroWork:AI 桌面助手助你高效办公</title>
-      <link>https://news.aibase.com/zh/news/27659</link>
-      <description>快手正式发布了其 最新 产品 KroWork，一款面向非技术用户的 AI 桌面智能体。KroWork 允许用户通过自然语言指令，自主完成各类办公任务，包括文件处理、浏览器自动化及应用生成。这意味着用户可以将日常重复的工作流程转化为本地桌面应用，避免再次付费使用。更重要的是，所有操作都在安全的沙箱环境中执行，确保用户数据不会上传至云端，从而保证隐私安全。 KroWork 的设计初衷是降低软件开发的门槛，让那些不熟悉编程的人也能轻松创建属于自己的桌面工具。用户只需告诉 KroWork 所需的功能，它便能够自动规划步骤，并将结果展示给用户。比如，财务人员可以指示 KroWork “制作发票报销汇总工</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27659</guid>
-      <pubDate>Thu, 30 Apr 2026 09:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>押注于人而非代码：Zig 项目全面禁止 LLM 辅助贡献引发热议</title>
-      <link>https://news.aibase.com/zh/news/27660</link>
-      <description>在生成式 AI 席卷编程领域的当下，知名开源项目 Zig 近期采取了一项“逆流而上”的严格政策：全面禁止使用大语言模型（LLM）生成的代码或评论参与项目贡献。这一决策由知名开发者 Simon Willison 深度解读后，迅速在开源社区引发了关于技术效率与人才培养之间博弈的广泛讨论。 核心矛盾：代码产出与人才成长的取舍 Zig 项目维护者的立场核心在于对“贡献”定义的重新审视。他们认为，开源项目的 终极 价值并非单纯获取现成的代码片段，而是发掘并培养长期可信、具备成长潜力的贡献者。在该项目组看来，审查代码（Pull Request）的过程本质上是一场深度沟通，旨在帮助新人理解技术规范并建立互信</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27660</guid>
-      <pubDate>Thu, 30 Apr 2026 09:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>钉钉发布 AI 录音硬件 DingTalk A1Pro:售价1299元，支持手机反向充电</title>
-      <link>https://news.aibase.com/zh/news/27661</link>
-      <description>4月30日，钉钉正式发布 AI 硬件家族新成员 DingTalk A1Pro ，并于天猫官方旗舰店开售，定价1299元。该产品定位为专业 AI 录音卡片，专为高频出差的商务人士与 超级 个体打造，通过“AI 办公+应急补能”的复合功能设计，进一步拓展了钉钉软硬一体化的服务边界。 硬件配置上，DingTalk A1Pro 机身厚度仅6.4mm，支持磁吸设计并配备触控屏幕。其核心搭载专业级 MEMS 指向性麦克风，拾音距离达10米。相较于2025年发布的初代产品，Pro 版显著强化了续航与多功能性:内置2980mAh 电池支持180小时连续录音及180天待机，且通过了新国标3C 认证，可作为应急充</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27661</guid>
-      <pubDate>Thu, 30 Apr 2026 09:59:00 +0000</pubDate>
+      <title>腾讯开源 Hy-MT 翻译模型:440MB 实现离线运行，性能超越谷歌翻译</title>
+      <link>https://news.aibase.com/zh/news/27666</link>
+      <description>腾讯近日正式开源紧凑型 AI 翻译模型 Hy-MT1.5-1.8B-1.25bit。该公司声称，该模型在保持高性能的同时，可在智能手机上实现完全离线运行。目前，该模型支持包括中、英、德、法、日、藏、蒙在内的33种语言及5种方言，涵盖1056个翻译方向，并在国际机器翻译大赛中累计斩获30项冠军。 技术突破的核心在于“激进压缩”方案:通过每参数仅使用1.25比特的量化技术，该模型体积从3.3GB 骤减至440MB，较此前的1.67比特方案缩小约25%，推理速度提升约10%，且未产生质量损失。在标准基准测试中，仅440MB 的 Hy-MT 表现出与商业翻译服务及 Qwen3-32B 等超大模型相当的</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27666</guid>
+      <pubDate>Sat, 02 May 2026 06:50:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
