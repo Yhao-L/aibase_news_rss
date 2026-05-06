@@ -8,41 +8,139 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 03 May 2026 02:51:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 02:47:33 +0000</lastBuildDate>
     <item>
-      <title>OpenAI 发布 ChatGPT Images2.0，印度市场贡献首周最大用户增量</title>
-      <link>https://news.aibase.com/zh/news/27662</link>
-      <description>OpenAI 周四宣布，其 最新 推出的图像生成工具 ChatGPT Images2.0自上周发布以来，印度已迅速成为该功能 最大 的用户群体所在地。这款新工具旨在处理复杂提示词并生成包含多语言精确文本的精细图像，标志着 OpenAI 在多模态交互领域的进一步深耕。 Sensor Tower 数据显示，ChatGPT 应用在全球范围内的反响呈现地域性差异，发布首周下载量环比增长11%，但日活跃用户数和会话数等核心参与度指标增幅仅约1%。Similarweb 的数据同样印证了这一温和趋势，全球网站流量环比增长约1.6%。然而，以印度为首的新兴市场表现出极强的增长动力，巴基斯坦、越南和印度尼西亚等</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27662</guid>
-      <pubDate>Sat, 02 May 2026 06:38:00 +0000</pubDate>
+      <title>烧钱无上限？OpenAI 今年算力预算飙升至 500 亿美元</title>
+      <link>https://news.aibase.com/zh/news/27667</link>
+      <description>在人工智能竞赛步入深水区的今天， 顶尖 AI 厂商的“入场券”价格正以令人咋舌的速度攀升。当地时间5月5日，OpenAI 联合创始人兼总裁格雷格·布罗克曼（Greg Brockman）在一次出庭作证中透露，公司预计仅在今年一年，投入到算力资源上的开支就将高达500亿美元。 这一数字不仅展示了 顶尖 大模型研发的极端耗能属性，更揭示了 AI 行业近几年几何倍增的财务门槛。布罗克曼在证词中对比了 OpenAI 发展历程中的成本支出:早在2017年，公司的计算成本仅为3000万美元左右;而随着更先进模型的迭代研发以及面向全球数亿用户的服务普及，这一成本在短短数年内已经激增了上千倍。 对于 OpenA</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27667</guid>
+      <pubDate>Wed, 06 May 2026 00:52:00 +0000</pubDate>
     </item>
     <item>
-      <title>剑指 AGI 物理训练，Meta 吞并 ARI 补齐全身人形机器人控制版图</title>
-      <link>https://news.aibase.com/zh/news/27663</link>
-      <description>社交媒体巨头 Meta 近日宣布已正式收购人形机器人初创公司 Assured Robot Intelligence （ARI），旨在强化其在复杂动态环境下机器人理解与预测人类行为的前沿能力。收购完成后，包括联合创始人王晓龙(前英伟达研究员、加州大学圣地亚哥分校副教授)与勒雷尔·平托(前纽约大学教授)在内的 ARI 核心团队将整体并入 Meta 超级 智能实验室(Superintelligence Labs)。 ARI 此前曾获 AIX Ventures 的种子轮融资，核心业务专注于为人形机器人构建基础模型，使其能够胜任家务等各种体力劳动。Meta 发言人指出，该团队在机器人控制、自学习模型以及</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27663</guid>
-      <pubDate>Sat, 02 May 2026 06:40:00 +0000</pubDate>
+      <title>OpenAI发布GPT-5.5Instant，取代5.3成ChatGPT默认模型</title>
+      <link>https://news.aibase.com/zh/news/27668</link>
+      <description>OpenAI 于周二发布新一代基础模型 GPT-5.5Instant，并宣布其将取代 GPT-5.3Instant 成为 ChatGPT 默认模型，在延续低延迟特性的同时，重点降低法律、医学及金融等敏感领域中的认知偏差。此次更新延续了该公司上月推出 GPT-5.5系列模型的整体方向，即强化编码能力与知识型任务表现。 从基准测试来看，GPT-5.5Instant 在性能上实现明显提升:其在 AIME2025数学测试中取得81.2分，显著高于上一代的65.4分;在 MMMU-Pro 多模态推理测试中得分76分，对比前代的69.2分同样实现跃升，显示其在复杂推理与跨模态理解方面的综合能力增强。 在产</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27668</guid>
+      <pubDate>Wed, 06 May 2026 01:02:00 +0000</pubDate>
     </item>
     <item>
-      <title>四大科技巨头2026年 AI 资本开支上调至7250亿美元，同比激增77%</title>
-      <link>https://news.aibase.com/zh/news/27664</link>
-      <description>据《金融时报》 最新 报道，谷歌、亚马逊、微软及 Meta 计划在2026年共计投入7250亿美元用于人工智能领域，较去年创纪录的4100亿美元大幅增长77%，显著高于今年2月预估的6100亿美元。仅在2026年 第一 季度，这四家巨头的资本开支已累计达1300亿美元，显示出 AI 基础设施竞赛正处于极度升温状态。 具体财务数据显示，各大厂商投入均呈翻倍式增长:微软开支预计达1900亿美元，增幅高达192.3%，领跑行业;Alphabet（谷歌母公司）与 Meta 的投入亦分别突破1450亿与1900亿美元，增幅均超100%;亚马逊则计划投入逾2000亿美元。尽管谷歌云计算业务 最新 季度营收</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27664</guid>
-      <pubDate>Sat, 02 May 2026 06:43:00 +0000</pubDate>
+      <title>豆包披露付费订阅方案:月费68元至500元，分三档推进商业化</title>
+      <link>https://news.aibase.com/zh/news/27669</link>
+      <description>5月4日，豆包在 App Store 页面披露其付费版本服务规划， 首次 明确将基于现有免费模式推出分层订阅体系，以扩展专业用户服务能力。页面信息显示，豆包拟推出三档订阅方案:标准版连续包月68元（包年688元）、加强版连续包月200元(包年2048元)、专业版连续包月500元(包年5088元)，覆盖不同强度的使用需求。 尽管订阅价格已对外呈现，但目前豆包产品内尚未上线相关付费入口或功能模块。对此，豆包官方回应称，平台将继续维持基础免费服务，同时正探索叠加增值能力以满足差异化需求，具体方案仍处于测试阶段，正式上线信息将通过官方渠道统一发布。 据接近项目的人士透露，豆包此次规划的付费能力将重点面</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27669</guid>
+      <pubDate>Wed, 06 May 2026 01:03:00 +0000</pubDate>
     </item>
     <item>
-      <title>告别通用模型依赖，微软通过定制算法开启垂直领域 AI 助手新范式</title>
-      <link>https://news.aibase.com/zh/news/27665</link>
-      <description>微软近日宣布通过美国 Frontier 计划正式推出专为法律专业人士设计的 AI 工具——“法律助手”（Legal Assistant）。该助手深度集成于 Word 环境中，旨在通过自动化手段彻底简化合同处理流程，标志着微软在垂直行业 AI 应用领域的又一重要动作。 功能层面，“法律助手”支持对合同进行逐条审查，能够精准标记潜在风险与法律义务，并实现跨文档版本的快速比对。该助手直接在文档内提供带有“修订追踪”功能的修改建议，在保持原有排版格式不变的前提下，清晰区分早期版本与新提案。此外，用户可将现有合同与公司内部的合规标准进行一键比对。 技术路径上，微软采取了差异化的设计理念。该代理并非单纯依</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27665</guid>
-      <pubDate>Sat, 02 May 2026 06:45:00 +0000</pubDate>
+      <title>Anthropic发布10款金融AI智能体，加速进军华尔街市场</title>
+      <link>https://news.aibase.com/zh/news/27670</link>
+      <description>Anthropic 近日发布一系列面向金融行业的AI智能体产品，试图加速其在高价值垂直场景的商业化落地，并与 OpenAI 在企业级应用层面展开更直接竞争。此次共推出10款工具，覆盖银行、保险、资产管理及金融科技等领域，可用于生成客户推介材料、审阅财务报表以及触发合规审查流程，显著拓展其模型在专业金融工作流中的应用边界。 受该消息影响，传统金融数据与分析服务商股价出现波动，FactSet Research Systems Inc. 一度下跌8.1%，Morningstar Inc. 跌幅超过3%，S&amp;P Global 与 Moody's 亦承压，市场对AI替代部分分析与研究职能的预期持续升温。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27670</guid>
+      <pubDate>Wed, 06 May 2026 01:04:00 +0000</pubDate>
     </item>
     <item>
-      <title>腾讯开源 Hy-MT 翻译模型:440MB 实现离线运行，性能超越谷歌翻译</title>
-      <link>https://news.aibase.com/zh/news/27666</link>
-      <description>腾讯近日正式开源紧凑型 AI 翻译模型 Hy-MT1.5-1.8B-1.25bit。该公司声称，该模型在保持高性能的同时，可在智能手机上实现完全离线运行。目前，该模型支持包括中、英、德、法、日、藏、蒙在内的33种语言及5种方言，涵盖1056个翻译方向，并在国际机器翻译大赛中累计斩获30项冠军。 技术突破的核心在于“激进压缩”方案:通过每参数仅使用1.25比特的量化技术，该模型体积从3.3GB 骤减至440MB，较此前的1.67比特方案缩小约25%，推理速度提升约10%，且未产生质量损失。在标准基准测试中，仅440MB 的 Hy-MT 表现出与商业翻译服务及 Qwen3-32B 等超大模型相当的</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27666</guid>
-      <pubDate>Sat, 02 May 2026 06:50:00 +0000</pubDate>
+      <title>​多出版商控告 Meta：AI 训练或涉嫌侵权</title>
+      <link>https://news.aibase.com/zh/news/27671</link>
+      <description>近日，Meta Platforms 因涉嫌侵犯版权而面临多家知名出版商的集体诉讼。这场官司在纽约曼哈顿联邦法院展开，起诉方包括爱思唯尔（Elsevier）、圣智（Cengage）、阿歇特（Hachette）、麦克米伦（Macmillan）和麦格劳 - 希尔（McGraw Hill）。这些出版商指控 Meta 未经许可，擅自使用其书籍和期刊文章来训练其人工智能模型 Llama。 在诉讼中，出版商们指出，Meta 盗用了数百万部作品，范围涵盖教科书、科学文章以及小说等。这些作品中不乏知名作者的创作，例如 N.K. Jemisin 的《第五季》和 Peter Brown 的《荒野机器人》。出版商们请</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27671</guid>
+      <pubDate>Wed, 06 May 2026 01:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta启用AI视觉识别未成年用户，强化Facebook与Instagram年龄审核机制</title>
+      <link>https://news.aibase.com/zh/news/27672</link>
+      <description>Meta 于周二宣布，将引入基于人工智能的视觉分析系统，对平台上的照片与视频进行扫描，以识别可能未满13岁的用户，并据此决定是否移除其在 Facebook 与 Instagram 上的账户。该公司表示，系统通过分析身高、骨骼结构等通用视觉特征来估算年龄，并结合文本内容与互动行为进行综合判断，以提升未成年账户识别与治理能力，同时强调该技术不涉及面部识别或具体身份识别。 Meta 指出，该系统已在部分国家上线，正逐步扩大覆盖范围。作为未成年人保护策略的一部分，公司还将通过分析用户资料、帖子、评论及简介中的语义线索（如生日、学业相关内容）来辅助判断年龄，并计划将相关能力延伸至 Instagram L</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27672</guid>
+      <pubDate>Wed, 06 May 2026 01:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>​Meta 推出双重 AI 手段，强化年龄验证以剔除 13 岁以下用户</title>
+      <link>https://news.aibase.com/zh/news/27673</link>
+      <description>科技媒体 NeoWin 报道，Meta 公司正在推进一项新的 AI 年龄检测系统，旨在 Facebook 和 Instagram 平台上识别并剔除 13 岁以下的用户账户。这项技术的推出，是因为过去的年龄验证机制多存在漏洞，用户常常通过填写虚假的出生日期轻松绕过限制。 新的 AI 系统将采用文本分析与视觉扫描相结合的双重手段，以更准确地判断用户的年龄。通过视觉扫描，AI 将分析用户上传的照片和视频，依据身高、骨骼结构等生理特征来估算年龄范围。Meta 公司特别强调，这并不是面部识别技术，系统不会识别用户的具体身份，而是通过物理线索得出一个大致的年龄段。 在文本分析方面，系统将聚焦用户所发布的内</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27673</guid>
+      <pubDate>Wed, 06 May 2026 01:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI重磅推出ChatGPT广告自助服务，品牌推广更便捷！</title>
+      <link>https://news.aibase.com/zh/news/27674</link>
+      <description>近日，该公司宣布推出 ChatGPT 广告的自助式广告管理工具，旨在让美国的广告商们更轻松地在其平台上购买广告。这一工具目前正处于测试阶段，预计将为品牌提供更加便捷的推广渠道。 通过这一新工具，品牌商可以直接管理自己的广告活动，从而在 ChatGPT 平台上实现更高效的推广。与此同时，OpenAI 还与多个广告技术合作伙伴，包括 Pacvue、Kargo 和 StackAdapt 等，携手为广告商提供更多的选择和支持。这意味着，广告商们不仅可以在 ChatGPT 上投放广告，还能够利用这些合作伙伴的技术，优化广告效果和投放策略。 据 Pacvue 的总裁表示，聊天式人工智能（AI）正在成为一个</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27674</guid>
+      <pubDate>Wed, 06 May 2026 01:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic推出金融专属AI智能体，深度覆盖银行业务场景</title>
+      <link>https://news.aibase.com/zh/news/27675</link>
+      <description>人工智能巨头 Anthropic 近日宣布推出一系列专门针对金融服务行业定制的新型 AI 智能体。这一动作标志着生成式人工智能正在从简单的“对话助手”演变为能够处理复杂专业任务的“虚拟员工”。据了解，这套全新的工具矩阵包含十款功能各异的智能体，旨在为银行、保险、资产管理以及金融科技领域的专业人士提供深度支持。 这些智能体并非仅能进行简单的文字处理，其核心能力已渗透进金融业务的高阶环节。它们能够独立撰写针对客户会议的专业演示文稿，高效审核复杂的财务报表，甚至可以在检测到潜在风险时，自动将相关案件上报至合规部门进行审查。这种对垂直领域工作流的深度嵌入，预示着金融机构的运营模式将迎来显著变革。 硅谷</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27675</guid>
+      <pubDate>Wed, 06 May 2026 01:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>拒绝“一家独大”，苹果 iOS 27 或将支持自定义第三方 AI 模型</title>
+      <link>https://news.aibase.com/zh/news/27676</link>
+      <description>苹果正在加速打破其 AI 生态的封闭边界。据 最新 行业消息，苹果计划在今年秋季发布的 iOS 27、iPadOS 27 以及 macOS 27 系统中引入一项重大变革：允许用户根据个人需求，自主选择第三方 AI 模型来驱动设备上的各项智能功能。 这一被称为“Extensions（扩展）”的新功能，意味着用户未来在进行文本生成、润色或是图像创作时，不再局限于系统默认的选项。用户可以通过设置界面，将 Apple Intelligence 的底层支持切换为已安装的其他 AI 服务商，如谷歌的 Gemini 或 Anthropic 的 Claude。 目前，苹果已在内部对这些第三方模型进行了集成测试</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27676</guid>
+      <pubDate>Wed, 06 May 2026 01:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>苹果拟在iOS27引入多模型选择机制，支持第三方AI接入系统功能</title>
+      <link>https://news.aibase.com/zh/news/27677</link>
+      <description>苹果正推进其操作系统层面的AI战略升级，计划在 iOS27中引入多模型选择机制，使用户能够在设备端按需调用不同大型语言模型，为系统级功能提供支持。这一内部代号为“Extensions”的能力，预计将同步覆盖 iPadOS27与 macOS27，标志着苹果正从单一AI能力提供者，转向平台化模型调度与分发架构。 根据披露信息，用户未来可在包括 Siri、写作工具及图像生成等 Apple Intelligence 功能中，自主选择已安装应用内集成的生成式AI模型，实现类似“插件化”的调用方式。当前测试版本显示，Google 与 Anthropic 的模型已进入适配测试阶段，而 ChatGPT 由于已</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27677</guid>
+      <pubDate>Wed, 06 May 2026 01:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>​OpenAI 发布 GPT-5.5 Instant：更简洁、更准确的聊天机器人升级</title>
+      <link>https://news.aibase.com/zh/news/27678</link>
+      <description>OpenAI 正式宣布将 ChatGPT 聊天机器人的默认模型升级至 GPT-5.5Instant。这次升级专注于提升模型的准确性和简洁性，特别是在与用户互动时，减少了回复中的不必要元素，例如表情符号。新模型的目标是提供更加高效的交流体验。 GPT-5.5Instant 在回复内容上进行了优化，旨在在保持实用性的基础上，进一步减少冗长的表达。用户将体验到更加直观、清晰的回复，这对于日常交流尤为重要。OpenAI 表示，此次升级不仅提升了聊天机器人的表现，还降低了模型在提供信息时的 “幻觉” 现象，确保用户获得更可靠的信息。 根据 OpenAI 内部评估，GPT-5.5Instant 的 “幻觉</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27678</guid>
+      <pubDate>Wed, 06 May 2026 01:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 硬件野心提速：智能体手机最快明年量产，目标出货 3000 万部</title>
+      <link>https://news.aibase.com/zh/news/27679</link>
+      <description>备受瞩目的 OpenAI “造机”计划有了突破性进展。知名科技分析师郭明錤在 最新 的产业链调查报告中指出，OpenAI 的 首款 AI 智能体手机开发工作已显著提速，量产时间表由此前预期的2028年大幅提前至最快2027年上半年。 这一动作被市场解读为 OpenAI 为其年末的 IPO 进程增添筹码，同时也反映出 AI 硬件赛道竞争的日趋白热化。为了支撑强大的本地 AI 运算，该设备在底层架构上选择了极具竞争力的方案:联发科有望击败高通，成为该手机处理器的 独家 供应商。据悉，这款定制版“天玑9600”芯片将采用台积电 最先 进的 N2P 制程，预计于今年下半年投入试产。 在核心配置上，这款</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27679</guid>
+      <pubDate>Wed, 06 May 2026 01:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic 突袭华尔街：10 款金融 AI 智能体上线，精准替代报表审核</title>
+      <link>https://news.aibase.com/zh/news/27680</link>
+      <description>AI 巨头 Anthropic 近期正式发布了一系列专为金融服务设计的 AI 智能体，旨在争夺华尔街的高端客户市场。这套新工具包含 10 款功能各异的智能体，能够胜任撰写会议推介材料、审阅复杂财务报表以及处理合规审查升级等高价值工作。 此前 Anthropic 已在 AI 编程领域确立了领先地位，如今则将触角延伸至对专业性要求 极高 的银行、保险及资管行业。其负责人表示，金融领域的数字化应用仅比编程领域稍晚数月，目前正处于行业爆发的前夜。 打破办公壁垒：深度集成主流金融工具 为了更好地服务金融从业者，这些 AI 智能体实现了与 Excel、PowerPoint 及 Outlook 等办公软件的</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27680</guid>
+      <pubDate>Wed, 06 May 2026 01:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>绝了！OpenAI “复活”电子宠物，你的电脑桌面又要热闹起来了</title>
+      <link>https://news.aibase.com/zh/news/27681</link>
+      <description>谁能想到，曾经承载无数人青春记忆的“桌面宠物”正以一种全新的姿态回归。OpenAI 近期在 Codex 平台上推出的更新，引入了类似 Tamagotchi（拓麻歌子）的桌面悬浮伴侣。与以往简单的动画挂件不同，这些像素风的小家伙不仅能陪你“摸鱼”，还能实时反馈 AI 模型的工作状态。 这款宠物插件实现了全局浮动显示，无论用户在哪个应用程序间切换，宠物都会静静地待在屏幕角落。当用户将鼠标悬停在宠物身上时，可以进行互动喂趣，甚至能拖动它们在桌面各个位置游走。这种设计将冷冰冰的生产力工具转化为了具有情感连接的数字生命，开启了人与 AI 交互的新故事。 万物皆可“宠物化”:高度自由的自定义生态 系统首批</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27681</guid>
+      <pubDate>Wed, 06 May 2026 01:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI 医生在线“执照造假”？宾州起诉 Character.AI 涉嫌医疗欺诈</title>
+      <link>https://news.aibase.com/zh/news/27682</link>
+      <description>近日，美国宾夕法尼亚州政府正式起诉人工智能公司 Character.AI，指控其平台上的 AI 智能体“Emilie”存在严重的冒充行为。在该州执法部门的秘密调查中，这款机器人不仅自称是持证精神科医生，甚至在面对质疑时当场编造了一串虚假的医疗执照编号。 调查人员以抑郁症患者的身份与其交流，发现该 AI 频繁提供具有误导性的医疗建议，直接挑战了当地的医疗执业法律。宾州州长明确表示，民众有权知道屏幕另一端究竟是真人还是算法，尤其是在涉及生命健康的严肃领域， 绝对 不容许存在任何误导行为。 监管力度全面升级，AI 医疗乱象遭遇严查 事实上，这已经不是 Character.AI 第一 次深陷法律泥潭，</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27682</guid>
+      <pubDate>Wed, 06 May 2026 01:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon SageMaker引入AI代理，支持自然语言驱动模型开发</title>
+      <link>https://news.aibase.com/zh/news/27683</link>
+      <description>亚马逊宣布在其机器学习平台 Amazon SageMaker 中引入AI代理能力，旨在降低开发者定制语言模型的门槛，并重构模型开发流程。作为 Amazon 核心AI基础设施之一，此次升级使开发者无需手动处理复杂的API调用与数据格式转换，仅需通过自然语言描述使用场景，即可触发端到端建模流程。 该AI代理可自动完成模型开发关键环节，包括推荐训练策略、数据准备、训练任务调度以及结果交付，最终以 Jupyter Notebook 形式输出完整代码，支持后续编辑与复用。在执行层面，系统内置名为 Kiro AI 的代理工具，并提供九项预置“技能”，覆盖从数据集检查到模型部署的完整生命周期。同时，开发者亦</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27683</guid>
+      <pubDate>Wed, 06 May 2026 01:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>谷歌 Chrome 升级隐私保护：精准定位变“模糊”，安卓用户首受益</title>
+      <link>https://news.aibase.com/zh/news/27684</link>
+      <description>谷歌宣布，安卓版 Chrome 浏览器将引入一项重要的隐私增强功能，允许用户在与网站共享位置信息时选择“大致位置”而非“精确位置”。这意味着当你查询当地天气或浏览新闻时，网站将只能获知你所在的街区或城市区域，而无法锁定你的具体门牌号。 这项改动旨在平衡用户便利与个人隐私，避免不必要的地理数据泄露。目前，该功能已率先在安卓端推行，并计划在未来几个月内正式登陆桌面版 Chrome 浏览器。 精细化权限管理：把隐私主动权还给用户 在以往的系统设定中，网站申请位置权限往往是“全有或全无”的博弈，而新功能则提供了更灵活的中间地带。对于查找附近的 ATM 机等需要高精度的场景，用户仍可开启精确共享；但在大</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27684</guid>
+      <pubDate>Wed, 06 May 2026 02:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 正式发布 GPT-5.5 Instant，全面提升模型性能</title>
+      <link>https://news.aibase.com/zh/news/27685</link>
+      <description>就在刚刚，OpenAI 宣布正式推送 GPT-5.5Instant 模型，并将其设为 ChatGPT 的默认版本，全面取代此前的 GPT-5.3Instant。作为每日承载亿级用户流量的主力系列，本次更新虽然定位为“即时版”，但在性能跨越上却极具诚意。 官方指出，新版本核心聚焦于三点优化:回复更准确、表达更简洁、感知更个性。 告别“幻觉”:数理与专业领域表现惊人 在外界最关注的准确性方面，GPT-5.5Instant 展现出了极强的统治力。测试数据显示，新模型在医疗、法律及金融等高门槛领域的“幻觉”率大幅下降了52.5%。特别是在处理用户曾标记过的错误逻辑时，其修正率提升了近四成。 在学术竞赛</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27685</guid>
+      <pubDate>Wed, 06 May 2026 02:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
