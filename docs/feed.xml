@@ -8,118 +8,188 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 10 May 2026 02:53:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 03:29:32 +0000</lastBuildDate>
     <item>
-      <title>暴涨981%！三七互娱投资智谱“大获全胜”，游戏巨头正集体押注AI下半场</title>
-      <link>https://news.aibase.com/zh/news/27811</link>
-      <description>2026年一季度，游戏行业老牌巨头三七互娱交出了一份令人瞩目的投资成绩单。受旗下投资企业智谱上市后股价大幅攀升的利好影响，三七互娱在该季度的投资收益高达3.59亿元，同比增幅达到惊人的981.35%。这一数据的爆发式增长，不仅反映了资本市场对AI优质资产的认可，也标志着三七互娱在人工智能领域的“卡位战”取得了阶段性成果。 深耕产业协同，构建AI大模型投资矩阵 在坚持游戏主业核心地位的基础上，三七互娱的投资策略展现出了极强的专业协同性。公司并非盲目跨界，而是精准锚定能够赋能游戏研运的底层技术，先后完成了对智谱、月之暗面、百川智能以及爱诗科技等国内 顶尖 AI大模型及应用层公司的早期布局。这种前瞻</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27811</guid>
-      <pubDate>Sat, 09 May 2026 03:10:00 +0000</pubDate>
+      <title>贾跃亭重返法拉第未来，宣布公司转型为物理 AI 生态企业</title>
+      <link>https://news.aibase.com/zh/news/27827</link>
+      <description>在法拉第未来（FF）成立 12 周年之际，贾跃亭发布视频宣布他已回归并担任 FF 全球 CEO。此外，Jerry 也被任命为 FF 全球执行董事长。这次组织调整标志着 FF 创始团队的全面回归，贾跃亭强调这是一次精神和文化的重塑，旨在重新激发公司创业的活力。 贾跃亭回顾了 FF 的发展历程，分为四个阶段：2014 年至 2021 年，FF 在创始团队的领导下快速崛起，市值突破 40 亿美元；2021 年至 2025 年，FF 遭遇了极大的挑战，公司控制权转移，股价大幅下跌，投资者信任度下降；2025 年 4 月以来，创始团队逐步回归，公司开始稳定发展；如今，随着创始团队的最终回归，FF 开启了</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27827</guid>
+      <pubDate>Mon, 11 May 2026 00:48:00 +0000</pubDate>
     </item>
     <item>
-      <title>突破 300 款！国内最强大模型服务平台上线，AI调用成本直降30%</title>
-      <link>https://news.aibase.com/zh/news/27812</link>
-      <description>5 月 8 日，由中国移动研发的国内首个超大规模AI模型服务平台正式宣告上线。作为目前国内汇聚模型数量最多的集成化平台，该系统已成功接入超过 300 款国内主流AI大模型，标志着我国在人工智能基础设施建设与服务能力上迈出了重要一步。 首创词元集约化模式，实现智能匹配 该平台在运营逻辑上实现了重要突破，首创了“词元（Token）集约化”运营模式。在实际操作中，平台展现出了 极高 的智能化水平，能够精准解析用户的不同任务需求，并自动在库中寻找最匹配的算法模型。 为了满足多样化的应用场景，平台提供了三种灵活的筛选模式： 成本优先模式 ：通过优化路径，以 最低 的消耗完成基础任务。 效果优先模式 ：调</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27812</guid>
-      <pubDate>Sat, 09 May 2026 03:23:00 +0000</pubDate>
+      <title>谷歌 Chrome 浏览器 148 版更新：本地 AI 数据处理表述引发关注</title>
+      <link>https://news.aibase.com/zh/news/27828</link>
+      <description>近日，谷歌宣布了 Chrome 浏览器的 最新 版本 148 的更新，但这一更新引发了用户和专家的关注。根据 cybernews 的报道，谷歌对 Chrome 中设备端 AI 模型处理数据的相关措辞进行了修改。之前在 Chrome 147 版本中，明确表示：“Chrome 可以使用直接在设备上运行的 AI 模型，数据无需发送到谷歌服务器。” 然而，在 148 版本中，这一关键表述被删除，引起了广泛的讨论。 计算机科学家兼律师亚历山大・汉夫对此提出了疑问，他询问谷歌：“这一变化是否意味着之前的文本不准确？架构是否发生了变化？是否因为法律建议而撤回了这一表述？” 对此，谷歌发言人表示，实际处理方式</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27828</guid>
+      <pubDate>Mon, 11 May 2026 00:52:00 +0000</pubDate>
     </item>
     <item>
-      <title>百度发布文心大模型5.1：搜索能力位居国内首位，预训练成本仅为业界6%</title>
-      <link>https://news.aibase.com/zh/news/27813</link>
-      <description>在人工智能竞争白热化的当下，国产大模型再次交出了一份惊艳的答卷。5月9日，百度正式推出了新一代基础大模型——文心大模型5.1。目前，该模型已全面上线百度千帆模型广场及文心一言官网，正式面向企业级用户与开发者开放体验。 本次更新的核心亮点在于其 极高 的“性价比”与强大的搜索整合能力。据官方介绍，文心5.1采用了创新的“多维弹性预训练”技术。这一技术最早在文心5.0发布时崭露头角，其精髓在于能实现“一次训练，生成多种规模模型”。作为该技术的 最新 阶段性成果，文心5.1在充分继承5.0版本知识储备的基础上，实现了参数规模的大幅优化:总参数量压缩至约三分之一，激活参数压缩至约二分之一。 令人关注的</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27813</guid>
-      <pubDate>Sat, 09 May 2026 03:28:00 +0000</pubDate>
+      <title>阿里通义千问接入淘宝，重塑对话式购物新形态</title>
+      <link>https://news.aibase.com/zh/news/27829</link>
+      <description>阿里巴巴近日宣布了一项重大的战略举措：计划将旗下的 AI 大模型通义千问与淘宝进行深度融合，旨在通过对话式交互彻底改写传统的电商购物模式。 在这一全新的服务架构下，消费者的购物体验将变得更加直观与智能。用户只需在通义千问应用中通过简单的对话，即可完成从选品到下单的全流程操作。为了支撑这一庞大的交互需求，通义千问已成功接入拥有超过 40 亿款商品的海量数据库。AI 不仅能提供端到端的购物服务，还能基于精准的语境理解，为用户提供智能化的商品推荐。 淘宝 App 同步升级，AI 购物助手上线 除了在通义千问端发力，淘宝 App 自身也将迎来重要更新。据悉，淘宝即将上线专属的 AI 购物助手，并引入虚</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27829</guid>
+      <pubDate>Mon, 11 May 2026 00:53:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI 推出 Codex Chrome 扩展程序，提升浏览器操作效率</title>
-      <link>https://news.aibase.com/zh/news/27814</link>
-      <description>OpenAI 近日推出了一款适用于 Mac 和 PC 的 Codex Chrome 扩展程序，旨在简化用户在浏览器中执行各种任务的流程。此次更新是为了迎合越来越多用户在浏览器中工作的趋势，使 Codex 能够更加高效地完成 Web 相关的任务。 在此之前，Codex 通过内置的沙盒浏览器和不断扩展的插件库来执行任务，支持 GitHub、Slack、Figma 和 Notion 等服务。但新的 Chrome 扩展程序填补了以往方法无法实现的空白，特别是那些需要用户真实登录的操作。 这款 Chrome 扩展程序使 Codex 能够在 Chrome 浏览器中执行需要登录的任务，特别适合处理 Link</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27814</guid>
-      <pubDate>Sat, 09 May 2026 03:32:00 +0000</pubDate>
+      <title>英伟达2026年初承诺400亿美元股权投资，300亿重金加码OpenAI</title>
+      <link>https://news.aibase.com/zh/news/27830</link>
+      <description>英伟达（Nvidia）在2026年伊始便以激进的投资态势震动人工智能产业。据CNBC 最新 报道，这家处于AI计算核心地位的芯片巨头在今年前几个月内已承诺投入超过400亿美元用于股权投资，其资本布局规模之大，正深刻重塑全球AI生态系统的竞争格局。 在这笔巨额投入中，最受瞩目的核心动向是对OpenAI高达300亿美元的战略注资，此举进一步加深了 顶级 算力供应商与领先大模型研发商之间的利益捆绑。除针对头部独角兽的重仓外，英伟达的投资触角正延伸至产业链各环节，包括对玻璃制造巨头康宁公司（Corning）至多32亿美元的投资，以及向数据中心运营商IREN注入至多21亿美元资金。FactSet数据显示</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27830</guid>
+      <pubDate>Mon, 11 May 2026 00:53:00 +0000</pubDate>
     </item>
     <item>
-      <title>大模型为何“查无此人”?MiniMax 深度复盘“马嘉祺”消失背后的技术真相</title>
-      <link>https://news.aibase.com/zh/news/27815</link>
-      <description>近日，开发者社区发现 MiniMax M2系列模型在输出特定人名“马嘉祺”时出现异常。MiniMax 官方随即进行了全链路排查，并发布技术报告，揭示了这一现象背后的深层机制: 后训练阶段（Post-training）导致的低频 Token 退化。 根因定位:被“挤压”的词元 排查显示，分词器将“马嘉祺”切分为 ['马'， '嘉祺'] 。由于“嘉祺”在预训练阶段出现频次高，被合并为独立 Token（编号190467）。然而，在决定模型对话能力的“后训练”阶段，包含该 Token 的样本不足5条。 这种极低的出现频次导致该 Token 在向量空间中长期未被优化，被频繁更新的高频 Token（如代码</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27815</guid>
-      <pubDate>Sat, 09 May 2026 03:37:00 +0000</pubDate>
+      <title>​乔治亚州 AI 数据中心秘密抽水 2900 万加仑，居民节水呼吁遭遇冷遇</title>
+      <link>https://news.aibase.com/zh/news/27831</link>
+      <description>在美国乔治亚州费耶特县，一个名为 “Excalibur 项目” 的大型 AI 数据中心在长达 15 个月的时间里，通过两个水管秘密抽取了约 2900 万加仑（约 11 万立方米）的自来水。令人震惊的是，乔治亚州目前正面临中度到严重的干旱，州政府已要求居民停止浇灌草坪以节约用水。 这个项目由黑石集团旗下的 QTS 公司开发，园区占地 615 英亩，现已建成 13 栋建筑，整体面积达 620 万平方英尺（约 57.6 万平方米）。QTS 表示，这些抽取的水主要用于建筑施工阶段的混凝土浇筑、扬尘控制及场地准备工作。他们还承诺在运营后将采用闭路冷却系统，仅在卫生间和厨房使用市政供水。 问题的发生原因主</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27831</guid>
+      <pubDate>Mon, 11 May 2026 00:54:00 +0000</pubDate>
     </item>
     <item>
-      <title>报道称DeepSeek 计划加速模型发布，V4.1 更新预计将在 6 月亮相</title>
-      <link>https://news.aibase.com/zh/news/27816</link>
-      <description>DeepSeek公司近期宣布，将在 6 月推出其 V4 模型的更新版本 V4.1，并计划加快模型发布频率，以追赶行业竞争对手。此前，DeepSeek 因技术深度受到好评，但其模型迭代速度明显滞后于其他 AI 公司，140 天内未发布任何新模型，而同期多家全球主要 AI 公司共发布了约 50 个新模型。 DeepSeek 的 V4 模型本定于 2026 年 2 月发布，但因硬件迁移等问题，发布日期被推迟至 4 月 24 日，最终以预览版形式上线，包含 V4-Pro 和 V4-Flash 两个版本。尽管新版本在文本和代码生成方面表现出色，但仍缺乏图像和音频处理能力。V4.1 将致力于弥补这一短板，</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27816</guid>
-      <pubDate>Sat, 09 May 2026 03:38:00 +0000</pubDate>
+      <title>马斯克再战AI新赛道：桌面级编程神器Grok Build意外曝光</title>
+      <link>https://news.aibase.com/zh/news/27832</link>
+      <description>近期，埃隆·马斯克旗下的AI初创公司xAI正式更名为SpaceXAI，紧接着便传出了一则重磅消息:该公司正准备推出一款名为Grok Build的桌面端编程应用。 这起爆料源于Grok网页端的一个“意外”。今天，网页界面上短暂出现了一个名为“Grok计算机”的按钮。虽然该功能在短时间内就被迅速下架，但在其露面期间，用户可以看到一个允许在Grok计算机文件夹与谷歌云端硬盘（Google Drive）之间进行选择的控件。尽管当时底层功能尚未激活，但这次泄露无疑释放了一个明确信号——SpaceXAI的发布部署已经进入最后冲刺阶段。 目前，已经有部分内测用户率先体验到了Grok Build。据悉，这款应</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27832</guid>
+      <pubDate>Mon, 11 May 2026 00:56:00 +0000</pubDate>
     </item>
     <item>
-      <title>MiniMax 大模型“叫错人名”  稀宇科技：特定词元后训练不足导致</title>
-      <link>https://news.aibase.com/zh/news/27817</link>
-      <description>近日，稀宇科技（MiniMax）发布了一份技术报告，详细剖析了其 M2系列模型为何无法准确输出“马嘉祺”等特定人名的深层原因。这起看似偶然的错误，实际上揭示了当前大模型训练中普遍存在的一个隐蔽缺陷。 词元偏移:被“挤压”的向量空间 问题的核心源于大模型处理文本的基本单位——分词器（Tokenizer）。以“马嘉祺”为例，该名字在模型内部被切分为“马”和“嘉祺”两个词元。虽然模型在海量数据的预训练阶段已经学习过这些词汇，但在随后的“后训练”(指令微调)阶段，问题出现了。 由于后训练使用的精选对话数据中，“嘉祺”一词出现的频率极低，导致该词元几乎处于零训练状态。与此同时，代码符号、工具调用等高频词</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27817</guid>
-      <pubDate>Sat, 09 May 2026 05:46:00 +0000</pubDate>
+      <title>AI界的“方言天才”来了，藏语大模型惊艳北京科博会！</title>
+      <link>https://news.aibase.com/zh/news/27833</link>
+      <description>在近日举办的第二十八届中国北京国际科技产业博览会上，一款能够“听懂”藏语并以藏语思维进行创作的大模型成为了全场关注的焦点。这款名为“DeepZang”的大模型由西藏大学研发团队深度参与开发，不仅展示了AI在多语言处理上的突破，更标志着少数民族语言正加速融入全球数字化浪潮。 长期以来，主流通用大模型多以中、英文为核心进行训练，在处理藏语等少数民族语言时，往往存在翻译腔重、语感生硬等“水土不服”的现象。为了打破这一僵局，研发团队收集了近 7000 万条藏汉平行语料，并采集了超过 30500 小时的语音数据，全面覆盖了卫藏、康巴、安多三大藏语方言区。 这款大模型的独特之处在于其“原语思维”能力。在科</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27833</guid>
+      <pubDate>Mon, 11 May 2026 01:02:00 +0000</pubDate>
     </item>
     <item>
-      <title>甲骨文裁员事件：员工面临低额遣散费与权益争议</title>
-      <link>https://news.aibase.com/zh/news/27818</link>
-      <description>甲骨文公司于 3 月 31 日通过电子邮件裁员约 2 万至 3 万名员工，这一决定令许多人感到震惊。一位被裁员工回忆道：“当我尝试登录 V P N 时，系统显示‘该用户已不存在’，这时我意识到我的工作已经结束。” 几天后，甲骨文公司向这些被裁员工提供了遣散费，但条款引发了广泛争议。 公司提供的遣散费条款并不优厚。作为签署放弃诉讼权利协议的条件，员工在 第一 年可获得四周工资，之后每服务一年可再获得一周工资， 最高 不超过 26 周。此外，公司还支付一个月的 COBRA 保险费用。然而，许多员工发现，未归属的限制性股票单位（RSU）将会被没收，这使得他们的整体赔偿显著减少。 特别值得一提的是，一</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27818</guid>
-      <pubDate>Sat, 09 May 2026 05:57:00 +0000</pubDate>
+      <title>​日本政府推进 AI 与半导体行业人才培养计划</title>
+      <link>https://news.aibase.com/zh/news/27834</link>
+      <description>日本政府近期决定成立一个跨部门工作组，专注于为战略性行业如人工智能、半导体、量子技术、造船和国防制造等领域培训人才。此举标志着日本在劳动市场上的战略调整，旨在将劳动力转向高增长领域，而不仅仅是扩展传统的职业培训项目。 据《读卖新闻》报道，东京正在协调计划，创建一个专门的机构，名为 “再技能与人才发展促进委员会”。该机构将归属于日本内阁办公室，参与部门包括劳动部、经济部和教育部等相关机构。日本政府计划在今夏发布的经济增长战略中包含这一政策。 日本首相高市早苗的政府已确定 17 个战略性领域，重点投入公私合营的资金，这些领域包括人工智能、半导体、量子技术、造船和国防等。各个政府部门预计将与行业团体</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27834</guid>
+      <pubDate>Mon, 11 May 2026 01:07:00 +0000</pubDate>
     </item>
     <item>
-      <title>软银缩减 OpenAI 持股质押贷款规模，资本市场对未上市 AI 资产趋于审慎</title>
-      <link>https://news.aibase.com/zh/news/27819</link>
-      <description>软银集团近期调整了以其持有的 OpenAI 股份作为抵押的保证金贷款计划，目标融资规模由原定的100亿美元大幅下调40% 至60亿美元。据彭博社5月8日报道，该笔贷款期限设定为两年，并包含一年的延期选项。 此次融资规模的缩减，反映出部分债权人对 OpenAI 这一未上市巨头股权的可靠定价缺乏信心。由于非公开交易资产在估值稳定性、处置效率及流动性预期上存在不确定性，银行等金融机构在授信决策上表现得愈发保守。 尽管软银持续加大对人工智能领域的投资力度，但此次杠杆规模的校准说明，即便面临 极高 热度的 AI 标的，资本市场在处理此类高估值、低透明度的资产抵押时，仍维持着清醒的风险防范意识。目前，软银</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27819</guid>
-      <pubDate>Sat, 09 May 2026 06:07:00 +0000</pubDate>
+      <title>AI巨头竟在秘密“焚书”？揭秘Anthropic的“巴拿马项目”</title>
+      <link>https://news.aibase.com/zh/news/27835</link>
+      <description>近日，社交媒体X（原推特）上一则关于AI巨头Anthropic的爆料引发了广泛关注。消息称，该公司正在大规模购入数百万本书籍，在进行数字化扫描后立即将其销毁。这一举动被指与科幻作家弗诺·文奇在20年前的小说《彩虹尽头》中的情节惊人相似，引发了公众对AI公司获取训练数据手段的激烈讨论。 “巴拿马项目”浮出水面:从盗版到“洗白”的代价 根据2026年初曝光的法庭文件，这项代号为“巴拿马项目”（Project Panama）的行动由Anthropic内部秘密推进。该计划的核心目标是获取“世界上所有的书”。为此，公司聘请了曾参与Google Books项目的 资深 高管，并投入巨额资金从二手书零售商和</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27835</guid>
+      <pubDate>Mon, 11 May 2026 01:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>DeepSeek大范围开放识图模式:多模态理解功能正式开启内测</title>
-      <link>https://news.aibase.com/zh/news/27820</link>
-      <description>DeepSeek正式开启大规模识图模式内测，标志着这一国产大模型尖兵全面跨入图文多模态交互时代。 继4月底启动小范围灰度测试后，DeepSeek于5月9日大幅放开了“识图模式”的访问权限，目前多数测试账号已可在对话界面通过新增的独立入口接入该功能。尽管系统当前仍标注为“功能内测中”，但其在输入框上方与“快速模式”、“专家模式”并列的布局，预示着多模态理解已成为其核心产品矩阵的关键一环。 不同于传统简单的OCR文字提取，DeepSeek此次升级的核心在于深度图片识别与语义理解能力。在实测表现中，该模式能够对视觉信息进行逻辑拆解与情境感知，支持用户通过直接上传图片实现复杂的跨媒介交互。这一动作填补</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27820</guid>
-      <pubDate>Sat, 09 May 2026 06:27:00 +0000</pubDate>
+      <title>2026 年全球 IT 支出将达 6.31 万亿美元，AI 成本激增引发关注</title>
+      <link>https://news.aibase.com/zh/news/27836</link>
+      <description>据 Gartner 在 5 月 10 日发布的 最新 预测，预计到 2026 年，全球 IT 支出将达到 6.31 万亿美元，约合 45 万亿人民币，相比于前一年增长了 13.5%。其中，数据中心系统的支出增长尤为显著，预计将达到 7879.9 亿美元，年增长率高达 55.8%，成为 IT 支出中最重要的领域。 除了数据中心，软件、IT 服务、终端设备及通信服务的支出也都显示出强劲的增长趋势。预计到 2026 年，软件支出将达到 1.44 万亿美元，IT 服务支出将达到 1.87 万亿美元，终端设备和通信服务的支出分别预计为 8561.8 亿美元和 1.35 万亿美元。 值得注意的是，AI 技</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27836</guid>
+      <pubDate>Mon, 11 May 2026 01:37:00 +0000</pubDate>
     </item>
     <item>
-      <title>梁文锋豪掷 200 亿！DeepSeek启动 500 亿创纪录融资，V4. 1 定档 6 月</title>
-      <link>https://news.aibase.com/zh/news/27821</link>
-      <description>国内大模型领域正迎来一场前所未有的资本风暴。据 最新 消息，被誉为“价格屠夫”的AI企业DeepSeek（深度求索）正启动首轮大规模融资，目标金额高达 500 亿元人民币。如果该计划最终落地，将刷新中国大模型公司单轮融资的 最高 纪录。 这场融资最引人注目的细节在于，领投者并非传统的风险投资机构或互联网巨头，而是DeepSeek的创始人梁文锋本人。据悉，梁文锋个人出资额 最高 达 200 亿元，占本轮融资总额的40%。这一举动不仅展示了创始人对自家技术的 极致 信心，也让DeepSeek的估值在短短三周内经历了四次暴涨，从 4 月初的 100 亿美元一路飙升至目前的 500 亿美元（约合 35</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27821</guid>
-      <pubDate>Sat, 09 May 2026 06:37:00 +0000</pubDate>
+      <title>阶跃语音模型位列全球评测前三，创下中国大模型听感新高</title>
+      <link>https://news.aibase.com/zh/news/27837</link>
+      <description>在 最新 发布的全球 权威 TTS（语音合成）评测榜单Artificial Analysis Speech Arena Leaderboard中，来自中国的阶跃星辰(StepFun)展现出强劲实力。其语音生成模型StepAudio2.5TTS凭借出色的听感表现跻身全球前三，成为目前该榜单中排名 最高 的中国大模型产品。 与传统的实验室数据指标不同，该榜单采用了更为严苛的“盲测Elo评分机制”。在这种模式下，用户在完全不知道模型身份的情况下，对两段由同一文本生成的音频进行主观听感评判。测试场景涵盖了在线客服、知识分享、数字助手以及娱乐互动等真实生活片段。阶跃星辰的胜出，意味着其生成的语音在真实用</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27837</guid>
+      <pubDate>Mon, 11 May 2026 01:38:00 +0000</pubDate>
     </item>
     <item>
-      <title>ChatGPT 5.5 Pro：一小时破解博士级数学难题，AI 数学能力再创高峰</title>
-      <link>https://news.aibase.com/zh/news/27822</link>
-      <description>近日，剑桥大学数学教授、菲尔兹奖得主 Timothy Gowers 在其博客中分享了他使用尚未公开的 ChatGPT 5.5 Pro 进行数学研究的经历。这款 AI 模型在短短一小时内成功解决了一个组合数学领域的开放性问题，引发了学术界对 AI 数学能力的新一轮关注。 Gowers 教授指出，随着 AI 技术的发展，大语言模型在数学领域的应用经历了显著的变化。早期人们对其能力存在疑虑，认为它只能寻找已知答案或简单推导结果。然而，Gowers 的实验显示，ChatGPT 5.5 Pro 具备了更为独特的能力，能够识别人类数学家可能忽略的简洁论证，并在缺乏完整理论框架的情况下构建原创性的证明思路。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27822</guid>
-      <pubDate>Sat, 09 May 2026 08:11:00 +0000</pubDate>
+      <title>Airbnb第一季度60% 新代码由 AI 编写，自动化服务处理率升至40%</title>
+      <link>https://news.aibase.com/zh/news/27838</link>
+      <description>Airbnb 在2026年5月8日发布的财报中披露，人工智能已深度整合至其核心业务流，其中技术端60% 的新代码现由 AI 辅助编写。在 第一 季度财报电话会议上，首席执行官 Brian Chesky 强调了 AI 对研发效能的显著提升，尤其在 API 合作伙伴工具开发领域，AI 代理（Agents）的应用使原本需20人团队完成的工作缩减至单人监督规模。这一趋势与谷歌、微软及 Spotify 的技术路线高度一致，标志着 AI 辅助编程已从实验阶段迈向大规模生产。 除了后端研发，AI 在用户体验端也实现了关键突破。Airbnb 的客户支持 AI 机器人目前已能独立处理40% 的用户咨询，较年初的</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27838</guid>
+      <pubDate>Mon, 11 May 2026 01:47:00 +0000</pubDate>
     </item>
     <item>
-      <title>​调查显示玩家对 AI 干预游戏画面反感，保留原始风格成主流选择</title>
-      <link>https://news.aibase.com/zh/news/27823</link>
-      <description>科技媒体 TechPowerUp 最近对其读者进行了关于 NVIDIA DLSS 5 技术的调查，结果显示，接近六成的玩家反对使用 AI 来改变游戏的视觉效果。在近 2 万份投票中，高达 58% 的受访者选择了 “AI 不应改变游戏”，认为游戏的光照、材质、角色面部等视觉元素不应被 AI 技术干预。玩家们对原始画面的偏爱在此次调查中显而易见。 相较之下，仅有约 8% 的参与者认为 DLSS 5 所渲染的画面优于原生渲染，而大约 6% 的受访者则表示，只有在显著提升帧率的情况下，他们才愿意接受视觉效果的改变。这表明，尽管 AI 技术正在快速发展，许多玩家仍然更倾向于传统的游戏画面体验。 NVID</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27823</guid>
-      <pubDate>Sat, 09 May 2026 08:13:00 +0000</pubDate>
+      <title>AI变身“神导演”：浙大推出沉浸式角色扮演框架，让交互告别“机器人感”</title>
+      <link>https://news.aibase.com/zh/news/27839</link>
+      <description>AI角色扮演正从简单的“文字对话”向复杂的“沉浸式戏剧”进化。近日，浙江大学联合腾讯优图实验室提出了一种名为 AdaMARP 的自适应多智能体交互框架。该研究旨在解决当前大语言模型在角色扮演中存在的环境感缺失、叙事僵化等痛点，赋予AI如同“导演”般的场景调度与叙事能力。目前，该成果已被国际学术会议 ACL 2026 接收。 核心痛点：缺失的“环境”与“导演” 在现有的AI角色扮演中，用户虽能与历史或小说人物对话，但互动往往局限于文本交互，场景和角色多为静态。以探案场景为例，传统的AI系统往往只是一个“会说话的复读机”，无法根据环境线索（如地毯上的蜡痕）进行推理，也难以处理多角色轮替或场景切换等</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27839</guid>
+      <pubDate>Mon, 11 May 2026 01:49:00 +0000</pubDate>
     </item>
     <item>
-      <title>马斯克诉OpenAI案庭审现场，一份 2017 年的总裁日记揭开了哪些秘密？</title>
-      <link>https://news.aibase.com/zh/news/27824</link>
-      <description>马斯克与OpenAI之间的法律博弈近日在美国加利福尼亚州奥克兰法院正式开启庭审，这场诉讼已然进入白热化阶段。庭审期间，OpenAI联合创始人兼总裁格雷戈里·布罗克曼（Gregory Brockman）连续两天出庭作证。值得关注的是，他在公司创立初期的私人日记被作为关键证据当庭出示，为外界勾勒出这家AI巨头早期鲜为人知的权力角逐与战略转型细节。 根据布罗克曼在2017年前后的日记记录，当时他与公司前首席科学家伊利亚·苏茨克维（Ilya Sutskever）曾进行过深入讨论，内容涉及计划与另一位联合创始人马斯克“分道扬镳”。尽管双方在后期关系紧张，但日记中反映出一个核心共识:无论是马斯克还是布罗克</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27824</guid>
-      <pubDate>Sat, 09 May 2026 08:57:00 +0000</pubDate>
+      <title>中国移动发布MoMA平台：开启AI“水电煤”时代，Token成本降幅达30%</title>
+      <link>https://news.aibase.com/zh/news/27840</link>
+      <description>在 2026 移动云大会上，中国移动正式推出了移动模型服务平台—— MoMA 。这一平台的发布，标志着大模型应用正加速从“实验室”走向“千行百业”，力求让AI像水和电一样实现“随处可用”。 一站式集成： 300 余款主流模型“拎包入住” MoMA平台的核心优势在于其强大的聚合能力。通过统一的API网关，用户只需一次接入，即可调用包括中国移动自研“九天”基座大模型在内的 300 多款 业界主流模型。无论是国产之光DeepSeek、通义千问、Kimi，还是豆包、GLM等优质资源，均已悉数入驻。 这种集成模式覆盖了文本生成、语音处理及多模态理解等全方位能力，能精准匹配金融、教育、医疗等复杂业务场景。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27840</guid>
+      <pubDate>Mon, 11 May 2026 01:58:00 +0000</pubDate>
     </item>
     <item>
-      <title>ChatGPT 5.5 Pro一小时搞定博士级数学难题，AI原创能力已进化到这种地步？</title>
-      <link>https://news.aibase.com/zh/news/27825</link>
-      <description>近日，数学界发生了一件足以载入史册的轶事。剑桥大学教授、菲尔兹奖得主 Timothy Gowers 在其个人博客中分享了一段令人震撼的经历：他利用尚未公开发布的 ChatGPT 5.5 Pro，在短短一小时内攻克了一个困扰数学界已久的组合数学开放性问题。 长期以来，学术界对大模型处理高深数学的能力始终持有保留态度，认为它们大多是在“背书”，即通过检索文献或模仿已知推导来给出答案。然而，Gowers 教授此次的测试结果彻底打破了这一固有偏见。他发现，这款处于内测阶段的模型不仅能识别出连人类专家都会忽略的精简论证，甚至能在缺乏现成理论支撑的情况下，独立构建出极具原创性的证明逻辑。 攻克加性数论难题</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27825</guid>
-      <pubDate>Sat, 09 May 2026 09:05:00 +0000</pubDate>
+      <title>MiniMax发布“10x Team”计划:招募全球专家推动多领域大模型进化</title>
+      <link>https://news.aibase.com/zh/news/27841</link>
+      <description>领先的通用人工智能实验室MiniMax（稀宇科技）正式宣布启动“10x Team”合作计划。该项目旨在通过与各行业 顶尖 人才深度协作，将大模型的生产力属性从编程与内容创作领域拓宽至工业软件、游戏引擎、芯片设计、金融及财务等垂直赛道，目标是实现各行各业效率的“十倍增长”。 过去数月，MiniMax已在上述领域与专家开展实质性合作，验证了 顶尖 行业认知对模型构建的进化驱动作用。通过此次“10x Team”计划，MiniMax将开放完整的多模态模型能力、研发环境及充足的算力资源，邀请具有行业积累的开发者共同定义问题、构建评测集与工作流。值得关注的是，MiniMax明确表示将开源相关评测体系，意在</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27841</guid>
+      <pubDate>Mon, 11 May 2026 01:59:00 +0000</pubDate>
     </item>
     <item>
-      <title>​Anthropic 推出自然语言自编码器，将 Claude 内部活动直接转化为人类可读的文本解释</title>
-      <link>https://news.aibase.com/zh/news/27826</link>
-      <description>近日，Anthropic 公司推出了一种新型的自然语言自编码器（NLA），该技术能够将其语言模型 Claude 内部的 “思考活动” 直接转换为人类可读的文本。这一创新将为模型的可解释性打开新的大门，解决了以往难以理解内部激活状态的问题。 当用户与 Claude 进行交流时，输入的信息会被转化为长长的数字列表，这些数字称为 “激活”，用于模型的上下文处理和响应生成。然而，这些激活状态的具体内容一直以来难以解读。Anthropic 团队经过多年的研究，开发出了 NLA，能够以自然语言的形式展示这些激活状态。 NLA 的核心机制包括两个部分：激活可视化器（AV）和激活重构器（AR）。该模型由三个副</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/27826</guid>
-      <pubDate>Sat, 09 May 2026 09:45:00 +0000</pubDate>
+      <title>阿​里巴巴推出通义千问 AI，革新淘宝购物体验</title>
+      <link>https://news.aibase.com/zh/news/27842</link>
+      <description>阿里巴巴近日宣布，将其人工智能平台通义千问与电商平台淘宝进行深度整合。这一创新举措旨在通过对话式交互方式代传统的关键词搜索，进而重塑消费者购物体验。用户在通义千问应用中，只需与 AI 智能体进行简单对话，便可完成商品浏览、比价以及下单等操作，极大地简化了购物流程。 整合后，通义千问将接入淘宝和天猫超过 40 亿款商品，依托其强大的能力库，提供从物流调度到售后服务的全方位支持。此外，该 AI 系统能够根据用户的历史订单和购物偏好，智能推荐相关商品，让购物变得更加个性化和高效。 在淘宝 APP 内部，还将上线由通义千问赋能的 AI 购物助手，提供虚拟试穿和 30 天价格走势追踪等实用功能。这意味着</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27842</guid>
+      <pubDate>Mon, 11 May 2026 02:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>​中国移动推出全新 AI 模型服务平台 MoMA，让智能触手可及</title>
+      <link>https://news.aibase.com/zh/news/27843</link>
+      <description>在 2026 年 5 月 8 日举行的移动云大会主论坛上，中国移动重磅发布了移动模型服务平台 MoMA。该平台旨在将人工智能技术普及到各行各业，通过接入超过 300 款主流 AI 模型，实现智能服务的广泛应用。 MoMA 平台构建了一套 “一次接入、智能优选、普惠可用、安全可信” 的模型服务体系，大幅降低了 AI 应用的门槛。用户只需通过统一的 API 网关进行一次接入，即可使用平台上的所有模型资源。目前，MoMA 已经接入了包括中国移动自研的 “九天” 大模型在内的多款优秀模型，这些模型涵盖文本生成、语音处理和多模态理解等多项能力，满足了政务、金融、工业、医疗、教育等多个领域的需求。 为了优</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27843</guid>
+      <pubDate>Mon, 11 May 2026 02:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>影像创作进入“赛博乙方”时代，美图RoboNeo迎重大升级</title>
+      <link>https://news.aibase.com/zh/news/27844</link>
+      <description>近日，美图公司旗下的影像AI生产力工具RoboNeo完成了一次极具突破性的版本更新。此次升级最核心的看点在于其首创的“影像创作Agent Teams”模式，这一举措标志着AI从单一的辅助工具，正式向具备多角色协作能力的“创作团队”转型。 角色化分工，打破通用大模型的创作局限 在以往的内容创作中，通用大模型往往面临“懂百行却不懂用户”的尴尬境地。创作者在实际操作时，常常需要反复重述行业背景，面临品牌资产难以沉淀以及在不同创作软件间频繁切换带来的内耗。 为了解决这些痛点，RoboNeo将创作流程中的各个关键环节拆解并整合为多个AI Agent。这些Agent各司其职，涵盖了从需求理解、内容生成到细</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27844</guid>
+      <pubDate>Mon, 11 May 2026 02:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>​中国移动推出全球首个 AI-eSIM 多生态智能服务体系</title>
+      <link>https://news.aibase.com/zh/news/27845</link>
+      <description>近日，在移动云大会的 AI-eSIM 分论坛上，中国移动正式发布了其全新的 AI-eSIM“1+3+9” 多生态智能服务体系。此次发布的主题是 “AI-eSIM 智启新时代”，旨在为用户提供更安全、低成本和灵活的智能连接及人工智能服务。 中国移动副总经理陈怀达在论坛上指出，该公司积极响应国家战略，推动 “人工智能 +” 行动，通过 AI-eSIM 构建多生态智能服务体系。他表示，AI-eSIM 将作为 Token 经济的重要入口，采用 “Byte+Token+Agent” 的融合运营模式，促进人工智能的发展。 陈怀达针对产业伙伴提出了三项倡议：首先，鼓励技术合作，共同开发安全、创新和灵活的 A</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27845</guid>
+      <pubDate>Mon, 11 May 2026 02:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>​Hermes Agent 首次超越 OpenClaw，成为全球 Token 消耗冠军！</title>
+      <link>https://news.aibase.com/zh/news/27846</link>
+      <description>Hermes Agent（爱马仕智能体）在全球 Token 消耗量榜单上 首次 超越了 OpenClaw，荣登首位。这一成就显示了 Hermes Agent 在智能体领域的迅速崛起，特别是在调用前五大模型方面，包括小米的 MiMo-V2-Pro、MiniMax M2.7、英伟达的 Nemotron 3 Super、阶跃星辰 Step 3.5 Flash 以及腾讯的 Hy3 preview。 Hermes Agent 是由硅谷 AI 研究机构 Nous Research 开发并开源的智能体框架，自 2026 年 2 月发布以来，便在 GitHub 上收获了超过十万个星标，广受欢迎。项目官方定位 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27846</guid>
+      <pubDate>Mon, 11 May 2026 02:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>爆火出海！短剧全球抢滩，AI译制正成为制胜“杀手锏”</title>
+      <link>https://news.aibase.com/zh/news/27847</link>
+      <description>在过去两年中，海外短剧市场呈现出令人瞩目的爆发式增长态势。值得关注的是，在这场席卷全球的短剧浪潮中，中国企业已然稳居核心地位。根据 最新 的行业数据显示，截至 2025 年，中国出海短剧应用在全球范围内的下载量占比已突破80%大关，展现出极强的市场统治力。 从应用出海到内容出海 除了平台应用占据主流，海外热播的短剧内容在供给侧也高度依赖中国。目前，相当一部分在海外走红的作品，实际上是由国内成熟的成品剧经过译制后输出的。随着短剧出海进程的全面提速，行业内对于规模化、高效率译制的需求正迎来爆发式增长，这也让AI译制服务从“辅助工具”转变为行业刚需。 AI技术赋能降本增效 在传统模式下，人工翻译每月</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27847</guid>
+      <pubDate>Mon, 11 May 2026 02:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>巨头跨界AI？宁德时代成立两家新公司，软件研发或成新版图</title>
+      <link>https://news.aibase.com/zh/news/27848</link>
+      <description>近日，动力电池巨头宁德时代在西北地区动作频频。根据相关企业信息公示，两家名为“时代电服科技有限公司”的新企业分别在兰州和银川正式成立。其中，兰州时代电服科技有限公司的注册资本达到 1000 万元人民币，显示出母公司对该业务板块的初步投入力度。 经营范围涵盖AI软件开发与机械研发 值得关注的是，这两家新成立公司的业务范畴并非局限于传统的电池制造，而是展现出了明显的科技研发色彩。根据经营范围显示，新公司将重点投入机械设备研发、人工智能应用软件开发以及常规软件开发等领域。这种业务组合暗示着宁德时代正在加速其在智能化、自动化工具方面的技术储备。 股权结构显示为宁德时代全资控股 在股权穿透分析中可以看到</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27848</guid>
+      <pubDate>Mon, 11 May 2026 02:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Palisade Research报告:AI代理实现自主跨国黑客攻击，自我复制成功率升至81%</title>
+      <link>https://news.aibase.com/zh/news/27849</link>
+      <description>安全研究实验室 Palisade Research 近日发布报告证实，人工智能代理已实现跨越国界的自主黑客攻击与自我复制能力，标志着AI安全威胁进入从“辅助工具”向“自主病原体”转变的新阶段。在 最新 的测试环境中，AI代理能够独立识别远程计算机漏洞，自主安装必要软件并复制自身模型权重，随后启动运行副本以触发连锁反应。 关键数据显示，前沿模型的自我复制成功率在过去一年内实现跨越式增长，从2025年5月的6%飙升至2026年5月的81%。这种进化速度与模型自主黑客攻击和编码能力的提升高度正相关。在实际演示中，基于 Qwen3.6（27B）的智能体在50分钟内完成了从美国到加拿大、芬兰及印度的跨国</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27849</guid>
+      <pubDate>Mon, 11 May 2026 02:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>三星升级 Bespoke AI 冰箱 家庭中心，全面提升智能体验</title>
+      <link>https://news.aibase.com/zh/news/27850</link>
+      <description>三星电子近日宣布，为在美国销售的 Bespoke AI 冰箱家庭中心推出重大软件更新。这一更新无需更换硬件，即可为现有用户带来新一代 AI 增强功能。此次更新包括与 Google Gemini 合作开发的 AI 视觉食物识别技术、全新升级的 Bixby 语音控制以及个性化的日常小部件等新功能。 三星电子数字家电业务研发团队执行副总裁郑承文表示:“家用电器的价值不应在购买时固定，而应随着技术的演变而不断提升。” 此次更新旨在为用户提供更智能的厨房体验，能够识别更多种类的食品，理解自然语言对话，并根据家庭日常习惯进行适应。 更新后的 AI 食品管理系统显著扩展了家庭中心识别和跟踪食物的能力。结合云</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27850</guid>
+      <pubDate>Mon, 11 May 2026 02:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vbot维他动力获近5亿元Pre-A轮融资，首款具身智能产品开启大规模交付</title>
+      <link>https://news.aibase.com/zh/news/27851</link>
+      <description>具身智能领军企业Vbot维他动力近日宣布完成近5亿元Pre-A轮融资，由东方嘉富、华泰紫金、复星锐正联合领投，上汽集团旗下尚颀资本等机构跟投，老股东悉数加码。该笔融资刷新了全球消费级具身智能赛道迄今为止的 最大 单笔融资纪录。5月8日，Vbot 首款 产品“超能机器狗”正式启动量产交付，首批500台产品已下线发货，标志着具身智能机器人正式从实验室走向大众日常生活空间。 作为2025年12月推出的全球 首款 无需遥控的智能机器狗，Vbot产品凭借全场景随行、自主载物及AI跟拍等核心能力，在预售期间便表现出极强的市场号召力。数据显示，该产品在限时预售期内累计订单达6540台，预订额近亿元，刷新了万</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27851</guid>
+      <pubDate>Mon, 11 May 2026 02:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>M4 MacBook Pro 性能实测：24GB 内存挑战本地 AI 极限</title>
+      <link>https://news.aibase.com/zh/news/27852</link>
+      <description>随着苹果 M4 芯片的普及，如何在不依赖云端算力的情况下，在本地顺畅运行大语言模型（LLM）成为了开发者关注的焦点。近日，开发者 jola 分享了其在 24GB 内存版本的 M4 MacBook Pro 上部署本地 AI 工作流的深度实践。测试结果显示，经过优化的 Qwen 3.5-9B 模型能够跑出每秒 40 tokens 的生成速度，为离线办公与私密开发提供了一种高效的替代方案。 选型博弈：为何 9B 模型是“ 最优 解” 在模型部署的初期，jola 曾对多种流行方案进行了横向测评。测试名单涵盖了从轻量级的 Gemma 4B 到体量较大的 GPT-OSS 20B 等多款模型，运行环境涉及 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/27852</guid>
+      <pubDate>Mon, 11 May 2026 03:24:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
