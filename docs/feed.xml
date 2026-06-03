@@ -8,335 +8,314 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 02 Jun 2026 03:57:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 04:03:34 +0000</lastBuildDate>
     <item>
-      <title>和科学家一起“不知道”，“追光课堂”为AI时代的孩子想办法</title>
-      <link>https://news.aibase.com/zh/news/28508</link>
-      <description>在贵州黔南的罗甸县木引小学四年级（1）班的科学课堂上，孩子们围着一台100倍显微镜，争先恐后地把化纤、棉花、羊毛塞到镜头下——他们要回答一个看似平常、却被科学家郑重端到课桌上的问题:“冬天的衣服，为什么能保暖?”这背后有着结构决定性能、性能决定功能的材料科学的底层逻辑。 在浙江杭州紫萱小学三四年级的X课堂上，孩子们手握“合作”和“竞争”两张卡牌， 第一 轮随机找伙伴、第二轮选一个固定同伴、第三轮则要和“家人”组队，体验不同的社会关系和竞争策略带来的“生存”与“淘汰”，在“背叛”与“温暖”的复杂情绪交织中，他们得到了跟1964年的威廉·汉密尔顿几乎一样的结论:个体为了增加具有共同血缘亲属的生存和</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28508</guid>
-      <pubDate>Mon, 01 Jun 2026 05:44:00 +0000</pubDate>
+      <title>颠覆传统交互！OpenAI现场演示“无App”手机，所有界面全靠AI实时生成</title>
+      <link>https://news.aibase.com/zh/news/28556</link>
+      <description>智能手机的操作系统或将迎来彻底的颠覆。在近日举办的 OpenAI Voice Hack Night 活动上，一支技术团队在现场公开展示了一款为手机打造的“Agentic 操作系统”原型，其彻底打破了传统智能手机依赖独立应用程序的生态模式。 该系统原型的核心设计理念被概括为“UI 即系统”。在演示过程中，测试手机上没有安装任何常规的 App，所有操作界面均由端侧本地模型根据用户指令实时生成。而诸如深度理解、跨应用逻辑处理等重推理任务，则被直接托管给了云端的 GPT 大模型。 在现场演示中，开发者全程通过纯语音指令完成了一系列复杂的日常操作。用户只需动动嘴，系统便能流畅地完成预订机票、删除日历行程</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28556</guid>
+      <pubDate>Tue, 02 Jun 2026 05:46:00 +0000</pubDate>
     </item>
     <item>
-      <title>英伟达发布RTX Spark处理器，拟于2026年向苹果M系列发起挑战</title>
-      <link>https://news.aibase.com/zh/news/28509</link>
-      <description>英伟达（NVIDIA）在Computex2024期间正式揭晓了代号为“RTX Spark”的Arm架构高性能笔记本处理器。这款被定位为“ 超级 芯片”的产品计划于2026年正式面世，旨在高端移动计算领域正面挑战苹果M系列芯片的长期统治地位。此举标志着英伟达在深耕GPU领域多年后，正加速通过全栈算力整合重返客户端CPU市场，这不仅是产品线的延伸，更是针对AI PC赛道的重大战略部署。 技术层面，RTX Spark充分发挥了英伟达在图形处理与本地AI算力上的领先优势，结合Arm架构的高能效特性，力求在Windows11移动生态中实现性能与续航的深度平衡。该芯片将深度适配微软Windows11系统的</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28509</guid>
-      <pubDate>Mon, 01 Jun 2026 06:02:00 +0000</pubDate>
+      <title>拒绝回答废话？OpenAI 升级手机端 ChatGPT，长按即可自定义推理力度</title>
+      <link>https://news.aibase.com/zh/news/28557</link>
+      <description>为了让用户的日常对话更加自然高效，人工智能巨头 OpenAI 近日对移动端和网页版的 ChatGPT 进行了针对性升级。在本次更新中，手机端应用引入了一项实用的隐藏交互手势，赋予了用户对模型计算力度的自主控制权。 灵活掌控智能等级 在全新升级的移动端应用中，用户在输入完提示词后，只需长按发送箭头即可调出全新的智能等级选择器。该功能提供了不同的响应档位切换，允许用户在发送前根据任务难度自由选择模型的推理力度。 系统目前提供了快速响应、深度思考以及延伸推理等不同选项。对于日常的简单问答，快速响应模式可以即时给出结果；而面对复杂的编程、数据分析或方案设计时，更 高级 别的推理模式则能提供更精准的协助</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28557</guid>
+      <pubDate>Tue, 02 Jun 2026 05:50:00 +0000</pubDate>
     </item>
     <item>
-      <title>华为AI眼镜 2499 元正式开售，自研芯片+小艺智能体引爆端侧</title>
-      <link>https://news.aibase.com/zh/news/28510</link>
-      <description>智能穿戴设备正加速迈入“具身智能”新阶段。6月1日，备受瞩目的 华为AI眼镜 正式迎来全渠道开售。这款曾在4月份华为Pura系列发布会上初次亮相的科技新品，本次推出了全新的钛银灰配色，官方定价为2499元。 为了解决智能眼镜长期存在的笨重痛点，该款眼镜在工业设计上进行了大刀阔斧的瘦身。得益于轻量化新型材料与高密度精密堆叠技术的应用，其镜腿厚度被压缩至6.25毫米，整机重量仅为35.5克，几乎与日常佩戴的普通黑框眼镜无异。出色的减重设计也让其成功斩获了SGS“低疲劳舒适佩戴”五星级 权威 认证，能够轻松胜任办公、通勤及运动等全天候长时间佩戴场景。 在核心性能与交互上， 华为AI眼镜 搭载了专属的</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28510</guid>
-      <pubDate>Mon, 01 Jun 2026 06:02:00 +0000</pubDate>
+      <title>GitHub Copilot正式上线按量计费模式，推出AI点数扣费机制</title>
+      <link>https://news.aibase.com/zh/news/28558</link>
+      <description>GitHub于昨日正式将其AI编程辅助工具Copilot切换至按使用量计费模式。这一转变意味着该产品正式告别了“低价无限包月”的软件订阅时代，转向依据模型和Token消耗扣除“GitHub AI点数”的云服务账单模式。 根据官方 最新 文档，10美元/月的Copilot Pro套餐目前包含1500点额度（1000点基础加500点弹性），39美元/月的Pro+与100美元/月的Copilot Max则分别包含7000点和20，000点。其中，核心的代码补全与Next Edit建议仍保持免费不限量，而真正变贵并计入点数消耗的，是Copilot Chat、命令行、代码审查以及更复杂的云端和第三方编程</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28558</guid>
+      <pubDate>Tue, 02 Jun 2026 06:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>拯救乱码文件名！微软OneDrive将上线Copilot自动重命名功能</title>
-      <link>https://news.aibase.com/zh/news/28511</link>
-      <description>对于经常需要处理大量文档的职场人士和学生而言，如何为文件精准命名一直是个让人头疼的麻烦事。面对那些由乱码、日期或默认前缀组成的无意义文件名，日后查找起来如同大海捞针。为了彻底解决这一痛点，微软近日宣布将为旗下的OneDrive云存储服务引入一项重磅升级，正式推出基于人工智能的文件自动重命名功能。 上下文感知智能生成描述式标题 这项全新功能被命名为“建议重命名”，其底层技术完全由微软强大的Microsoft Copilot人工智能助手提供支持。与市面上简单的批量命名工具不同，该AI助手能够深度理解文件的具体内容，并结合上下文语境自动生成清晰易懂且具备高度描述性的文件名。在实际操作中，系统会在后台</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28511</guid>
-      <pubDate>Mon, 01 Jun 2026 06:02:00 +0000</pubDate>
+      <title>争夺数月终获突破！Anthropic 将向欧盟开放最强安全模型 Mythos</title>
+      <link>https://news.aibase.com/zh/news/28559</link>
+      <description>经过数月的艰苦谈判，欧盟委员会于周一正式确认，已与美国人工智能独角兽 Anthropic 达成共识。这家备受瞩目的 AI 公司将向欧盟开放其技术 最先 进的模型 “Mythos” 的访问权限，标志着双方在网络安全监管合作上取得重大进展。 针对安全漏洞的“双刃剑” 作为 Anthropic 网络安全项目“Project Glasswing”的核心，Mythos 模型于今年 4 月 首次 向极少数企业开放。该模型具备极其强大的代码审计能力，擅长精准识别软件系统中不为人知的安全漏洞和架构弱点。 然而，这种强大的能力也引发了各界的深刻担忧，因其一旦被恶意黑客利用，极易成为加速网络犯罪的破坏性武器。欧盟</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28559</guid>
+      <pubDate>Tue, 02 Jun 2026 06:10:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI大模型独角兽MiniMax开启A股IPO辅导，二级市场AI应用概念股掀起涨停潮</title>
-      <link>https://news.aibase.com/zh/news/28512</link>
-      <description>国内大模型赛道在资本市场再度迎来重磅进展。据中国证监会官网 最新 披露的IPO备案辅导公示显示，大模型独角兽企业 MiniMax （MiniMax Group）已于 2026 年 5 月 29 日正式与中信证券签署了上市辅导协议。这标志着这家行业头部企业已正式宣告启动A股IPO进程。 就在该消息释放后不久，资本市场迅速做出了积极反馈。 6 月 1 日早盘期间，A股二级市场的AI应用概念股集体走强，呈现出大面积活跃上涨的态势。其中， 软通动力 斩获“20CM”强势涨停，而久其软件、浙大网新、税友股份、视觉中国、粤传媒、掌阅科技以及达实智能等多只行业核心标的也纷纷在盘中触及涨停板。 作为国内人工智</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28512</guid>
-      <pubDate>Mon, 01 Jun 2026 06:09:00 +0000</pubDate>
+      <title>国产具身智能迎突破！越疆发布“空弈”大模型，标准任务成功率超99%</title>
+      <link>https://news.aibase.com/zh/news/28560</link>
+      <description>具身智能领域迎来重要技术突破。机器人企业越疆正式发布了其自主研发的世界动作模型——“空弈DobotWAM”具身大模型，标志着该品牌在推动机器人理解与执行复杂现实任务方面迈出了关键一步。 作为评估该模型核心能力的重要指标，“空弈”具身大模型在业内公认的具身智能标准评测基准 LIBERO 上进行了深度测试。测试结果显示，该模型已顺利通过了 LIBERO-Spatial、LIBERO-Object、LIBERO-Goal 以及 LIBERO-10 四个标准任务套件的考核。 这四大套件精准覆盖了具身智能的核心能力维度。在实际运转中，“空弈”大模型在空间关系理解、物体泛化、目标指令理解以及长时序任务执行</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28560</guid>
+      <pubDate>Tue, 02 Jun 2026 06:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>再见“联网幻觉”！Cloudflare将推AI专属搜索引擎</title>
-      <link>https://news.aibase.com/zh/news/28513</link>
-      <description>在人工智能高速发展的当下，大模型的数据滞后问题一直广受诟病。由于训练数据集存在截止日期，AI经常会给出过时甚至错误的答案。为了彻底解决这一痛点，全球 著名 网络服务提供商 Cloudflare 近期面向部分开发者推出了一项颠覆性的网络搜索功能，专门为AI智能体提供实时公开网页的访问能力。 打破传统巨头垄断的创新API 这项全新服务旨在通过简单的API调用，让AI智能体在响应用户前先进行 全网 联网搜索，从而实时获取 最新 的关键词查询结果。目前在整个科技行业中，仅有Brave Search等极少数平台对公众开放此类面向AI的搜索API，而谷歌和必应等搜索巨头并未全面放开。Cloudflare的</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28513</guid>
-      <pubDate>Mon, 01 Jun 2026 06:12:00 +0000</pubDate>
+      <title>时薪达304元且支持远程，xAI正面向全球重金悬赏“最懂中文的声音”</title>
+      <link>https://news.aibase.com/zh/news/28561</link>
+      <description>马斯克旗下的AI初创公司xAI于2026年6月1日在其官方招聘网站发布公告，面向全球公开招募中文AI训练师，旨在全面优化和提升其旗舰大模型Grok的语音互动及多语言处理能力。这一战略动作标志着xAI在多模态语音技术领域的进一步发力。 据招聘信息显示，该岗位提供极具竞争力的薪酬，时薪在35至45美元之间（折合人民币约237元至304元），且工作模式高度灵活，支持全职、兼职或合同制远程办公，平均每周仅需投入至少10小时。与传统的文本标注不同，此次招募的核心任务直接指向大模型的多语言音频深层训练。 具体工作涵盖语音标注、录音、转写、评估口音和语调等专业维度。xAI要求候选人必须具备中文母语水平，并对</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28561</guid>
+      <pubDate>Tue, 02 Jun 2026 06:23:00 +0000</pubDate>
     </item>
     <item>
-      <title>英伟达联手宇树发布首款开放式机器人参考设计，软硬一体化加速具身智能商用进程</title>
-      <link>https://news.aibase.com/zh/news/28514</link>
-      <description>英伟达今日正式宣布推出NVIDIA Isaac GR00T人形机器人参考设计，这是全球 首款 基于NVIDIA Jetson Thor车载计算平台与Isaac GR00T开放开发平台构建的开放式人形机器人参考设计，旨在统一开发流程并显著缩短研究团队从硬件启动到现实世界技能验证的周期。 该参考设计深度整合了宇树（Unitree）H2Plus人形机器人本体、Sharpa Wave触觉五指灵巧手，以及由NVIDIA Jetson Thor驱动的板载计算系统，并将Isaac GR00T软件和工作流程作为核心“大脑”融入单一集成方案中。 此外，英伟达Isaac GR00T开发者平台还将提供对宇树G1人形</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28514</guid>
-      <pubDate>Mon, 01 Jun 2026 06:27:00 +0000</pubDate>
+      <title>AI巨头正面交锋！Anthropic秘密申请IPO，奥特曼淡定回应：不抢上市，技术才是核心</title>
+      <link>https://news.aibase.com/zh/news/28562</link>
+      <description>全球人工智能领域的资本与技术竞争正在向公开市场蔓延。当地时间周一，被视为OpenAI 最强 竞争对手的AI初创公司Anthropic正式宣布，已向监管部门秘密提交了IPO（ 首次 公开募股）申请。这一举措标志着科技史上最受瞩目的上市浪潮之一迎来了里程碑时刻。 面对竞争对手的抢跑，OpenAI首席执行官萨姆·奥特曼在接受采访时显得颇为淡定。他表示，AI行业最激烈的竞争并不在于谁能率先登陆华尔街，上市仅仅是一个融资事件，OpenAI并不会过度关注具体的时间节点。在奥特曼看来，团队当下的核心目标依然是推出最 顶尖 的技术并打造 最优 秀的企业。不过有知情人士透露，OpenAI其实也在推进自己的上市计</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28562</guid>
+      <pubDate>Tue, 02 Jun 2026 06:45:00 +0000</pubDate>
     </item>
     <item>
-      <title>全球首款全开源全模态物理AI大模型Cosmos3 发布，英伟达联手行业巨头成立宇宙联盟</title>
-      <link>https://news.aibase.com/zh/news/28515</link>
-      <description>物理人工智能领域迎来颠覆性突破。6月1日，英伟达正式发布了面向物理人工智能的开放世界基础大模型—— Cosmos3 。作为全球 首款 全开源、全模态的物理AI大模型，该模型依托创新的混合Transformer架构打造，在单一系统中融合了视觉推理、世界生成与动作预测能力，有望将物理人工智能的训练与评估周期从数月大幅缩短至数天。 针对具身智能长期面临的“在有限数据和零散仿真框架下难以在真实场景中泛化”的行业痛点，Cosmos3给出了全新的解决方案。该模型基于涵盖数十亿条文本、图像、视频、音效及动作轨迹的庞大物理人工智能数据集训练而成，能够原生理解并生成跨模态内容，其物理仿真精度达到了业界领先水平。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28515</guid>
-      <pubDate>Mon, 01 Jun 2026 06:30:00 +0000</pubDate>
+      <title>时薪最高 304 元还能远程兼职！马斯克旗下xAI全球招募中文AI训练师</title>
+      <link>https://news.aibase.com/zh/news/28563</link>
+      <description>马斯克旗下的人工智能公司 xAI 近日在其官方招聘网站上发布了一则引人关注的招聘信息。该公司正面向全球范围招募中文 AI 训练师，旨在协助训练及优化旗下大模型 Grok 的多语言处理与语音互动能力。 薪酬丰厚且工作灵活 根据招聘信息显示，该岗位的时薪大约在 35 至 45 美元之间，折合人民币约为 237 元至 304 元。该职位不仅支持全职、兼职或合同制，还允许员工完全远程办公，每周平均只需至少投入 10 小时，且不设固定的承诺工时。 本次招募的核心任务并非普通的文本标注，而是侧重于提升大模型的多语言音频能力。具体的工作内容涵盖了语音标注、录音、转写，以及对不同口音和语调进行专业评估。 应聘</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28563</guid>
+      <pubDate>Tue, 02 Jun 2026 06:55:00 +0000</pubDate>
     </item>
     <item>
-      <title>4月抖音新增AI短剧超4.4万部达真人剧13倍，爆款破亿率仅为0.6%</title>
-      <link>https://news.aibase.com/zh/news/28516</link>
-      <description>根据DataEye研究院提供给 第一 财经的 最新 数据显示，今年4月仅抖音原生端单月新增AI剧及漫剧总量便高达4.42万部，而同期新增真人实拍微短剧仅为3248部，AI短剧产量已达真人短剧的13倍以上。这一数据表明，生成式AI技术在影视制作端的应用已进入爆发期，大幅降低了内容生产门槛与边际成本，实现了产能的工业化跃升。 然而，在产量实现爆发式增长的同时，AI短剧也面临着 极高 的市场淘汰率与两极分化困局。数据显示，在4月抖音新增的4.42万部AI剧中，播放量破亿的头部作品仅有267部，破亿率仅为0.6%。另据《中国AI影视发展报告（2025-2026）》统计，截至2026年2月末， 全网 在</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28516</guid>
-      <pubDate>Mon, 01 Jun 2026 07:04:00 +0000</pubDate>
+      <title>特斯拉车主狂喜！官方高调预热车载 AI 语音，传将首度接入国产双大模型</title>
+      <link>https://news.aibase.com/zh/news/28564</link>
+      <description>特斯拉在华的车载语音交互体验或许很快就将迎来颠覆性的蜕变。今日，特斯拉中国官方突然发布了一段围绕“语音助手控制”展开的宣传视频，全方位展示了全新车载语音助手的智能化表现与新功能。这一举动立刻引发了汽车科技圈的广泛关注，被外界视为其车载语音系统大升级的强烈信号。 一直以来，由于缺乏本土化智能技术的加持，特斯拉在华的语音助手常被国内车主吐槽“不够聪明”、实用性不足。而此次官方高调预热，预示着特斯拉中国用户终于有望用上真正意义上的 AI 语音智能，彻底摆脱过去的体验窘境。 据多方知情人士透露，为了攻克这一本土化难题，特斯拉中国将采用“豆包 + DeepSeek”的国产双大模型架构。在具体的分工协作上</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28564</guid>
+      <pubDate>Tue, 02 Jun 2026 07:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI官宣重启机器人业务，奥特曼公开招募工程师短期专注基础设施研发</title>
-      <link>https://news.aibase.com/zh/news/28517</link>
-      <description>OpenAI首席执行官山姆·奥特曼（Sam Altman）今日(6月1日)通过社交平台公开宣布进军机器人赛道，并正式对外发布OpenAI Robotics团队的招聘信息，广泛招募全栈硬件、运营、系统及机器学习工程师。此举标志着这家通用人工智能(AGI)巨头在关停早期机器人业务后，正式重启物理世界的具身智能布局，试图将领先的大模型能力从数字世界拓展至现实实体。 奥特曼指出，人工智能的核心价值在于能够在现实世界中为人类提供实质性帮助。在发展路线上，OpenAI采取了分阶段推进的战略规划:短期内，公司将聚焦于研发能够协助技术工人建设未来基础设施的特定功能机器人;从长远愿景来看，OpenAI旨在打造能</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28517</guid>
-      <pubDate>Mon, 01 Jun 2026 07:06:00 +0000</pubDate>
+      <title>估值近万亿美元！Anthropic秘密申请IPO，奥特曼回应：竞争在于技术</title>
+      <link>https://news.aibase.com/zh/news/28565</link>
+      <description>人工智能领域的资本大战正愈演愈烈。作为 OpenAI 最强 劲的竞争对手，AI 独角兽企业 Anthropic 已于周一正式宣布，向美国证券交易委员会秘密提交了 首次 公开募股（IPO）申请，标志着科技史上最具瞩目的上市浪潮迎来重大里程碑。 竞争对手淡化上市争夺 面对竞争对手的率先出击，OpenAI 首席执行官萨姆·奥特曼（Sam Altman）在接受采访时淡化了双方在“争先上市”的说法。他表示，AI 行业最激烈的竞争并不在于谁能率先登陆华尔街，上市仅仅是一个融资事件，公司并不会过度关注具体的时间节点。 奥特曼强调，目前行业正处在一场旨在推出 最好 技术并打造 最好 企业的竞赛之中。由于编程产</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28565</guid>
+      <pubDate>Tue, 02 Jun 2026 07:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>超越GPT-5.5！国产AI大模型MiniMax M3 正式发布</title>
-      <link>https://news.aibase.com/zh/news/28518</link>
-      <description>国内人工智能领域迎来重大技术突破。稀宇科技于今日正式发布了新一代大模型MiniMax M3，该模型不仅具备前沿的编程能力，还支持高达1M（ 100 万）的超长上下文。更引人瞩目 border 的是，它还同步支持包括图片、视频输入以及电脑桌面操作在内的原生多模态能力，成为国内首个集齐这三项核心能力的开源模型。 权威 评测中多项数据力压群雄 在业界公认的硬核编程评测集SWE-Bench Pro中，MiniMax M3 凭借59.0%的优异得分，一举超越了GPT-5. 5 和Gemini 3.1 Pro，其表现已经极为接近 顶尖 的Opus 4.7。而在专门评估AI智能体能力的Claw-Eval测试</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28518</guid>
-      <pubDate>Mon, 01 Jun 2026 07:08:00 +0000</pubDate>
+      <title>免费用户额度大缩水？OpenAI 调整 Codex 重置周期，由每周改为每月</title>
+      <link>https://news.aibase.com/zh/news/28566</link>
+      <description>人工智能巨头 OpenAI 近日悄然调整了旗下重要开发者工具的资源分配规则。多名用户发现，OpenAI 已经修改了其智能体平台 Codex 的额度刷新频率，将原本对部分用户较为友好的策略进行了收紧。 免费与基础订阅受影响 根据 最新 调整，Codex 的免费账号以及 Go 订阅账户的额度重置周期，已经正式从原本的每 7 天重置一次延长到了每 30 天重置一次。这意味着在单次配额数值保持不变的情况下，这两类用户每月的可用额度频次直接缩减了约四分之三。 相比之下，高阶付费用户的权益在此次调整中并未受到波及。包括 Plus、Pro、Business、Edu 以及 Enterprise 在内的级别账户</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28566</guid>
+      <pubDate>Tue, 02 Jun 2026 07:29:00 +0000</pubDate>
     </item>
     <item>
-      <title>博物馆“镇馆之宝”现身闲鱼!用户称从未发布，AI却生成商品信息</title>
-      <link>https://news.aibase.com/zh/news/28519</link>
-      <description>近日“手机内文物照片被闲鱼自动上架售卖”事件引发关注。顾女士在收到网友私信后发现，自己拍摄的一张陕西历史博物馆文物照片竟出现在闲鱼平台上，并被标价6000元出售。 顾女士表示，她并未主动发布该商品，起初怀疑平台读取了手机相册内容并自动上架。联系闲鱼客服后，对方回应称，该照片可能曾上传至“闲鱼空间”，从而触发商品发布功能。 不过，顾女士对此解释并不认可。她称自己不记得曾将该照片上传至“闲鱼空间”，即便存在误上传情况，平台也不应在未进行明确确认的前提下，直接将照片包装成商品公开售卖。更令她意外的是，系统不仅自动生成售价，还利用AI生成了“整体包浆自然”“适合收藏或陈设摆件”等商品描述。 “你敢60</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28519</guid>
-      <pubDate>Mon, 01 Jun 2026 07:15:00 +0000</pubDate>
+      <title>豪掷 750 亿欧元！软银全面加码欧洲算力，拟在法国打造超级数据中心群</title>
+      <link>https://news.aibase.com/zh/news/28567</link>
+      <description>全球人工智能算力基础设施建设再迎巨头重注。日本投资机构软银集团（SoftBank Group）于5 月 30 日正式宣布了一项宏大的基础设施扩张计划，拟在法国投资高达 750 亿欧元（折合大约 870 亿美元），用于大规模拓展当地的数据中心容量。 根据官方公布的规划蓝图，软银此行的 终极 目标是开发并运营总计高达 5 吉瓦（GW）的追加数据中心容量。该项目将分阶段逐步推进，其 第一 阶段的建设重心已选定在敦刻尔克（Loon-Plage）、博斯凯（Bosquel）以及布尚（Bouchain）三地。按照时间表，这批设施预计将在 2031 年前为上法兰西大区（Hauts-de-France）直接输送</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28567</guid>
+      <pubDate>Tue, 02 Jun 2026 07:54:00 +0000</pubDate>
     </item>
     <item>
-      <title>LobsterAI上线图片视频大模型矩阵 一次性接入四大主流图像视频生成模型</title>
-      <link>https://news.aibase.com/zh/news/28520</link>
-      <description>国内AIGC多模态创作领域再迎重磅进展。近日，国内主流大厂旗下的首个开源“龙虾类”人工智能产品 LobsterAI（网易有道龙虾） 宣布迎来重大版本升级，正式上线了备受瞩目的图片生成与视频生成能力。 在此次能力升级中，LobsterAI 采用了创新的矩阵式整合策略，一次性接入了行业前沿的四大主流多模态大模型，包括 Seedream、Seedance、HappyHorse 以及 MiniMax-Hailuo。通过将这些 顶尖 的图像与视频生成模型进行全方位聚合，平台旨在为用户提供更多元、更具表现力的视觉内容创作支持。 作为国内互联网大厂在开源生态中的一次关键卡位，LobsterAI 此番开辟图片</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28520</guid>
-      <pubDate>Mon, 01 Jun 2026 07:19:00 +0000</pubDate>
+      <title>Claude iOS版即将迎来设置菜单重设计，支持“记忆文件”功能</title>
+      <link>https://news.aibase.com/zh/news/28569</link>
+      <description>据 最新 消息，Anthropic旗下Claude的iOS版本将迎来设置菜单的重新设计，并将支持即将推出的“记忆文件”功能。 同时，Claude网页版和移动版的用户界面也将进行小幅改版，主要优化设置和导航栏，提升整体使用体验。 “记忆文件”是Claude即将推出的全新知识型记忆系统，旨在为用户提供更强大、智能的长期记忆能力。此次更新聚焦于界面优化与新功能集成，预计将进一步提升Claude在移动端的实用性。更多具体上线时间暂未公布，敬请关注后续动态。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28569</guid>
+      <pubDate>Tue, 02 Jun 2026 08:07:00 +0000</pubDate>
     </item>
     <item>
-      <title>硬核填补机器人缺失环节！英特尔发布全新OpenVINO物理AI框架</title>
-      <link>https://news.aibase.com/zh/news/28521</link>
-      <description>在 2026 年台北国际电脑展（Computex 2026）上，半导体巨头英特尔针对机器人与自动化领域投下了一枚重磅炸弹。英特尔正式推出了全新的OpenVINO物理AI（Physical AI）框架，旨在将强大的人工智能能力与机器人、自动驾驶、工业机械等实体系统深度结合。官方宣称，该框架将彻底攻克物理AI在边缘侧大规模部署上面临的 最大 难点。 统一软硬件栈告别高昂定制成本 在此之前，企业在落地物理AI系统时，往往需要为每一台机器人定制极其复杂的处理流程，以对接不同的传感器和推理循环。这种高度定制化不仅导致部署成本居高不下，还迫使企业采用更昂贵的双计算解决方案，极大地推高了总拥有成本。而新发布</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28521</guid>
-      <pubDate>Mon, 01 Jun 2026 07:23:00 +0000</pubDate>
+      <title>积极拥抱 AI 的公司更爱招人？奥特曼反驳“技术致裁员”说法</title>
+      <link>https://news.aibase.com/zh/news/28570</link>
+      <description>针对近期大热的“企业一采用人工智能就会裁员”的观点，OpenAI 首席执行官萨姆·奥特曼日前公开予以了反驳。他明确指出，实际情况恰恰相反，那些在业务中采用 AI 最多的企业，反而也是目前在招聘市场上投入最多的公司。 裁员往往只是企业借口 奥特曼认为，许多公司宣称因为引入 AI 而进行裁员，这在很多时候只是管理层为了解释裁员而顺水推舟的“方便说法”。根据他的观察，那些真正高调宣称因 AI 削减岗位的企业，实际上往往是技术转型最慢、采用 AI 最少的公司。 他同时也坦言，自己目前仍无法 绝对 打包票 AI 最终会如何彻底重塑就业市场。不过，在看到各大企业广泛使用 OpenAI 的编程工具后，他对未</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28570</guid>
+      <pubDate>Tue, 02 Jun 2026 08:09:00 +0000</pubDate>
     </item>
     <item>
-      <title>编程力压GPT-5.5！MiniMax发布新一代M3 大模型，三大硬核能力全球唯一开源</title>
-      <link>https://news.aibase.com/zh/news/28522</link>
-      <description>国内大模型赛道迎来硬核技术突破。6月1日，稀宇科技正式发布了新一代大语言模型—— MiniMax M3 。该模型凭借前沿的编程实力、 最高 支持1M（100万）的超长上下文窗口以及原生多模态交互能力，成为国内首个同时集齐这三项 顶尖 技术指标的模型，同时也是目前全球范围内 唯一 具备此类性能的开源模型。 在衡量大模型核心竞争力的多项 权威 评测中，MiniMax M3交出了极为亮眼的成绩单。在极具挑战性的编程评测集 SWE-Bench Pro 上，M3取得了59.0%的优异得分，这一成绩不仅超越了 GPT-5.5和 Gemini3.1Pro，更逼近了行业标杆 Claude3.5Opus（此处对</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28522</guid>
-      <pubDate>Mon, 01 Jun 2026 07:46:00 +0000</pubDate>
+      <title>腾讯云智能体开发平台DeepSeek-V4降价：最高降幅97.5%，全面持平官网</title>
+      <link>https://news.aibase.com/zh/news/28571</link>
+      <description>腾讯云智能体开发平台宣布，自2026年6月3日零时起大幅下调DeepSeek-V4系列模型的调用价格，全面持平官方售价，其中DeepSeek-V4-Pro的缓存命中价格降幅 最高 达97.5%。 具体来看，DeepSeek-V4-Pro模型的推理输入与推理输出价格均同步下调75%，分别降至0.003元/千tokens和0.006元/千tokens，其缓存命中价格则调整为0.000025元/千tokens;同时，DeepSeek-V4-Flash模型的缓存命中价格也迎来了90%的降幅，调整为0.000025元/千tokens。 作为今年4月24日刚刚发布的明星大模型，DeepSeek-V4系列包</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28571</guid>
+      <pubDate>Tue, 02 Jun 2026 08:50:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI狂飙带火“算力金属”！精炼锡半年暴涨40%面临枯竭危机</title>
-      <link>https://news.aibase.com/zh/news/28523</link>
-      <description>随着全球人工智能浪潮的持续爆发，大模型算力需求呈现出井喷式增长。在这场科技狂欢的背后，一种看似普通的金属——锡，正成为半导体先进封装工艺中不可或缺的关键基础材料。由于AI服务器对高密度芯片堆叠的严苛要求，金属锡的价格在短短半年内从每吨 30 万元一路飙升至 42 万元左右，涨幅高达40%。 算力需求激增引爆供需失衡 在半导体行业中，算力越强意味着芯片堆叠越密集，而锡作为焊接与导电的核心介质，其消耗量也随之水涨船高。行业调研数据显示，单台AI服务器的用锡量竟然达到了传统服务器的 3 倍以上，这也让锡获得了“算力金属”的新称号。与需求暴增形成鲜明对比的是，缅甸、印尼等主产国近期纷纷收紧出口或遭受地</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28523</guid>
-      <pubDate>Mon, 01 Jun 2026 08:03:00 +0000</pubDate>
+      <title>英伟达联合清华推出 Gamma-World，打破多智能体虚拟仿真天花板</title>
+      <link>https://news.aibase.com/zh/news/28572</link>
+      <description>视频世界模型正迎来从单人视角向多人协作的底层变革。传统的视频世界模型大多建立在单智能体假设之上，难以应付多个玩家在同一虚拟世界中同时操作、互相观察的复杂场景。为了打破这一架构瓶颈，英伟达联合清华大学、多伦多大学及 Vector Institute 正式发布了名为 Gamma-World（γ-World）的全新多智能体世界模型方案。 多智能体世界建模的核心难点在于同时维护时间、跨视角以及交互的三重一致性。以往的研究如 Solaris 虽然在双人协同上取得了进展，但暴露出身份编码破坏置换对称性、全连接注意力机制导致计算量随人数平方级暴涨这两大核心缺陷，无法真正扩展到更多主体。 针对这些结构性缺失，</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28572</guid>
+      <pubDate>Tue, 02 Jun 2026 08:56:00 +0000</pubDate>
     </item>
     <item>
-      <title>英伟达发布全新Vera芯片专为智能代理打造，OpenAI与SpaceX成首批拥抱者</title>
-      <link>https://news.aibase.com/zh/news/28524</link>
-      <description>全球AI算力竞争的焦点正从单纯的图形渲染加速，向支撑智能代理高效运转的底层底层架构深度演进。 6 月 1 日， 英伟达 正式推出了一款名为“Vera”的全新中央处理器（CPU），旨在全面攻占即将到来的智能代理（AI Agent）时代。受此重磅产品发布提振，英伟达在二级市场的夜盘涨幅一度迅速扩大至3%。 作为一款专为驱动现代AI工厂背后复杂计算而生的硬核硬件，Vera芯片的核心使命是攻克CPU密集型工作负载。它的应用场景极其广泛，全面涵盖了当前前沿的代理型AI任务、强化学习、高吞吐量数据处理以及复杂的任务编排等核心环节。官方给出的实测数据显示，在处理代理型任务的执行速度上，Vera相比传统的x8</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28524</guid>
-      <pubDate>Mon, 01 Jun 2026 08:21:00 +0000</pubDate>
+      <title>时薪超 300 元还能居家办公！马斯克旗下xAI全球招募中文AI导师</title>
+      <link>https://news.aibase.com/zh/news/28573</link>
+      <description>人工智能领域的军备竞赛正向更精细的多语言与语音交互层面延伸。马斯克旗下的AI初创公司xAI日前正式发布全球招聘启事，面向全球公开招募中文AI导师。该岗位的一大亮点在于支持全球远程办公，主要工作职责是协助训练并优化xAI旗下大模型Grok的语音互动及多语言处理能力。 在薪酬待遇方面，该岗位展现出了极具竞争力的吸引力。据悉，美国本地入职者的时薪定在 35 至 45 美元（折合人民币 最高 超过 300 元），而国际应聘者的具体薪酬待遇将在招聘流程中根据实际情况最终落实。 作为一项技术性较强的AI训练工作，xAI对申请人的语言与听觉敏锐度提出了严苛的要求。应聘者必须具备母语级别的中文能力，能够深刻理</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28573</guid>
+      <pubDate>Tue, 02 Jun 2026 09:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>财务数据大危机！ChatGPT表格插件爆发严重安全漏洞</title>
-      <link>https://news.aibase.com/zh/news/28526</link>
-      <description>在AI办公日益普及的今天，许多职场人士习惯使用智能插件来处理复杂的表格数据。然而，安全研究公司PromptArmor近日发布的一份报告，为整个行业敲响了警钟。报告披露，一款名为“ChatGPT for Google Sheets”的知名浏览器扩展程序存在严重的网络安全漏洞。 恶意指令跨账户定向收割数据 这一漏洞的核心在于“间接提示词注入（Indirect Prompt Injection）”攻击。当用户日常导入一份看似正常、实则隐藏了恶意指令的外部数据集时，AI插件就会在未经授权的情况下被暗中触发。黑客可以借此突破传统的安全边界，直接调用外部脚本渗透用户的财务模型，并能横向移动自动发现账户中链</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28526</guid>
-      <pubDate>Mon, 01 Jun 2026 09:27:00 +0000</pubDate>
+      <title>最高狂降97.5%！腾讯云大模型全面降价，彻底持平官方原厂价</title>
+      <link>https://news.aibase.com/zh/news/28574</link>
+      <description>为了进一步降低企业与开发者的创新门槛，腾讯云智能体开发平台于周二正式宣布了一项重大的价格调整举措。平台将于北京时间 6 月 3 日零时起，对深度求索（DeepSeek）旗下的 V4 系列大模型进行全面大幅度降价。 核心模型价格全线跳水 在本次价格调整中，主力模型 DeepSeek-V4-Pro 的推理输入与推理输出价格双双斩获了 75% 的巨大降幅，直接压缩了用户的日常调用成本。更为瞩目的是，该模型的缓存命中价格降幅甚至高达 97.5%，为高频复用场景带来了 极高 的性价比。 此外，主打轻量敏捷的 DeepSeek-V4-Flash 模型也迎来了相应的优惠调整。该模型的缓存命中价格降幅达到了 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28574</guid>
+      <pubDate>Tue, 02 Jun 2026 09:37:00 +0000</pubDate>
     </item>
     <item>
-      <title>天气通入驻阿里云与扣子，MCP生态加速专业气象能力向大模型落地</title>
-      <link>https://news.aibase.com/zh/news/28527</link>
-      <description>6月1日，微博旗下专业气象产品天气通正式面向AI开发者推出“天气通MCP Server”，并已入驻阿里云市场、百炼平台与扣子（Coze）。这一动作标志着专业级、高精度的实时气象服务实现了与大模型生态的低门槛对接，将大幅助力AI应用快速集成专业气象能力。 作为一款主打低门槛接入、全功能覆盖的专业气象MCP工具，天气通MCP Server在服务完整性上具备显著优势。其不仅涵盖温度、湿度等基础实时数据，预报周期更全面覆盖分钟级降水、40天长周期及100天超长周期预报，并支持数十种市县区级气象灾害预警和13类民用高频生活指数。在技术层面，该工具依托官方气象数据源，除了支持传统城市级查询外，还支持经纬度</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28527</guid>
-      <pubDate>Mon, 01 Jun 2026 09:36:00 +0000</pubDate>
+      <title>百度文心发布PaddleOCR-VL-1.6:准确率破96.33%刷新文档解析SOTA</title>
+      <link>https://news.aibase.com/zh/news/28575</link>
+      <description>百度正式发布文心大模型衍生模型PaddleOCR-VL-1.6，在OmniDocBench v1.6 权威 评测中以96.33%的准确率超越Gemini-3-Pro、GPT-5.2及GLM-OCR等国内外主流大模型，刷新业界SOTA，综合性能荣登全球 第一 。这一发布标志着多模态大模型在复杂文档理解与真实场景解析能力上取得了重要突破。 作为文心大模型多模态能力的核心组成部分，PaddleOCR基于文心大模型训练，目前支持超100种语言识别，用户覆盖全球170多个国家和地区。本次升级的PaddleOCR-VL-1.6在保持0.9B轻量化架构的前提下，通过模型驱动的数据构建机制与渐进式训练优化，显</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28575</guid>
+      <pubDate>Tue, 02 Jun 2026 09:48:00 +0000</pubDate>
     </item>
     <item>
-      <title>大模型生态打破壁垒！开源网关GodeX发布新版本，完美桥接MiniMax-M3 多模态能力</title>
-      <link>https://news.aibase.com/zh/news/28528</link>
-      <description>大模型生态的协议割裂正在被开源力量加速抚平。 6 月 1 日，开源OpenAI Responses API网关 GodeX 正式发布了v1.1. 0 版本。本次升级不仅将推荐默认模型切换至 最新 的MiniMax-M3，还深度适配了多模态理解、思考控制，并实现了智谱原生联网搜索结果的还原桥接，为开发者生态提供了更顺畅的本地统一网关解决方案。 作为一款开源的网关工具，GodeX的核心职责是化繁为简。它让Codex、CLI工具和开发者Agent能够通过一套与OpenAI兼容的“/v1/responses”协议，无缝调用DeepSeek、MiniMax、智谱、小米等仅提供Chat Completio</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28528</guid>
-      <pubDate>Mon, 01 Jun 2026 09:40:00 +0000</pubDate>
+      <title>Mistral AI全面转型全栈服务商，筑起欧洲算力与定制化护城河</title>
+      <link>https://news.aibase.com/zh/news/28576</link>
+      <description>在近日举办的巴黎Mistral AI Now峰会上，这家备受瞩目的初创公司展现出了全新的战略蓝图——正式从单一的模型研发企业，向涵盖算力基础设施、底层模型以及上层应用的全栈AI供应商全面转型。 在当前的全球大模型竞争中，算力自主权已成为核心焦点。为此，Mistral AI正在大力向自有算力基础设施砸向重金。目前，该公司在巴黎已拥有一座 40 兆瓦（MW）的数据中心，并且后续的扩建计划也在紧锣密鼓地推进中。这种对底层基础设施的强力掌控，使其在欧洲严苛的监管红线下具备了独特的本地化竞争优势，能够为那些极度看重数据主权、试图摆脱美国超大规模云厂商依赖的欧洲本土企业提供更安全的解法。 与OpenAI等</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28576</guid>
+      <pubDate>Tue, 02 Jun 2026 09:55:00 +0000</pubDate>
     </item>
     <item>
-      <title>打破大模型协议壁垒！开源网关GodeX发布全新迭代版本</title>
-      <link>https://news.aibase.com/zh/news/28529</link>
-      <description>在人工智能应用开发中，不同大模型服务商之间迥异的API协议往往让开发者苦不堪言。为了彻底解决这一痛点，开源OpenAI Responses API网关项目 GodeX 于近日正式发布了v1.1. 0 重要更新。该版本不仅大幅优化了多模态处理能力，还通过创新的协议桥接技术，让开发者能够无缝调用国内主流的 顶尖 大模型。 全面拥抱国产多模态旗舰模型 在本次升级中， GodeX 宣布将推荐默认模型正式切换为近期大热的国产大模型MiniMax-M3。新版本不仅完美补齐了对该模型的图片与视频深度理解能力，还将深度思考过程完整对齐到标准的推理路径上。这意味着开发者现在可以极其轻松地在各类AI Agent和</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28529</guid>
-      <pubDate>Mon, 01 Jun 2026 09:46:00 +0000</pubDate>
+      <title>大模型如何真正告别幻觉？元认知或是破局的关键</title>
+      <link>https://news.aibase.com/zh/news/28577</link>
+      <description>大模型产生的“幻觉”——即一本正经地输出事实性错误，一直是困扰AI行业的核心痛点，尤其在医疗、法律等高风险领域，这一问题显得尤为致命。 长期以来，业界对抗幻觉的思路主要有二:一是不断扩大训练数据，试图让AI“全知全能”;二是设置防御机制，让AI在拿不准时选择“闭嘴”。然而，这两条路径都有明显的局限性。前者无法穷尽世间所有事实，总有盲区;后者则往往导致严重的“实用性税”:为了消除错误，AI不得不拒绝回答大量正确的问题，极大地牺牲了用户体验。 近期，谷歌研究院与特拉维夫大学联合发表的一篇论文，为这一困局提供了一个全新思路:元认知（Metacognition）。该研究提出，解决幻觉的核心不在于强求A</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28577</guid>
+      <pubDate>Wed, 03 Jun 2026 00:52:00 +0000</pubDate>
     </item>
     <item>
-      <title>大模型智能体告别盲目堆叠！港中文团队发布SLIM框架，动态管理外部技能生命周期</title>
-      <link>https://news.aibase.com/zh/news/28530</link>
-      <description>大模型智能体（LLM Agent）正在加速从“会聊天”向“会做事”的连续决策阶段演进，但如何高效管理智能体的外部能力正成为全行业亟待攻克的新课题。近日， 香港中文大学团队 在一篇名为《Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning》的论文中，正式提出了一种名为“SLIM”的动态技能生命周期管理框架。这一创新成果打破了以往行业盲目为智能体“堆积技能”的怪圈，为物理世界与虚拟世界的复杂任务落地提供了全新的解题思路。 在网页搜索、自动办公及具身机器人等复杂长时序场景中，智能体往往需要调用外部技能来处理易错和长</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28530</guid>
-      <pubDate>Mon, 01 Jun 2026 09:56:00 +0000</pubDate>
+      <title>谷歌推出Android虚假来电检测功能，基于RCS技术防范AI深度伪造诈骗</title>
+      <link>https://news.aibase.com/zh/news/28578</link>
+      <description>谷歌（Google）周二宣布在Android系统中正式推出虚假来电检测功能，利用创新的“端到端数字握手”技术，旨在从根源上遏制日益严峻的人工智能深度伪造(Deepfake)语音身份冒充诈骗。该功能将于2026年6月起面向全球Android12及以上版本的Phone by Google设备滚动更新，并率先在Pixel设备上落地。 当前，诈骗分子正加速利用AI大模型技术精准克隆 权威 人士、雇主或家庭成员的声音，并伪造可信来电显示进行财产欺诈。针对这一新型安全威胁，谷歌的虚假来电检测功能采用默认开启并在后台静默运行的机制。 当双方均使用谷歌电话服务时，主叫方设备会自动向被叫方发送静默确认信号以验证</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28578</guid>
+      <pubDate>Wed, 03 Jun 2026 00:56:00 +0000</pubDate>
     </item>
     <item>
-      <title>谷歌母公司 Alphabet 筹集 800 亿美元资金以推动 AI 基础设施建设</title>
-      <link>https://news.aibase.com/zh/news/28531</link>
-      <description>谷歌的公司 Alphabet（母美国当地 6 月 1 日宣布了一项大的融资计划，总额高 800 亿美元（合 541 亿元）。这笔的主要用途是投资人工智能）基础设施计算能力提升。 Alphabet 融资计划包括几部分：首先，通过包销公开发行股票来集 300 亿美元一半存托凭，另一半为 A 或 C 类。其次，还计划按照市值发行（ATM）400 亿美元的 A 类或 C 类股票。此外， 著名 投资公司克希尔哈撒韦将以私募形式向 Alphabet 直接 100 亿美元。 该公司表示，计划的净收益将主要用于处理员工股权相关的税务义务和行政流程调整。这项大规模的融资与 Alphabet 前的声明，公司预计在</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28531</guid>
-      <pubDate>Tue, 02 Jun 2026 00:52:00 +0000</pubDate>
+      <title>指标惊艳却遭社区声讨？MiniMax新旗舰模型M3 引发两极分化争议</title>
+      <link>https://news.aibase.com/zh/news/28579</link>
+      <description>大模型赛道再掀波澜。AI初创公司MiniMax日前正式发布了全新旗舰大模型M3。从技术报告披露的各项基准测试（Benchmark）来看，该模型的性能表现堪称惊艳:在公认接近真实软件工程场景的测试中，M3取得了59%的优异成绩，不仅超越了GPT-5.5，更是直逼Opus4.7。此外，它还具备百万级上下文处理能力和原生多模态特性。然而，与强劲技术指标形成鲜明对比的是，该模型发布后引发了开发者社区的剧烈反弹，中文社区更是骂声一片。 引发业内质疑的 第一 个核心焦点在于评测数据背后的“心机”。技术细则显示，M3在 Coding（代码）能力的相关测试中，使用了竞争对手的Claude Code作为评测脚手</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28579</guid>
+      <pubDate>Wed, 03 Jun 2026 00:57:00 +0000</pubDate>
     </item>
     <item>
-      <title>天下苦 AI 概览久矣？DuckDuckGo 为“传统派”推出无 AI 搜索插件</title>
-      <link>https://news.aibase.com/zh/news/28532</link>
-      <description>随着谷歌在其 I/O 大会上宣布对搜索引擎进行“全面 AI 化改造”，许多习惯于传统网页搜索的用户开始感到反感。这种对强制植入 AI 摘要的不满，直接导致了主打隐私保护的搜索引擎 DuckDuckGo 流量大涨。 满足传统搜索需求 为了顺应这一市场变化，DuckDuckGo 宣布为谷歌 Chrome 和火狐（Mozilla Firefox）浏览器推出全新的扩展插件。该插件允许用户将 DuckDuckGo 的无 AI 搜索页面设置为默认搜索引擎，从而彻底过滤掉所有 AI 摘要内容。 根据官方透露的数据，这项举措已经初见成效，美国地区 DuckDuckGo 浏览器的安装量在 5 月下旬同比上一周增</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28532</guid>
-      <pubDate>Tue, 02 Jun 2026 00:56:00 +0000</pubDate>
+      <title>​打破生态壁垒！谷歌升级快速共享功能，安卓与苹果实现跨平台互传</title>
+      <link>https://news.aibase.com/zh/news/28580</link>
+      <description>谷歌近日宣布对“快速共享”（Quick Share）功能进行重大升级，进一步扩大了该功能与苹果“隔空投送”（AirDrop）的互传适配范围。这一举措意味着未来将有更多主流安卓机型能够与苹果设备实现无缝的文件与图片传输。 作为安卓端对标苹果隔空投送的跨设备互传利器，快速共享在去年底就已成功接入隔空投送的互通能力。此次更新后，包括三星 Galaxy S26 系列、Pixel 10 系列以及一加 15、荣耀 Magic V6、小米 17T Pro 等在内的多款全新旗舰机型均已获得原生支持。 双向互传体验升级 在实际操作中，两大阵营的用户只需在系统设置中开启相应权限，即可轻松识别彼此并发送文件。安卓用</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28580</guid>
+      <pubDate>Wed, 03 Jun 2026 00:58:00 +0000</pubDate>
     </item>
     <item>
-      <title>​多模态智能体再迎重磅升级！阿里正式发布Qwen3.7-Plus，视觉与工作流全方位蜕变</title>
-      <link>https://news.aibase.com/zh/news/28533</link>
-      <description>全球大模型技术向“具身智能”与 高级 智能体演进的步伐正在全面加速。 6 月 2 日，阿里通过千问大模型官方渠道宣布，正式推出新一代多模态智能体模型——Qwen3.7-Plus。这不仅是通义千问系列在多模态领域的又一次技术飞跃，也标志着国产大模型在端侧与复杂工作流应用上迎来了核心底座的迭代。 作为本次升级的核心看点，Qwen3.7-Plus在承袭了Qwen3. 7 强大的原生文本处理能力的基础上，对视觉-语言能力（Vision-Language）进行了全方位的高阶进化。这意味着模型不仅能更精准地“看懂”复杂的图像与视频内容，还能将这种精细化的视觉感知转化为深度的逻辑推理，极大地拓宽了多模态交互</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28533</guid>
-      <pubDate>Tue, 02 Jun 2026 00:57:00 +0000</pubDate>
+      <title>零代码时代终结者！OpenAI 推出 Sites 功能，动动嘴想法就能秒变互动网站</title>
+      <link>https://news.aibase.com/zh/news/28581</link>
+      <description>全球人工智能巨头 OpenAI 宣布为旗下软件工程智能体 Codex 推出了一项革命性的全新功能——Sites。这项功能目前正以预览版的形式，率先向付费的 Business 和 Enterprise 订阅用户开放，旨在彻底打破传统网页与应用开发的门槛。 简单来说，Sites 是一个能将抽象创意瞬间转化为具象实体的底层平台。在它的加持下，用户只需输入自己的想法、数据分析或项目规划，Codex 就能自动将这些静态内容重构为功能完备的仪表盘、日程规划器、评审工作区、项目看板甚至是轻量级的实用工具。 除了强大的生成能力，该功能还天然具备团队协作属性。用户可以通过专属的 URL 链接，将生成的交互式托管</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28581</guid>
+      <pubDate>Wed, 03 Jun 2026 01:04:00 +0000</pubDate>
     </item>
     <item>
-      <title>豆包预计6月下旬上线付费版本:三档订阅价格曝光，三季度将联动电商引流</title>
-      <link>https://news.aibase.com/zh/news/28534</link>
-      <description>字节跳动旗下大模型应用豆包预计将于6月下旬正式上线付费内容，并在同期举行的Force大会上同步更新相关功能，标志着国内用户量 最大 的大模型迎来商业化实质性进展。 据悉，该时间节点的确立主要受限于PC端与移动端在基础功能和收费体系上仍需约一个月的时间进行适配改造。若整体业务推进顺利，豆包计划于第三季度进一步结合电商功能以完善付费场景，届时将通过定向补贴为抖音商城进行引流，并在第四季度全面进入稳定运行期。 作为面向2027年及更长远商业化回报的关键战略准备，豆包在2026年暂不会将付费用户渗透率作为核心考核指标。这一商业化动作此前已露端倪，5月初其App Store页面曾流出付费版本服务声明，明</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28534</guid>
-      <pubDate>Tue, 02 Jun 2026 00:58:00 +0000</pubDate>
+      <title>350亿参数力拼业界领先!微软 Build 大会集中爆发多款自研 MAI 模型</title>
+      <link>https://news.aibase.com/zh/news/28582</link>
+      <description>在刚刚开幕的 Build2026开发者大会上，微软集中发布了一系列自研 AI 模型，其中旗下 首款 高级 推理模型 MAI-Thinking-1 的亮相，标志着微软在独立大模型研发及全场景 AI 矩阵构建上迈出了关键一步。 作为一款拥有350亿活跃参数的“中等规模模型”， MAI-Thinking-1 在关键软件工程基准测试中已达到业界领先水平。微软强调，该模型完全基于干净数据从零开始训练，明确承诺未使用任何来自第三方模型的蒸馏数据，在当前行业普遍依赖数据蒸馏的背景下，展现了其对技术自主性与数据纯净度的核心坚持。 除重磅推理模型外，微软还同步扩展了面向多模态及垂直应用场景的 MAI 家族阵容。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28582</guid>
+      <pubDate>Wed, 03 Jun 2026 01:07:00 +0000</pubDate>
     </item>
     <item>
-      <title>Alphabet计划募资800亿美元，全力加速全球AI基础设施建设</title>
-      <link>https://news.aibase.com/zh/news/28535</link>
-      <description>谷歌母公司Alphabet周一宣布计划通过出售股票募集800亿美元资金，用于支撑其规模庞大的人工智能基础设施建设与全球计算能力的扩展。此举标志着科技巨头在AI军备竞赛中的算力争夺进一步升级。 据悉，该计划不仅面向公开市场，还包含向沃伦·巴菲特曾领导的伯克希尔·哈撒韦公司定向出售价值100亿美元的股票。 Alphabet在声明中坦言，目前企业与消费者对AI解决方案及服务的强劲需求已超越其现有供应能力，本次大规模资本扩张旨在彻底打破产能瓶颈，以平衡的财务方式确保健康的资产负债表，并全方位锚定未来的巨大增长机遇。 这一重磅战略动作并非孤例，而是当前全球科技巨头激进投资AI硬科技的缩影。在上月落幕的谷</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28535</guid>
-      <pubDate>Tue, 02 Jun 2026 01:04:00 +0000</pubDate>
+      <title>宇树科技回应联合英伟达开发“H2+”人形机器人，预计今年下半年正式亮相</title>
+      <link>https://news.aibase.com/zh/news/28583</link>
+      <description>英伟达（NVIDIA）首席执行官黄仁勋日前宣布，已与本土具身智能企业宇树科技达成合作，联合推出新一代人形机器人参考设计“H2+”。 宇树科技官方工作人员随后对此回应称，全新“H2+”机器人深度基于英伟达的先进算力平台进行研发，其整体算力水平较前代产品实现了显著突破。据悉，该款备受业届瞩目的全新硬件产品将于2026年下半年正式面向市场亮相。 此次合作标志着 顶尖 芯片巨头与头部具身智能硬件厂商的进一步深度绑定。作为新一代参考设计，“H2+”不仅在底层算力架构上得到了英伟达AI生态的直接赋能，也将为其在高精度动作控制、多模态感知以及实时环境交互等复杂任务中提供更强劲的算力支撑。 在当前全球具身智能</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28583</guid>
+      <pubDate>Wed, 03 Jun 2026 01:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>美团AI助手“小美”将接入腾讯元宝，打通AI本地生活服务交易</title>
-      <link>https://news.aibase.com/zh/news/28536</link>
-      <description>6月1日晚间，美团在2026年 第一 季度业绩电话会上宣布，旗下AI助手“小美”与腾讯元宝的合作将于近期正式上线。此次合作标志着两大生态的深度互通，届时用户可直接在腾讯“元宝”界面内输入诉求，通过“小美”跨平台调用外卖等本地生活服务，实现一站式、无缝衔接的本地生活服务交易体验。 作为本地生活领域的领军企业，美团此举旨在将AI视作巩固护城河与创造新价值的战略机遇。美团CEO王兴在会上强调，随着大模型技术的演进，未来除了服务消费者（To C）和商家(To B)，服务AI Agent(To A)正变得越来越重要。美团将持续迭代AI Agent和大模型能力，依托其在本地生活领域更完整的业务覆盖、更全面</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28536</guid>
-      <pubDate>Tue, 02 Jun 2026 01:08:00 +0000</pubDate>
+      <title>腾讯QQ发布“新芽守护行动”，全面升级未成年人保护体系</title>
+      <link>https://news.aibase.com/zh/news/28584</link>
+      <description>当数字技术深度融入青少年的学习、社交与成长，如何从源头上构建安全、健康的网络环境，已成为全社会共同关注的命题。6月1日，腾讯QQ在北京举办“QQ新芽守护行动发布暨青少年网络保护研讨会”，正式宣布将多年的未成年保护实践升级为“QQ新芽守护行动”，通过完善产品功能设计、强化生态治理、丰富安全教育及引入专家协作等举措，持续完善未成年人保护体系，提升青少年网络安全保护水平。 北京师范大学新闻传播学院未成年人网络素养研究中心主任方增泉在会上致辞表示，随着人工智能技术深度渗透青少年生活，单纯依赖限制与隔离的防御模式已难以应对复杂的网络风险。“AI时代的孩子是未来的数字公民，是未来世界构建的生力军，”他强调</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28584</guid>
+      <pubDate>Wed, 03 Jun 2026 01:21:00 +0000</pubDate>
     </item>
     <item>
-      <title>深度博弈数月！Anthropic向欧盟开放顶尖安全模型Mythos访问权，美国政府曾极力反对</title>
-      <link>https://news.aibase.com/zh/news/28537</link>
-      <description>全球人工智能安全治理与地缘政治外交互动迎来重要进展。周一，欧盟委员会官方证实，经过数月的外交努力与数次富有成效的会议，美国 顶级 人工智能独角兽企业 Anthropic 已决定向欧盟开放其 最先 进的AI安全模型“Mythos”的访问权限。此举旨在帮助欧盟更清晰地评估和掌握下一代前沿大模型可能带来的潜在网络安全风险。 作为 Anthropic 网络安全项目“Project Glasswing”的核心组成部分，Mythos 模型于今年4月 首次 面向少数企业开放。该模型具备极强的专用安全分析能力，能够精准识别复杂软件中成千上万个此前未知的安全漏洞与薄弱环节。然而，这种强大的“双刃剑”属性在发布之</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28537</guid>
-      <pubDate>Tue, 02 Jun 2026 01:08:00 +0000</pubDate>
+      <title>OpenAI发布Codex系列白领工作新工具，并推出Wix与Figma等多方合作的“站点”功能</title>
+      <link>https://news.aibase.com/zh/news/28585</link>
+      <description>OpenAI 于2026年6月2日宣布为旗下智能体工具 Codex 发布一系列面向企业白领的全新功能，旨在将其应用场景从软件工程拓展至更广泛的知识工作领域，全面加速对企业级市场的争夺。 官方同步发布的内部报告显示， Codex 当前每周活跃用户已突破500万，自当年2月桌面应用上线以来增长超6倍;其中知识工作者约占用户总数的20%，且其增速已达到开发者的三倍以上。 为了深度吸引这一群体， OpenAI 针对数据分析、创意制作、销售、产品设计、股权投资和投资银行六大特定岗位推出了开箱即用的插件工具包，通过集成专属指令与上下文信息，使 Codex 能够高度近似地独立完成特定工作。 技术与功能层面的</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28585</guid>
+      <pubDate>Wed, 03 Jun 2026 01:23:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic秘密提交IPO申请:拟以600亿美元估值冲击二级市场</title>
-      <link>https://news.aibase.com/zh/news/28538</link>
-      <description>人工智能独角兽Anthropic近日迈出资本市场关键一步，据报导该公司已向美国证券交易委员会（SEC）秘密提交IPO( 首次 公开募股)上市申请。作为OpenAI 最强 有力的竞争对手，Anthropic此次上市计划目标估值高达600亿美元。目前，SEC已完成对该机密文件的审查，按照监管流程，其财务明细及业务指标预计将在正式路演前15天向公众披露。 这一战略动作紧随其核心产品Claude3.5Sonnet的发布。作为大模型领域的领军者，Anthropic的 最新 模型在推理能力、编码效率及处理速度上表现强劲，进一步巩固了其在全球AI技术梯队中的核心地位。与同类科技巨头相比，Anthropic独</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28538</guid>
-      <pubDate>Tue, 02 Jun 2026 01:13:00 +0000</pubDate>
+      <title>防黑客还是养虎为患？Anthropic 放开顶级网络安全模型 Mythos 权限，增设 150 家合作机构</title>
+      <link>https://news.aibase.com/zh/news/28586</link>
+      <description>全球人工智能领域的安全天平正迎来微妙的调整。本周二，知名 AI 实验室 Anthropic 正式宣布，将扩大其严格管控的 顶级 模型 Mythos 的使用范围，新增约 150 家机构获得访问权限。这一举措使得目前有权调用该模型的机构总数达到了约 200 家。 在这批新名单中，Anthropic 特意引入了过去未被充分代表的垂直行业。据官方披露，这些未具名的机构分布于电力、水务、通信、医疗保健以及硬件制造等多个关键领域。许多新加入的合作伙伴来自超过 15 个国家，它们大多是政府及主要国家基础设施所深度依赖的底层代码库供应商。 将如此强大的模型分发给关键机构，其核心目的在于防御。Anthropic</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28586</guid>
+      <pubDate>Wed, 03 Jun 2026 01:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>英伟达杀入 2000 亿CPU市场！携手微软戴尔打造AI智能体PC</title>
-      <link>https://news.aibase.com/zh/news/28539</link>
-      <description>在台北国际电脑展上，芯片巨头英伟达（Nvidia）抛出了一枚行业重磅炸弹。该公司正式推出了名为 “RTX Spark” 的全新 PC 中央处理器（CPU），并将其冠以“ 超级 芯片”的称号。 科技巨头集体力挺 英伟达首席执行官黄仁勋对这款新芯片寄予厚望，意图借此打破传统个人电脑的操作模式。他表示，未来的用户只需动动嘴提出要求，PC 就能自动完成所有复杂的工作，彻底告别过去繁琐的点击与打字时代。 这款芯片拥有高达 1 浮点运算能力（1 petaflop），专门为安全运行各类 AI 智能体而设计。目前，微软、戴尔、惠普、联想及华硕等全球一线 PC 制造商已悉数加入阵营，并计划于今年秋季推出搭载该芯</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28539</guid>
-      <pubDate>Tue, 02 Jun 2026 01:15:00 +0000</pubDate>
+      <title>颠覆传统操作系统！微软联合高通发布Solara项目，开启AI智能体新时代</title>
+      <link>https://news.aibase.com/zh/news/28587</link>
+      <description>微软与高通公司近日联合发布了一项面向未来的重大合作，正式推出全新的“Project Solara”芯片到云平台。微软首席执行官萨蒂亚·纳德拉与高通总裁克里斯蒂亚诺·阿蒙通过视频展开深度对话，共同探讨了AI智能体将如何成为未来人机交互的核心界面。 这一全新平台的诞生，标志着科技行业正经历一场深刻的范式转变。纳德拉在对话中明确指出，当前的科技平台正在发生真正的变革，行业重心正在从过去构建传统的操作系统和应用程序，全面转向构建更加个性化、智能化的AI智能体。 重塑多设备无缝互联体验 Solara项目 最大 的亮点在于其“智能体优先”的计算理念，它将芯片硬件、底层软件以及云端算力完美结合。未来，用户的</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28587</guid>
+      <pubDate>Wed, 03 Jun 2026 01:32:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI大幅调整ChatGPT，支持提前锁死算力档位</title>
-      <link>https://news.aibase.com/zh/news/28540</link>
-      <description>人工智能领头羊在大模型日常交互体验上又砸下了重磅更新。6月1日， OpenAI 对旗下 ChatGPT 的移动端与网页端应用进行了系统性升级。本次调整不仅解锁了全新的手势交互逻辑，推出了长对话目录功能，更对日常默认大模型的底层输出风格进行了深度重构。 在移动端交互方面，本次升级引入了一个极其隐蔽的高阶手势。用户在 ChatGPT 应用中输入完提示词（Prompt）后，只需长按发送箭头的图标，即可直接调出一个全新的“智能等级选择器”。该选择器目前提供 Instant(即时)、Thinking(思考)以及 Extended(扩展)三大响应档位。 这些不同的物理档位，实质上对应着模型在处理提示词时投</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28540</guid>
-      <pubDate>Tue, 02 Jun 2026 01:16:00 +0000</pubDate>
+      <title>创意一键成真！OpenAI 推出 Sites 功能，用 AI 将想法直接转化为互动网站</title>
+      <link>https://news.aibase.com/zh/news/28588</link>
+      <description>人工智能巨头 OpenAI 近日发布官方博文，宣布为其 Codex 平台推出全新的“Sites”功能。该功能目前已进入预览版阶段，率先面向 Business（商业版）和 Enterprise（企业版）的订阅用户开放，旨在彻底颠覆传统的应用开发与网页设计流程。 作为一个能够让创意迅速落地的全新平台，Sites 拥有强大的转化能力。它可以将用户的纯文本想法、数据分析报告或项目计划，直接转化为功能丰富的动态仪表盘、日程规划器、项目看板以及轻量级交互工具。 打破技术门槛实现团队协作 在日常办公场景中，这一工具的实用性尤为突出。例如，公司的财务主管只需输入原本静态的电子表格，AI 就能将其转换成交互式的</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28588</guid>
+      <pubDate>Wed, 03 Jun 2026 01:37:00 +0000</pubDate>
     </item>
     <item>
-      <title>编程与GUI双向通吃!Qwen3.7-Plus 登场，11小时自主闭环开发真实APP</title>
-      <link>https://news.aibase.com/zh/news/28541</link>
-      <description>阿里正式发布了全新多模态大模型 Qwen3.7-Plus 。该模型在 Qwen3.7强大的文本能力基础上，全面升级了视觉-语言能力，并将其统一为一体化的智能体基座。作为一款 多模态交互混合智能体 ，Qwen3.7-Plus 能够无缝融合 GUI（图形用户界面）与 CLI(命令行界面)交互，实现了从前端原型到复杂软件工程的端到端自动化。 在 权威 视觉模型榜单 Vision Arena 中，凭借 Qwen3.7-Plus 的强劲表现，阿里已成功跻身 全球前五、中国 第一 。 核心技术能力与评测表现 Qwen3.7-Plus 的核心优势在于将“看、想、写、做、验”整合进统一的循环中，在三大方向展现</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28541</guid>
-      <pubDate>Tue, 02 Jun 2026 01:18:00 +0000</pubDate>
+      <title>打破职场“次元壁”！OpenAI 升级智能体助手 Codex，新增 6 大角色岗位插件</title>
+      <link>https://news.aibase.com/zh/news/28589</link>
+      <description>全球人工智能应用正加速从软件开发向全行业渗透。人工智能巨头 OpenAI 正式发布公告，宣布为其核心 AI 智能体助手 Codex 推出重大更新，一口气新增了6个专属岗位插件。此次升级深度覆盖了62个高频常用应用程序和110项专业技能，标志着该工具的应用场景迎来了颠覆性的拓宽。 作为 OpenAI 旗下最具代表性的智能体产品，Codex 最初主要服务于程序员群体协助编写代码，如今其生态规模已呈现爆发式增长，周活跃用户数量成功突破500万大关。值得注意的是，目前非开发者用户已占到整体用户比例的约20%，其增长速度更是比传统开发者快了3倍以上。这批迅速涌入的新用户广泛分布在数据分析师、营销人员、运</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28589</guid>
+      <pubDate>Wed, 03 Jun 2026 01:46:00 +0000</pubDate>
     </item>
     <item>
-      <title>扣子 3.0 正式上线，支持多人多 Agent 协同作业</title>
-      <link>https://news.aibase.com/zh/news/28542</link>
-      <description>字节跳动于近日正式推出扣子（Coze）3.0版本，不仅带来了全新的 Agent 写作方式，更在团队协作与生态接入上实现了显著突破。 新版本核心聚焦于协同效率的提升，全面支持“一人 + 多 Agent”以及“多人 + 多 Agent”的灵活组合模式。为了让团队协作更加井然有序，系统还引入了多项目独立管理机制，能够实现资产的自动沉淀与归档。 本地生态深度融合，跨端同步打通全流程工作流 在技术生态开放性方面，新版平台实现了与主流环境的无缝切换。用户目前可以自由接入包括 Claude Code、Codex CLI 以及 OpenClaw 在内的多种本地 Agent，顺利完成从前期开发到最终上线的全链路</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28542</guid>
-      <pubDate>Tue, 02 Jun 2026 01:22:00 +0000</pubDate>
+      <title>隐私效率兼顾！Perplexity Computer 推出混合推理功能，本地与云端模型自动分配任务</title>
+      <link>https://news.aibase.com/zh/news/28590</link>
+      <description>人工智能公司 Perplexity 近日宣布，将在今年夏天为其旗下的智能体系统 Perplexity Computer 迎来一项重大升级。该系统将正式引入全新的“混合智能体推理”模式，能够根据任务类型与数据的敏感程度，在设备本地运行的紧凑模型与云端的前沿模型之间实现智能切换与自动分配。 作为替用户执行实际复杂工作的智能助手，Perplexity Computer 此次升级的核心在于平衡隐私保护与计算性能。当系统接收到任务时，会自动将其拆分为多个子任务，并在本地与云端之间进行协同调度，从而避免了让用户在安全与速度之间做单选。 敏感数据严格留守本地 在全新模式下，涉及财务记录、健康信息以及个人文件</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28590</guid>
+      <pubDate>Wed, 03 Jun 2026 01:55:00 +0000</pubDate>
     </item>
     <item>
-      <title>大厂速度！京东云首发上线MiniMax M3 大模型，推理效率迎跨越式升级</title>
-      <link>https://news.aibase.com/zh/news/28543</link>
-      <description>今日，MiniMax M3模型正式面向市场发布，京东云JoyBuilder模型开发平台已同步完成接入，并在 第一 时间面向广大用户开放相关服务。 此次技术迭代的核心在于推理性能的显著改善。在应用部署方面，平台结合了自研的推理框架，并深度融合了PD分离部署、KV Cache缓存以及投机采样等多项前沿的推理优化技术。 得益于这一系列底层技术的协同发力，新接入的模型在实际运行中实现了更高的推理吞吐量，整体响应效率也获得了大幅提升。这不仅能为开发者提供更流畅的调用体验，也有望进一步加速前沿大模型在具体业务场景中的落地应用。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28543</guid>
-      <pubDate>Tue, 02 Jun 2026 01:23:00 +0000</pubDate>
+      <title>马斯克因 Grok 排名起诉苹果，却被法官强令上交特斯拉与 SpaceX 邮件</title>
+      <link>https://news.aibase.com/zh/news/28591</link>
+      <description>埃隆·马斯克此前因旗下 AI 助手 Grok 在苹果应用商店（App Store）的榜单排名问题，愤而将苹果与 OpenAI 告上法庭。然而令他始料未及的是，这场诉讼如今却烧到了他自己的核心商业帝国。美国联邦地区法官马克·皮特曼日前作出裁决，正式驳回了 xAI 和 X 平台的异议，维持此前的法庭裁定：马斯克必须提交其在特斯拉和 SpaceX 邮箱中的相关邮件作为本案证据。 这场官司源于马斯克对苹果的不满。他主张，Grok 之所以排名受挫，是因为苹果与 OpenAI 之间达成了反竞争的“幕后串通”。双方通过深度合作，由 ChatGPT 为苹果的 Apple Intelligence 以及部分新版</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28591</guid>
+      <pubDate>Wed, 03 Jun 2026 02:18:00 +0000</pubDate>
     </item>
     <item>
-      <title>​OpenAI官宣进军机器人赛道，独立组建团队押注具身智能</title>
-      <link>https://news.aibase.com/zh/news/28544</link>
-      <description>人工智能巨头OpenAI正式宣布成立Robotics事业部，标志着该公司正在将技术触角从单纯的软件AI向具身智能领域全面延伸，试图通过强大的大模型底座来连接物理世界。 随后，该公司首席执行官山姆·奥特曼公开招募全栈硬件、运营、系统及机器学习工程师。奥特曼表示，人工智能应当在现实世界中切实帮助人类生活。为此，团队制定了清晰的分阶段推进路线：短期内将专注于研发能够协助技术工人建设基础设施的机器人；而长远愿景则是为每个人配备一台可满足各类需求的通用个人机器人。 这支新团队的核心负责人由阿迪亚·拉梅什出任。作为DALL-E系列模型的发明者以及Sora视频生成模型的主要 领导者 ，拉梅什过去一年一直带领</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28544</guid>
-      <pubDate>Tue, 02 Jun 2026 01:26:00 +0000</pubDate>
+      <title>摆脱屏幕束缚！微软发布 Project Solara 平台，携手高通联发科打造企业 AI 智能体终端</title>
+      <link>https://news.aibase.com/zh/news/28592</link>
+      <description>微软公司于本周二正式发布了名为“Project Solara”的全新平台，该平台专门为以 AI 智能体（AI Agent）为主要交互方式的产品提供技术支持。微软此举旨在让 AI 智能体摆脱传统笔记本电脑和手机屏幕的束缚，将其深度融入到各类企业级移动设备之中。 针对这一项目，微软首席执行官萨蒂亚·纳德拉与高通总裁进行了深度对话。双方共同探讨了开发新型硬件设备的必要性，并一致认为 PC 和手机等现有界面在特定工作环境中并非 最佳 解决方案，行业需要采用更适合运行特定 AI 智能体的新形态终端。 概念设计首度亮相 为了直观展示 Project Solara 平台的应用潜力，微软在发布期间联合高通与联</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28592</guid>
+      <pubDate>Wed, 03 Jun 2026 02:25:00 +0000</pubDate>
     </item>
     <item>
-      <title>谷歌强推 AI 惹众怒？隐私搜索巨头出手，上线“纯净版”无 AI 搜索插件</title>
-      <link>https://news.aibase.com/zh/news/28545</link>
-      <description>随着全球各大科技巨头强力推行搜索引擎的“全面 AI 化改造”，部分习惯传统搜索模式的用户正表现出明显的抗拒情绪。这一市场变化直接推动了主打隐私保护的搜索引擎 DuckDuckGo 相关服务访问量迎来大幅增长。 针对这一趋势，DuckDuckGo 宣布正式为主流浏览器推出全新的扩展插件。通过该插件，用户可以一键将“无 AI 搜索页面”设为默认搜索引擎。官方明确承诺，用户在后续的日常检索中，将不会接收到任何由人工智能自动生成的摘要或概览内容，从而重新获得纯净、传统的网页搜索体验。 相关统计数据显示，这种对“非 AI”体验的需求正在快速转化为实际的用户增长。在刚刚过去的5月下旬，该浏览器在美国市场的</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28545</guid>
-      <pubDate>Tue, 02 Jun 2026 01:53:00 +0000</pubDate>
+      <title>腾讯人士回应“微信AI智能体”受审于合规流程，上线时间尚不明朗</title>
+      <link>https://news.aibase.com/zh/news/28593</link>
+      <description>据《财经》报道，知情人士 最新 透露，作为腾讯内部自 2025 年上半年便开始秘密筹办的绝密项目，微信AI智能体的上线进程目前很大程度上取决于监管方的审批进度。鉴于微信生态庞大的 14 亿用户体量，其面临的合规审查与安全评估流程显著严于其他同类AI产品。尽管腾讯官方对此回应称“暂无消息”，但内部消息源已证实该项目在战略层面的 极高 权重。 在当前国内AI智能体（Agent）加速落地、各厂竞相重构核心资产的背景下，微信的入局无疑将彻底改变C端AI生态的格局。然而，超大体量带来的合规成本与社会责任，让腾讯在推进商业化与技术落地的过程中表现得极为审慎。 如何平衡监管合规与前沿技术的爆发力，不仅是微信</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28593</guid>
+      <pubDate>Wed, 03 Jun 2026 02:43:00 +0000</pubDate>
     </item>
     <item>
-      <title>算力巨头也缺水？SpaceX 递交上市文件：AI 数据中心面临水资源短缺风险</title>
-      <link>https://news.aibase.com/zh/news/28546</link>
-      <description>在 最新 提交的 首次 公开募股（IPO）申报文件中，太空探索技术公司（SpaceX）向意向投资者警示了一项意想不到的潜在稀缺资源风险。该公司明确指出，为其数据中心降温所必需的水资源获取，正面临着严峻的供给挑战。 水资源升级为核心考量 随着马斯克旗下的 AI 公司 xAI 被纳入资产版图，SpaceX 正在加速扩张其人工智能基础设施。在修订后的申报文件中，公司不仅将水资源与电力、处理器列为同等重要的关键资源，更强调巨量耗水已成为数据中心选址与运营的核心考量项。 这一条款的修订发生在外界对数据中心耗水量引发局部干旱的争论日益激烈的背景下。SpaceX 坦言，干旱灾害、本地水源争夺或相关监管管控，</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28546</guid>
-      <pubDate>Tue, 02 Jun 2026 01:57:00 +0000</pubDate>
+      <title>80 倍ARR市销率估值！网络安全独角兽 Cyera 拟再融 3 亿美元，商业化狂飙背后现亏损隐忧</title>
+      <link>https://news.aibase.com/zh/news/28594</link>
+      <description>全球网络安全领域的资本热度依然不减。据多位知情人士透露，云数据安全初创公司 Cyera 正蓄势完成一笔金额至少达 3 亿美元的新一轮融资。本轮融资由 Evolution Equity Partners 领投，完成后这家安全独角兽的估值将直接飙升至 120 亿美元。 值得注意的是，这一动作距离其今年 1 月宣布由黑石集团（Blackstone）领投的 4 亿美元 F 轮融资仅仅过去五个月。如果本轮融资顺利落地，成立于 2021 年的 Cyera 累计融资金额将突破 20 亿美元，股东阵营更堪称豪华，此前已集结了红杉资本、Accel、Coatue、Lightspeed 等全球 顶尖 投资机构。 让</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28594</guid>
+      <pubDate>Wed, 03 Jun 2026 02:51:00 +0000</pubDate>
     </item>
     <item>
-      <title>美团打响翻身仗！一季度亏损骤降百亿，王兴携手腾讯打造AI新入口</title>
-      <link>https://news.aibase.com/zh/news/28547</link>
-      <description>美团日前正式发布了 2026 年 第一 季度业绩报告。财报显示，美团本季度实现总收入 910 亿元人民币，同比增长5.6%。备受市场关注的经营亏损额由上一季度的 161 亿元大幅缩减至 65 亿元，环比减亏近百亿元。其中，核心本地商业业务的亏损额也从 100 亿元骤降至 20 亿元，整体展现出强劲的盈利修复信号。美团CEO王兴表示，外卖行业的竞争正逐步回归理性，转向以效率和体验为核心的阶段，预计第二季度在旺季效应的叠加下，外卖单位经济模型（UE）将迎来进一步改善。 在发布业绩的同时，王兴还宣布了一项重要的AI业务进展：美团旗下的AI助手“小美”将与腾讯的AI应用“元宝”达成深度合作，并在近期正</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28547</guid>
-      <pubDate>Tue, 02 Jun 2026 02:00:00 +0000</pubDate>
+      <title>智领数字医疗！微软发布 Copilot Health 预览版，用 AI 深度解析个人健康档案</title>
+      <link>https://news.aibase.com/zh/news/28595</link>
+      <description>微软公司近日宣布正式推出其医疗 AI 助手“Copilot Health”的预览版本。该功能目前已面向 Microsoft 365 订阅用户全面开放，旨在利用先进的人工智能技术，帮助用户更加高效地管理、分析并理解自身的健康数据。 作为微软在医疗健康领域布局的又一里程碑，Copilot Health 拥有强大的跨平台数据整合能力。用户不仅可以借助该工具快速寻找合适的医生，还能深度洞察连接到该系统的各类医疗记录与健康体征。 在数据接入方面，Copilot Health 展现出了 极高 的兼容性。它不仅能够读取专业的电子病历，还可以完美同步用户日常佩戴的智能穿戴设备数据，并无缝接入包括苹果健康（Ap</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28595</guid>
+      <pubDate>Wed, 03 Jun 2026 02:51:00 +0000</pubDate>
     </item>
     <item>
-      <title>华为HarmonyOS 7重磅升级，端侧 AI 与智能体成绝对主角</title>
-      <link>https://news.aibase.com/zh/news/28548</link>
-      <description>华为开发者大会2026已正式定档6月12日至14日举行。根据目前掌握的 最新 信息，本届大会的核心看点将全面聚焦于 HarmonyOS 的全新版本、鸿蒙 AI 底层核心能力的演进，以及整个鸿蒙生态的 最新 建设成果。其中，端侧 AI 与 AI Agent（智能体）预计将成为本次技术升级的重头戏。 从官方目前释放的会议日程来看，华为在大会期间发布 HarmonyOS 新一代系统已成定局。尽管截至目前，该新系统的具体版本命名尚未最终官宣，此前行业内关于其是否会以“HarmonyOS7”的名义亮相也存在诸多猜测，但多方渠道均证实，新系统的核心迭代方向将深度绑定 AI 能力，尤其是与系统底层架构的融合</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28548</guid>
-      <pubDate>Tue, 02 Jun 2026 02:04:00 +0000</pubDate>
+      <title>智谱拟募资150亿元冲刺科创板 距港股上市不足5个月</title>
+      <link>https://news.aibase.com/zh/news/28596</link>
+      <description>国内大模型独角兽智谱AI日前正式启动科创板IPO计划，拟募集资金150亿元，这距离其登陆港股仅过去不足五个月。6月1日晚间，智谱发布公告称，董事会已审议通过A股发行并申请在上海证券交易所科创板上市的相关议案。 今年1月8日，智谱刚刚以“大模型 第一 股”的身份成功挂牌港交所，此次再度抛出资本市场新动作，旨在通过“A+H”双融资渠道进一步拓宽资金来源。 此举折射出国产基础模型竞争已进入全新阶段。当前大模型行业仍处于高投入期，市场竞争正从单纯的模型能力比拼、一级市场融资竞赛，加速演变为资本实力、商业化变现与长期持续投入能力的综合较量。上海财经大学特聘教授胡延平今日接受采访时指出， A股当前能够给予</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28596</guid>
+      <pubDate>Wed, 03 Jun 2026 03:09:00 +0000</pubDate>
     </item>
     <item>
-      <title>骗过 AI 就能轻松盗号？Meta 智能客服遭黑客围攻，Instagram多名网红痛失账号</title>
-      <link>https://news.aibase.com/zh/news/28549</link>
-      <description>照片分享平台 Instagram 近日紧急修复了一个重大安全漏洞。此前，多名用户的账号因该漏洞遭到非法入侵，而黑客的核心作案手段，竟然是诱骗 Meta 自研的人工智能客服聊天机器人，从而轻松获取了受害者账号的控制权限。 名人和官方账号相继沦陷 在上周末，多名社交平台用户纷纷爆料自己的 Instagram 账号被盗。受害者中不仅包含普通用户，甚至还包括奥巴马政府时期的白宫官方账号，以及美国太空部队总军士长的个人账户，引发了外界对 AI 客服安全性的广泛担忧。 安全研究人员简·黄也是此次事件的受害者之一。她透露，自己的登录密码在毫无征兆的情况下被篡改，且当天接连收到多起异地密码重置申请，整个被盗过</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28549</guid>
-      <pubDate>Tue, 02 Jun 2026 02:08:00 +0000</pubDate>
+      <title>AI反诈名场面！谷歌推出“虚假通话检测”功能，专治AI深伪冒充诈骗</title>
+      <link>https://news.aibase.com/zh/news/28597</link>
+      <description>面对日益猖獗的人工智能深伪（Deepfake）仿音诈骗，智能手机反诈迎来系统级防线。谷歌于周二正式宣布，将在安卓系统中推出一项名为“虚假通话检测”的全新安全功能，旨在帮助用户精准识别并拦截利用 AI 技术冒充熟人的电话骗局。 当前的电信诈骗手段正在经历技术迭代。随着越来越多的用户开始拒接陌生来电，不法分子正将矛头转向伪造信任关系，通过篡改来电显示号码，并利用 AI 深度伪造技术模仿特定目标的声音。例如，受害者接到的来电显示可能赫然写着“妈妈”，且耳边传来的音色与语气也与母亲一模一样，但电话背后实际上是诈骗分子在利用 AI 工具虚构紧急情况，诱骗受害者转账。 针对这一社会痛点，谷歌此次推出的新防</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28597</guid>
+      <pubDate>Wed, 03 Jun 2026 03:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>巴菲特重金入局！谷歌母公司拟募资 800 亿美元，全球AI军备竞赛再升级</title>
-      <link>https://news.aibase.com/zh/news/28550</link>
-      <description>当地时间 6 月 1 日，谷歌母公司Alphabet正式宣布了一项重磅融资计划，拟通过出售股票的方式募集高达 800 亿美元的资金。这笔巨额资金将全额用于人工智能算力基础设施的建设，以缓解当前爆发式增长的市场需求。 在这笔庞大的融资方案中，投资巨头伯克希尔·哈撒韦的动向尤为引人注目。巴菲特旗下的这家公司将提供 100 亿美元的专项投资。事实上，自去年第三季度以来，伯克希尔就一直在持续增持Alphabet，此前的持仓市值已达 200 亿美元。除了这笔百亿级私募配售外，本次融资还包括 300 亿美元的承销发行（含 150 亿美元强制可转换优先股存托股份），以及预计在 2026 年第三季度启动的 4</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28550</guid>
-      <pubDate>Tue, 02 Jun 2026 02:11:00 +0000</pubDate>
+      <title>打通微软全家桶！微软发布全新 AI 助手 Scout，承袭 OpenClaw 基因主打“养成系”定制</title>
+      <link>https://news.aibase.com/zh/news/28598</link>
+      <description>微软在 AI 智能体（Agent）领域祭出了新动作。在近日举办的 Build 年度开发者大会上，微软正式推出了一款名为 Scout 的全新 AI 助手。该产品旨在将前沿智能体的灵活性与随身陪伴属性，深度融入现有的 Microsoft 365 生态系统中。 值得注意的是， Scout 的底层框架源自今年年初在科技圈引发轰动的开源智能体项目 OpenClaw。尽管 OpenClaw 的创始人在随后被 OpenAI 收编导致该项目热度有所回落，但其崇尚的高自由度、不受限的智能体设计理念，显然已被微软深度吸收。 与市面上千篇一律的语音助手不同， Scout 强调全天候在线以及个性化的“持久身份”。用户</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28598</guid>
+      <pubDate>Wed, 03 Jun 2026 03:24:00 +0000</pubDate>
     </item>
     <item>
-      <title>499 元自带“脑子”！WIKO发布AI萌宠“星仔”，大模型加持还能听声辨位</title>
-      <link>https://news.aibase.com/zh/news/28551</link>
-      <description>情感陪伴类智能硬件赛道迎来新玩家。法国科技品牌WIKO于6月1日正式发布了一款名为“星仔”的AI萌宠硬件产品。该产品主打多模态互动体验，官方定价为499元，并计划于6月30日上午10:08正式开启发售。 作为一款便携式智能硬件，“星仔”在外观和交互设计上融入了诸多趣味元素。产品首发提供星仔蓝、星仔粉以及星仔灰金三款配色，机身正面配备磁吸模块，方便用户将其固定在背包等随身物品上。在交互表现上，它不仅支持触摸、摇晃和语音等多种感官互动，还具备听声辨位功能，能够根据声音来源自动将头部转向说话的用户。此外，系统内部还内置了养成机制，当用户与“星仔”的亲密度提升至700后，即可解锁独特的“地球语”互动模</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28551</guid>
-      <pubDate>Tue, 02 Jun 2026 02:33:00 +0000</pubDate>
+      <title>重拳打击 AI 诈骗！谷歌推出“假来电检测”功能，让伪造号码无处遁形</title>
+      <link>https://news.aibase.com/zh/news/28599</link>
+      <description>为了应对日益猖獗的 AI 语音与号码伪装诈骗，谷歌近日宣布在其官方手机应用“Phone by Google”中上线一项重磅防诈功能——“假来电检测”。该功能专门用于识别那些利用人工智能技术伪装成用户通讯录联系人的可疑电话，并在屏幕上明确标注，协助用户防范新型科技诈骗。 随着 AI 语音克隆技术的泛滥，诈骗分子不仅能轻易伪造来电显示号码，还能逼真地模仿受害者亲友的声音，以紧急求助或账户异常为由诱导转账。据美国联邦调查局的数据显示，仅在 2025 年，此类利用 AI 技术实施的诈骗就给美国民众造成了超过 8.93 亿美元的巨额损失。 端到端加密验证假冒号码 针对这一痛点，谷歌推出的“假来电检测”功</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28599</guid>
+      <pubDate>Wed, 03 Jun 2026 03:31:00 +0000</pubDate>
     </item>
     <item>
-      <title>微信AI智能体曝光:主打应用内任务处理，分阶段上线在即</title>
-      <link>https://news.aibase.com/zh/news/28552</link>
-      <description>腾讯正加速推进在微信生态内嵌入AI智能体的战略计划。据《金融时报》6月2日 最新 报道，两位知情人士透露，腾讯目前正在测试该AI智能体的原型产品。该智能体旨在帮助用户在微信应用内部高效完成多项任务，标志着微信在智能化交互与服务闭环上迈出关键一步。 作为上线前的必要合规准备，腾讯计划最早于本月内启动该产品公开上线所需的合规流程。在完成合规程序后，腾讯将采取分阶段推进的上线策略，首先在小范围外部用户中进行封闭测试，随后逐步扩大开放范围。不过，鉴于合规审批流程的周期存在不确定性，该AI智能体的最终正式公开发布时间表目前尚未完全敲定。 在当前大模型走向应用落地、AI Agent（智能体）成为大厂标配的</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28552</guid>
-      <pubDate>Tue, 02 Jun 2026 02:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>重磅联手！OpenAI 尖端模型与 Codex 正式登陆 AWS，企业级 AI 落地再提速</title>
-      <link>https://news.aibase.com/zh/news/28553</link>
-      <description>全球云计算与人工智能领域迎来里程碑式合作。当地时间 6 月 1 日，OpenAI 正式宣布其前沿 尖端 模型（含 GPT-5.5）以及强大的软件工程智能体 Codex 已在亚马逊云科技（AWS）平台全面上架。这意味着数以百万计的 AWS 企业客户无需调整现有的业务平台，即可直接调用 OpenAI 的 顶尖 AI 能力。 对于亟Url转型的大型企业而言，将 尖端 AI 引入生产环境 最大 的阻碍往往在于繁琐的安全审查、合规性评估、采购流程以及财务计费等合规红线。此次双方打通底层生态，让企业能够在自身深度信赖的 AWS 环境与控制框架内，直接部署 OpenAI 的各项技术。这一举措消除了传统运营壁</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28553</guid>
-      <pubDate>Tue, 02 Jun 2026 02:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Krea 2 LoRA 全面开放！AI 图像创作个性化时代来临</title>
-      <link>https://news.aibase.com/zh/news/28554</link>
-      <description>近日，AI 创意平台 Krea 正式宣布， Krea2LoRA 训练功能现已面向所有用户开放 。这一举措标志着 Krea2模型的个性化定制能力进一步普惠化，用户无需高端订阅即可训练并使用自定义风格、角色或对象 LoRA，极大降低了 AI 图像创作的门槛。 Krea2模型回顾:原生高性能图像生成引擎 Krea2是 Krea AI 自建的首个基础图像模型，从零训练打造，非简单微调或 LoRA 包装。它以美学优化为核心，生成速度极快（通常15秒以内），支持风格参考与 Moodboard 功能，能快速响应模糊提示并产出多样高质量图像，特别适合商业工作流、游戏概念和快速创意迭代。 此前，Krea2已向所</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28554</guid>
-      <pubDate>Tue, 02 Jun 2026 03:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI 客服成黑客帮凶！Meta 智能助手遭漏洞利用，多名名人及机构官方账号被盗</title>
-      <link>https://news.aibase.com/zh/news/28555</link>
-      <description>社交媒体巨头 Meta 的 AI 客户服务系统近日遭遇严重安全漏洞。黑客通过诱导和欺骗其 AI 支持聊天机器人，成功劫持了多个知名用户的 Instagram 账号，引发外界对 AI 工具安全性的广泛质疑。 据了解，此次受影响的账号包括美国前总统奥巴马的白宫官方账号、美国太空军总军士长以及美妆零售巨头丝芙兰的官方页面。在被盗期间，相关账号甚至被恶意发布了具有宣传性质的特定政治内容。此外，知名的安全研究员兼逆向工程师黄文津（Jane Manchun Wong）也证实其个人账号在昨日频繁遭遇强制下线和密码重置，未能幸免。 这场风波的核心在于 Meta 今年3月推出的 AI 驱动支持助手，该工具原本旨</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/28555</guid>
-      <pubDate>Tue, 02 Jun 2026 03:21:00 +0000</pubDate>
+      <title>路人隐私成牺牲品？亚马逊 Ring 门铃人脸识别功能遭集体诉讼</title>
+      <link>https://news.aibase.com/zh/news/28600</link>
+      <description>亚马逊旗下的智能门铃品牌 Ring 正面临一场关于侵犯隐私的集体诉讼。本周一，一名来自维吉尼亚州的居民查尔斯·西格瓦尔特在西雅图正式提起诉讼，指控 Amazon 旗下的 Ring 门铃在未经他人同意的情况下，私自收集并存储了路过行人的面部生物识别信息。 引发这场官司的导火索是 Ring 在去年推出的“熟人识别”（Familiar Faces）功能。该功能利用人工智能和人脸识别技术，能够帮用户辨别经常到访的亲友、邻居或快递员。当这些人出现在家门口时，系统会精准推送类似“爸爸到门口了”的特定通知，而非传统的“发现有人”。尽管该功能要求门铃主人主动加入，但隐私倡导者指出，那些仅仅是路过门铃监控范围的</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/28600</guid>
+      <pubDate>Wed, 03 Jun 2026 03:40:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
