@@ -8,111 +8,188 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 19 Jun 2026 04:14:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 04:10:43 +0000</lastBuildDate>
     <item>
-      <title>OpenAI 首席执行官奥特曼因次女出生取消韩日访问</title>
-      <link>https://news.aibase.com/zh/news/29007</link>
-      <description>OpenAI 首席执行官萨姆·奥尔特曼（Sam Altman）近期迎来第二个女儿的提早出生，正式取消了原定于本月15日的韩国及随后访问日本的行程。此前业界曾对此次行程变动产生诸如美国政府对 OpenAI 展开调查、或新一代大模型即将发布等多种猜测，而 最新 披露的信息证实，此次推迟纯属家庭原因，反映了硅谷对工作与家庭平衡文化的普遍践行。 按照原定计划，奥尔特曼此行旨在深化与韩国科技巨头的战略协作。他原计划与 三星 电子、NAVER、Kakao 等企业高管会面以探讨人工智能领域的合作方案，并面向 三星 员工发表关于生成式 AI 技术发展与产业未来的特别演讲。在15日举行的 OpenAI 韩国开发</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29007</guid>
-      <pubDate>Thu, 18 Jun 2026 05:53:00 +0000</pubDate>
+      <title>视觉盛宴接入 AI：Getty Images 与 OpenAI 达成战略授权合作</title>
+      <link>https://news.aibase.com/zh/news/29023</link>
+      <description>在人工智能持续重塑搜索与内容创作生态的当下，全球领先的视觉内容平台 Getty Images 近日宣布，正式与 OpenAI 达成一项重磅展示合作协议。这意味着，Getty Images 庞大的授权图片库资源将全面接入 ChatGPT，在用户的搜索与发现场景中提供更具视觉冲击力的内容支撑。 作为全球商业摄影与视觉素材领域的巨头，Getty Images 在 AI 领域其实早有布局。此前，它曾携手英伟达推出“Generative AI by Getty Images”生成式 AI 工具。该工具的独特之处在于，所有用于模型训练的图片均源自 Getty Images 的正版授权库，并承诺为由此生成的</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29023</guid>
+      <pubDate>Mon, 22 Jun 2026 00:44:00 +0000</pubDate>
     </item>
     <item>
-      <title>Liblib完成近3亿美元B+轮融资，估值超20亿美元ARR破3亿</title>
-      <link>https://news.aibase.com/zh/news/29008</link>
-      <description>中国AI应用层赛道迎来新标杆。Liblib母公司演语科技（Evoken）近日完成近3亿美元B+轮融资，投后估值超过20亿美元。本轮融资由Granite Asia、腾讯、顺为资本联合领投，HT Investment、时代资本参与，高榕资本、蚂蚁集团等老股东持续跟投。 这是演语科技在8个月内完成的第二轮大额融资，两轮累计融资额超5亿美元，投资方几乎覆盖国内一线科技资本。截至2026年5月，公司ARR已突破3亿美元，5月集团整体收入同比增长超3000%，核心收入主要来自短剧、影视、广告等专业内容生产者的真实预算。 作为国内首家从单点突破走向集团化的AI应用公司，演语科技已围绕专业生产场景构建起三条核</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29008</guid>
-      <pubDate>Thu, 18 Jun 2026 06:03:00 +0000</pubDate>
+      <title>​Getty Images携手OpenAI达成合作 正版图库内容接入ChatGPT检索场景</title>
+      <link>https://news.aibase.com/zh/news/29024</link>
+      <description>全球知名商业图库企业Getty Images对外公布，已与OpenAI签订展示合作协议，旗下合规授权图库素材，将正式落地ChatGPT的搜索与内容发现板块。 Getty Images作为全球头部商业图库，此前早已布局AI赛道，曾联合英伟达推出专属生成式A I工具Generative AI by Getty Images。该工具仅使用平台正版图库完成模型训练，并且可为生成图像提供完整法律版权保障，规避商用侵权风险。 此次合作也是OpenAI持续扩充正版内容生态的又一动作。早在 2023 年 7 月，OpenAI就与图片平台Shutterstock续签六年合作，借助对方图片、视频、音频素材训练AI</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29024</guid>
+      <pubDate>Mon, 22 Jun 2026 00:50:00 +0000</pubDate>
     </item>
     <item>
-      <title>从“画猫”到“看透身体”：Midjourney跨界医疗，推出全身超声扫描仪</title>
-      <link>https://news.aibase.com/zh/news/29009</link>
-      <description>人工智能领域的创新边界正在被持续重绘。以创意图像生成闻名的 Midjourney ，近日正式宣布跨界医疗影像市场，推出了其 首款 硬件产品——一款基于超声技术的全身扫描仪。这一动作标志着公司正试图将AI算力从单纯的图像生成，延伸至对人体结构的量化感知。 这款名为“Midjourney Scanner”的设备，在设计上极具科技感。它采用环形传感器阵列，通过与超声技术公司 Butterfly Network 深度合作，集成了40个成像模块。其工作原理类似于“回声定位”，用户只需站入浅水池中，设备便会缓慢穿过身体，通过数千个换能器发射并接收回波信号。官方表示，一次完整的全身体检耗时仅需60秒，便可生</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29009</guid>
-      <pubDate>Thu, 18 Jun 2026 06:06:00 +0000</pubDate>
+      <title>动口不动手：特斯拉即将通过 Grok 实现 FSD 语音操控</title>
+      <link>https://news.aibase.com/zh/news/29025</link>
+      <description>未来的特斯拉驾驶体验，或许真的只需要一句话就能搞定。根据马斯克的 最新 预告，特斯拉旗下的 Grok 智能助手即将迎来重磅升级，实现对 FSD（监督版）系统所有行驶逻辑的自然语言控制。这意味着，驾驶员未来将彻底告别繁琐的手动操作，通过语音即可直接向车辆下达复杂的指令。 按照目前的预估进度，这项全新的语音交互功能有望在三个月后正式上线，并计划在今年秋季全面推送至特斯拉全系车型。事实上，Grok 此前已经积累了一定的交互基础，包括导航语音指令、语音唤醒口令以及基于位置的导航提醒等功能。而此次适配 FSD 系统，无疑是其在驾驶辅助领域的一次“深度进化”。 该功能 最大 的亮点在于其对驾驶场景的高度集</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29025</guid>
+      <pubDate>Mon, 22 Jun 2026 00:53:00 +0000</pubDate>
     </item>
     <item>
-      <title>从生成图像到医疗影像，Midjourney 推出全身超声扫描仪</title>
-      <link>https://news.aibase.com/zh/news/29010</link>
-      <description>知名 AI 图像生成平台 Midjourney 近日宣布跨界医疗健康领域，推出其 首款 硬件产品——基于超声技术的全身扫描仪。这款名为 Midjourney Scanner 的设备利用超声波环形传感器进行全身成像，旨在获取接近甚至媲美核磁共振质量的体内三维图像。 公司计划于 2027 年底前在旧金山开设配套的体检水疗中心，并部署约 10 台扫描设备。该项目由 Midjourney 与超声技术公司 Butterfly Network 合作开发，每套系统集成了 40 个超声芯片成像模块。 创新声波扫描体验 在实际运作中，用户需要站入一池浅水中，随后连同平台缓慢下降，通过布满数千个换能器的环形结构。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29010</guid>
-      <pubDate>Thu, 18 Jun 2026 06:12:00 +0000</pubDate>
+      <title>苹果iOS27绕开传统对话式AI:系统级无感化智能成手机系统新趋势</title>
+      <link>https://news.aibase.com/zh/news/29026</link>
+      <description>苹果公司在日前举办的全球开发者大会（WWDC）上正式发布了iOS27系统，通过将底层AI能力全方位嵌入原生应用与服务，展现了其更具实用性的Apple Intelligence端侧AI落地策略。相较于过往聚焦于Siri个人对话交互的升级，此次iOS27的底层重构更倾向于“无感化”的系统级智能体验，正通过解决实际场景痛点来改变用户的数字化生活方式。 在具体功能演进上，iOS27带来了多项由Apple Intelligence驱动的实用工具。在金融与社交场景中，系统新增了基于Apple Cash的自动分摊账单功能，用户仅需拍摄收据，AI便能自动提取品名、价格、税费与小费并进行智能群聊分摊。安全领域则</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29026</guid>
+      <pubDate>Mon, 22 Jun 2026 01:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>科学界迎来“通用语言”：阿里开源 LOGOS 模型，以超高效率重构科研范式</title>
-      <link>https://news.aibase.com/zh/news/29011</link>
-      <description>人工智能在科研领域的应用正迈向一个新的转折点。6月18日，阿里 ATH-Token Foundry 联合中国人民大学高瓴人工智能学院正式宣布，开源了一款名为 LOGOS 的多领域科学生成基础模型。这款模型的诞生，标志着科学界终于拥有了一套能够通用的“科学语法”。 长期以来，不同科学分支之间存在着深不见底的“语言鸿沟”。蛋白质、小分子以及复杂材料，在AI眼中往往是结构迥异、难以兼容的数据孤岛。为了让这些科学对象能够“对话”，过去的研究往往需要依赖复杂的3D坐标或专门设计的几何神经网络，不仅计算成本高昂，且模型通用性极差，换一个研究环节就得重起炉灶。 LOGOS 的核心创新在于打破了这种壁垒。它设</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29011</guid>
-      <pubDate>Thu, 18 Jun 2026 06:26:00 +0000</pubDate>
+      <title>Snap分拆生成式AI视频团队成立新公司Dotmo 缓解高昂研发成本压力</title>
+      <link>https://news.aibase.com/zh/news/29027</link>
+      <description>由于内部开发生成式人工智能的高昂成本施压，Snapchat母公司 Snap 宣布将内部生成式AI视频团队正式分拆，成立名为Dotmo的独立公司。此举旨在减轻母公司的财务负担，同时赋予该团队更高的运营灵活性。新公司将专注于开发能够创造互动游戏体验的AI模型，其初始团队由从 Snap 离职并加入的多名核心员工组成。 尽管Dotmo在组织架构上保持独立，但仍与 Snap 保持紧密的资本与技术纽带。Dotmo不会直接获得 Snap 的资金支持，但 Snap 首席技术官Bobby Murphy将作为主要投资人出资并持有大量个人股份，同时他将继续全职留任 Snap 并领导其GenAI研发。作为人才与技术授</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29027</guid>
+      <pubDate>Mon, 22 Jun 2026 01:04:00 +0000</pubDate>
     </item>
     <item>
-      <title>曹操出行全面启动香港Robotaxi业务，发布全新“RoboX”战略与“Eva Cab”车型</title>
-      <link>https://news.aibase.com/zh/news/29012</link>
-      <description>曹操出行在香港车博会上正式宣布启动香港Robotaxi（自动驾驶出租车）业务，并同步发布“RoboX”战略，宣告公司全面向AI转型，致力打造全球领先的物理AI移动科技平台。作为该战略的全球首个标杆城市，香港将成为其探索国际化城市智能运力体系运营模式的前沿阵地。 活动当日，曹操出行展出了中国 首款 原生开发的Robotaxi车型“Eva Cab”。香港项目的启动，标志着其RoboX战略正式在复杂的国际化城市场景中实现系统性落地。 作为该战略的核心支撑，曹操出行明确提出了“双十万计划”的时间表与量化目标:计划到2030年，在全球范围内累计部署10万辆Robotaxi与10万辆Robovan（自动驾</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29012</guid>
-      <pubDate>Thu, 18 Jun 2026 06:34:00 +0000</pubDate>
+      <title>​借 AI 编造股市虚假信息引流牟利 四川南充一女子遭行政处罚</title>
+      <link>https://news.aibase.com/zh/news/29028</link>
+      <description>据南充融媒官方消息，四川南部县一名女子利用 AI 大模型炮制股市不实文章发布网络，因扰乱金融市场秩序被警方作出行政处罚，相关虚假内容已全部下架清理。 今年 5 月 20 日，当事人王某某借助 AI 生成一篇约 3000 字文章，在今日头条平台对外发布。文中捏造 A 股行情预测、歪曲解读证券监管政策，内容具备较强误导性。经查实，王某某发布此文的核心目的是制造热点博取流量，依靠平台流量收益获利。当地警方认定其行为属于编造、传播虚假证券信息，依法对其实施行政处罚。 该案例是今年又一起 AI 股市造谣处罚事件。此前 5 月北京证监局也曾处置同类案件，当事人改写虚假股市信息发布公众号，仅获利一百余元，却</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29028</guid>
+      <pubDate>Mon, 22 Jun 2026 01:07:00 +0000</pubDate>
     </item>
     <item>
-      <title>语音交互大升级：Claude 酝酿多语言支持，通话式体验呼之欲出</title>
-      <link>https://news.aibase.com/zh/news/29013</link>
-      <description>人工智能的语音交互体验即将迎来一次重要迭代。据科技媒体 Android Authority 的 最新 消息， Anthropic 正在为其旗下的 AI 助手 Claude 筹备语音模式的重大升级，重点在于打破原有的语言壁垒。 根据部分用户在设置界面中捕捉到的信息，此次更新不仅将打破“仅支持英语”的现状，还将一口气增加多种语言选项。其中包括中文、粤语（Cantonese）、日语、德语、西班牙语、葡萄牙语、俄语以及乌克兰语。对于非英语母语的用户而言，这意味着未来能够更顺畅地使用母语与 Claude 进行交流。 除了语言支持的扩容，语音交互的操作逻辑也进行了精细化调整。目前，Claude 提供了两种</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29013</guid>
-      <pubDate>Thu, 18 Jun 2026 07:33:00 +0000</pubDate>
+      <title>AI 进化的下一块拼图：GPT-5.6 或于下周登场，主打“Agent”级操作能力</title>
+      <link>https://news.aibase.com/zh/news/29029</link>
+      <description>人工智能领域的竞赛节奏正变得愈发紧凑。近日，随着相关测试动态频频流出，新一代旗舰模型 GPT-5.6备受瞩目，市场普遍预期该模型最快将于本月下旬（6月22日至28日之间）正式发布。尽管关于发布的具体时间在预测市场上存在争议，但这一系列的迭代升级已成为业内关注的焦点。 据了解，GPT-5.6并非简单的性能堆砌，而是被定位为 OpenAI 从“语言模型”迈向“可执行 Agent（智能体）”的关键跨越。其核心改进在于大幅增强了处理复杂任务的能力，尤其是对编码工作流、3D 内容生成以及跨平台操作的深度支持。 在技术参数上，GPT-5.6的上下文窗口进一步扩容至150万 tokens，相比上一代提升了约</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29029</guid>
+      <pubDate>Mon, 22 Jun 2026 01:22:00 +0000</pubDate>
     </item>
     <item>
-      <title>网易云音乐旗下AI情感陪伴App“妙时”宣布7月14日停运</title>
-      <link>https://news.aibase.com/zh/news/29014</link>
-      <description>网易云音乐旗下高沉浸式AI情感陪伴App“妙时”（含AI奇遇）近日正式发布停运公告，宣布将于7月14日0时起全面停止各项服务。 6月18日，网易云音乐客服回应称，此次停运属于业务发展中的正常调整，不影响旗下其他产品的功能体验。目前，该平台已停止新用户注册及充值服务，用户账号内的剩余代币与会员费用可在8月14日前申请退款，AI恋人聊天记录等资料也已开放导出通道。 行业观察表明，此次业务调整正值AI虚拟伴侣赛道面临强监管的风口期。今年4月，国家网信办等五部门联合公布《人工智能拟人化互动服务管理暂行办法》，严厉打击涉黄涉暴及诱导未成年人极端情绪的内容。此前媒体实测发现，多款AI虚拟伴侣应用普遍存在“</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29014</guid>
-      <pubDate>Thu, 18 Jun 2026 07:41:00 +0000</pubDate>
+      <title>谷歌明星研究员接连出走，诺奖得主约翰·詹珀转投 Anthropic</title>
+      <link>https://news.aibase.com/zh/news/29030</link>
+      <description>人工智能行业的高端人才流动近期再度引发关注。 6 月 20 日，谷歌 DeepMind 副总裁、AlphaFold 负责人约翰·詹珀（John Jumper）正式宣布离职，并确认加入竞争对手 Anthropic 。这一人事变动已得到双方机构的确认，标志着谷歌核心科研团队再次流失了一位重量级领军人物。 约翰·詹珀在 DeepMind 工作近九年，是该机构科学 AI 领域的标志性人物。他曾与 DeepMind 首席执行官德米斯·哈萨比斯（Demis Hassabis）因在蛋白质结构预测方面的开创性研究，共同获得了 2024 年诺贝尔化学奖。AlphaFold 作为 DeepMind 最具代表性的品</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29030</guid>
+      <pubDate>Mon, 22 Jun 2026 01:35:00 +0000</pubDate>
     </item>
     <item>
-      <title>阿里开源统一科学大模型 LOGOS，仅用五十六分之一参数超越微软</title>
-      <link>https://news.aibase.com/zh/news/29015</link>
-      <description>阿里 ATH-Token Foundry 联合中国人民大学高瓴人工智能学院，今日正式宣布开源首个基于统一科学语法的多领域科学生成基础模型 LOGOS。在六大代表性科学任务中，该模型凭借纯序列建模范式，一致性地匹配或超越了传统的领域专用方法。 值得关注的是，该模型展现出了 极高 的参数效率。仅有 1B 参数量的 LOGOS-1B 模型，在多个核心任务上的表现就成功超越了参数量高达 8×7B 的微软 NatureLM 语言模型。 首创科学语法统一异构对象 LOGOS 构建了一个涵盖生物大分子、化学实体以及界面互作等 7 类模态、总计 44.87B tokens 的庞大预训练语料库。通过设计共享词表</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29015</guid>
-      <pubDate>Thu, 18 Jun 2026 08:01:00 +0000</pubDate>
+      <title>AI人才争夺战再起：谷歌Gemini负责人沙泽尔转投OpenAI</title>
+      <link>https://news.aibase.com/zh/news/29031</link>
+      <description>人工智能领域的人才流动正变得愈发频繁，头部企业间的“抢人大战”再度升级。6月20日，谷歌工程副总裁、Gemini技术联席负责人诺姆·沙泽尔（Noam Shazeer）正式确认离职，并随即宣布加入OpenAI。 作为AI学术界的标志性人物，沙泽尔的职业履历堪称卓越。他不仅是重塑人工智能研究方向的经典论文《Attention Is All You Need》的核心作者之一，还曾为LaMDA等谷歌里程碑式项目做出贡献，并在2016年提出了影响深远的Sparsely-gated Mixture of Experts架构。 沙泽尔的职业生涯与谷歌有着深厚的渊源。他曾于2021年离开谷歌并参与创办了Cha</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29031</guid>
+      <pubDate>Mon, 22 Jun 2026 01:43:00 +0000</pubDate>
     </item>
     <item>
-      <title>Transformer 核心作者 Noam Shazeer 加盟 OpenAI，谷歌巨资未能挽留</title>
-      <link>https://news.aibase.com/zh/news/29016</link>
-      <description>人工智能领域的传奇研究员、Transformer 架构的核心作者 Noam Shazeer 近日正式宣布加入 OpenAI。此前，各大 AI 巨头为了争夺这位 顶尖 人才展开了激烈竞争，最终 OpenAI 成功赢得了他的加盟。 这一变动引发了科技界的广泛关注，因为就在不到两年前，谷歌刚刚花费了大约 27 亿美元的巨资通过技术许可协议将他请回。然而仅仅过去不到两年，这位被同事们称为“巫师”的 顶尖 学者便选择再次离开谷歌。 数学天才的谷歌传奇之路 Noam Shazeer 的技术生涯堪称传奇，他曾以满分成绩摘得国际数学奥林匹克竞赛金牌。早在 2000 年谷歌仅有 200 人左右时他便加入公司，并</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29016</guid>
-      <pubDate>Thu, 18 Jun 2026 08:26:00 +0000</pubDate>
+      <title>只需演示一次即可无限重复，OpenAI Codex 解锁“录制与回放”新技能</title>
+      <link>https://news.aibase.com/zh/news/29032</link>
+      <description>OpenAI 近日为 macOS 平台的 Codex 应用推出了全新功能“录制与回放”（Record &amp; Replay），标志着其在 AI 代理(AI Agent)和白领工作自动化领域的又一重要技术推进。 该功能允许用户通过一次性的工作流程引导(如演示上传包含元数据、缩略图和字幕的 YouTube 视频)，使 Codex 能够将录制的操作转化为可重复使用的“技能”，并在此后自主、无限期地重复执行该任务。 在具体功能演进上，同步推出的26.616版本还新增了自动化历史记录批量操作功能，并支持在本地主机和远程主机之间切换线程，从而允许用户在连接的机器上延续任务执行。值得注意的是，该功能的实现深度依</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29032</guid>
+      <pubDate>Mon, 22 Jun 2026 01:56:00 +0000</pubDate>
     </item>
     <item>
-      <title>Kimi Work 迎重大升级：推出“目标模式”并打通外部应用插件</title>
-      <link>https://news.aibase.com/zh/news/29017</link>
-      <description>月之暗面旗下 Kimi 电脑客户端近日迎来焕新升级，为 Kimi Work（Beta 版）引入了两项重磅全新特性。本次升级不仅推出了可连续自主工作 24 小时的“目标模式”，还正式上线了连接多家主流办公软件的“插件中心”。 为了鼓励用户深度体验新功能，官方同步推出了 6 月限时福利。在 2026 年 6 月期间，用户使用 Work 模式的会员额度消耗将直接享受“5 折”优惠。 目标模式实现 24 小时自主循环 全新推出的“目标模式”核心基于一套智能循环机制，旨在攻克路径不确定、需要多轮尝试的长任务。用户只需设定一个明确的终点，AI 智能体就会在无需人工干预的情况下自主推进。 在执行过程中，它会</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29017</guid>
-      <pubDate>Thu, 18 Jun 2026 08:31:00 +0000</pubDate>
+      <title>本地也能跑万亿大模型：苹果与 LM Studio 联手解锁 Mac Studio 算力极限</title>
+      <link>https://news.aibase.com/zh/news/29033</link>
+      <description>在刚刚落幕的 WWDC 2026 期间，人工智能的本地化部署迎来了一个标志性时刻。LM Studio 与苹果达成深度技术合作，成功在由四台 Mac Studio 组成的集群上，流畅运行了月之暗面的万亿参数大模型 Kimi K2.6。这一演示不仅打破了大型模型必须依赖云端集群的刻板印象，更展示了消费级硬件在承载前沿 AI 算力方面的巨大潜力。 Kimi K2.6 作为一款基于 MoE（混合专家）架构的巨型模型，其总参数规模达到惊人的 1 万亿。在四台 Mac Studio 的集群配置下，利用苹果强大的统一内存架构，该系统实现了约 1.5TB 的总内存容量，完美覆盖了该模型推理所需的内存带宽与存储</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29033</guid>
+      <pubDate>Mon, 22 Jun 2026 01:57:00 +0000</pubDate>
     </item>
     <item>
-      <title>一年跃升“独角兽”：Manifold AI 流形空间再获数亿元融资，加速世界模型落地</title>
-      <link>https://news.aibase.com/zh/news/29018</link>
-      <description>在人工智能领域竞速愈发激烈的当下，一家成立仅一年的企业正以惊人的成长速度引发行业关注。6月18日，国内领先的世界模型公司 Manifold AI 流形空间 正式宣布完成新一轮数亿元人民币融资。 此次融资不仅获得了国新基金、毅峰资本、北汽产投及芯能创投等机构的支持，此前参与投资的四家老股东也选择了超额追加投资。这一亮眼的数据背后，是该公司自成立以来在短短一年时间内完成6轮融资、Pre-A 轮累计融资额接近10亿元的壮举，不仅使其快速跻身世界模型独角兽行列，也证明了市场对其技术路径的高度认可。 作为国内首家将自研世界模型作为具身智能基础的先行者， Manifold AI 流形空间 在技术研发上有着</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29018</guid>
-      <pubDate>Thu, 18 Jun 2026 08:54:00 +0000</pubDate>
+      <title>​谷歌强推 AI 搜索引发用户不满 功能异常反向为竞品引流</title>
+      <link>https://news.aibase.com/zh/news/29034</link>
+      <description>据外媒 TechCrunch 消息，谷歌大力普及 AI 搜索功能后引发大量用户抵触，平台还出现反常推送问题，意外给竞争对手 DuckDuckGo 带来流量增长。 有用户反馈，在谷歌搜索 “no AI” 等关键词时，页面 AI 概览模块会主动推荐 DuckDuckGo 专属无 AI 搜索页面，还提示用户调整设置降低 AI 功能强度，直接引导用户跳转竞品平台。 自 2026 年 Google I/O 大会后，谷歌持续加码 AI 概览、AI 对话搜索等功能，但并未开放 永久 关闭 AI 概览的完整选项。不少用户更偏好传统纯链接搜索结果，反感平台强制推送 AI 生成内容，大批用户转向主打隐私、支持关闭</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29034</guid>
+      <pubDate>Mon, 22 Jun 2026 02:08:00 +0000</pubDate>
     </item>
     <item>
-      <title>阿里AI内创黑马MuleRun走向前台:钉钉架构大调整，开启全员Agent时代</title>
-      <link>https://news.aibase.com/zh/news/29019</link>
-      <description>钉钉新任CEO、悟空事业部CEO陈宇森今日下午发布内部信，宣布对钉钉组织架构进行重大调整，通过成立核心平台业务部及全面整合AI Agent团队，加速推动企业协同办公生态的智能化演进。 本次调整的核心在于AI技术力量与核心业务的深度融合。钉钉正式整合了悟空团队与MuleRun团队，成立全新的悟空团队，由原MuleRun CTO束骏亮负责。MuleRun作为陈宇森此前在阿里云内部创业并主导研发的AI Agent产品，此番并入标志着钉钉在AI智能体应用落地上的战略聚焦。 同时，由原钉钉CTO朱鸿（一粟）挂帅的核心平台业务部正式成立，全面负责钉钉等一系列核心业务。此外，为构建更高效的商业化与技术支撑体</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29019</guid>
-      <pubDate>Thu, 18 Jun 2026 09:05:00 +0000</pubDate>
+      <title>AI 加持办公全家桶：Grok 正式接入 Microsoft Office</title>
+      <link>https://news.aibase.com/zh/news/29035</link>
+      <description>在生产力工具领域，AI 的植入正在变得无处不在。6月19日，马斯克旗下的 SpaceXAI 正式推出了面向 Microsoft Word、Excel 及 PowerPoint 的全新 Grok 扩展程序 ，旨在通过深度集成的人工智能能力，改变用户处理日常文档与数据的逻辑。 安装该扩展后，用户无需切换窗口，即可在 Office 应用的侧边栏直接唤醒 Grok 。这一交互设计让办公流程变得更加“对话化”:在 Word 中，用户只需要输入模糊的草稿或简单的排版意图，AI 便能自动生成结构完整的文档;它不仅能扮演“编辑”角色，协助修改语法与表述，还能连接 X 平台及互联网实时数据，为报告提供即时的分析</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29035</guid>
+      <pubDate>Mon, 22 Jun 2026 02:09:00 +0000</pubDate>
     </item>
     <item>
-      <title>企业AI转型再添利器：青云科技算力云接入 MiniMax-M3 模型</title>
-      <link>https://news.aibase.com/zh/news/29021</link>
-      <description>随着企业对大模型应用需求的日益迫切，如何高效且低成本地落地AI业务，已成为众多企业的技术难题。近日，青云科技正式宣布，其旗下的AI算力云平台“基石智算”已全面接入国产开源大模型 MiniMax-M3，为企业级AI应用提供全新的算力与模型支撑。 作为国产大模型阵营中的“全能选手”，MiniMax-M3 具备三大核心技术优势。首先是卓越的上下文处理能力，该模型依托自研架构支持高达 1M tokens 的超长窗口，有效降低了处理百万级长文本任务的计算成本。其次，在代码工程能力方面，该模型的多项评测指标已展现出超越国际头部模型的潜力。最后，它原生支持多模态输入，并具备出色的多智能体协作能力及双推理模式</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29021</guid>
-      <pubDate>Thu, 18 Jun 2026 09:51:00 +0000</pubDate>
+      <title>传闻 Anthropic 计划接入苹果 Digital ID 开展用户身份合规核验</title>
+      <link>https://news.aibase.com/zh/news/29036</link>
+      <description>据海外科技媒体 9to5Mac 爆料，有消息显示 Anthropic 或将采用苹果 Digital ID 数字身份证体系，用于 Claude 大模型用户的国籍、身份核验，以此满足美国 AI 出口管制相关合规要求，目前该消息暂未获得两家企业官方确认。 苹果此前已在 iPhone 钱包上线数字身份证服务，支持美国护照电子化存储，同时分区域开放电子驾照录入，除机场安检场景外，苹果有意将这套数字身份体系拓展至更多线上核验场景。 受美国模型出口管制政策影响，Anthropic 旗下 Fable 5、Mythos 5 两款大模型此前已全面暂停服务，海外用户与外籍在美用户均无法访问。若平台完成有效的身份校验</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29036</guid>
+      <pubDate>Mon, 22 Jun 2026 02:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>联想推出百应AI主机300：赋能中小企业的“算力加速器”</title>
-      <link>https://news.aibase.com/zh/news/29022</link>
-      <description>面对数字化转型浪潮，针对中小企业及“ 超级 个体”办公场景，联想近期正式推出了新款AI主机300。这款设备于6月18日正式在电商平台上线，定价为26999元，旨在通过高性能硬件与深度集成的AI平台，解决成长型业务在数据处理与内容创作中的痛点。 在硬件配置层面，联想AI主机300展现了十足的诚意。该机搭载了AMD锐龙AI Max+395处理器，配合128GB超大内存与2TB SSD固态硬盘，能够轻松应对高强度的多任务并行处理。此外，主机还配备了2.5GbE有线网卡及Wi-Fi7无线网卡，确保了复杂办公环境下的高速网络连接稳定性。 软件生态是这款产品的核心竞争力。它内置了联想百应Clow智能体协同</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29022</guid>
-      <pubDate>Thu, 18 Jun 2026 09:59:00 +0000</pubDate>
+      <title>AWS 发布 Continuum 与 Context 两项新服务，全面补齐 AI 代理安全与业务背景短板</title>
+      <link>https://news.aibase.com/zh/news/29037</link>
+      <description>在纽约举行的 AWS 峰会上，亚马逊云服务（ AWS ）宣布推出两项全新服务——AWS Continuum 与 AWS Context，旨在解决人工智能代理（AI Agent)在生产环境中部署时面临的安全风险与业务背景匮乏两大瓶颈。 其中，AWS Continuum 专注于自动化修复代码漏洞，能够针对公开及新扫描的风险进行业务影响排序，并在隔离环境中验证后自动执行补救措施;AWS Context 则通过企业数据自动构建共享知识图谱，为组织内的所有代理提供上下文感知能力，以防止智能体随意编造错误信息。 除新服务外， AWS 亦对现有生态进行了升级。针对2026年2月因 AI 编码工具引发服务中断</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29037</guid>
+      <pubDate>Mon, 22 Jun 2026 02:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>特斯拉递交Megapod商标申请，或将推出一体化模块化AI数据中心硬件</title>
+      <link>https://news.aibase.com/zh/news/29038</link>
+      <description>据海外媒体Electrek消息，特斯拉近期向美国专利商标局提交“Megapod”商标申请，文件信息显示品牌对应产品为模块化AI数据中心整套硬件系统，距离特斯拉关停自研AI超算Dojo还不到一年。 本次商标属于意图使用类型，代表特斯拉为未发布新品预留名称。商标文件详细标注产品范围，这套设备是整合服务器、AI专用运算硬件、网络设备、供电、冷却模块的一体化机柜，面向AI训练与推理算力场景，同时配套运维监控、性能优化类软件。简单来说，Megapod是成套可直接落地的AI算力模组，并非单一芯片或零部件。 该赛道目前由英伟达占据主导，旗下DGX SuperPOD、GB200 NVL72 液冷机柜是行业主流</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29038</guid>
+      <pubDate>Mon, 22 Jun 2026 02:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>阿福号召“科学减重1亿斤”，专家:减重难在坚持，AI能搭把手</title>
+      <link>https://news.aibase.com/zh/news/29039</link>
+      <description>“国家喊你减肥了!”别以为这只是网络调侃。 数据显示，当前我国成人超重率为34.3%、肥胖率16.4%，合起来超过50%，相当于每两名成年人就有一人体重亮“黄灯”。为此，国家卫健委等16部门于2024年联合启动“体重管理年”，今年正是收官之年。 为响应号召，6月22日，全国 最大 的健康AI应用“蚂蚁阿福”发起“科学减重1亿斤”健康行动，希望帮用户科学管理体重，守护健康。 “1亿斤”怎么减，阿福打算这么干 一、 补贴智能硬件。许多家庭尚未配备体脂秤，阿福将集中采购，以“地板价”供应给用户。因为只有了解自己的体脂率、肌肉率等身体数据，才能科学管理体重。 二、 升级AI功能，当“AI私教”。连接智</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29039</guid>
+      <pubDate>Mon, 22 Jun 2026 02:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI领军人物“大迁徙”：诺奖得主John Jumper告别DeepMind，转投Anthropic</title>
+      <link>https://news.aibase.com/zh/news/29040</link>
+      <description>人工智能领域的人才流动正进入一个前所未有的活跃期。6月20日，人工智能科研界的重磅人物—— John Jumper 正式宣布，在效力九年之后，他将辞去在 Google DeepMind 的职务，转而加入 Anthropic 。 作为结构生物学与AI融合领域的领军者，Jumper在科研界享有 极高 的声誉。他与 Demis Hassabis 共同开发了AlphaFold模型，该成果彻底重塑了蛋白质结构预测的科研范式，并因此荣获2024年诺贝尔化学奖。Hassabis在回应中对Jumper在过去九年间的非凡伙伴关系表示感谢，并肯定了AlphaFold对世界的深远改变。 此次人事变动之所以引发高度关</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29040</guid>
+      <pubDate>Mon, 22 Jun 2026 02:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>​三星电子全球推广 ChatGPT 与 Codex，助力员工提升工作效率</title>
+      <link>https://news.aibase.com/zh/news/29041</link>
+      <description>三星电子近日宣布将在全球范围内向员工推出 ChatGPT Enterprise 和 Codex，这一举措标志着 OpenAI 在企业 AI 领域的一次重大推广。根据协议，所有韩国的三星电子员工以及全球设备体验（DX）部门的员工均可使用这两款先进的 AI 工具。 三星电子计划将 ChatGPT 和 Codex 应用于多个业务环节，涵盖研发、制造、市场营销及其他企业职能，以提升员工的生产力和问题解决能力。ChatGPT 的推出，将帮助员工更高效地完成信息检索、分析、文档撰写、创意发展以及数据解读等知识型工作。ChatGPT Enterprise 具备企业级的功能，确保组织在安全和有效地使用 AI </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29041</guid>
+      <pubDate>Mon, 22 Jun 2026 02:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Midjourney跨界大动作：布局人体扫描，打造“Spa”式健康体验</title>
+      <link>https://news.aibase.com/zh/news/29042</link>
+      <description>人工智能绘画领域的领军者Midjourney，近期正将其业务版图从数字艺术领域拓展至医疗影像扫描。公司披露了一项极具前瞻性的身体扫描方案，旨在通过超声感知技术与大规模数据采集，在一分钟内为用户生成高精度的人体三维影像。 据了解，这一概念系统计划在环形扫描舱内配置高达50万枚微型超声传感器，每枚传感器的尺寸仅如沙粒般大小。通过多角度同时采集体内数据，该设备能够从四面八方照射人体，并将海量信号拼接重构成完整的内部影像。Midjourney宣称，该系统旨在提供接近MRI（核磁共振成像）的临床成像效果，但同时能为用户带来更加舒适、无压力的体验。 为了优化用户感受，Midjourney设想将扫描环境打造</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29042</guid>
+      <pubDate>Mon, 22 Jun 2026 02:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>微信灰度上线原生AI助手，大模型全面激活国民级应用生态</title>
+      <link>https://news.aibase.com/zh/news/29043</link>
+      <description>近日， 腾讯旗下国民级社交软件微信低调上线了原生AI助手“小微”的限量灰度测试。部分获得内测资格的用户发现，微信主界面左上角已出现专属的“小微”图标，点击即可进入类似于标准聊天界面的AI交互窗口。 据腾讯客服官方回应，该功能为微信团队在小范围内测的原生AI服务，支持用户通过文字或语音对话直接操纵微信的原生功能并调起小程序，涵盖了帮好友发送消息、查询朋友圈以及预约服务等多元化应用场景。 作为微信生态内首个真正意义上的原生AI助理，“小微”的灰度上线标志着腾讯在AI大模型向超大型应用落地方面迈出了关键一步。不同于过往通过公众号或第三方小程序接入的AI工具，“小微”拥有更高的系统级权限与生态融合度，</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29043</guid>
+      <pubDate>Mon, 22 Jun 2026 02:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>​三星电子全球推广 ChatGPT 与 Codex，助力员工提升工作效率</title>
+      <link>https://news.aibase.com/zh/news/29044</link>
+      <description>三星电子近日宣布将在全球范围内向员工推出 ChatGPT Enterprise 和 Codex，这一举措标志着 OpenAI 在企业 AI 领域的一次重大推广。根据协议，所有韩国的三星电子员工以及全球设备体验（DX）部门的员工均可使用这两款先进的 AI 工具。 三星电子计划将 ChatGPT 和 Codex 应用于多个业务环节，涵盖研发、制造、市场营销及其他企业职能，以提升员工的生产力和问题解决能力。ChatGPT 的推出，将帮助员工更高效地完成信息检索、分析、文档撰写、创意发展以及数据解读等知识型工作。ChatGPT Enterprise 具备企业级的功能，确保组织在安全和有效地使用 AI </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29044</guid>
+      <pubDate>Mon, 22 Jun 2026 02:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>​亚马逊向外部出售自研 Trainium 芯片，AI 算市场前景广阔</title>
+      <link>https://news.aibase.com/zh/news/29045</link>
+      <description>亚马逊的人工智能（AI）主管彼得・德桑蒂斯（Peter DeSantis）在最近的一次采访中透露，亚马逊已开始就向外部公司出售其自主研发的 AI 专用芯片 Trainium 进行商谈。这些芯片目前主要通过亚马逊云服务（AWS）以云计算的形式提供给客户，外界对此举的反应颇为关注。 德桑蒂斯表示，AI 基础设施正迅速演变，亚马逊也在不断探索如何能更好地满足客户需求。他提到，亚马逊首席执行官安迪・贾西（Andy Jassy）在今年早些时候的股东信中提到，Trainium 芯片在云服务中的需求大幅增加，甚至可能会出现将整批芯片出售给第三方的情况。 据悉，亚马逊 最新 推出的 Trainium3 芯片已</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29045</guid>
+      <pubDate>Mon, 22 Jun 2026 03:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI 圈太“卷”：成本压力下，微软 Copilot 拟引入 DeepSeek 模型</title>
+      <link>https://news.aibase.com/zh/news/29046</link>
+      <description>近期，人工智能行业再次迎来重磅消息，全球科技巨头微软对其企业级 AI 战略进行了重大调整。作为其核心产品，AI Agent 系统“Copilot Cowork”已在全球范围内正式进入商用阶段。据悉，该产品表现强劲，目前已有超过半数的财富 500 强企业在预览期间完成了部署与应用。 随着业务的深度铺开，微软也正在重构其商业模式。为了满足不同规模企业的需求，Copilot Cowork 不再局限于单一的固定订阅制，而是新增了按实际使用量计费的弹性机制。这一举措的背后，反映出 AI Agent 模式在运行过程中，因频繁的模型调用而带来了显著的成本上升压力。 为了应对这一挑战，并维持在 AI 市场中的</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29046</guid>
+      <pubDate>Mon, 22 Jun 2026 03:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>打破AI围墙：刘强东宣布京东技术全球共享，“涅槃计划”赋能蓝领转型</title>
+      <link>https://news.aibase.com/zh/news/29047</link>
+      <description>6 月 21 日，在 2026 年APEC工商 领导人 中国论坛上，京东集团创始人刘强东正式宣布：即日起，京东将把旗下所有AI技术向全球各国伙伴全面开放。这一举动在业内引起了广泛关注，被视为推动人工智能技术普惠化、打破行业技术壁垒的重要信号。 在论坛现场，刘强东阐述了其开放战略的核心理念。他明确表示，企业不应成为制造技术壁垒的“筑墙者”，而应成为合作的推动者。他呼吁亚太地区乃至全球的合作伙伴，共同开展深度的AI与机器人技术协作，通过资源共享，加速智能化时代的产业升级。 除了技术层面的宏观布局，刘强东还深度剖析了AI浪潮下的人才结构转型议题。为了应对技术变革带来的就业挑战，京东内部已正式启动“涅</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29047</guid>
+      <pubDate>Mon, 22 Jun 2026 03:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>亚马逊AI算力新策略：自研Trainium芯片或将开启“现货”出售</title>
+      <link>https://news.aibase.com/zh/news/29048</link>
+      <description>人工智能算力市场的竞争正在进入全新的博弈阶段。近日， 亚马逊 AI主管彼得·德桑蒂斯（Peter DeSantis）在巴黎接受采访时透露，公司正就向外部企业直接出售自研的Trainium系列AI ASIC实体芯片进行深度商谈。这意味着，长期以来仅通过云服务形式提供给客户的算力资源，未来有望以硬件产品的形式走入更多企业的自建数据中心。 Trainium作为亚马逊自主研发的AI专用芯片，在过去一段时间里一直通过其云计算平台提供给外部开发者使用。随着全球AI算力需求的爆发式增长，这类芯片在云端的访问需求几乎呈现出井喷状态。事实上，据此前亚马逊首席执行官安迪·贾西（Andy Jassy）在今年 4 月</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29048</guid>
+      <pubDate>Mon, 22 Jun 2026 03:25:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
