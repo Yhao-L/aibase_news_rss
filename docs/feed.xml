@@ -8,258 +8,251 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 23 Jun 2026 03:32:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 03:33:19 +0000</lastBuildDate>
     <item>
-      <title>挪威宣布出台限制政策:原则上禁止6至13岁小学生使用生成式AI</title>
-      <link>https://news.aibase.com/zh/news/29049</link>
-      <description>挪威首相斯特勒近日宣布将对校园使用生成式人工智能（AI）工具实施分阶段限制，以防范技术对学生学习产生负面影响。根据挪威政府 最新 公布的方案，该国将全面筑牢校园AI使用的多层级防线，其中6至13岁的小学生原则上被完全禁止使用生成式AI工具。 针对14至16岁的初中生群体，政策则允许其在教师的严密监管下谨慎接触相关工具。而对于17至19岁的高中生，挪威政府则转为引导态度，要求其学习如何恰当地使用AI，以便为后续的高等教育和未来的职场环境做好准备。 这一政策的出台，反映出全球教育界在面对生成式AI浪潮时日益理性的治理审视。随着以大语言模型为代表的生成式AI深度渗透到日常学习中，如何平衡技术带来的便</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29049</guid>
-      <pubDate>Mon, 22 Jun 2026 05:57:00 +0000</pubDate>
+      <title>首个高考志愿AI测评发布:千问多项表现超过人类志愿咨询师</title>
+      <link>https://news.aibase.com/zh/news/29086</link>
+      <description>6月23日，国内首个针对高考志愿填报场景的AI能力测评报告《高考志愿AI测评基准》发布。该报告由友松实验室独立完成，以千问高考志愿填报Agent作为测评对象。结果显示，千问多项表现已达到人类志愿咨询师水平，在稳定性、精确性、结构化表达与效率层面更具优势。 友松实验室是一个专注人工智能与教育决策研究的独立研究团队，长期关注大模型能力评估、教育场景中的 AI 应用，以及学生升学选择中的信息、认知与决策问题，研究成果被多所高校、科研机构采用。此次发布的测评基准，旨在为快速涌现的高考志愿AI产品建立一套公开、可复现、可扩展的评估框架，明确AI在当前阶段能够承担的任务边界。 考虑到千问高考Agent基于</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29086</guid>
+      <pubDate>Tue, 23 Jun 2026 03:49:00 +0000</pubDate>
     </item>
     <item>
-      <title>苹果与LM Studio达成突破性合作：四台Mac Studio成功运行万亿参数大模型</title>
-      <link>https://news.aibase.com/zh/news/29050</link>
-      <description>在近期举办的WWDC（全球开发者大会）期间，人工智能软件平台LM Studio与苹果公司联手展示了一项极具技术冲击力的成果：通过四台Mac Studio构建的集群，成功运行了月之暗面（Moonshot AI）旗下的旗舰模型Kimi K2.6。这一演示向外界展示了Apple Silicon架构在处理超大规模AI模型方面的巨大潜力。 Kimi K2. 6 模型采用了先进的MoE（混合专家）架构，其总参数量高达一万亿。虽然得益于动态专家调度机制，模型在推理时仅需激活约 320 亿参数，计算压力得到了显著缓解，但要加载整个模型的完整权重，依然面临着严苛的显存考验——按FP16 精度计算，至少需要约2T</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29050</guid>
-      <pubDate>Mon, 22 Jun 2026 06:06:00 +0000</pubDate>
+      <title>火山引擎发布豆包Seedance2.5视频模型，方舟大模型服务用户超110万</title>
+      <link>https://news.aibase.com/zh/news/29087</link>
+      <description>在AI全面迈向多模态与Agent时代的关键节点，火山引擎于2026年6月23日的夏季FORCE原动力大会上交出全新答卷。会上，火山引擎 首次 亮相了 最新 的豆包视频生成模型Seedance2.5，并宣布其将于7月正式上线。 该模型实现了30秒单段原生视频直出、支持多达50个全模态素材联合生成以及保持画面一致性的局部编辑等三大核心能力突破。火山引擎总裁谭待指出，视频生成是通往世界模型的关键路径，Seedance2.5目前已在具身智能、工业制造、智能驾驶等实体产业落地，为场景仿真与数据合成提供全新的工业级工具。 与此同时，火山引擎全面巩固其多模态领先优势，展示了具备交互式精准编辑与可编辑分层设计</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29087</guid>
+      <pubDate>Tue, 23 Jun 2026 05:44:00 +0000</pubDate>
     </item>
     <item>
-      <title>Meta前高管：AI时代别做十年规划，把握这两件事就够了</title>
-      <link>https://news.aibase.com/zh/news/29051</link>
-      <description>当今就业市场正经历AI技术的深度冲击，大批热门职位的未来充满不确定性。在这样的历史节点上，Meta前首席运营官谢丽尔·桑德伯格走上了布兰代斯大学的毕业典礼演讲台，为即将踏入社会的年轻人送上了一番振聋发聩的忠告。 放弃"规划人生"的执念 桑德伯格开门见山地告诉毕业生：不必制定十年规划。她认为，在AI技术正以前所未有的速度重塑职场格局的当下，今天人们趋之若鹜的热门岗位，短短数年后可能面目全非，甚至彻底消失。试图提前规划一条笔直的人生轨迹，不仅徒劳，甚至可能让人错过那些真正改写命运的宝贵机遇。 她给出的替代方案简洁有力：只需做好两件事——找准短期方向，明确眼下为之奋斗的目标；同时心怀长远理想，想清楚</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29051</guid>
-      <pubDate>Mon, 22 Jun 2026 06:11:00 +0000</pubDate>
+      <title>字节跳动梁汝波定调：全面转向大模型，从“流量变现”到“硬核技术”</title>
+      <link>https://news.aibase.com/zh/news/29088</link>
+      <description>在 2026 年火山引擎Force原动力大会上，字节跳动释放了明确的信号：公司战略重心已发生实质性偏移。CEO梁汝波将今年的年度关键词定为“勇攀高峰”，其核心路径就是聚焦大模型能力的底层提升，并明确将火山引擎的PaaS业务列为公司基础业务，长期坚定地投入MaaS（模型即服务）领域。 数据显示，字节跳动在模型调用量上增长迅猛。截至 2026 年 6 月，旗下 豆包大模型 的日均tokens调用量已达到 180 万亿，较发布初期增长超 1500 倍，过去一年增幅也超过了 10 倍。然而，在庞大的流量数据背后，商业模式的重塑正迫在眉睫。此前有消息指出，豆包应用虽拥有每天超 2 亿的日活，但主要收入仍</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29088</guid>
+      <pubDate>Tue, 23 Jun 2026 05:49:00 +0000</pubDate>
     </item>
     <item>
-      <title>小米开源全屋智能AI方案Miloco 2.0：让家"能记忆、会识人、懂执行"</title>
-      <link>https://news.aibase.com/zh/news/29052</link>
-      <description>小米正式发布并开源了面向未来的"全屋智能AI开源方案"——Xiaomi Miloco 2.0。该方案基于小米自研MiMo大模型构建，以Agent形式接入OpenClaw框架，在交互方式、产品功能和记忆系统等方面实现了全面升级。 相比初代Miloco，2. 0 版本完成了底层逻辑重构，从传统规则触发升级为具备自主推理能力的家庭智能体。它真正开始迈向"能记忆、会识人、懂执行"的主动智能新阶段，代码已在GitHub完整开源。 四大核心能力重塑家庭智能 Miloco 2. 0 带来了通用常识、身份识别、家庭记忆和家庭任务四大核心能力。系统能够无需预设规则，自动识别危险隐患并分级预警，比如孩子玩刀具或老</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29052</guid>
-      <pubDate>Mon, 22 Jun 2026 06:25:00 +0000</pubDate>
+      <title>豆包2.1 Pro版本发布，剑指行业“生产级”巅峰</title>
+      <link>https://news.aibase.com/zh/news/29089</link>
+      <description>6 月 23 日，在 2026 年火山引擎Force大会上，豆包大模型正式亮出其 最新 旗舰版本——Doubao-Seed-2.1 Pro。此次升级标志着国产大模型在核心性能与工程化应用上迈出了关键一步。 根据现场发布的Benchmark测试数据，这一新版本展现了强悍的性能底色，在多项 权威 基准测试中，表现已能够比肩GPT-5.5、Claude Opus 4. 7 以及Gemini 3.1 Pro等全球 顶尖 模型。这不仅是参数规模的堆叠，更代表了国产AI在逻辑推理与复杂任务处理上的一次实力跃升。 火山引擎总裁谭待在介绍中特别强调了该版本带来的“生产级质变”。与早期版本相比，Doubao-S</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29089</guid>
+      <pubDate>Tue, 23 Jun 2026 06:02:00 +0000</pubDate>
     </item>
     <item>
-      <title>阿里巴巴发布HappyHorse 1.1 视频生成模型 多维度系统性升级</title>
-      <link>https://news.aibase.com/zh/news/29053</link>
-      <description>阿里巴巴发布视频生成模型 HappyHorse1.1阿里巴巴近日正式发布视频生成模型 HappyHorse1.1，这是该模型的重大版本迭代。 相较于1.0版本，HappyHorse1.1在多个核心维度实现系统性升级，包括动态表现力、主体一致性、指令遵循、视觉质感以及音频能力等方面，整体性能得到显著提升。 升级后的模型在生成视频的流畅度、人物或物体动作的自然连贯性上表现更优，能够更好地保持主体在多帧画面中的一致性，同时对用户指令的理解和执行能力更强，生成的视频画面质感更细腻真实，并增强了音频同步与表现效果，带来更具沉浸感的视听体验。 目前，HappyHorse1.1已全面接入多个平台: Happ</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29053</guid>
-      <pubDate>Mon, 22 Jun 2026 06:46:00 +0000</pubDate>
+      <title>MiniMax7月9日迎首批解禁 阿里、米哈游明确不减持</title>
+      <link>https://news.aibase.com/zh/news/29090</link>
+      <description>6月23日消息，国内通用AI企业MiniMax将于2026年7月9日迎来上市后首批限售股解禁，两大核心战略股东阿里巴巴、米哈游对外表态长期看好公司发展，承诺持续持股不减持。 本次解禁窗口市场普遍存在短期筹码波动预期，而MiniMax提前释放多重稳定信号:公司创始团队自愿设置12个月股份锁仓期，显著高于行业普遍6个月标准，本次解禁股份不含创始团队及员工持股。产业股东长期持仓承诺与创始团队超长锁仓形成协同，构建起创始人、产业资本共同长期持有的稳定股权结构。 阿里巴巴称，看好通用人工智能产业变革进程，认可MiniMax技术研发与商业化落地能力，当前AI行业进入规模化落地阶段，国内AI企业具备全球化发</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29090</guid>
+      <pubDate>Tue, 23 Jun 2026 06:27:00 +0000</pubDate>
     </item>
     <item>
-      <title>中文在线推出逍遥海外作者平台 依托自研大模型赋能网文全链路出海</title>
-      <link>https://news.aibase.com/zh/news/29054</link>
-      <description>中文在线于2025年6月正式推出面向全球创作者、聚焦英文小说创作的AI写作平台——“逍遥海外作者平台”（XIAOYAO），标志着国内成熟的“IP+AI+短剧”生态模式开始系统性向海外市场复制。 该平台依托公司自研的“逍遥大模型”，为创作者提供从构思生成、角色管理、情节续写到语言润色、逻辑修复等全链路AI辅助创作支持。具备跨语种本地化能力的逍遥大模型，能高效将中文叙事转化为符合海外读者习惯的内容，大幅提升网文出海的国际接受度。 不仅定位为生产力工具，该平台更构建了包含签约、全球分发、收益分成与推广机制在内的商业闭环，优秀作品将直接获得海外重点渠道的资源扶持。目前，中文在线已在海外短剧市场展开深度</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29054</guid>
-      <pubDate>Mon, 22 Jun 2026 06:57:00 +0000</pubDate>
+      <title>甲骨文一年裁员2. 1 万人：AI转型的账单，全球科技巨头都在付</title>
+      <link>https://news.aibase.com/zh/news/29091</link>
+      <description>云计算巨头甲骨文在 最新 年报中披露了一个惊人的数字： 2026 财年，公司员工总数从约16. 2 万人锐减至14. 1 万人，降幅高达13%，涉及裁员约2. 1 万人。这场规模空前的组织调整，折射出全球科技企业在人工智能时代面临的巨大成本压力与战略转向阵痛。 125 亿元重组账单，裁员代价远超往年 为了让这2. 1 万人离开，甲骨文付出了真金白银的代价。财报数据显示，公司在 2026 财年为此支出了18. 4 亿美元（约合 125 亿元人民币）的离职补偿及相关成本，这一数字比上一财年的3. 74 亿美元暴增近五倍。甲骨文在申报文件中坦承，裁员由管理层调整、绩效不达标、战略转向以及企业收购整合</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29091</guid>
+      <pubDate>Tue, 23 Jun 2026 06:33:00 +0000</pubDate>
     </item>
     <item>
-      <title>字节豆包灰测网约车服务，AI Agent加速重构服务入口</title>
-      <link>https://news.aibase.com/zh/news/29055</link>
-      <description>6月22日，字节跳动旗下AI智能助手 豆包APP 正式在北京、杭州两地开启网约车出行功能的灰度测试。这标志着大模型应用正加速从“虚拟对话”向“实体服务”延伸，成为大厂重构本地生活流量入口的关键布局。 在本次内测中，豆包展示了基于自然语言交互的全新出行体验。用户无需跳转或下载第三方软件，只需在 豆包 对话框内直接口述出行需求，大模型即可自动精准识别起点、终点、乘车人数及车型偏好。系统快速生成路线并完成费用预估后，用户一键确认即可派单。 据悉，该服务的底层运力由 曹操出行 独家 提供。曹操出行已全面接入豆包专属订单通道，并为接单司机提供每单2元的现金补贴。字节跳动此举采用引入生态伙伴的“轻资产”模</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29055</guid>
-      <pubDate>Mon, 22 Jun 2026 07:21:00 +0000</pubDate>
+      <title>百川智能发布M4 模型，实现“真人医生”式主动问诊</title>
+      <link>https://news.aibase.com/zh/news/29092</link>
+      <description>人工智能在医疗垂直领域的应用近日迎来重要进展。百川智能联手清华大学研究团队，正式推出新一代医疗增强大模型——Baichuan-M4。该模型凭借卓越的逻辑推理与临床知识储备，在 权威 的 HealthBench 医疗评测中表现亮眼，一举斩获 HealthBench 及其 Hard、Professional 三个子榜单的榜首位置，展现出超越 GPT-5.5的医疗专业能力。 Baichuan-M4的核心进化在于其交互模式的彻底变革。传统的 AI 辅助问诊往往处于“一问一答”的被动状态，而 Baichuan-M4则模拟了真人医生的诊疗逻辑，具备了主动追问的能力。它能够通过深度分析患者提供的信息，自主识</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29092</guid>
+      <pubDate>Tue, 23 Jun 2026 07:33:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI拿下史上最大订单：三星 12 万员工全面开启AI办公时代</title>
-      <link>https://news.aibase.com/zh/news/29056</link>
-      <description>人工智能领域近期迎来了一项标志性合作，OpenAI与科技巨头三星电子正式签署了其迄今为止 最大 规模的企业级部署协议。根据协议，三星电子将为全球范围内超过 12 万名员工开通ChatGPT企业版及Codex开发平台的使用权限，旨在通过AI技术的深度融合，重塑企业的日常办公模式与生产力效率。 此次部署涵盖了三星电子在韩国本土的全体员工，以及设备体验（DX）部门的全球团队。这 12 万名员工分布于软件开发、市场营销、产品设计及制造业等多个核心业务板块。通过接入ChatGPT和Codex，三星希望员工能够更高效地完成信息检索、复杂数据分析、文档撰写以及创意开发等任务，将原本繁琐的流程自动化，从而专注</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29056</guid>
-      <pubDate>Mon, 22 Jun 2026 07:27:00 +0000</pubDate>
+      <title>多所高校扩招超 600 人，AI和机器人专业成"新宠"：这届高考生的机会来了</title>
+      <link>https://news.aibase.com/zh/news/29093</link>
+      <description>2026 年全国各省份高考成绩正式进入集中放榜周期，各地查分通道集中在 6 月 23 日至 26 日陆续开放。考生可通过本省教育考试院官网、官方微信公众号等 权威 渠道查询成绩，上海地区考生已于当日 18 点率先查分。 双一流高校集体扩招，名额创近年新高 今年国内头部"双一流"高校纷纷亮出扩招计划，为考生释放了更多优质学位资源。其中东南大学扩招规模 最大 ，新增 600 个招生名额；西安电子科技大学紧随其后，扩招 400 人；西安交通大学新增 360 个名额。复旦大学、南京大学、兰州大学三校各自扩招 300 人，北京邮电大学新增 180 人，华南理工大学增加 150 人。此外，同济大学、南开大</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29093</guid>
+      <pubDate>Tue, 23 Jun 2026 07:47:00 +0000</pubDate>
     </item>
     <item>
-      <title>四台Mac Studio干翻云端集群！苹果联手LM Studio本地跑起万亿参数大模型</title>
-      <link>https://news.aibase.com/zh/news/29057</link>
-      <description>在刚刚落幕的WWDC2026 上，LM Studio与苹果完成了一场令人瞩目的技术演示——仅用四台Mac Studio组成的集群，就成功运行了月之暗面的万亿参数大模型Kimi K2.6。这一成果打破了"万亿模型必须依赖云端GPU集群"的固有认知，让消费级硬件承载前沿AI算力成为现实。 Kimi K2. 6 总参数规模高达 1 万亿，采用MoE架构，激活参数为 320 亿，支持长上下文、多模态输入及智能体任务处理。此次演示中，四台Mac Studio通过苹果的内存共享和互联技术组成集群，统一内存总量约达1.5TB，足以满足这一巨型模型的推理需求。此前开发者测试显示，在类似配置下Kimi K2. </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29057</guid>
-      <pubDate>Mon, 22 Jun 2026 07:32:00 +0000</pubDate>
+      <title>字节Seedance 2. 5 七月上线， 50 个素材同时输入，还能"魔改"周星驰电影</title>
+      <link>https://news.aibase.com/zh/news/29094</link>
+      <description>字节跳动旗下火山引擎今日在 2026 火山引擎FORCE原动力大会上正式公布了豆包视频生成大模型Seedance 2.5。该模型目前处于全球企业内测阶段，预计将于 7 月初正式上线，与前代产品相比在视频生成能力上实现了跨越式升级。 30 秒直出+ 50 个素材输入，生成可控性大幅提升 Seedance 2. 5 带来两大核心突破：单段原生 30 秒视频直接生成，以及同时导入最多 50 个全模态参考素材。这意味着用户可以从大量素材中提取灵感、参考风格或引导画面细节，显著增强视频生成与编辑过程中的可控性和精细化程度。过去AI生成视频往往"看运气"，而Seedance 2. 5 正朝着"用户说了算"</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29094</guid>
+      <pubDate>Tue, 23 Jun 2026 07:53:00 +0000</pubDate>
     </item>
     <item>
-      <title>资本市场新宠：智谱市值突破万亿，国产大模型迎来高光时刻</title>
-      <link>https://news.aibase.com/zh/news/29058</link>
-      <description>6 月 22 日，港股人工智能板块热度攀升，被誉为“全球大模型 第一 股”的智谱（02513.HK）在盘中表现尤为亮眼，股价一度大涨超40%， 最高 触及 2980 港元，成为港股首只股价稳居 2000 港元以上的个股。随着股价的大幅走高，公司总市值正式突破万亿港元大关，较今年 1 月上市时已累计上涨超过2000%。 这一轮大涨的背后，离不开近期大模型领域的竞逐与行业热点。此前，美国相关监管机构对Anthropic的部分旗舰模型实施了访问权限限制，导致该模型在特定区域暂时无法使用。对此，智谱迅速做出反应，于 6 月 13 日宣布旗下的开源旗舰模型GLM-5. 2 面向其所有Coding Pla</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29058</guid>
-      <pubDate>Mon, 22 Jun 2026 07:39:00 +0000</pubDate>
+      <title>火山引擎发布豆包2.1Pro:日常功能确认免费，将推专业版办公模式</title>
+      <link>https://news.aibase.com/zh/news/29095</link>
+      <description>在2026年6月23日的火山引擎FORCE原动力大会上，字节跳动旗下“豆包”大模型迎来重大升级，集中发布了 豆包大模型2.1Pro 、视频生成模型Seedance2.5及2.04K版、图像创作模型Seedream5.0Pro和音频生成模型1.0。其中，2.1Pro围绕Coding、Agent与VLM三大方向大幅升级，已在火山引擎开放API并接入扣子等生态。 针对商业化， 火山引擎 总裁谭待明确表示，豆包面向广大用户的日常基础功能（如搜索问答、写作生图、语音视频对话等）将保持免费。同时，豆包计划推出面向专业人群的“豆包专业版”办公任务模式，搭载 最新 的2.1Pro模型，提供软件开发、数据分析、</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29095</guid>
+      <pubDate>Tue, 23 Jun 2026 07:57:00 +0000</pubDate>
     </item>
     <item>
-      <title>日本豪掷 10 万亿日元押注物理AI， 17 大战略领域圈定未来产业版图</title>
-      <link>https://news.aibase.com/zh/news/29059</link>
-      <description>日本政府近日宣布一项雄心勃勃的投资蓝图：目标到 2040 财年，在 17 个战略领域撬动公私资本合计超 370 万亿日元。其中，物理AI独占10. 5 万亿日元，折合人民币约 4422 亿元，成为这一轮产业布局的核心抓手。 所谓物理AI，是指能够在现实世界环境中感知、决策并执行物理操作的智能系统。日本政府瞄准了工业自动化、无人运输、基建巡检等关键场景，试图用机器替代日渐萎缩的劳动力。面对持续加剧的人口老龄化和日益严峻的用工荒，该国正将物理AI视为破解生产力困局的 终极 答案。 值得注意的是，日本的人工智能初创企业Sakana AI已在相关领域展开探索。这些企业构成了日本抢占物理AI制高点的先锋</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29059</guid>
-      <pubDate>Mon, 22 Jun 2026 08:03:00 +0000</pubDate>
+      <title>豆包视频生成大模型 Seedance 2.5 亮相，将于 7 月初正式发布</title>
+      <link>https://news.aibase.com/zh/news/29096</link>
+      <description>在刚刚结束的2026火山引擎 FORCE 原动力大会上，视频生成大模型领域传来了重磅消息。字节跳动旗下的豆包视频生成模型 Seedance2.5正式亮相，并已启动全球企业内测，预计将于7月初正式面向市场发布。 此次升级中，Seedance2.5在多项核心指标上实现了行业跨越。最引人注目的是其视频生成长度的突破——单条视频时长 最高 可达30秒，这一数据目前稳居全球 第一 。在当前视频模型普遍受限于15至20秒创作瓶颈的背景下，Seedance2.5的表现不仅大幅提升了镜头表达的连贯性，也为长叙事短片的制作提供了可能。 在创作灵活性方面，Seedance2.5引入了极具竞争力的多模态素材处理能力</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29096</guid>
+      <pubDate>Tue, 23 Jun 2026 08:20:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI拿下史上最大企业订单！三星 12 万员工全面接入ChatGPT</title>
-      <link>https://news.aibase.com/zh/news/29061</link>
-      <description>OpenAI近日宣布与三星电子达成一项重磅合作，向三星全球超过 12 万名员工提供ChatGPT企业版及Codex开发平台。这也是OpenAI迄今为止签署的 最大 规模企业级部署合同，标志着企业AI应用正式迈入规模化时代。 根据协议，三星电子将面向韩国本土全体员工，以及设备体验（DX）部门的全球员工开放ChatGPT和Codex的使用权限。截至 2024 年底，三星电子全球员工总数约26. 2 万人，其中DX部门约5. 1 万人、DS部门约7. 8 万人。此次部署覆盖软件开发、市场营销、产品开发、制造等多个核心业务领域，旨在全面提升工作效率与问题解决能力。 从编程工具到通用平台 值得注意的是，</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29061</guid>
-      <pubDate>Mon, 22 Jun 2026 08:24:00 +0000</pubDate>
+      <title>AI萌宠“刀盾”短视频爆火变现案例：两集播放破千万，打造治愈系虚拟IP</title>
+      <link>https://news.aibase.com/zh/news/29097</link>
+      <description>赚钱思路 利用AI技术制作“刀盾”和“香蕉猫”等热门虚拟萌宠的趣味日常视频，通过搞笑空耳梗、治愈系画风和奇幻剧情吸引大量播放量，从而通过平台分成、广告接单或周边衍生进行变现。 适合人群 短视频创作者、B站UP主 AI绘画与视频生成爱好者 喜欢萌宠、擅长捕捉网络流行热梗（如“我的刀盾”）的年轻人 上手难度 ★★★☆☆（中等难度，需要掌握AI生图和视频生成工具，并具备一定的剧情编排和剪辑能力） 操作流程方法 第一 步:选定主角与网络热梗 你要在网上找到最近大家很喜欢的搞笑形象，比如把柴犬的头和仓鼠的身子拼在一起的虚拟动物“刀盾”，或者是很火的“香蕉猫”。 准备好它们标志性的叫声或网络流行语（比如“</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29097</guid>
+      <pubDate>Tue, 23 Jun 2026 08:32:00 +0000</pubDate>
     </item>
     <item>
-      <title>美团破解百万商家的视觉难题 AI 海报生成的“技术闭环”</title>
-      <link>https://news.aibase.com/zh/news/29062</link>
-      <description>在商业营销中，一张精美的海报往往是触达消费者的 第一 触点。然而，对于数百万中小商家而言，设计资源匮乏、高昂的外包费用以及突发活动时对“分钟级”交付的严苛要求，始终是一道难以跨越的门槛。传统设计流程效率低且同质化严重，AI 生成技术的出现虽提供了新思路，但如何确保生成的图片不仅“好看”，而且真正符合商业落地标准，成为了行业的一大痛点。 针对这一困境，智能创作团队通过长期探索，构建了一套覆盖“能生成、能编辑、能评判”的技术闭环体系，并已将相关核心成果全部开源于 MeiGen-AI仓库 。这一体系主要由 PosterCraft、PosterOmni 和 PosterReward 三大核心模块构成，</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29062</guid>
-      <pubDate>Mon, 22 Jun 2026 08:35:00 +0000</pubDate>
+      <title>腾讯QQ邮箱放大招：AI从此有了自己的"专属邮箱"，还能帮你谈业务</title>
+      <link>https://news.aibase.com/zh/news/29099</link>
+      <description>腾讯QQ邮箱今日正式上线专为AI智能体打造的专属邮箱服务"Agently Mail"，并同步开启内测。与传统邮箱不同，Agently Mail独立于用户的个人邮箱运行，为AI Agent提供安全隔离且具备独立身份的数字通信空间，让AI真正拥有了自己的"数字名片"。 让AI拥有独立身份，不再"借用"你的邮箱 随着AI智能体的能力不断增强，直接授权AI操作个人邮箱可能带来隐私泄露、误删邮件等风险。Agently Mail的核心解决方案是为每个Agent分配一个与用户个人邮箱完全隔离的专属地址，AI只能访问该邮箱内的内容，无法触及用户私人信件。开通该服务需完成实名认证，所有发送、回复、转发或删除等操</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29099</guid>
+      <pubDate>Tue, 23 Jun 2026 08:53:00 +0000</pubDate>
     </item>
     <item>
-      <title>拒绝“一问一答”：京东开源实时视频交互模型 JoyAI-VL-Interaction</title>
-      <link>https://news.aibase.com/zh/news/29063</link>
-      <description>在人工智能迈向实时交互的浪潮中，京东正式开源了其核心成果——实时视频视觉语言交互模型 JoyAI-VL-Interaction。作为全球首个全栈开源的交互式视觉模型，该系统不仅获得了 vLLM-Omni 的深度支持，更标志着 AI 助手正式从传统的“被动响应”转向“边看边说”的自主观察模式。 相比于过去需要等待用户提问才开始处理画面的滞后模式，JoyAI-VL-Interaction 展现出了 极高 的主动性。它具备持续观察视频流的能力，能够智能判断何时应当介入交流，何时应当保持沉默，从而在互动中提供更加自然、流畅的体验。 这种实时响应能力的提升，对于处理动态信息至关重要。传统的视频理解技术往</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29063</guid>
-      <pubDate>Mon, 22 Jun 2026 09:17:00 +0000</pubDate>
+      <title>影眸科技获数亿元新一轮融资，发布千万面级3D大模型Rodin Gen-2.5</title>
+      <link>https://news.aibase.com/zh/news/29100</link>
+      <description>3D生成大模型公司影眸科技宣布完成新一轮数亿元人民币融资，核心产品Hyper3D同步升级。 本轮融资由凯辉基金、上海国投先导领投，光源资本担任 独家 财务顾问，资金将用于3D大模型前沿探索及全球商业化拓展，加速落地游戏、电商、具身智能等垂直场景。 作为以Rodin大模型为引擎的核心产品，Hyper3D主打B端及专业C端市场，海外收入占比达80%，客户涵盖字节跳动、Unity等巨头。其生成的3D画面曾由英伟达CEO黄仁勋在CES2026上用于机器人业务展示。本次新发布的Hyper3D Rodin Gen-2.5模型，将类语言模型的“先思考、再生成”逻辑引入3D领域，具备千万面级生成能力，最快4秒</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29100</guid>
+      <pubDate>Tue, 23 Jun 2026 08:58:00 +0000</pubDate>
     </item>
     <item>
-      <title>联动全屋五大场景!英特尔携手国内科技巨头，让“AI大脑”住进千家万户</title>
-      <link>https://news.aibase.com/zh/news/29064</link>
-      <description>第四届中国国际供应链促进博览会在北京正式开幕。在链博会首发站上，英特尔联合国内多家科技头部企业，正式发布了“AI家庭大脑”解决方案，旨在共同构建全新的智能体AI家庭新生态，此举标志着端侧AI在智能家居领域的应用迎来重要突破。 据悉，该解决方案基于第三代英特尔® 酷睿™ Ultra及酷睿™ 处理器打造，核心亮点在于支持在本地高效运行“AI大脑”。相较于传统依赖云端的智能家居方案，本地化算力不仅能大幅提升隐私安全与响应速度，更能深度联动全屋设备。在实际应用中，该方案全面覆盖了健康、安全、娱乐、情感以及生活五大管家场景，实现了从单一设备控制向全场景主动服务的跨越。 此次发布会吸引了国内主流科技力量的</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29064</guid>
-      <pubDate>Mon, 22 Jun 2026 09:38:00 +0000</pubDate>
+      <title>企业微信"大圆"内测上线：左滑一下，AI就能帮你盘客户、写总结</title>
+      <link>https://news.aibase.com/zh/news/29101</link>
+      <description>继微信个人版AI Agent"小微"开启内测后，企业微信也于今日正式启动了代号为"大圆"的AI Agent内测。这款产品定位为"长在企业微信工作流里"的AI助理，旨在基于企业微信内已有的群聊、文档、会议、邮件、日程等工作数据，自动理解用户诉求并结合对应场景给出回复。 左滑唤起，像聊天一样用AI 在交互方式上，"大圆"深度嵌入了企业微信的日常操作流程。用户在移动端只需向左轻滑界面即可唤起该功能，系统能够智能识别用户当前所在界面及所提问题。群聊消息太多时，左滑问一句"群里在讨论什么"，AI就会自动总结；收到复杂数据报表时，同样左滑让AI提炼数据结论。在移动端，"大圆"支持从消息页、对话框等多个入口</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29101</guid>
+      <pubDate>Tue, 23 Jun 2026 09:56:00 +0000</pubDate>
     </item>
     <item>
-      <title>前商汤科技高管创立的流形空间融资近 10 亿元，跃升为世界模型独角兽！</title>
-      <link>https://news.aibase.com/zh/news/29065</link>
-      <description>在科技创新的浪潮中，前商汤科技高管武伟博士所创立的流形空间（ManifoldAI）近日宣布完成了一轮数亿元人民币的融资。这一融资的参与者包括中国国新旗下的国新基金、淡马锡旗下的毅峰资本、北汽产业投资以及芯能创投，此外，四家老股东也对公司进行了超额追加投资。值得一提的是，流形空间成立仅一年，便已成功完成六轮融资，累计融资金额接近 10 亿元，迅速跻身世界模型领域的独角兽行列。 流形空间专注于世界模型的研究，武伟博士作为该领域的专家，曾带领团队在国际 著名 的 Waymo SimAgents 挑战赛中连续两年夺冠，展现了其在人工智能和模拟技术方面的卓越实力。这一融资不仅为流形空间的未来发展注入了新</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29065</guid>
-      <pubDate>Mon, 22 Jun 2026 09:59:00 +0000</pubDate>
+      <title>AIGC重构国民神话：华策影视开启《西游记》精品中剧制作新篇章</title>
+      <link>https://news.aibase.com/zh/news/29102</link>
+      <description>在人工智能生成内容（AIGC）技术全面渗透内容产业的背景下，传统影视巨头正加速探索技术与IP的深度融合。6月23日， 华策影视 正式披露了其在重大IP项目上的 最新 进展，其中国民级神话IP《西游记》的数字化焕新尤为引人注目。 华策影视集团制片人胡奋在发布会上揭晓了这一重磅项目。据介绍，该系列首作定名为《消失的500年》，这是一部完全定位为AIGC精品中剧的动画作品。剧集规模规划为6集，每集时长约15分钟，核心叙事视角聚焦于孙悟空被压在五指山下的那段被“留白”的五百年时光。这一切入点既是对经典原著的深层挖掘，也通过AIGC技术为传统故事注入了全新的视觉想象空间。 目前，该项目已全面进入制作阶段</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29102</guid>
+      <pubDate>Wed, 24 Jun 2026 00:51:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI发起“修补地球”计划：携手安全专家为开源世界“除隐患”</title>
-      <link>https://news.aibase.com/zh/news/29066</link>
-      <description>在开源软件已成为全球数字经济“基石”的当下，这一高度分散的生态系统却面临着监管薄弱与安全漏洞的严峻挑战。近日，OpenAI 正式宣布启动名为“Patch the Planet”（修补地球）的全新计划，旨在通过 AI 技术赋能，协助开源社区精准发现并高效修复代码中的安全隐患。 这一计划的名称巧妙致敬了1995年经典黑客题材电影《黑客》中的台词“Hack the Planet”。为了确保技术落地的专业性，OpenAI 选择了与知名安全公司 Trail of Bits 深度合作。在该机制中，Trail of Bits 的安全工程师将充当“代码急救员”的角色，直接与开源项目维护者建立对接，对潜在的代码</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29066</guid>
-      <pubDate>Tue, 23 Jun 2026 00:51:00 +0000</pubDate>
+      <title>OpenAI 发布 GPT-5.5-Cyber，漏洞修补迈向“自动化”</title>
+      <link>https://news.aibase.com/zh/news/29103</link>
+      <description>在网络安全攻防的无声战场上，AI 的角色正在发生质变。6月23日，OpenAI 宣布升级其“Daybreak”网络安全计划，推出专为安全研究员和防御者打造的全新 AI 模型——GPT-5.5-Cyber。这一模型的问世，标志着 AI 不仅具备了“发现漏洞”的敏锐嗅觉，更掌握了“一键修补”的实战能力。 根据 最新 的技术基准测试，GPT-5.5-Cyber 在多个核心赛道均展现出统治力。在衡量漏洞挖掘能力的 CyberGym 测试中，该模型以85.6% 的得分力压群雄，成功超越了 Claude Mythos5（83.8%）及标准版 GPT-5.5(81.8%)，助力 OpenAI 重夺该领域榜首</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29103</guid>
+      <pubDate>Wed, 24 Jun 2026 00:54:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI启动"修补地球"计划：用AI给开源代码"打疫苗"</title>
-      <link>https://news.aibase.com/zh/news/29067</link>
-      <description>OpenAI近日宣布推出一项名为"修补地球"的全新计划，旨在借助人工智能力量帮助开源社区提升网络安全防护能力。这项计划名称化用了 1995 年经典电影《黑客》中的标志性台词"入侵地球"，从戏谑到务实，标志着OpenAI开始主动扮演开源生态的"守护者"角色。 AI安全工具+人工核验，给开源维护者减负 OpenAI将与网络安全公司Trail of Bits展开深度合作。Trail of Bits的安全技术人员会直接对接开源项目维护者，排查代码中潜藏的各类风险问题，同时搭配OpenAI自研的Codex Security等安全工具开展辅助检测。 OpenAI表示，如今多数开源维护者人手和时间资源十分有</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29067</guid>
-      <pubDate>Tue, 23 Jun 2026 00:56:00 +0000</pubDate>
+      <title>研究实锤：游戏公开用AI，玩家评测量直接腰斩</title>
+      <link>https://news.aibase.com/zh/news/29104</link>
+      <description>市场数据分析平台Game Oracle近日发布了一项覆盖 9879 款游戏的调研报告，为"AI是否损害游戏口碑"这一争论提供了硬核数据。该研究统计了 2025 年 1 月至 10 月上线的游戏，在剔除垃圾游戏和换皮作品后，发现约17.9%的作品主动公开了AI使用情况。 数据结果毫不留情。报告在控制发行商、团队经验、游戏品类等变量后发现，公开使用AI开发的游戏，玩家评测总量相比纯人工开发作品减少了约53%。这意味着一旦玩家得知游戏"含AI量"较高，参与评价的兴趣会显著下降，AI负面标签对游戏商业反馈的杀伤力远超想象。 AI偏见"杀熟"：优质游戏反受其害 令人意外的是，这种负面效应在规模更大、资历</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29104</guid>
+      <pubDate>Wed, 24 Jun 2026 00:57:00 +0000</pubDate>
     </item>
     <item>
-      <title>亚马逊的“双标”算盘：在 ChatGPT 投广告引流，却严防 AI 抓取数据</title>
-      <link>https://news.aibase.com/zh/news/29068</link>
-      <description>在人工智能浪潮席卷零售行业的当下，亚马逊正采取一种颇具策略性的“双标”姿态:一方面积极向 ChatGPT 的庞大用户群示好，通过投放广告精准获客;另一方面则筑起高墙，严防各类 AI 系统采集其核心商品数据。 近期，多位行业分析师指出，亚马逊已正式入驻 OpenAI 的广告体系，成为在该领域布局最深入的零售巨头之一。当用户在 ChatGPT 中进行与购物需求相关的咨询时，系统会根据其意图推送亚马逊的付费推广内容。这些广告直接链接至亚马逊的店铺页面，确保了消费者从触达、浏览到下单的完整交易流程，完全处于亚马逊的管控之下。 这一举措被业内视为亚马逊 AI 战略的重要转折。长期以来，这家电商巨头对各类</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29068</guid>
-      <pubDate>Tue, 23 Jun 2026 00:56:00 +0000</pubDate>
+      <title>苹果"堵后门"：macOS 27 Beta2 封杀跳过Siri AI候补名单的捷径</title>
+      <link>https://news.aibase.com/zh/news/29105</link>
+      <description>在上周发布的macOS 27 Beta2 更新中，苹果封堵了一条曾在开发者社区疯传的终端命令。此前在Beta1 版本中，用户只需在Mac终端输入一段特定命令，就能绕过官方候补名单，直接解锁新版Siri AI的完整功能。如今这条捷径已被彻底关闭，想要尝鲜的用户只能乖乖排队等待。 绕过封堵，网友又发现"曲线救国"新招 虽然官方捷径已死，但网友在Reddit社区又挖掘出另一种可能减少等待的替代方案。该方法需要用户先在iOS27 或macOS27 的 最新 Beta版本中，使用图乐园生成几张图片，随后点击右上角的"更多"按钮，选择"图像有问题"提交反馈。多次提交后返回"设置&gt;Siri"，系统可能会提前</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29105</guid>
+      <pubDate>Wed, 24 Jun 2026 01:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>智谱GLM-5. 5 蓄势待发：有望 8 月追赶全球顶尖大模型</title>
-      <link>https://news.aibase.com/zh/news/29069</link>
-      <description>近日，市场传出重磅消息， 智谱 计划于今年8月正式发布新一代基座大模型——GLM-5.5。据悉，这款模型将实现架构上的重大跨越，参数量有望突破1万亿大关。 此次升级的背景，源于近期国际大模型格局的剧烈变动。此前，美国相关机构对Anthropic旗下的Fable5和Mythos5两款 顶尖 大模型实施了访问限制，导致这两款长期占据全球榜单首位的模型暂时无法被广泛调用。在这一背景下，智谱迅速推出了基于GLM-5.0架构升级而来的GLM-5.2版本，并将其全面开源给开发者社区。 GLM-5.2凭借出色的性能表现，迅速在各大AI技术榜单中占据高位。数据显示，该模型不仅位居开源SOTA（State of</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29069</guid>
-      <pubDate>Tue, 23 Jun 2026 01:00:00 +0000</pubDate>
+      <title>起价299美元，Meta发布新一代AI眼镜:26款定制风格与多模态能力升级</title>
+      <link>https://news.aibase.com/zh/news/29106</link>
+      <description>6月23日，Meta宣布与全球眼镜巨头依视路陆逊梯卡（EssilorLuxottica）再度达成深度合作，正式推出全新智能眼镜系列——Meta Glasses。作为Meta 首款 自面世即原生搭载Muse Spark多模态大模型的AI硬件，该产品的发布标志着全天候端侧AI助手在形态与能力上迎来重要升级。 本次发布的Meta Glasses系列起售价为299美元，首发推出Meta Adventurer（标准版与大号版）、Meta Fury以及由Kylie Jenner参与设计的纤细椭圆款等三种镜框款式，并提供涵盖多种颜色、镜片与镜框的26种组合，全面支持近视镜片配置。 在核心配置与功能上，该系列</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29106</guid>
+      <pubDate>Wed, 24 Jun 2026 01:04:00 +0000</pubDate>
     </item>
     <item>
-      <title>谷歌DeepMind斥资7500万美元签约A24，联手研发好莱坞电影制作AI工具</title>
-      <link>https://news.aibase.com/zh/news/29070</link>
-      <description>谷歌旗下AI实验室DeepMind周一宣布与知名独立电影公司A24达成一项总额达7500万美元的“ 史无前例 ”战略合作协议，双方将共同开发用于电影制作的人工智能工具，此举标志着科技巨头正加速将前沿AI技术推向好莱坞核心创作流。通过此次投资，DeepMind不仅能深度参与影视创作工具的研发，还将直接获得来自行业 顶尖 艺术家的反馈与专业指导。 作为曾出品《万物皆有尽头》（Everything Everywhere All At Once）、《马蒂 至尊 》(Marty Supreme)以及 最新 大片《幕后》(Backrooms)等热门影片的行业 领袖 ，A24近期与蒂莫西·柴勒梅德、安妮·海</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29070</guid>
-      <pubDate>Tue, 23 Jun 2026 01:04:00 +0000</pubDate>
+      <title>资本再次加码：影眸科技完成数亿元融资，抢滩3D生成大模型赛道</title>
+      <link>https://news.aibase.com/zh/news/29107</link>
+      <description>在生成式 AI 技术日益深入各个应用场景的当下，3D 内容生产正成为新的价值高地。近日，专注于 3D 生成大模型的 影眸科技 正式宣布完成新一轮数亿元人民币融资。 此次融资由凯辉基金与上海国投先导共同领投，此前在公司发展过程中给予支持的老股东们也悉数跟投。光源资本在本次交易中担任了 独家 财务顾问。回顾影眸科技的发展历程，其技术潜力早已受到资本市场的广泛关注，此前便吸引了字节跳动、美团龙珠、红杉中国及蓝驰创投等一众头部投资机构的竞相布局。 随着本轮融资的注入，影眸科技在技术迭代与市场拓展层面有望按下“加速键”。据悉，该公司近期推出了千万面级的 3D 大模型 Rodin Gen-2.5，这一突破</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29107</guid>
+      <pubDate>Wed, 24 Jun 2026 01:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>快手系AI芯片公司「凌川科技」获数亿元A+轮融资，SL200芯片销量近十万颗</title>
-      <link>https://news.aibase.com/zh/news/29071</link>
-      <description>AI芯片初创企业「凌川科技」近日宣布完成数亿元A+轮融资，本轮由啟赋资本领投，百度风投、新国都、金浦投资等机构及产业基金跟投，资金将主要用于下一代芯片研发、现有产品SL200的量产扩产及海外市场拓展 。 作为一家专注于智能视频与生成式视频等多模态大模型底层算力的硬件基础软件公司，凌川科技成立于2024年3月，由北京市人工智能基金与快手集团共同发起设立，前身为快手异构计算与芯片事业部。依托创始人刘凌志博士及来自主流芯片与互联网企业的核心团队，公司实现了从互联网大厂自研团队向独立商业化中坚力量的成功蜕变。 针对大模型由文本向视频演进带来的显存与带宽瓶颈，凌川科技深度融入RISC-V生态，推出了创新</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29071</guid>
-      <pubDate>Tue, 23 Jun 2026 01:06:00 +0000</pubDate>
+      <title>把 AI 变成全职同事:Anthropic 推出“始终在线”的协同实体 Claude Tag</title>
+      <link>https://news.aibase.com/zh/news/29108</link>
+      <description>人工智能初创公司 Anthropic 宣布推出全新企业级 AI 工具 Claude Tag，标志着其在协同办公自动化领域的进一步深化。作为一款“始终在线”的 AI 队友，Claude Tag 深度集成于 Slack 平台，允许企业用户直接在聊天中通过 @Claude 进行互动、获取洞察或分配任务。目前，该功能的测试版已率先向 Claude Enterprise 和 Claude Team 的企业客户开放。 相较于此前支持私信及代码路由的现有集成功能（如网页端联动的 Claude Code），Claude Tag 实现了核心技术跨越，注入了以往工具所欠缺的持久上下文与记忆层。在实际应用中，该工具</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29108</guid>
+      <pubDate>Wed, 24 Jun 2026 01:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>执掌xAI算力遗产，SpaceX凭63亿美元超级订单成为开源AI核心推手</title>
-      <link>https://news.aibase.com/zh/news/29072</link>
-      <description>开源AI实验室Reflection AI与SpaceX达成算力租赁协议，全力加速前沿开放权重模型研发。 根据双方约定，Reflection AI将从2026年7月1日起至2029年，每月支付1.5亿美元，以获得SpaceX位于田纳西州孟菲斯附近Colossus2数据中心的即时访问权，用于调用英伟达 最新 的GB300AI芯片及配套硬件。该协议总价值高达63亿美元，双方均可在前三个月结束后提前90天通知对方终止合同。 随着原属于xAI的Colossus数据中心并入SpaceX，且其内部研发进展放缓，SpaceX正加速将宝贵的AI芯片储备变现，此前已分别与Anthropic和谷歌达成了每月12.5</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29072</guid>
-      <pubDate>Tue, 23 Jun 2026 01:10:00 +0000</pubDate>
+      <title>维基百科创始人对AI说"不"：幻觉问题仍然严重，编辑工作还得人来干</title>
+      <link>https://news.aibase.com/zh/news/29109</link>
+      <description>维基百科联合创始人吉米·威尔士近日明确表示，目前的人工智能尚不足以被信任直接参与平台上的词条编辑。他直言，尽管新一代AI模型在减少"幻觉"问题上有所进步，但AI看似自信地输出虚假信息的现象依然"非常、非常严重"，因此维基百科不会让AI直接参与编辑工作。 AI可以当"闹钟"，但不能当"编辑" 威尔士补充道，AI智能体并非毫无用武之地。它可以发挥提醒功能，帮助由数百万人类编辑组成的维基百科社区，关注那些原本容易被遗漏的小众新闻。但在核心的内容编辑环节，人类仍是 唯一 被信任的主体。威尔士强调："我们不会让它直接参与编辑，因为你确实无法完全信任它。" 人类访问量下降8%，但维基百科不依赖流量生存 与</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29109</guid>
+      <pubDate>Wed, 24 Jun 2026 01:09:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI训练边界再引发议:Meta因数据安全事故叫停内部员工监控计划</title>
-      <link>https://news.aibase.com/zh/news/29073</link>
-      <description>Meta公司已于6月23日紧急暂停了一项名为“模型能力计划（MCI）”的AI训练项目。该项目此前通过记录公司内部员工的键盘敲击数据与鼠标操作轨迹来训练AI模型，但由于近期发生了一起严重的内部数据泄露事故，Meta官方被迫叫停该程序。 据悉，这起事故导致通过该计划收集的大量高度敏感信息——包括员工的私人对话、工作绩效数据以及语音转文字记录，被意外开放给了Meta全体员工查阅。尽管在此之前，该项目因让员工处于近乎全天候的监控之下，且涉嫌违反隐私法规而引发了广泛的内部不满，但Meta此次采取紧急行动的直接导火索仍是数据安全屏障的溃败。 Meta公司发言人对此回应称，官方在设计该程序时已配套搭建了隐私</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29073</guid>
-      <pubDate>Tue, 23 Jun 2026 01:24:00 +0000</pubDate>
+      <title>豆包正式上线三档付费订阅服务:最高500元/月，整体接入2.1系列大模型</title>
+      <link>https://news.aibase.com/zh/news/29110</link>
+      <description>6月24日，字节跳动旗下AI助手豆包正式上线三档付费订阅服务，标志着国内头部大模型应用正式开启商业化变现进程。此次推出的付费版分为标准版68元/月、加强版200元/月、 高级 版500元/月，整体接入了全新升级的豆包2.1系列大模型，在模型性能显著提升的同时，免费用户日常使用将不受影响。 在定价策略上，豆包专业版相较于全球主流AI服务展现出明显的本土价格优势。对比海外市场，ChatGPT Plus、Claude Pro及Gemini Advanced的月费普遍在20美元（约135元人民币）左右，而豆包标准版仅需68元，价格近乎折半; 在顶配版本上，ChatGPT Pro包年费用约合人民币162</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29110</guid>
+      <pubDate>Wed, 24 Jun 2026 01:09:00 +0000</pubDate>
     </item>
     <item>
-      <title>从文本摘要到知识网格:谷歌 NotebookLM 新功能将重塑学术与深度阅读工作流</title>
-      <link>https://news.aibase.com/zh/news/29074</link>
-      <description>谷歌近日正秘密测试为其智能笔记应用 NotebookLM 注入一项全新工件功能——“文献综述（Lit Review）”矩阵工具。这一动作标志着 NotebookLM 的核心功能正从传统的散文式报告输出，向高度结构化的多维比较表格演进。 该工具旨在通过一键操作，将用户上传的大规模密集型文献自动梳理并映射为包含主题、论点及方法论的对比网格，为学术研究、复杂长文本分析以及跨多卷本的巨幅内容体系构建提供图形化图谱。 此次产品升级折射出谷歌加码专业知识工作流的战略意图。本月，谷歌已将 NotebookLM 底层模型升级至 Gemini3.5版本，并同步推出了智能研究、代码运行笔记本以及更多元的可下载输出</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29074</guid>
-      <pubDate>Tue, 23 Jun 2026 01:27:00 +0000</pubDate>
+      <title>AI 邮件服务商 Superhuman 宣布收购 AI 检测初创公司 GPTZero</title>
+      <link>https://news.aibase.com/zh/news/29111</link>
+      <description>人工智能电子邮件服务商 Superhuman 宣布收购成立三年的 AI 检测初创公司 GPTZero 。此次收购旨在强化 Superhuman 平台内置的 AI 检测工具，通过技术整合帮助用户检测并抵御 AI 生成的低劣代码，并辅助用户调整文本使其更具人类写作特征。 GPTZero 最初由普林斯顿大学毕业生 Edward Tian 的毕业论文项目发展而来，并由其与首席技术官 Alex Cui 共同创立。尽管本次交易的具体条款未予披露，但据悉 GPTZero 此前已积累了超过1900万注册用户，年度经常性收入（ARR）达3000万美元，且在2024年就已实现盈利。在发展历程中，该初创公司总计获得</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29111</guid>
+      <pubDate>Wed, 24 Jun 2026 01:10:00 +0000</pubDate>
     </item>
     <item>
-      <title>谷歌DeepMind7500 万美元牵手A24：AI正式进军好莱坞独立电影圈</title>
-      <link>https://news.aibase.com/zh/news/29075</link>
-      <description>谷歌DeepMind近日宣布向知名独立电影制片公司A24 注资 7500 万美元，双方将联合研发影视制作人工智能工具。这一合作被DeepMind定义为"业内首创"的模式：科技巨头与 顶尖 创作者从项目初期便直接协作，共同打造赋能创作者的新型AI功能。 A24 是近年来好莱坞最具影响力的独立制片公司之一，出品过《瞬息全宇宙》《 至尊 马蒂》等爆款影片， 最新 热映大片《后室》也出自其手。近期A24 还携手提莫西·查拉梅、安妮·海瑟薇等知名艺人打造多部影视作品。谷歌DeepMind联合创始人兼首席德米斯·哈萨比斯表示："我们坚信，打造赋能创作者的工具， 最佳 途径就是与创作者直接协作。与A24 这</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29075</guid>
-      <pubDate>Tue, 23 Jun 2026 01:31:00 +0000</pubDate>
+      <title>豆包正式发布2.1专业版:接入Pro模型并推出全新办公任务模式</title>
+      <link>https://news.aibase.com/zh/news/29112</link>
+      <description>字节跳动旗下AI应用豆包今日正式推出“豆包专业版”服务，基于其 最新 的豆包2.1系列大模型，旨在为专业用户在复杂办公及生产力场景中提供更高额度的支持。 此次发布的核心亮点在于全新推出的“办公任务模式”，该模式使大模型从传统的“回答问题”升级为“专业办公”。其中，专业版用户将直接接入旗舰级豆包2.1Pro 模型，而免费用户亦可体验接入2.1Turbo 模型的办公任务模式。 在技术能力上，该办公任务模式深刻体现了当前AI行业向AI Agent（智能体）演进的趋势。通过明确授权，豆包能够自主拆解工作目标，执行操作本地电脑、使用浏览器、调用专项Skills技能包以及设定定时任务等复杂行为。此外，系统</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29112</guid>
+      <pubDate>Wed, 24 Jun 2026 01:22:00 +0000</pubDate>
     </item>
     <item>
-      <title>贾跃亭旗下Futurist具身智能机器人正式上市销售 售价89900美元</title>
-      <link>https://news.aibase.com/zh/news/29076</link>
-      <description>贾跃亭通过社交平台宣布，全新Futurist具身智能人形机器人已正式上市并开启销售。该产品官方售价为89，900美元，价格中已包含价值10，000美元的增强Skills技能包。 作为一款定位于“All in One全能职业专家”的本体产品，Futurist是全美首个原生支持Nvidia Sonic全尺寸人形机器人全身运动控制系统的设备。依托该系统的底层赋能，该机器人不仅拥有高水平的“大脑”算力与强大的全身运控运动能力，还针对科研生态进行了深度适配，能够完美支持学术机构与企业开展全尺寸机器人运控相关的科研工作并发表学术研究论文。 当前，具身智能与人形机器人赛道正处于从技术研发向产业化落地的关键转</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29076</guid>
-      <pubDate>Tue, 23 Jun 2026 01:55:00 +0000</pubDate>
+      <title>一句话搞定NAS！全球首个AI原生操作系统铁威马TOS7 来了</title>
+      <link>https://news.aibase.com/zh/news/29113</link>
+      <description>NAS（网络附属存储）向来以"操作繁琐"著称，备份文件、部署服务、调整权限，每一步都要手动点开多层菜单。铁威马近日正式推出全新TOS7 系统，宣称这是全球 第一 款从底层原生搭载AI能力的NAS操作系统，矢志彻底改变NAS只用来"存文件"的传统定位。 90%复杂操作，一句话搞定 TOS7 从底层重构架构，专门适配AI运行，并开放了大量标准化接口。其核心亮点是内置分布式AI调度引擎，能自动拆分多步骤任务，用户只需说清需求，整套流程便可自动跑完。系统原生集成了OpenClaw智能体，无需额外部署，通过语音或文字下达自然语言指令，就能完成90%的NAS复杂操作。 无论是给文件夹设置权限、查看硬盘运行</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29113</guid>
+      <pubDate>Wed, 24 Jun 2026 01:39:00 +0000</pubDate>
     </item>
     <item>
-      <title>影视制作新利器：生数 Vidu Q3 上线华为云，打造“为剧而生”的视频生成方案</title>
-      <link>https://news.aibase.com/zh/news/29077</link>
-      <description>人工智能在视频创作领域的应用再次迎来重要进展。6月22日，华为云宣布生数科技旗下的新一代多模态大模型 Vidu Q3正式上线华为云 MaaS（模型即服务）平台。此次合作旨在为企业营销、影视制作及文创产业提供一套高效的视频生成解决方案，让“文生视频”和“图生视频”实现一体化成片。 Vidu Q3被业界誉为全球首个“为剧而生”的视频大模型。该模型的一大核心优势在于其叙事能力——支持16秒声画同步生成，具备1080P 高清画质，并能精准实现多镜头叙事与切镜，有效解决了长视频创作中镜头逻辑混乱的痛点。此外，它还集成了多国语言文字渲染与多语言输出功能，为漫剧、短剧及影视剧的专业化生产提供了强力支撑。 为</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29077</guid>
-      <pubDate>Tue, 23 Jun 2026 02:00:00 +0000</pubDate>
+      <title>汕头首发“AI数字员工”：MoonClaw智能体助力跨境电商降本增效</title>
+      <link>https://news.aibase.com/zh/news/29114</link>
+      <description>6 月 23 日，一场聚焦AI与跨境贸易的交流会在汕头举行，正式揭开了“AI数字员工”时代的新篇章。活动现场，跨境全链路AI智能体“MoonClaw”完成 全国首发 ，这一创新成果被业界视为跨境电商领域的“破局者”，旨在通过智能化手段，帮助中小企业跨越出海门槛。 MoonClaw智能体的核心价值在于其“全链路托管”能力。它不同于以往单一功能的工具，而是能够真正模拟并承担起专业职员的工作职责，从而达成“一人+AI=一支跨境团队”的高效模式。从选品策略的精准研判，到繁琐的后端履约流程，MoonClaw能够全程自动化运作，显著降低了跨境企业的经营成本与管理复杂度。 此次发布会不仅是技术的集中展示，更</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29114</guid>
+      <pubDate>Wed, 24 Jun 2026 01:51:00 +0000</pubDate>
     </item>
     <item>
-      <title>亚马逊在印度启动生成式AI助手 Alexa+ 印地语版 Beta 测试</title>
-      <link>https://news.aibase.com/zh/news/29078</link>
-      <description>亚马逊 正式在印度启动下一代对话式人工智能助手 Alexa+ 的印地语（Hindi）版本 Beta 测试。 该机构已向部分印度用户发送定向邮件，邀请其在6月22日前提交表格加入测试计划，以完善新系统的本地化功能。 作为亚马逊于2025年 首次 发布的生成式人工智能产品，Alexa+ 在美国本土经历缓慢推广后，于今年2月向全美用户全面开放，并相继落地英国、加拿大、巴西、墨西哥、意大利和德国。此次进军印度市场，标志着该对话式助手国际化进程的进一步加速。 正文聚焦于语音交互的本地化适配与多语言混合理解。印度拥有超过6亿印地语人口，用户在日常交流中高度依赖印地语、英语或两者混合的复杂语境。亚马逊自20</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29078</guid>
-      <pubDate>Tue, 23 Jun 2026 02:03:00 +0000</pubDate>
+      <title>免费志愿填报Agent上线：千问“降维打击”，千家机构迎来生死考</title>
+      <link>https://news.aibase.com/zh/news/29115</link>
+      <description>随着 2026 年江苏高考分数的临近，志愿填报服务市场再次硝烟弥漫。不同于往年小规模的行业内卷，今年赛道迎来了一位重量级的“闯入者”——大厂正式入局，并直接将服务门槛降至“零元”。 6 月 10 日， 千问 正式推出国内首个全周期高考志愿填报Agent。这一动作被业内人士解读为互联网流量逻辑对垂直赛道的典型“降维打击”。长期以来，高考志愿填报市场主要由成千上万家中小机构支撑，其核心营收高度依赖志愿卡售卖及低价线上咨询引流。随着大厂以免费AI工具切入，这些传统玩家赖以生存的商业模式正面临严峻挑战。 据了解，此次推出的填报Agent并非简单的信息搜索工具，而是将填报流程拆解为七个核心环节，提供全流</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29115</guid>
+      <pubDate>Wed, 24 Jun 2026 02:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>医疗AI新高地：百川智能发布M4 模型，实现“真人医生”式主动问诊</title>
-      <link>https://news.aibase.com/zh/news/29079</link>
-      <description>人工智能在医疗垂直领域的应用近日迎来重要突破。百川智能联手清华大学研究团队，正式推出新一代医疗增强大模型——Baichuan-M4。该模型凭借卓越的逻辑推理与临床知识储备，在 权威 的 HealthBench 医疗评测中表现亮眼，一举斩获 HealthBench 及其 Hard、Professional 三个子榜单的榜首位置，展现出超越 GPT-5.5 的医疗专业能力。 Baichuan-M4 的核心进化在于其交互模式的彻底变革。传统的 AI 辅助问诊往往处于“一问一答”的被动状态，而 Baichuan-M4 则模拟了真人医生的诊疗逻辑，具备了主动追问的能力。它能够通过深度分析患者提供的信息，</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29079</guid>
-      <pubDate>Tue, 23 Jun 2026 02:19:00 +0000</pubDate>
+      <title>智慧医疗新风向：中国联通与鱼跃医疗联手，为健康设备装上“AI大脑”</title>
+      <link>https://news.aibase.com/zh/news/29116</link>
+      <description>在医疗数字化转型的深水区，传统医疗器械正迎来一场由 AI 与物联网技术驱动的“硬核进化”。 6 月 17 日，在南京举办的 2026 物联网生态大会上， 中国联通 与 鱼跃医疗 共同展示了双方在智慧医疗领域的 最新 成果，宣告双方的战略合作已从早期的“5G+产线”深入至“AI+可穿戴设备”的全链条共创。 此次合作的核心看点在于医疗设备感知能力的重塑。依托联通提供的算力、云平台及通信支撑，双方共同组建了“智能医疗器械创新联合实验室”。这种产研协同模式最直接的产出，就是鱼跃医疗新推出的健康戒指 R3 以及 4G 便携式心电采集器。这些设备不再是孤立的数据记录仪，而是通过接入智能网络，将专业级的医疗</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29116</guid>
+      <pubDate>Wed, 24 Jun 2026 02:07:00 +0000</pubDate>
     </item>
     <item>
-      <title>字节豆包发布Seed 2. 1 系列：Coding与Agent能力三项指标比肩GPT-5.5</title>
-      <link>https://news.aibase.com/zh/news/29080</link>
-      <description>字节跳动近日悄然在火山引擎官网上线了豆包Seed 2. 1 系列模型，包括Pro和Turbo两个版本，同步迭代了Seed-Evolving模型。这批新模型被官方定位为"面向Coding和Agent时代打造的新一代大模型"，剑指复杂工程交付和规模化生产两大核心场景。 相较上一代版本，Seed 2. 1 在Coding工程交付、Agent长链路任务执行、多模态理解三大方向实现全面升级，以更强的自主规划与动态修复能力，胜任真实研发与高价值生产任务，官方称三项核心能力已比肩GPT-5.5。 Pro旗舰、Turbo高效，各司其职 两款模型的定位清晰分明。doubao-seed-2-1-pro是旗舰深度思</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29080</guid>
-      <pubDate>Tue, 23 Jun 2026 02:30:00 +0000</pubDate>
+      <title>豆包音频生成模型1. 0 发布，开启“音频导演”时代</title>
+      <link>https://news.aibase.com/zh/news/29117</link>
+      <description>在人工智能赋能内容创作的赛道上，火山引擎近日交出了一份重量级答卷。6月23日， 豆包音频生成模型1.0 正式发布，凭借“多模态参考生成”与“长时音色一致性”两大核心技术，彻底打破了传统音频制作繁琐的后期工作流。 过去，制作一段达到成片水准的音频，创作者往往需要分别生成对白、音效和配乐，再通过复杂的手动对齐与混音来实现，极其考验后期功底。而豆包音频生成模型1.0带来的变革在于，它将这一过程高度浓缩——用户只需输入一条包含角色台词、情绪语气、背景音乐乃至环境氛围的 Prompt，模型即可直接产出具备叙事张力的完整音频成片。 针对长音频创作中常见的“角色串戏”痛点，该模型实现了文生音频与参考音频的深</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29117</guid>
+      <pubDate>Wed, 24 Jun 2026 02:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>负责人称“非常缺人”:DeepSeek Harness扩容核心团队，向全球中文技术人才抛出橄榄枝</title>
-      <link>https://news.aibase.com/zh/news/29081</link>
-      <description>DeepSeek Harness团队负责人崔添翼近日在海外社交平台公开发文，面向全球大力招募技术与产品人才。崔添翼透露，目前该部门人才缺口显著，正固定开放研究员、研发工程师及产品经理三类核心岗位，明确表示招聘不设国籍限制，仅要求具备中文工作能力，此举展现出这家头部AI中企在国际化人才吸纳上的灵活性。 作为业内备受瞩目的技术团队，DeepSeek Harness此次扩军重点指向了前沿应用落地。官网职位详情显示，以Agent Harness研发工程师为例，其首要任职要求聚焦于过硬的技术水平与广阔的技术眼界，并未对具体工作经验年限进行硬性限制，反映出企业在选拔 尖端 大模型人才时更加看重技术潜质与即</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29081</guid>
-      <pubDate>Tue, 23 Jun 2026 02:41:00 +0000</pubDate>
+      <title>火山引擎发布豆包音频生成模型1.0：一句话生成影视级音频，角色声音 10 分钟都不"串戏"</title>
+      <link>https://news.aibase.com/zh/news/29118</link>
+      <description>昨日，火山引擎正式发布豆包音频生成模型1.0（Doubao-Seed-Audio 1.0），支持将文本或音频任一模态作为输入，端到端生成完整音频作品。这款模型的核心突破在于：用一条Prompt就能搞定对白、音效、背景音乐的全要素生成，彻底告别人工多轨剪辑的传统工作流。 一句话变身"音频导演"，省去所有后期 过去，一段成片级音频作品意味着对白、音效、配乐逐条生成、手动对齐、多轨混音，流程繁琐且高度依赖后期技术能力。豆包音频生成模型1. 0 将这一切压缩进一条Prompt：用户可以在单条指令中同时定义多个角色的台词、语气和情绪节奏，嵌入笑声、叹息、停顿、方言口音等细节，背景音乐与环境音效同步生成，</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29118</guid>
+      <pubDate>Wed, 24 Jun 2026 02:32:00 +0000</pubDate>
     </item>
     <item>
-      <title>强强联手：美光科技入局 Anthropic，共筑下一代AI基础设施</title>
-      <link>https://news.aibase.com/zh/news/29082</link>
-      <description>人工智能行业的算力之争，正逐渐从模型算法延伸至底层硬件架构。 6 月 22 日，存储芯片巨头 美光科技 正式宣布与人工智能领军企业 Anthropic 达成深度战略合作。此次牵手不仅是一次单纯的商业结盟，更标志着双方将在AI内存架构设计、技术研发及供应链保障等核心环节展开全方位协同。 根据合作协议，双方将重点攻克高带宽存储器（HBM）、DRAM 及固态硬盘（SSD）在 AI 训练与推理场景中的应用难题。随着 Claude 大模型用户规模的快速增长，如何优化 AI 基础设施的能效比与成本结构，已成为 Anthropic 维持长期竞争力的关键。美光将通过对内存和存储子系统在不同 AI 工作负载下的</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29082</guid>
-      <pubDate>Tue, 23 Jun 2026 02:43:00 +0000</pubDate>
+      <title>Cursor发布全自主训练大模型，同步推出全新Git平台Origin及移动端App</title>
+      <link>https://news.aibase.com/zh/news/29119</link>
+      <description>AI辅助编程领域的领军初创公司Anysphere日前在Compile26公司活动上宣布，旗下知名IDE工具Cursor将推出首个完全自主训练的人工智能基础模型，并同步发布全新Git平台“Origin”以及iOS测试版移动应用。 这一系列动作标志着Cursor正正式从单一的代码编辑工具，演变为面向人类和AI Agent（智能体）的综合性开发者生态平台。 据联合创始人迈克尔（Michael Truell）透露，这款全新基础模型完全由团队从零开始独立训练，彻底告别了过往“Composer模型”基于开源基座的模式。该模型在参数规模上与Anthropic的Claude Opus和OpenAI的GPT系列</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29119</guid>
+      <pubDate>Wed, 24 Jun 2026 03:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>豆包大模型日均Token使用量突破180万亿 2.1Pro版本正式发布</title>
-      <link>https://news.aibase.com/zh/news/29083</link>
-      <description>在今日举行的“2026火山引擎FORCE原动力大会”上，火山引擎总裁谭待正式发布豆包大模型2.1Pro，并披露了该模型运营增长的 最新 里程碑数据。数据显示，豆包大模型日均Tokens（词元）使用量现已突破180万亿大关，相较2024年5月1200亿的初始规模，两年内实现了高达1500倍的指数级增长，显示出极强的业务渗透力。 此次全新升级的豆包大模型2.1Pro，重点在代码生成、智能Agent及多模态处理三大核心维度完成了能力跨越。在大会现场的应用实践展示中，该模型展现了卓越的Agent大规模协作实力:通过构建复杂的3D虚拟城市场景，模型驱动500余个智能Agent实现了高频同步协作，在完成上</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29083</guid>
-      <pubDate>Tue, 23 Jun 2026 02:48:00 +0000</pubDate>
+      <title>美国AI创业公司状告政府：切断大模型访问等于"断人活路"</title>
+      <link>https://news.aibase.com/zh/news/29120</link>
+      <description>据彭博社报道，一家名为Legion的美国AI创业公司已向联邦政府提起诉讼，状告美国政府。起因是美国政府下令要求Anthropic公司不得向外国公民提供其 最先 进的AI模型，导致Legion的开发团队瞬间失去了核心工具。 加拿大籍开发者被"一刀切"，公司称损失"关乎存亡" 这桩诉讼于周二在华盛顿联邦法院提起。不到两周前，Anthropic为遵守特朗普政府出台的出口管制规定，关闭了对其 最先 进AI模型Fable5 和Mythos5 的访问权限。原告Legion是一家为律师提供诉讼工具的AI创业公司，总部设在美国，但其软件开发团队中包含在加拿大境内工作的加拿大籍员工。 Legion在诉状中措辞激</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29120</guid>
+      <pubDate>Wed, 24 Jun 2026 03:14:00 +0000</pubDate>
     </item>
     <item>
-      <title>Groq卖掉核心技术后"凤凰涅槃"：转型云服务商，再融 44 亿元扩张算力</title>
-      <link>https://news.aibase.com/zh/news/29084</link>
-      <description>去年底，AI芯片初创企业Groq以 200 亿美元的高价，将自研LPU推理技术非 独家 授权给了英伟达，部分核心团队成员也随之加入英伟达麾下。这笔交易完成后，外界一度对Groq的未来走向充满疑问。然而不到半年，Groq就给出了答案：转型为AI推理云服务供应商，并完成了一轮高达6. 5 亿美元（约 44 亿元人民币）的新融资。 底气来自" 唯一 性" Groq的自信源于一张独门牌：全球 唯一 具备大规模LPU实际操作经验的工程团队。LPU（语言处理单元）是Groq自研的专用推理芯片，擅长以极低延迟处理大模型推理任务，曾凭借惊人的生成速度在开发者社区圈粉无数。 技术授权给了英伟达，但人还在、经验还</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29084</guid>
-      <pubDate>Tue, 23 Jun 2026 02:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>字节跳动火山引擎 2026 大会重磅发布：Seedance 2.5 直出 30 秒视频，豆包 2.1 Pro 对标 Opus 4.6</title>
-      <link>https://news.aibase.com/zh/news/29085</link>
-      <description>6月23日，字节跳动旗下火山引擎 FORCE 原动力大会在京召开。会上，字节跳动推出多款 AI 重磅产品，其中视频生成模型 Seedance2.5 成为 最大 亮点，一次性直出30秒完整视频的能力备受业界关注。同期发布的豆包 Seed2.1系列模型及图像模型 Seeddream5.0，进一步提升了字节在多模态 AI 领域的竞争力。 Seedance2.5:视频生成迈向长序列时代 据现场信息， Seedance2.5 核心升级在于单次生成能力从此前版本的较短时长提升至 一次性直出30秒完整视频 。这一突破显著降低了长视频制作的碎片化拼接成本，提升了叙事连贯性。 此外，新版本还支持 3D 白模 ，</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29085</guid>
-      <pubDate>Tue, 23 Jun 2026 03:14:00 +0000</pubDate>
+      <title>豆包付费时代开启：三档订阅服务落地，性价比对标全球巨头</title>
+      <link>https://news.aibase.com/zh/news/29121</link>
+      <description>AI大模型服务的商业化进程又迈出关键一步。6月24日， 豆包 正式推出三档付费订阅服务，分别为标准版（68元/月）、加强版(200元/月)及 高级 版(500元/月)。随着付费体系的平稳落地，豆包全线产品已全面接入 最新 的豆包2.1系列大模型，在内容输出质量与模型运行效率上实现了显著升级。 官方特别强调，此次付费服务的推出不会改变免费用户的日常使用权益，旨在为有更高生产力需求的用户提供差异化选择。 将目光投向全球市场，豆包此次的定价策略呈现出明显的“高性价比”导向。横向对比来看， ChatGPT 的付费订阅门槛较高，其Plus版月费约为135元人民币，Pro版月费更是高达677元人民币。相比</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29121</guid>
+      <pubDate>Wed, 24 Jun 2026 03:21:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
