@@ -8,223 +8,139 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 03 Jul 2026 02:54:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 02:50:34 +0000</lastBuildDate>
     <item>
-      <title>历时18个月研发，葡萄牙国家级大模型“阿马利娅”正式亮相</title>
-      <link>https://news.aibase.com/zh/news/29328</link>
-      <description>葡萄牙政府于7月1日正式发布国家人工智能（AI）大语言模型“阿马利娅”(Amália)，旨在通过构建以葡萄牙语为核心的本土技术底座，深化公共服务数字化转型，并加速提升本国及欧洲在人工智能领域的“技术主权”。 作为历时18个月研发的战略级成果，“阿马利娅”未来将全面赋能教育、国防、文化、医疗及政务服务等核心领域。为确保该模型的持续迭代与自主AI基础设施建设，葡萄牙政府在发布当日同步宣布追加150万欧元投资，使该项目的总投资额累计达到700万欧元。 在全球AI军备竞赛升温的背景下，欧洲本土大模型的密集落地映射出其摆脱外部技术依赖的迫切需求。葡萄牙总理蒙特内格罗直言，目前欧洲在技术领域仍高度依赖外国</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29328</guid>
-      <pubDate>Thu, 02 Jul 2026 03:10:00 +0000</pubDate>
+      <title>AI 行情带动股市走强，瑞银报告：2025 年全球新增近百万美元富翁</title>
+      <link>https://news.aibase.com/zh/news/29360</link>
+      <description>瑞银发布 最新 财富统计数据，AI 热潮拉动全球股市上行，直接推动富豪群体规模大幅扩张，全球财富增速创下近年新高。过去一年全球个人财富整体上涨 10.8%，而亿万富豪资产平均增幅达 25%，财富增长红利明显向顶层人群倾斜。 全球亿万富翁数量同比增长 13%，总数达到 3302 人，财富 500 亿至千亿美元、超千亿美元梯队分别有 18 人、19 人，其中绝大多数 顶级 富豪定居美国。2025 年全球新增近百万名百万美元富翁，总规模突破 5750 万，美元走弱也助推不少人达标百万身家门槛。 美国新增超 44 万名百万富翁，新增数量居全球首位，但本国富豪增速仅 1.9%；土耳其、阿联酋等欧洲、中东</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29360</guid>
+      <pubDate>Fri, 03 Jul 2026 03:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>支付宝AI生活助理“阿宝”正式开启公测，上线72项办事技能</title>
-      <link>https://news.aibase.com/zh/news/29329</link>
-      <description>7月2日，支付宝正式宣布旗下AI生活助理“阿宝”面向全量用户开放公测。即日起，iOS与安卓系统用户无需邀请码，即可在应用商店或支付宝App内搜索“阿宝”或“蚂蚁阿宝”直接进行体验。这一动作标志着该AI应用在经历了一个月的内测磨合后，正式迈向更大规模的市场检验与场景实践。 本次升级围绕生活服务垂域模型能力、服务生态和用户陪伴体系三方面展开，优化用户通过自然对话办理各类生活服务的使用体验。 在服务生态上，“阿宝”已完成全场景覆盖，并在政务、缴费、文旅等十余类板块中精选出72项高频刚需技能组成“新手指南”。用户通过自然对话即可跨页面、跨应用完成诸如“筛选多条件旅游规划”或“对话式电商购物”等复杂操作</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29329</guid>
-      <pubDate>Thu, 02 Jul 2026 03:16:00 +0000</pubDate>
+      <title>甲骨文的 AI 豪赌：巨额基建背后的“账单焦虑”</title>
+      <link>https://news.aibase.com/zh/news/29361</link>
+      <description>在人工智能算力竞赛白热化的当下，甲骨文公司正押注数千亿美元建设数据中心，试图在云计算版图中抢占先机。然而，随着庞大的基础设施逐渐落地，华尔街开始投下质疑的目光：如果 OpenAI 等核心大客户无法长期消化这些高昂的算力账单，甲骨文的这番“AI 豪赌”会不会演变成一场难以脱身的资产沉重负担？ 在近期发布的年度财务报告中，甲骨文罕见地对潜在风险进行了详尽披露。公司明确表示，若主要客户未能如约支付账单或选择不再续签合同，甲骨文将面临严重的资产搁置风险。由于这些高度定制化的算力设施难以在短时间内以理想条件进行改造或转租，一旦出现违约，这些巨额投资极可能转化为沉重的财务包袱。这种坦率的风险预警，在科技行</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29361</guid>
+      <pubDate>Fri, 03 Jul 2026 03:23:00 +0000</pubDate>
     </item>
     <item>
-      <title>支付宝“阿宝”公测开启：告别菜单跳转，进入“对话式”办事新时代</title>
-      <link>https://news.aibase.com/zh/news/29330</link>
-      <description>支付宝旗下的 AI 助手“蚂蚁阿宝”今日正式宣布开启公测。现在，无论是 iOS 还是安卓用户，只需在应用商店更新，或直接在支付宝 App 内搜索“阿宝”或“蚂蚁阿宝”，即可 第一 时间尝鲜这一智能化产品。 作为支付宝从传统“陈列式”交互向“对话式”服务升级的核心载体，阿宝的功能体验直观且高效。用户只需右滑进入新版界面，便能看到一个极简的对话框。无论是想查询公积金、处理生活缴费，还是寻找特定服务，用户直接通过文字输入或语音指令描述需求，阿宝便会自动匹配相应的小程序与服务入口，将原本需要层层点击才能触达的界面直接呈现，大幅缩减了办事流程。 在智能化提升的同时，安全性依然是支付宝坚持的底线。针对用户</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29330</guid>
-      <pubDate>Thu, 02 Jul 2026 03:27:00 +0000</pubDate>
+      <title>腾讯游戏发布2026暑期未保专项，升级AI双引擎防沉迷模式</title>
+      <link>https://news.aibase.com/zh/news/29362</link>
+      <description>7月3日，腾讯游戏发布“2026年暑期未成年人保护专项行动”，除了按国家新闻出版署相关防沉迷规则限制未成年人每周游戏时长外，还额外加码推出了"AI双引擎防沉迷"新模式，结合AI技术应用，在游戏内、游戏外同步发力，筑牢未成年人健康游戏防火墙。 自21年国家防沉迷新规落地以来，游戏行业已形成以“游戏限时、限充”为主的未保体系，但家庭场景的复杂性让监管防线的实际效力大打折扣，"账号冒用"、"代过人脸"等问题仍是该领域普遍面临的难题，而腾讯游戏此次"AI双引擎防沉迷"模式的升级，正是针对性应对上述问题的重要举措。 游戏内，打击冒用、代过行为。 此次健康系统推出的"AI巡航"功能，进一步提升了防沉迷监管</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29362</guid>
+      <pubDate>Fri, 03 Jul 2026 03:40:00 +0000</pubDate>
     </item>
     <item>
-      <title>拒绝内卷式协作：昆仑万维天工 3.2 推出 Skywork Tags，让 AI 成为工作群里的“靠谱同事”</title>
-      <link>https://news.aibase.com/zh/news/29331</link>
-      <description>在当今的职场环境下，为了使用 AI 工具而频繁切换窗口、搬运数据，往往会让团队的工作效率不升反降。针对这一痛点，昆仑万维集团近日发布了天工3.2版本，并带来了一项颇具变革意义的功能——Skywork Tags。 这项功能的核心逻辑十分务实:不强迫团队改变既有的协作流程，而是直接将 AI 智能体“请”进团队现有的办公群组中。无论是 Slack、飞书、钉钉，还是 Discord、Telegram，团队成员只需在日常工作群内简单 @Skywork，AI 就能实时参与讨论、协助解决问题。这种无缝接入的方式，免去了跨平台切换的繁琐，让 AI 的介入变得如同添加一位新同事一样自然。 在实际的应用测试中，S</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29331</guid>
-      <pubDate>Thu, 02 Jul 2026 03:30:00 +0000</pubDate>
+      <title>Meta 出击 AI 游戏赛道：推出“灵感生成”新应用 Pocket</title>
+      <link>https://news.aibase.com/zh/news/29363</link>
+      <description>在人工智能创作工具的战场上，Meta 近期动作频频。继此前推出的 AI 绘图应用以及视频剪辑工具之后，这家科技巨头又悄然上线了一款名为 Pocket 的创意游戏应用。 这款新产品的逻辑十分新颖:它允许用户通过简单的 AI 提示词，即时生成小型、具备互动性的“Gizmo”应用和游戏。简单来说，Pocket 就像是一个创意生成器，用户只需输入一段文字描述，AI 就能将其转化为可玩的小游戏。此外，Pocket 还内置了一个信息流，方便用户探索并体验他人创作的游戏作品，让“玩”与“造”形成闭环。 这款应用的技术基因源于 Meta 今年早些时候对 Gizmo 团队的收购。从目前已披露的界面来看，Pock</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29363</guid>
+      <pubDate>Fri, 03 Jul 2026 05:49:00 +0000</pubDate>
     </item>
     <item>
-      <title>两分钟上手生产级语音智能体：xAI 发布 Voice Agent Builder 测试版</title>
-      <link>https://news.aibase.com/zh/news/29332</link>
-      <description>在语音人工智能的应用开发领域，xAI 日前迈出了关键一步。该公司正式发布了 Voice Agent Builder 的测试版本，旨在将企业级语音智能体的搭建门槛大幅降低。这一零代码平台依托于 xAI 自研的 Grok Voice 模型，让开发者和运营者能够在短短两分钟内，便配置出一套功能完备的语音服务系统。 Voice Agent Builder 的核心优势在于其高度集成的端到端架构。传统语音方案往往需要将语音转文字、大模型处理以及文字转语音等多个环节拼接而成，这不仅导致成本叠加，还增加了延迟与故障风险。相比之下，xAI 构建的是一条紧密耦合的统一路径，开箱即用地提供了包括电话通信、知识库检索</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29332</guid>
-      <pubDate>Thu, 02 Jul 2026 03:42:00 +0000</pubDate>
+      <title>阿里巴巴内部“反向禁用”：全面下架 Claude 系列 AI 工具</title>
+      <link>https://news.aibase.com/zh/news/29364</link>
+      <description>日前，有消息传出阿里巴巴已在内部下发指令，要求全体员工停止使用 Anthropic 旗下的 Claude 系列产品。此次禁令范围涵盖 Sonnet、Opus、Fable 等主流模型，以及 Claude Code 等智能体工具，并设定7月10日为最后期限。 回顾今年以来的内部政策，阿里在 AI 应用上的态度曾一度非常开放。为了加速业务智能化转型，公司不仅提供了内部模型的免费额度，还针对外部模型推出了慷慨的报销方案。在这一政策激励下，员工对 Claude、GPT 等 顶尖 模型的依赖度迅速攀升，部分程序员每周消耗的调用额度甚至高达数百美元。然而，随着 AI 算力与数据安全风险的日益凸显，这一开放窗</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29364</guid>
+      <pubDate>Fri, 03 Jul 2026 06:24:00 +0000</pubDate>
     </item>
     <item>
-      <title>告别“一刀切”：Cloudflare 推出精细化 AI 流量管理，筑起网站变现护城河</title>
-      <link>https://news.aibase.com/zh/news/29333</link>
-      <description>在人工智能爬虫满天飞的时代，网站所有者正面临两难:既希望保留搜索引擎带来的流量曝光，又担心毫无节制的训练爬虫窃取内容或干扰广告变现。7月1日，Cloudflare 给出了行业级的解决方案，正式推出了一套全新的 AI 流量管理工具，允许站长针对不同类型的 AI 爬虫进行精细化管控。 过去，许多网站为了防御恶意爬虫，往往只能选择“一刀切”式地屏蔽所有外部访问，但这往往会误伤 SEO，导致网站在搜索引擎中的排名下降。此次更新的核心亮点，在于将原本模糊的“AI 流量”拆解为搜索爬虫、智能体爬虫以及训练爬虫三大类。站长现在可以根据业务需求，对这些爬虫执行差异化的“放行”或“拦截”策略。 这一功能的推出，</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29333</guid>
-      <pubDate>Thu, 02 Jul 2026 03:50:00 +0000</pubDate>
+      <title>自由职业者危机？最新AI模型攻克16%远程项目，设计圈变天了</title>
+      <link>https://news.aibase.com/zh/news/29365</link>
+      <description>AI安全中心 最新 发布的远程劳动指数显示，人工智能在远程办公自动化领域取得了突破性进展。其中，全新的Claude Fable5 模型以16.1%的自动化率刷新了该项基准测试的历史纪录。 这项测试严格按照工业标准进行，主要评估AI智能体在3D建模、建筑设计、平面设计及视频动画等真实自由职业项目中的表现。评测的核心指标在于计算AI生成的产品中，质量达到或超过人类专业人员交付物的比例。 打破历史纪录的惊人跃升 在本次突破之前，该项测试的 最高 纪录仅为4.17%，由基于特定框架的Opus模型所保持。令人惊叹的是，在远程劳动指数上线短短八个月内，AI的 最高 得分就从最初的2.5%飙升至如今的16.</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29365</guid>
+      <pubDate>Fri, 03 Jul 2026 06:24:00 +0000</pubDate>
     </item>
     <item>
-      <title>美团大模型生态调整：全面限用豆包，力推自研 LongCat 体系</title>
-      <link>https://news.aibase.com/zh/news/29334</link>
-      <description>国内人工智能大模型的竞争格局近期出现微妙变化。据 最新 消息，美团内部已下发通知，开始对“豆包”大模型的使用权限进行严格限制。这一举措意味着美团在 AI 基础设施的选择上，正进一步向内部自研方案倾斜。 按照内部管理要求，目前各业务团队需立即对现有的豆包大模型调用情况进行自查。对于仍需保留外部模型调用的业务，必须提交详细的必要性说明与迁移规划，经过单独的审批流程后方可执行。事实上，这并非美团 首次 收紧外部大模型的使用窗口。早在今年 4 月，美团便已不再推荐内部业务使用阿里云的 Qwen（通义千问）模型，相关使用申请需上报至公司高层级（X3 级别）审批，足见美团对大模型供应链可控性的重视。 美团</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29334</guid>
-      <pubDate>Thu, 02 Jul 2026 05:55:00 +0000</pubDate>
+      <title>Claude 旗舰模型 Fable 5 开启“按需付费”模式，订阅用户权益受限</title>
+      <link>https://news.aibase.com/zh/news/29366</link>
+      <description>近日，Anthropic 公司宣布对其旗下性能 最强 的大模型——Claude Fable5进行访问权限调整。从7月7日起，该模型将正式从现有的各档订阅服务中移除，转而采用基于实际使用量的积分计费模式。 这一变动在用户群体中引发了不小的波澜。据了解，在7月7日之前，Pro、Max、Team 以及部分企业版订阅用户仍能将 Fable5模型纳入每周的 AI 使用限额中（ 最高 占比50%）。然而，随着下周这一期限的到来，订阅用户若想继续使用该模型，将不得不额外消耗使用积分，这意味着用户此前支付的固定订阅费，将不再包含这款旗舰模型的“无限畅享权”。 Anthropic 方面解释称，做出这一决定主要是</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29366</guid>
+      <pubDate>Fri, 03 Jul 2026 06:26:00 +0000</pubDate>
     </item>
     <item>
-      <title>特斯拉Optimus机器人产线曝光:马斯克确认今夏投产，初期产量爬坡缓慢</title>
-      <link>https://news.aibase.com/zh/news/29335</link>
-      <description>特斯拉CEO埃隆·马斯克于7月1日通过社交媒体晒出其弗里蒙特工厂的团队大合照，正式公开视察Optimus（擎天柱）人形机器人生产线的 最新 动态。这一举措标志着由传统乘用车生产线(原Model S与Model X产线)改造而来的全新机器人生产基地已正式进入运转阶段。 面对市场对Optimus近期减少公开演示的猜测，马斯克回应称，作为一款包含1万个独特零部件且一切从零开始的全新产品，Optimus在生产初期的爬坡速度将极其缓慢，这与传统汽车制造有着本质区别，且年内的精确产量难以预测。 根据特斯拉此前的产能规划与Q1财报披露的时间节点，该款被马斯克誉为“全球 最先 进”的具身智能终端将于今年7月下</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29335</guid>
-      <pubDate>Thu, 02 Jul 2026 06:06:00 +0000</pubDate>
+      <title>地球的“数字名片”：中国发布全球首个地层学 AI 大模型</title>
+      <link>https://news.aibase.com/zh/news/29367</link>
+      <description>地球 46 亿年的漫长演化史，终于有了一个“智能管家”。近日，在苏州举办的第五届国际地层学大会上，中国科学家正式向全球发布了首个地层学 AI 大模型，以及与之配套的智能全球地层剖面对比系统。 地层学作为解读地球历史的“钥匙”，长期以来依赖于繁杂的野外考察与人工数据比对。此次发布的 AI 大模型与配套系统，旨在将全球地质数据进行整合，构建起一个真正的“共享数据库”。这不仅意味着地质学家们从此拥有了处理海量地质信息的“ 超级 大脑”，也标志着人类在数字化还原地球演化历程方面迈出了里程碑式的一步。 通过这一智能平台，不同国家和地区的地质数据能够实现高效的自动化比对，从而大幅降低了地层研究的门槛与复杂</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29367</guid>
+      <pubDate>Fri, 03 Jul 2026 06:28:00 +0000</pubDate>
     </item>
     <item>
-      <title>阿福全民减重进展:超40万网友上秤，已减41万斤，21天打卡挑战赛来了</title>
-      <link>https://news.aibase.com/zh/news/29336</link>
-      <description>最近爆火的这个大项目你参加了吗?7月2日，蚂蚁阿福公布“科学减重1亿斤”行动 最新 进展:全国已有超40万网友上秤，累积减掉了41万斤，相当于人均减重约1斤。为鼓励大家坚持减重，阿福继续加码，于今日正式上线“21天打卡挑战赛”。网友直呼:“阿福，你来真的?!” 继续加码!21天挑战赛，玩真的了 “21天打卡挑战赛”今日正式开启。活动规则显示，自7月2日起，阿福每天都会发起一场挑战赛，网友报名并坚持21天上秤打卡，就能平分10万元奖金。需要注意的是，每人同时只能参与一期挑战赛，中途断打卡第三次即为挑战失败，无法分得奖金，但仍可参与后续期次的挑战赛。 记者体验发现，报名后上秤并同步个人体重数据即为</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29336</guid>
-      <pubDate>Thu, 02 Jul 2026 06:18:00 +0000</pubDate>
+      <title>订阅制红利终结？Anthropic收紧最强AI模型，Claude Fable5 将按量计费</title>
+      <link>https://news.aibase.com/zh/news/29368</link>
+      <description>Anthropic公司近日宣布了一项新决定。该公司计划在 2026 年 7 月 7 日之后，正式从现有的订阅服务中移除其性能 最强 的AI模型——Claude Fable5 的访问权限。 这一举动意味着原本包含在会员权益中的核心功能将被剥离。对于习惯了包月或包年无限次使用的开发者及核心用户来说，未来的使用成本或将面临大幅度上升。 出口限制解除与全球重新部署 此前，美国商务部刚刚撤销了针对Fable和Mythos两款高端AI模型的出口限制。得益于政策放宽，Anthropic原本雄心勃勃地计划在全球范围内的各大平台上全面提供Fable5 服务。 然而由于该模型在全球范围内的需求量呈现出 极高 且难</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29368</guid>
+      <pubDate>Fri, 03 Jul 2026 06:39:00 +0000</pubDate>
     </item>
     <item>
-      <title>无缝升级!阿里打包升级QoderWork等多款AI工具，聚焦企业核心场景</title>
-      <link>https://news.aibase.com/zh/news/29337</link>
-      <description>阿里巴巴正在对旗下的Agent（智能体）产品线进行新一轮的深度整合。据悉，阿里巴巴将以 QoderWork 为基础，全面融合 悟空 与 MuleRun 的核心能力，通过整合升级，打造一款面向企业生产力场景、功能更为强大的全新AI产品。 据悉，这一全新项目及产品将由 陈宇森 全面负责。 针对此次业务调整，阿里巴巴官方回应表示，QoderWork、悟空、MuleRun现有的产品与服务在未来将实现 无缝升级 ，所有现有用户的权益均不会受到任何影响。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29337</guid>
-      <pubDate>Thu, 02 Jul 2026 06:44:00 +0000</pubDate>
+      <title>广告治理迎来“视觉进化”：巨量引擎发布 Mamoda 2.5 版本，实现视频全形态覆盖</title>
+      <link>https://news.aibase.com/zh/news/29369</link>
+      <description>在数字化广告生态中，如何高效、准确地识别并治理违规内容，始终是行业治理的核心议题。7 月 3 日，巨量引擎正式发布了自研广告治理大模型 Mamoda 2.5 版本，标志着其在内容安全风控领域的技术迭代迈上了一个新台阶。 回溯该模型的发展历程，Mamoda 从 1.0 版本起步，最初仅具备文本内容的单点识别能力，主要负责过滤基础违规文字。随着大模型技术的不断演进，其能力边界迅速向多元化场景扩展。在 2.5 版本中，该模型已彻底打破了过去在处理复杂多媒体内容上的局限，实现了对图片、短视频等多种素材类型的全面覆盖，特别是对视频全形态的深层解析，让精准治理成为可能。 这一技术进展对于提升广告环境的清朗</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29369</guid>
+      <pubDate>Fri, 03 Jul 2026 06:52:00 +0000</pubDate>
     </item>
     <item>
-      <title>警惕“AI 蒸馏”：Meta 封杀竞品编码工具，大模型行业护城河博弈升级</title>
-      <link>https://news.aibase.com/zh/news/29338</link>
-      <description>人工智能行业的竞争正迎来新的转折点。近日，Meta 公司被曝出内部禁令，明确要求 Applied AI 部门的工程师停止使用 Anthropic 的 Claude Code 以及 OpenAI 的 Codex。这一举措并非简单的 IT 管理优化，而是揭开了 AI 大模型企业之间关于“模型蒸馏”博弈的序幕。 所谓“蒸馏”，简言之就是利用一个强大模型的输出结果来训练另一个模型。Meta 此次限制员工使用竞品工具，核心忧虑在于“数据污染”与“技术泄漏”。当工程师在编写训练脚本或调试代码时，如果过度依赖Claude 或 Codex，这些工具生成的代码片段、架构方案等可能被无意中收录进 Meta 自身的</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29338</guid>
-      <pubDate>Thu, 02 Jul 2026 06:46:00 +0000</pubDate>
+      <title>微软 AI PC 专属系统 Project Aion 曝光，彻底取消传统开始菜单</title>
+      <link>https://news.aibase.com/zh/news/29370</link>
+      <description>微软内部代号 Project Aion 的全新 AI 操作系统遭曝光，该产品此前处于严格保密状态，专为 AI PC 打造。整套系统依托 Edge 浏览器与网页轻量化技术搭建，交互逻辑完全区别于传统 Windows。 系统摒弃经典开始菜单与桌面图标，采用极简 AI 交互设计，底部任务栏可直接唤起 Copilot 承担全部操作入口。平台核心围绕信息流、内容创作、实时资讯打造，独创 “空间” 功能自动归类网页与应用，一键批量调取，优化多任务处理效率。 该系统不再支持 Windows 原生桌面软件，整体生态以 Web 应用为核心，所有程序均依托网页环境运行。 若用户有传统桌面软件使用需求，可借助 Wi</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29370</guid>
+      <pubDate>Fri, 03 Jul 2026 07:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>可灵AI 融资传闻再起：180 亿美元估值背后的资本博弈</title>
-      <link>https://news.aibase.com/zh/news/29339</link>
-      <description>国内 AI 视频生成领域的战火正愈演愈烈。7 月 2 日，有市场消息传出，快手旗下的 AI 视频生成平台“可灵AI”即将完成首轮独立融资，融资规模预计达 30 亿美元，整体估值指向 180 亿美元。尽管截至目前，快手官方尚未就此融资细节予以置评，但该消息在业界引发了广泛关注。 纵观可灵AI 近期的估值轨迹，可以发现其市场预期始终处于震荡与博弈之中。自 2026 年 5 月 首次 传出分拆融资计划以来，关于其估值的传闻版本繁多，从最初的 200 亿美元目标，到后续传出的 180 亿、160 亿乃至 150 亿美元，数据频繁波动。 行业分析人士指出，估值的持续更迭反映出当前一级市场在 AI 投资逻</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29339</guid>
-      <pubDate>Thu, 02 Jul 2026 06:53:00 +0000</pubDate>
+      <title>英伟达双塔 AI 模型开源发布，文本生成速度提升 2.42 倍、画质保留 98.7%</title>
+      <link>https://news.aibase.com/zh/news/29371</link>
+      <description>英伟达 7 月 2 日推出 Nemotron-Labs-TwoTower 离散扩散语言模型，旨在解决大模型逐一生成 Token 速度慢的痛点，相关权重已在 Huggingface 开源。模型基于现有 Nemotron 骨干网络改造，复用预训练权重，无需从零完整训练，大幅降低开发成本。 60B 双塔架构，分工并行提升生成效率 模型总参数量 60B，拆分为两座 30B 独立神经网络协同工作，每塔激活 3B 参数，搭载 128 个可路由专家模块。上下文塔固定冻结，负责留存全文语义信息；去噪塔专门训练，依靠扩散机制并行生成文本，两塔通过交叉注意力互通数据。 传统模型逐 Token 串行输出，双塔架构可</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29371</guid>
+      <pubDate>Fri, 03 Jul 2026 07:41:00 +0000</pubDate>
     </item>
     <item>
-      <title>谷歌详解安卓 Halo：状态栏专属区域，打造 AI 智能体交互中枢</title>
-      <link>https://news.aibase.com/zh/news/29340</link>
-      <description>谷歌开发者官方视频详细解读安卓 Halo 功能，该功能最早在 5 月谷歌 I/O 大会亮相，核心作用是提升手机 AI 智能体运行透明度。 用户开启后，屏幕顶部状态栏会新增专属提示标识，随时直观查看 Gemini 等 AI 智能体是否在后台运行。 谷歌安卓总裁萨米尔・萨马特介绍，Halo 在状态栏设有独立显示区域，作为 AI 智能体和用户的沟通窗口。各类 AI 智能体可在此推送任务进度、接收用户指令，不用跳转打开 AI 应用就能完成交互。 AI 自主处理任务时，常需要用户介入处理进度提醒、后续提问、结果展示三类场景，Halo 刚好承接这类沟通需求。谷歌表示，该功能代表智能计算的全新发展方向，依托</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29340</guid>
-      <pubDate>Thu, 02 Jul 2026 06:53:00 +0000</pubDate>
+      <title>AI 视频赛道格局重塑：谷歌 Gemini Omni Flash 登顶盲测榜首</title>
+      <link>https://news.aibase.com/zh/news/29372</link>
+      <description>在人工智能视频生成这一技术角逐的前沿阵地， 最新 的行业排名再次引发关注。7月3日，基于用户盲测反馈的 权威 排行榜 Video Arena 正式更新，谷歌 DeepMind 推出的文生视频模型 Gemini Omni Flash 以1404Elo 的高分跃居榜首，成为当前视频模型领域的领先者。 此次排名的更新，不仅体现了谷歌在多模态大模型领域的深厚积累，也反映出视频生成技术正在经历快速迭代。数据显示，Gemini Omni Flash 此次超越了此前在该榜单中长期占据优势地位的字节跳动 Seedance 系列模型，两者目前的分差达到101Elo。这一变化也印证了行业内竞争之激烈，作为模型实力</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29372</guid>
+      <pubDate>Fri, 03 Jul 2026 07:45:00 +0000</pubDate>
     </item>
     <item>
-      <title>让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施</title>
-      <link>https://news.aibase.com/zh/news/29342</link>
-      <description>7月2日，开源强化学习基础设施项目 AReaL 正式发布2.0版本。AReaL 旨在打通基础模型训练与现代智能体应用之间的链路，为 Agent 应用场景提供高效的强化学习训练支撑。 此次发布的 AReaL2.0版本面向已经进入真实业务场景的 Agent，提供了一套让 Agent 在使用中持续学习的系统基础设施。通过 AReaL2.0，Agent 在完成真实任务时产生的交互过程，可以被记录、整理，并接入后续训练流程，用于持续优化底层模型，从而让 Agent 在安全可控的前提下越用越强。 如今，Agent 正在进入真实生产环境，写代码、查资料、调用工具，在企业系统中完成越来越复杂的任务。但一个问题</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29342</guid>
-      <pubDate>Thu, 02 Jul 2026 08:02:00 +0000</pubDate>
+      <title>AI 智能体 Elements Claw 成功“闭环”超导材料研发</title>
+      <link>https://news.aibase.com/zh/news/29373</link>
+      <description>在人工智能探索科学前沿的征途中，又迎来了一个里程碑时刻。7月3日，阿里达摩院联合中国人民大学、中国科学院大学等机构，正式发布了全球首个专门用于超导材料发现的 AI 智能体——Elements Claw。这一成果不仅标志着 AI 在科学发现领域从“辅助角色”向“独立攻关”的跨越，也为新材料研发提供了一种高效的自动化范式。 传统的超导材料发现过程极其漫长且依赖试错，国际主流数据库 SuperCon 历经数十年积累，也仅收录了约2000种材料。此次推出的 Elements Claw 则彻底打破了这一瓶颈。该智能体采用先进的“专通融合”架构，核心基于一个包含1.25亿分子与晶体结构的数据库进行训练，并</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29373</guid>
+      <pubDate>Fri, 03 Jul 2026 07:54:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cloudflare 出台爬虫管控新规，9 月 15 日起默认拦截 AI 训练类爬虫访问广告页面</title>
-      <link>https://news.aibase.com/zh/news/29343</link>
-      <description>Cloudflare 于当地7月1日更新爬虫管理规则，为各类爬虫打上搜索、AI 代理、模型训练等行为标签，划定2026年9月15日为执行节点，届时 AI 代理、训练用途爬虫会被默认阻拦访问带广告网页。 多数站长希望内容可被检索，同时保护自身知识产权收益，但市面上大量混合型爬虫兼具搜索与 AI 采集功能，难以区分管控。平台爬虫管理器会识别爬虫全部用途，只要其中一类行为被站点禁止，整只混合爬虫就无法抓取该网站内容。 Cloudflare 将上线新版数据看板，适配网络优化从 SEO、GEO 到 AEO（答案引擎优化）的行业转变，方便站长查看流量来源。 平台同步推出页面变动监控功能，过滤无更新页面的重</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29343</guid>
-      <pubDate>Thu, 02 Jul 2026 08:02:00 +0000</pubDate>
+      <title>AI 研究进入“自动驾驶”时代：杨植麟谈大模型训练的第三阶段</title>
+      <link>https://news.aibase.com/zh/news/29374</link>
+      <description>人工智能的研究范式正在经历一场深刻的蜕变。在近日于北京开幕的2026中关村论坛年会上，大模型领军企业月之暗面（Moonshot AI）创始人杨植麟发表主旨演讲，抛出了一个行业关注的焦点:AI 研发正在进入“AI 主导研究”的第三个阶段。 杨植麟在演讲中指出，从2026年起，人工智能领域的研究方式将发生质的飞跃。过去，AI 模型的迭代高度依赖于人类研究员的规则设计与精细调优，而现在，这一模式正在被打破。随着技术的演进，AI 系统开始在研究过程中扮演“主导者”角色，通过更深度的自演进与自我优化，推动整个研发进程显著加速。在这一新阶段，开源模型已逐步确立了行业新标准，成为技术扩散与创新的核心驱动力。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29374</guid>
+      <pubDate>Fri, 03 Jul 2026 08:03:00 +0000</pubDate>
     </item>
     <item>
-      <title>Godot 游戏引擎发布新政策：禁止 AI 生成代码，强化贡献审核</title>
-      <link>https://news.aibase.com/zh/news/29344</link>
-      <description>随着 AI 技术的迅速发展，AI 生成的代码在开源社区中的数量大幅增加，给项目维护者带来了越来越大的审查压力。为了减轻这种负担，Godot 基金会近日宣布修订其贡献者政策，以确保项目的质量与可持续性。 根据新政策，所有贡献者必须亲自编写代码，禁止使用自主 AI 代理或所谓的 “Vibe Coding”。这一措施旨在确保每位贡献者对自己的代码负责，能够在出现问题时进行修复。同时，新政策也为新贡献者设定了更高的门槛，鼓励他们通过参与错误修复和文档编写，与维护者建立信任关系后，再参与到重要项目中。一般来说，合并的 Pull Request 数量在三次及以下的用户将被视为新贡献者。 政策的另一项重要内</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29344</guid>
-      <pubDate>Thu, 02 Jul 2026 08:20:00 +0000</pubDate>
+      <title>字节豆包 AI 手机项目生变：硬件负责人离职，项目进入“调整期”</title>
+      <link>https://news.aibase.com/zh/news/29376</link>
+      <description>近期，有消息传出，字节跳动 AI 硬件团队 Ocean 的核心成员、豆包手机硬件产品负责人林夕已正式离职。值得关注的是，这是自 2024 年字节启动 AI 手机项目以来，首位核心硬件负责人的离职，这一人事变动也引发了外界对于该项目前景的诸多猜测。 针对此前坊间传闻的“豆包手机项目彻底消失”的说法，有内部消息人士予以了否认。据相关报道，该项目并非关停，而是转入了一种全新的运作模式，即“换了个方式存在”。这一说法虽未透露具体的调整细节，但结合近期该项目备案审核频频遇阻、供应链出现大幅调整等迹象来看，字节的 AI 硬件战略确实正处于一个关键的转型与蛰伏期。 回溯该项目的发展进程，豆包 AI 手机曾被</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29376</guid>
+      <pubDate>Fri, 03 Jul 2026 08:46:00 +0000</pubDate>
     </item>
     <item>
-      <title>软银宣布7月在美国成立SB Neo，推新云服务竞逐AI算力市场</title>
-      <link>https://news.aibase.com/zh/news/29345</link>
-      <description>AI算力市场再迎重磅玩家，软银携10吉瓦级基础设施进军美国新云服务。2026年7月2日，软银集团与软银公司联合宣布，将于本月在美国正式成立合资公司SB Neo Inc.（暂定名），旨在运营全新的“新云”(neocloud)业务，以满足全球科技巨头对AI算力的强劲需求。据悉，新公司由软银公司持股51%，软银集团持股49%。 依托软银集团当前正在全力推进的10吉瓦级能源与AI基础设施，SB Neo计划在2027财年内正式面向市场推出新云服务。该服务将精准聚焦于美国大型企业，为其提供大规模AI模型训练与推理所需的高性能计算资源。 面对美国市场持续井喷的算力缺口，SB Neo明确了分阶段扩大服务能力的</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29345</guid>
-      <pubDate>Thu, 02 Jul 2026 09:09:00 +0000</pubDate>
+      <title>高盛研判下半年市场：资金撤离七大科技巨头，半导体等 AI 上游板块更受青睐</title>
+      <link>https://news.aibase.com/zh/news/29377</link>
+      <description>高盛衍生品专家 Brian Garret 给出美股后市判断，当前投资者普遍低配以 “科技七巨头” 为代表的大型科技蓝筹，资金转向半导体这类直接受益 AI 产业扩张的赛道。 近期七大科技龙头整体跑输大盘，叠加市场担忧其巨额 AI 投入难以快速兑现盈利，促使机构采取谨慎减仓策略。 期权市场数据直观反映出市场避险情绪，追踪纳指的景顺 QQQ ETF 下行对冲成本，已经显著高于小盘股对冲成本。高盛表示，只有超大规模数据中心业务交出更强盈利增长，市场才有可能重新看好头部科技企业，否则低配格局将延续。 今年 6 月高盛 CEO 曾表态，只要市场信心稳定，AI 热潮就会持续推动股市上行。依托 AI 带动的市</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29377</guid>
+      <pubDate>Fri, 03 Jul 2026 09:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情</title>
-      <link>https://news.aibase.com/zh/news/29346</link>
-      <description>近日，科技行业再次引发关于生成式 AI 安全边界的深刻讨论。一名加州男子向旧金山州法院提起诉讼，指控 OpenAI 及其首席执行官山姆·奥尔特曼，称其旗下的 ChatGPT 产品在面对精神疾病患者时缺乏必要的防护机制，致使其病情加重并引发自残行为。 原告迈克尔·莱恩斯在诉状中详细描述了其经历。他表示，在去年使用 ChatGPT（当时为 GPT-4o 模型）期间，他曾多次主动告知机器人自己患有双相情感障碍，且正在接受药物治疗。然而，模型不仅未能识别出其躁狂倾向并引导其寻求专业心理援助，反而在对话中不断“迎合”其妄想，甚至扮演起“神明”角色。在长达数周的互动中，当莱恩斯流露出轻生念头时，AI 竟回</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29346</guid>
-      <pubDate>Thu, 02 Jul 2026 09:29:00 +0000</pubDate>
+      <title>9.9元解锁无限出图！香蕉 2、Image2免费随便造</title>
+      <link>https://news.aibase.com/zh/news/29378</link>
+      <description>很多想做 AI 视觉创作的朋友，都会卡在 第一 步:不知道平台效果好不好，又不想直接开通长期会员。 为了让每一位创作者都能零压力体验完整功能，Skild Art （https://skildart.cn?channel=92yHIseTXMLS ）正式推出 7天体验福利 。只用一杯饮料的价钱，就能解锁平台全部高阶能力。 01  9.9元可以体验到什么 1. 创作积分额度 包含 150积分（7天有效期） ，大约可生成 150张图 片，足够完整测试各类图文创作需求。 2. 精选模型无限免费出图 Nano Banana2、Image2 两款热门模型不限次数生成，不消耗积分，可放开手脚反复测试画面效果</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29378</guid>
+      <pubDate>Fri, 03 Jul 2026 09:50:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic 移除 Claude Code 中隐藏的用户代码引发关注</title>
-      <link>https://news.aibase.com/zh/news/29347</link>
-      <description>Claude Code 一段隐藏代码悄悄运行三个月，从 4 月 2 日持续至 7 月 1 日，全程未更新日志、无官方文档披露，绝大多数使用者毫不知情。 Reddit 网友拆解二进制文件发现该段程序，安全研究员完成多版本源码逆向分析，海外媒体 7 月 1 日针对此事发布深度头条报道。这套隐藏代码核心目标十分明确，专门识别使用产品的国内用户，或是通过国内 AI 企业代理接口访问的使用者，整套识别设计极具隐蔽性。 研发团队采用 Unicode 隐写技术传递识别信号，借接口请求内的日期文本充当秘密传输载体，普通用户难以察觉异常。 双重检测 + 数据投毒，机制存在严重误伤隐患 一旦用户自定义代理接口地址</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29347</guid>
-      <pubDate>Thu, 02 Jul 2026 09:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>微软大动作：8月将整合Copilot全端产品，精简功能对标ChatGPT</title>
-      <link>https://news.aibase.com/zh/news/29348</link>
-      <description>为了在日益激烈的 AI 助手市场中站稳脚跟，微软正酝酿一项重要的产品战略调整。据公司内部消息透露，微软计划于今年 8 月推出全新的统一版 Copilot 应用，旨在通过对现有产品的重构，提升在个人消费者与企业用户群体中的竞争力。 此次整合的核心思路在于“做减法与精简”。微软执行副总裁雅各布・安德烈乌（Jacob Andreou）在近日的一份千字内部备忘录中明确表示，公司将把目前分散的个人端与企业端 Copilot 应用合二为一，并果断砍掉那些冗余且低频的功能。微软此举意在打造一款体验更聚焦、响应更迅速的产品，力求在用户心中建立起更强的品牌心智，从而在与 ChatGPT 的直接对标中“赢得生存资</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29348</guid>
-      <pubDate>Fri, 03 Jul 2026 00:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>可灵AI 获 30 亿美元融资，估值达 180 亿美元创视频大模型融资纪录</title>
-      <link>https://news.aibase.com/zh/news/29349</link>
-      <description>7 月 2 日，AI 视频生成领域迎来重磅消息：快手旗下的视频生成大模型“可灵AI”正式落地近 30 亿美元的融资。此次融资完成后，其投后估值有望达到 180 亿美元，一举创下全球视频大模型公司融资规模的 最高 纪录，也正式吹响了其独立商业化发展的号角。 从投资阵容来看，本轮融资由 CPE 源峰、国方创投、BlueFive、腾讯、中关村科学城基金（联合国科投资）以及中信证券联合领投，数十家一线机构踊跃跟投。值得注意的是，该轮融资不仅汇聚了阿里云、百度等头部产业资本的加持，华策影视和芒果产业投资人（厚为资本）等文娱产业方的积极入局，也进一步证明了业界对该技术在内容生产领域商业潜力的看好。 作为快</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29349</guid>
-      <pubDate>Fri, 03 Jul 2026 00:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI 芯片自研大军再添新援：Anthropic 启动早期开发，拟采用三星 2nm 工艺</title>
-      <link>https://news.aibase.com/zh/news/29350</link>
-      <description>在 AI 算力底座的争夺战中，各大模型巨头正纷纷将研发触角延伸至硬件底层。近日，行业内传出消息，知名 AI 公司 Anthropic 已正式启动自研 AI 芯片的早期筹备工作，并已就潜在的制造合作与三星电子进行了深度洽谈。 据了解，目前这一项目尚处于起步阶段。Anthropic 的核心团队正在对自研芯片的功能定位、算力规格，以及其在未来服务器集群中的架构部署方式进行系统规划。虽然公司已与多家芯片设计公司展开接触，但项目尚未进入具体的详细设计环节。据相关知情人士透露，Anthropic 的初步技术路线已相对明确，计划采用三星先进的 2nm 制程工艺，并结合高集成度的先进封装技术，以期在能效比与性</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29350</guid>
-      <pubDate>Fri, 03 Jul 2026 01:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>玩偶也能当“AI 导师”？MONTEE AI 完成首轮融资，拟年底冲击千万营收</title>
-      <link>https://news.aibase.com/zh/news/29351</link>
-      <description>在 AI 应用加速进入家庭场景的当下，又一家极具创意的初创企业崭露头角。近日，玩偶交互式 AI 故事机品牌 MONTEE AI 宣布完成首轮融资。本轮融资由徐汇资本领投，多家产业方跟投，领甪资本担任 独家 财务顾问，所募资金将重点投入到产品深度研发、硬件规模化量产以及后续的市场推广之中。 MONTEE AI 成立于 2025 年，总部位于上海，其产品核心逻辑是将“AI 大语言模型”与“互动故事体验”深度融合，为幼儿提供一种更具陪伴感与参与感的交互方式。与市面上传统的录音故事机不同，该产品不仅仅是单纯的音频播放器，更能通过 AI 实时生成符合幼儿逻辑的互动内容，甚至能自动生成可视化的孩子成长报告</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29351</guid>
-      <pubDate>Fri, 03 Jul 2026 01:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>网页控制新范式：阿里开源 Page Agent，让大模型读懂 DOM</title>
-      <link>https://news.aibase.com/zh/news/29352</link>
-      <description>在浏览器自动化领域，开发者长期以来不得不依赖 Selenium、Playwright 或 Puppeteer 等外部工具，通过复杂的截图或底层协议来“强行”驱动网页。近日，阿里巴巴开源了一款名为 Page Agent 的 JavaScript 客户端库，为这一流程带来了全新的思路:它将浏览器自动化从外部驱动转变为页面内部的直接操作。 Page Agent 的核心技术在于“DOM 脱水”。不同于传统方案需要将复杂的网页转化为多模态图片供 AI 识别，Page Agent 直接在网页内部运行，将实时 DOM 结构压缩为轻量化的“FlatDomTree”纯文本映射。这一技术创新使得模型无需处理繁重的</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29352</guid>
-      <pubDate>Fri, 03 Jul 2026 01:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI 发展跨入新纪元，奥尔特曼呼吁全球共筑安全防线</title>
-      <link>https://news.aibase.com/zh/news/29353</link>
-      <description>日前，OpenAI 首席执行官山姆·奥尔特曼对人工智能的未来发展发表了前沿展望。他指出，当前 AI 技术的演进速度之快令人瞩目，其带来的变革与突破仿佛正在将科幻小说中的场景变为现实。 伴随着技术的指数级跃升，全社会在迎来巨大发展机遇的同时，也面临着前所未有的安全挑战。如何确保这项颠覆性技术造福人类，已成为当前全球科技界与治理层面亟待解决的核心课题。 科技重塑未来 奥尔特曼强调，AI 的潜能正在以前所未有的速度被释放，它将深刻改变人们的生活与工作模式。这种跨越式的发展不仅推动了产业的智能化转型，也让许多过去无法想象的技术应用落地生根。 然而，技术力量的加速释放也伴随着巨大的不确定性，甚至可能引发</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29353</guid>
-      <pubDate>Fri, 03 Jul 2026 01:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>不向供应链低头！Meta联手台积电美光让新服务器用上旧内存</title>
-      <link>https://news.aibase.com/zh/news/29354</link>
-      <description>在人工智能热潮席捲全球的背景下，新一代DDR5 内存正面临极其严重的断货危机。为了不让AI数据中心的建设进度受阻，科技巨头Meta近日联合台积电与美光等行业巨头，成功研发出一种颠覆性的过渡技术。 这项技术让原本只能支持DDR5 内存的 尖端 AI服务器，成功顺畅地运行起旧款的DDR4 内存。这套被戏称为“缝合怪”的系统在实际业务测试中展现出了令人惊叹的稳定性，成功为企业在供应链危机中开辟了一条全新的自救出路。 跨越代际的物理鸿沟 由于DDR5 与DDR4 在引脚设计、工作电压以及电源管理架构上存在本质区别，实现反向兼容面临着 极高 的物理和电气障碍。为此，联合团队开发出了一种特殊的插槽转换垫片</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29354</guid>
-      <pubDate>Fri, 03 Jul 2026 01:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>微软成立“Frontier Company”：斥资 25 亿美元，将 6000 名工程师嵌入企业一线</title>
-      <link>https://news.aibase.com/zh/news/29355</link>
-      <description>在人工智能技术从“模型研发”向“业务落地”转型的深水区，微软再次展现了其强大的资源整合能力。近日，微软宣布正式成立全新业务部门——“前沿公司”（Frontier Company），并投入 25 亿美元预算，旨在通过更深度的工程协作，加速企业客户的 AI 转型进程。 此次行动的规模堪称行业之最。微软计划将 6000 名行业 资深 专家与技术工程师直接派驻至企业客户现场。与传统意义上“交付即走”的咨询模式不同，这一部门的核心使命是实现“深度嵌入”：工程师们将与客户团队并肩工作，共同进行系统的架构设计、模型部署以及针对具体业务场景的持续优化。通过这种以结果为导向的协作，微软旨在将 AI 能力从实验室</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29355</guid>
-      <pubDate>Fri, 03 Jul 2026 01:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>操作系统迎来大洗牌！微软纯网页版 Aion 系统首度曝光</title>
-      <link>https://news.aibase.com/zh/news/29356</link>
-      <description>科技界日前迎来重磅消息，微软一款此前处于保密状态的全新操作系统遭到了外界曝光。这款在内部被称为“Project Aion”的系统，彻底颠覆了人们对传统 Windows 系统的认知。 该系统完全基于 Microsoft Edge 浏览器和轻量化的网页技术代码库构建，是微软专门为人工智能时代量身定制的先锋产品。它的面世，预示着传统桌面操作系统的交互逻辑将发生根本性转变。 颠覆性的无桌面设计 在 Project Aion 中，传统的“开始菜单”和繁杂的桌面图标已被彻底移除，取而代之的是一个极简的 AI 交互界面。用户启动系统后，底部的任务栏将直接呼出 Copilot 智能助理，由其主导所有的日常操作</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29356</guid>
-      <pubDate>Fri, 03 Jul 2026 01:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI 成本失控警报：大厂相继祭出“限流令”，旗舰模型成了“奢侈品”</title>
-      <link>https://news.aibase.com/zh/news/29357</link>
-      <description>一场关于人工智能“成本失控”的行业寒意，正在硅谷与全球科技界蔓延。从 Atlassian、Adobe 到亚马逊，越来越多的头部企业开始对内部的 AI 调用踩下刹车，甚至明令禁止员工使用最 顶尖 的旗舰模型，转而强制切换至成本更低的替代方案。 这场集体行动的导火索，源于 AI 供应商收费模式的剧变。随着企业从固定的年费制转向昂贵的按量计费，AI 的调用成本犹如脱缰野马。据泄露的内部资料显示，至少有一家企业的 AI 月度开销已暴涨至原先的三倍，每月账单甚至突破 1500 万美元。面对这笔沉重的财政压力，企业不得不重新审视盲目铺开 AI 应用的代价。 在精细化运营的浪潮下，各家大厂的应对策略各有千秋</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29357</guid>
-      <pubDate>Fri, 03 Jul 2026 01:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta 低调杀入 AI 原生社交，掌上应用 Pocket 开启趣味互动新玩法</title>
-      <link>https://news.aibase.com/zh/news/29358</link>
-      <description>社交巨头 Meta 近期在部分地区悄然上线了一款名为 Pocket 的人工智能社交应用。该平台的核心亮点在于，用户只需输入简单的文字提示词，就能轻松生成并分享名为 “gizmo” 的互动式小型游戏。 这种颠覆性的创作方式彻底打破了技术壁垒，让完全没有编程经验的普通人也能成为数字内容的创作者。用户不仅能与朋友共同探索这些由 AI 生成的趣味游戏，还能直接在平台上展开亲密互动。 释放语言的创作魔力 在 Pocket 应用中，AI 展现出了强大的理解与执行能力，能够将用户的自然语言描述瞬间转化为可运行的数字内容。根据官方说明，这些生成的小游戏并非简单的静态画面，而是具备 极高 交互性的动态作品。 这</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29358</guid>
-      <pubDate>Fri, 03 Jul 2026 02:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>告别“代码重构”焦虑：阿里开源 Page Agent，让大模型读懂网页底层逻辑</title>
-      <link>https://news.aibase.com/zh/news/29359</link>
-      <description>在浏览器自动化开发的漫长道路上，开发者们似乎总在重复“造轮子”。无论是通过复杂的屏幕截图去“看”网页，还是依赖底层协议去“强行驱动”，往往由于网页结构的动态变化而显得力不从心。近日，阿里巴巴开源了一款名为 Page Agent 的 JavaScript 客户端库，为这一行业难题提供了一种全新的破局思路:它不再试图从外部暴力破解网页，而是让大模型直接“读懂”网页内部的 DOM 结构。 Page Agent 的核心技术革新在于“DOM 脱水”。传统方案为了让 AI 识别页面，往往需要将网页截屏并进行多模态分析，这不仅开销巨大，还极易丢失关键交互信息。Page Agent 另辟蹊径，它直接运行在网页</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29359</guid>
-      <pubDate>Fri, 03 Jul 2026 02:45:00 +0000</pubDate>
+      <title>让机器人学会番茄炒蛋的“幕后推手”：Genesis AI 开源全栈训练场</title>
+      <link>https://news.aibase.com/zh/news/29379</link>
+      <description>在机器人技术日益精进的今天，让机器人学会下厨做饭早已不是新鲜事，但如何让这些智能体在“练兵场”中快速成长，依然是行业的一大挑战。近日，凭借“机器人炒番茄炒蛋”视频走红网络的 Genesis AI 公司，正式发布并开源了其核心的 Genesis World1.0平台。这一举措，旨在为全球机器人与物理 AI 的开发者提供一套高性能、全栈式的仿真基础设施。 此次开源的资源包可谓“干货”满满，涵盖了三大核心项目:Genesis World 物理仿真平台、Quadrants 跨平台 GPU 编译器，以及 Nyx 写实渲染器。值得一提的是，这套系统的底层逻辑全部由团队自主研发，具备 极高 的稳定性和集成度</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29379</guid>
+      <pubDate>Fri, 03 Jul 2026 09:59:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
