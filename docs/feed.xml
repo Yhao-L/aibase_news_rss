@@ -8,139 +8,104 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 04 Jul 2026 02:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 03:28:05 +0000</lastBuildDate>
     <item>
-      <title>AI 行情带动股市走强，瑞银报告：2025 年全球新增近百万美元富翁</title>
-      <link>https://news.aibase.com/zh/news/29360</link>
-      <description>瑞银发布 最新 财富统计数据，AI 热潮拉动全球股市上行，直接推动富豪群体规模大幅扩张，全球财富增速创下近年新高。过去一年全球个人财富整体上涨 10.8%，而亿万富豪资产平均增幅达 25%，财富增长红利明显向顶层人群倾斜。 全球亿万富翁数量同比增长 13%，总数达到 3302 人，财富 500 亿至千亿美元、超千亿美元梯队分别有 18 人、19 人，其中绝大多数 顶级 富豪定居美国。2025 年全球新增近百万名百万美元富翁，总规模突破 5750 万，美元走弱也助推不少人达标百万身家门槛。 美国新增超 44 万名百万富翁，新增数量居全球首位，但本国富豪增速仅 1.9%；土耳其、阿联酋等欧洲、中东</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29360</guid>
-      <pubDate>Fri, 03 Jul 2026 03:06:00 +0000</pubDate>
+      <title>年费 51 万送孩子上"AI私塾"：美国富人正在用真金白银押注教育革命</title>
+      <link>https://news.aibase.com/zh/news/29380</link>
+      <description>当大多数美国人还在对人工智能心存疑虑时，一部分富裕家庭已经开始用真金白银下注AI教育。他们舍弃传统学校，将孩子送入Forge Prep、Alpha School等机构，让孩子充当AI辅导工具与"互动式项目实践课堂"的测试体验者，年费高达7. 5 万美元（约合 51 万元人民币）。 硅谷投资人带头"吃螃蟹" 不出意料，硅谷人群是这种新型教育模式的主要追捧者。常驻旧金山的风险投资人肖恩·约翰逊在接受《华尔街日报》采访时表示，他打算送儿子就读年费7. 5 万美元的Alpha School。他的理由直截了当："我们当下的教育体系显然存在弊病，势必会有创业者想办法革新它。我们希望孩子能临场应变、适应现实</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29380</guid>
+      <pubDate>Mon, 06 Jul 2026 00:52:00 +0000</pubDate>
     </item>
     <item>
-      <title>甲骨文的 AI 豪赌：巨额基建背后的“账单焦虑”</title>
-      <link>https://news.aibase.com/zh/news/29361</link>
-      <description>在人工智能算力竞赛白热化的当下，甲骨文公司正押注数千亿美元建设数据中心，试图在云计算版图中抢占先机。然而，随着庞大的基础设施逐渐落地，华尔街开始投下质疑的目光：如果 OpenAI 等核心大客户无法长期消化这些高昂的算力账单，甲骨文的这番“AI 豪赌”会不会演变成一场难以脱身的资产沉重负担？ 在近期发布的年度财务报告中，甲骨文罕见地对潜在风险进行了详尽披露。公司明确表示，若主要客户未能如约支付账单或选择不再续签合同，甲骨文将面临严重的资产搁置风险。由于这些高度定制化的算力设施难以在短时间内以理想条件进行改造或转租，一旦出现违约，这些巨额投资极可能转化为沉重的财务包袱。这种坦率的风险预警，在科技行</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29361</guid>
-      <pubDate>Fri, 03 Jul 2026 03:23:00 +0000</pubDate>
+      <title>Meta 调整 AI 开发节奏：Llama API 公共预览版将于明日下线</title>
+      <link>https://news.aibase.com/zh/news/29381</link>
+      <description>Meta 今日宣布，将正式下线其 Llama API 的公共预览（Public Preview）服务，该调整将于2026年7月6日正式生效。 自发布以来，Llama API 一直处于公共预览阶段，作为开发者体验与测试的窗口。随着 Meta 在开发者工具生态上的持续迭代与布局升级，这一阶段性的服务已完成其历史使命。据了解，在服务下线后，相关的 API 请求将不再获得响应，系统会返回停用提示，并为开发者提供相应的重定向指引，以协助其平稳过渡。 需要特别说明的是，此次调整仅针对 API 服务，Meta 的核心资产——Llama 模型本身并未受到任何影响。广大开发者和用户依然可以通过 Meta Lla</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29381</guid>
+      <pubDate>Mon, 06 Jul 2026 00:58:00 +0000</pubDate>
     </item>
     <item>
-      <title>腾讯游戏发布2026暑期未保专项，升级AI双引擎防沉迷模式</title>
-      <link>https://news.aibase.com/zh/news/29362</link>
-      <description>7月3日，腾讯游戏发布“2026年暑期未成年人保护专项行动”，除了按国家新闻出版署相关防沉迷规则限制未成年人每周游戏时长外，还额外加码推出了"AI双引擎防沉迷"新模式，结合AI技术应用，在游戏内、游戏外同步发力，筑牢未成年人健康游戏防火墙。 自21年国家防沉迷新规落地以来，游戏行业已形成以“游戏限时、限充”为主的未保体系，但家庭场景的复杂性让监管防线的实际效力大打折扣，"账号冒用"、"代过人脸"等问题仍是该领域普遍面临的难题，而腾讯游戏此次"AI双引擎防沉迷"模式的升级，正是针对性应对上述问题的重要举措。 游戏内，打击冒用、代过行为。 此次健康系统推出的"AI巡航"功能，进一步提升了防沉迷监管</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29362</guid>
-      <pubDate>Fri, 03 Jul 2026 03:40:00 +0000</pubDate>
+      <title>豆包、通义千问双双下线"AI拟人化"功能： 7 月 15 日新规落地，行业集体收缩</title>
+      <link>https://news.aibase.com/zh/news/29382</link>
+      <description>7 月 15 日，《人工智能拟人化互动服务管理暂行办法》将正式生效，中国两款主流AI应用已率先做出响应。字节跳动旗下的"豆包"和阿里巴巴集团的"通义千问"正准备下线可自定义的拟人化代理功能，成为新规落地前首批调整产品形态的头部平台。 豆包在周五晚间向用户发布通知，称其代理功能将于 7 月 15 日起下线，理由是"产品功能调整"。通知指出，自 10 月 15 日起，与该功能相关的数据将按照公司隐私政策处理，用户在应用内将无法继续查看或恢复相关内容。通义千问则更为紧迫，其"拟人化交互代理及用户创建的代理功能"将于 7 月 10 日停用，更广义的"通义代理功能与服务"将在 7 月 15 日全面下线，</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29382</guid>
+      <pubDate>Mon, 06 Jul 2026 01:03:00 +0000</pubDate>
     </item>
     <item>
-      <title>Meta 出击 AI 游戏赛道：推出“灵感生成”新应用 Pocket</title>
-      <link>https://news.aibase.com/zh/news/29363</link>
-      <description>在人工智能创作工具的战场上，Meta 近期动作频频。继此前推出的 AI 绘图应用以及视频剪辑工具之后，这家科技巨头又悄然上线了一款名为 Pocket 的创意游戏应用。 这款新产品的逻辑十分新颖:它允许用户通过简单的 AI 提示词，即时生成小型、具备互动性的“Gizmo”应用和游戏。简单来说，Pocket 就像是一个创意生成器，用户只需输入一段文字描述，AI 就能将其转化为可玩的小游戏。此外，Pocket 还内置了一个信息流，方便用户探索并体验他人创作的游戏作品，让“玩”与“造”形成闭环。 这款应用的技术基因源于 Meta 今年早些时候对 Gizmo 团队的收购。从目前已披露的界面来看，Pock</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29363</guid>
-      <pubDate>Fri, 03 Jul 2026 05:49:00 +0000</pubDate>
+      <title>Anthropic 开启百亿级算力豪赌，拟在澳大利亚加码千兆瓦数据中心</title>
+      <link>https://news.aibase.com/zh/news/29383</link>
+      <description>近日，业界传出消息，人工智能大模型厂商 Anthropic 计划在澳大利亚采购规模至少1.4GW 的数据中心算力。这一大手笔投资预计将耗资150亿美元（约合216亿澳元），其规模之大，远超此前市场的预估。 据知情人士透露，为了支撑这一宏大的基础设施布局，Anthropic 已经明确了清晰的时间表:目标是在2027年底之前，完成至少1GW 算力资源的启用。为了确保项目的顺利推进与高效运营，该公司已在当地设立了专门的办公室，意在通过本土化的深耕，快速打通算力建设的供应链与落地渠道。 这一动作不仅被视为 Anthropic 强化全球算力矩阵的关键一步，也反映出头部 AI 企业对能源与算力基础设施的掌</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29383</guid>
+      <pubDate>Mon, 06 Jul 2026 01:21:00 +0000</pubDate>
     </item>
     <item>
-      <title>阿里巴巴内部“反向禁用”：全面下架 Claude 系列 AI 工具</title>
-      <link>https://news.aibase.com/zh/news/29364</link>
-      <description>日前，有消息传出阿里巴巴已在内部下发指令，要求全体员工停止使用 Anthropic 旗下的 Claude 系列产品。此次禁令范围涵盖 Sonnet、Opus、Fable 等主流模型，以及 Claude Code 等智能体工具，并设定7月10日为最后期限。 回顾今年以来的内部政策，阿里在 AI 应用上的态度曾一度非常开放。为了加速业务智能化转型，公司不仅提供了内部模型的免费额度，还针对外部模型推出了慷慨的报销方案。在这一政策激励下，员工对 Claude、GPT 等 顶尖 模型的依赖度迅速攀升，部分程序员每周消耗的调用额度甚至高达数百美元。然而，随着 AI 算力与数据安全风险的日益凸显，这一开放窗</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29364</guid>
-      <pubDate>Fri, 03 Jul 2026 06:24:00 +0000</pubDate>
+      <title>Google 重拳出击：Gemini 3.5 Pro 锁定 7 月 17 日发布，全面对垒 DeepSeek V4</title>
+      <link>https://news.aibase.com/zh/news/29384</link>
+      <description>近日，有消息证实，备受关注的 Google 旗舰大模型 Gemini3.5Pro 将于7月17日正式亮相。这一发布节点极为微妙——正值 DeepSeek V4正式版发布之际，两款 顶级 大模型的“同场竞技”无疑将成为 AI 业界的一大看点。 在此前5月份的 Google I/O 大会上，Gemini3.5Pro 原定于6月发布，但最终因故延期。据内部知情人士透露，此次跳票并非单纯的技术瓶颈，而是 Google 团队做出了一个战略抉择:宁愿推迟发布，也要跳过对旧版本 Gemini2.5Pro 的微调，转而投入额外时间进行全新的预训练。这一决定旨在通过更深层的算力投入，为模型带来性能上的质变。 从</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29384</guid>
+      <pubDate>Mon, 06 Jul 2026 01:25:00 +0000</pubDate>
     </item>
     <item>
-      <title>自由职业者危机？最新AI模型攻克16%远程项目，设计圈变天了</title>
-      <link>https://news.aibase.com/zh/news/29365</link>
-      <description>AI安全中心 最新 发布的远程劳动指数显示，人工智能在远程办公自动化领域取得了突破性进展。其中，全新的Claude Fable5 模型以16.1%的自动化率刷新了该项基准测试的历史纪录。 这项测试严格按照工业标准进行，主要评估AI智能体在3D建模、建筑设计、平面设计及视频动画等真实自由职业项目中的表现。评测的核心指标在于计算AI生成的产品中，质量达到或超过人类专业人员交付物的比例。 打破历史纪录的惊人跃升 在本次突破之前，该项测试的 最高 纪录仅为4.17%，由基于特定框架的Opus模型所保持。令人惊叹的是，在远程劳动指数上线短短八个月内，AI的 最高 得分就从最初的2.5%飙升至如今的16.</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29365</guid>
-      <pubDate>Fri, 03 Jul 2026 06:24:00 +0000</pubDate>
+      <title>影坛版权博弈升级：Midjourney 要求好莱坞制片厂“自证清白”</title>
+      <link>https://news.aibase.com/zh/news/29385</link>
+      <description>好莱坞制片厂与生成式 AI 之间的版权拉锯战，正演变成一场相互审视的“证据公开”较量。在迪士尼、环球影业及华纳兄弟针对 Midjourney 提起的版权诉讼案中，作为被告的 Midjourney 采取了反向攻势，要求制片厂披露其内部业务中应用 AI 技术的具体细节。 这场法律争议的核心在于证据开示（discovery）的范畴。此前，法庭裁定制片厂仅需提供最终“面向消费者”的视频和图像相关文件。然而，Midjourney 明确表示不接受这一限制，并指责该界定存在选择性，意在剥夺其获取有利抗辩证据的权利。Midjourney 认为，这些被扣留的文件，恰恰能够揭示制片厂是否在“幕后”进行着与起诉书中</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29385</guid>
+      <pubDate>Mon, 06 Jul 2026 01:29:00 +0000</pubDate>
     </item>
     <item>
-      <title>Claude 旗舰模型 Fable 5 开启“按需付费”模式，订阅用户权益受限</title>
-      <link>https://news.aibase.com/zh/news/29366</link>
-      <description>近日，Anthropic 公司宣布对其旗下性能 最强 的大模型——Claude Fable5进行访问权限调整。从7月7日起，该模型将正式从现有的各档订阅服务中移除，转而采用基于实际使用量的积分计费模式。 这一变动在用户群体中引发了不小的波澜。据了解，在7月7日之前，Pro、Max、Team 以及部分企业版订阅用户仍能将 Fable5模型纳入每周的 AI 使用限额中（ 最高 占比50%）。然而，随着下周这一期限的到来，订阅用户若想继续使用该模型，将不得不额外消耗使用积分，这意味着用户此前支付的固定订阅费，将不再包含这款旗舰模型的“无限畅享权”。 Anthropic 方面解释称，做出这一决定主要是</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29366</guid>
-      <pubDate>Fri, 03 Jul 2026 06:26:00 +0000</pubDate>
+      <title>具身智能的「ChatGPT时刻」临近：宇树科技描绘机器人产业新图景</title>
+      <link>https://news.aibase.com/zh/news/29386</link>
+      <description>在近期举行的 2026 亚布力论坛创新年会上，具身智能领域再次成为焦点。宇树科技联合创始人陈立在发言中指出，智能机器人行业正处于爆发前夜，未来两到五年将迎来关键性的技术与产业突破。 陈立将具身智能迎来类似人工智能领域「ChatGPT时刻」的标志性节点，总结为两个「80%」：即机器人能够在80%的陌生场景中，通过语音或文字指令，精准、顺畅地完成约80%的任务。他预判，随着这一目标的实现，具身智能机器人有望在四年后，即 2030 年左右引领一股全新的消费浪潮，并对社会生产力及劳动力结构产生深远影响。 为了推动这一愿景落地，陈立强调了行业发展所需的三大核心支柱：首先是构建统一的端到端机器人大模型，这</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29386</guid>
+      <pubDate>Mon, 06 Jul 2026 01:42:00 +0000</pubDate>
     </item>
     <item>
-      <title>地球的“数字名片”：中国发布全球首个地层学 AI 大模型</title>
-      <link>https://news.aibase.com/zh/news/29367</link>
-      <description>地球 46 亿年的漫长演化史，终于有了一个“智能管家”。近日，在苏州举办的第五届国际地层学大会上，中国科学家正式向全球发布了首个地层学 AI 大模型，以及与之配套的智能全球地层剖面对比系统。 地层学作为解读地球历史的“钥匙”，长期以来依赖于繁杂的野外考察与人工数据比对。此次发布的 AI 大模型与配套系统，旨在将全球地质数据进行整合，构建起一个真正的“共享数据库”。这不仅意味着地质学家们从此拥有了处理海量地质信息的“ 超级 大脑”，也标志着人类在数字化还原地球演化历程方面迈出了里程碑式的一步。 通过这一智能平台，不同国家和地区的地质数据能够实现高效的自动化比对，从而大幅降低了地层研究的门槛与复杂</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29367</guid>
-      <pubDate>Fri, 03 Jul 2026 06:28:00 +0000</pubDate>
+      <title>AI机器人来袭！日本计划部署千万台应对劳动力危机</title>
+      <link>https://news.aibase.com/zh/news/29387</link>
+      <description>日本政府正准备用人工智能机器人来填补日益严重的劳动力缺口。日本经济产业省近日公布了 最新 修订的《人工智能机器人战略》，明确提出了一项宏大的国家目标。该计划预计到 2040 年，将在全日本 18 个不同的行业领域中，正式部署总计 1000 万台AI机器人。这一举措的核心目的，是为了缓解由于人口老龄化和出生率持续低下所带来的整体劳动力短缺压力。 为了实现这一蓝图，日本政府正致力于在全球范围内构建先进的物理AI和机器人数据基础架构。官方希望通过这一基础建设，能够充分发挥本国在传统机器人制造与技术研发上的独特优势。 政府砸下重金，全力研发AI大模型 在驱动这些AI机器人的核心软件和模型开发方面，日本</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29387</guid>
+      <pubDate>Mon, 06 Jul 2026 01:47:00 +0000</pubDate>
     </item>
     <item>
-      <title>订阅制红利终结？Anthropic收紧最强AI模型，Claude Fable5 将按量计费</title>
-      <link>https://news.aibase.com/zh/news/29368</link>
-      <description>Anthropic公司近日宣布了一项新决定。该公司计划在 2026 年 7 月 7 日之后，正式从现有的订阅服务中移除其性能 最强 的AI模型——Claude Fable5 的访问权限。 这一举动意味着原本包含在会员权益中的核心功能将被剥离。对于习惯了包月或包年无限次使用的开发者及核心用户来说，未来的使用成本或将面临大幅度上升。 出口限制解除与全球重新部署 此前，美国商务部刚刚撤销了针对Fable和Mythos两款高端AI模型的出口限制。得益于政策放宽，Anthropic原本雄心勃勃地计划在全球范围内的各大平台上全面提供Fable5 服务。 然而由于该模型在全球范围内的需求量呈现出 极高 且难</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29368</guid>
-      <pubDate>Fri, 03 Jul 2026 06:39:00 +0000</pubDate>
+      <title>复旦期末开卷新高度：学生出题反向“调教”AI， 4 人斩获满分</title>
+      <link>https://news.aibase.com/zh/news/29388</link>
+      <description>复旦大学“数据挖掘技术”课程近日迎来了一场别开生面的期末考核。与传统坐在考场里答题的形式截然不同，这次的期末考试让全班同学悉数坐上了“出题人”的位置。 根据考核规则，每位学生需要独立设计 10 道具有 唯一 正确答案及完整推导过程的数据挖掘计算题，并用这些题目去测试三个不同能力梯度的AI模型。考核的得分逻辑非常具有颠覆性：AI被难倒的次数越多、答错的题越难，出题学生拿到的分数就越高。 传统考试在AI时代失效，倒逼教学模式变革 该课程负责人、复旦大学计算与智能创新学院肖仰华教授指出，传统的出题考察方式在如今的AI时代已经失去了原有的技术检测意义。如果老师依旧出一道标准的算法题，AI的计算速度和准</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29388</guid>
+      <pubDate>Mon, 06 Jul 2026 01:54:00 +0000</pubDate>
     </item>
     <item>
-      <title>广告治理迎来“视觉进化”：巨量引擎发布 Mamoda 2.5 版本，实现视频全形态覆盖</title>
-      <link>https://news.aibase.com/zh/news/29369</link>
-      <description>在数字化广告生态中，如何高效、准确地识别并治理违规内容，始终是行业治理的核心议题。7 月 3 日，巨量引擎正式发布了自研广告治理大模型 Mamoda 2.5 版本，标志着其在内容安全风控领域的技术迭代迈上了一个新台阶。 回溯该模型的发展历程，Mamoda 从 1.0 版本起步，最初仅具备文本内容的单点识别能力，主要负责过滤基础违规文字。随着大模型技术的不断演进，其能力边界迅速向多元化场景扩展。在 2.5 版本中，该模型已彻底打破了过去在处理复杂多媒体内容上的局限，实现了对图片、短视频等多种素材类型的全面覆盖，特别是对视频全形态的深层解析，让精准治理成为可能。 这一技术进展对于提升广告环境的清朗</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29369</guid>
-      <pubDate>Fri, 03 Jul 2026 06:52:00 +0000</pubDate>
+      <title>百年超导竞赛迎来AI破局： 28 小时精准筛选，锁定四种全新材料</title>
+      <link>https://news.aibase.com/zh/news/29389</link>
+      <description>在物理学界，探索超导体被誉为摘取「物理学圣杯」的百年征程。近日，这一传统科研领域迎来了一位强力的「AI队友」——由科研团队共同打造的专攻超导材料发现的AI智能体“ElementsClaw”（元素虾）。该系统在短短28个GPU小时内，便完成对240万种稳定晶体的全覆盖扫描，并筛选出6.8万种潜在超导体，其科研效率远超人类百年的摸索速度。 长期以来，寻找超导体多采用「炒菜式」科研法，即通过不断尝试不同元素的配比进行试错。这种方式不仅成功率极低，且往往依赖偶然发现。为改变这一困境，研究团队通过“通专融合”的架构，赋予了ElementsClaw独特的科研能力:其内置的10亿参数几何深度图神经网络，能精</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29389</guid>
+      <pubDate>Mon, 06 Jul 2026 02:09:00 +0000</pubDate>
     </item>
     <item>
-      <title>微软 AI PC 专属系统 Project Aion 曝光，彻底取消传统开始菜单</title>
-      <link>https://news.aibase.com/zh/news/29370</link>
-      <description>微软内部代号 Project Aion 的全新 AI 操作系统遭曝光，该产品此前处于严格保密状态，专为 AI PC 打造。整套系统依托 Edge 浏览器与网页轻量化技术搭建，交互逻辑完全区别于传统 Windows。 系统摒弃经典开始菜单与桌面图标，采用极简 AI 交互设计，底部任务栏可直接唤起 Copilot 承担全部操作入口。平台核心围绕信息流、内容创作、实时资讯打造，独创 “空间” 功能自动归类网页与应用，一键批量调取，优化多任务处理效率。 该系统不再支持 Windows 原生桌面软件，整体生态以 Web 应用为核心，所有程序均依托网页环境运行。 若用户有传统桌面软件使用需求，可借助 Wi</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29370</guid>
-      <pubDate>Fri, 03 Jul 2026 07:06:00 +0000</pubDate>
+      <title>李飞飞团队最新研究：告别昂贵的“虚实转换”，一段视频即可生成无限机器人训练场</title>
+      <link>https://news.aibase.com/zh/news/29390</link>
+      <description>在具身智能领域，“Sim2Real”（从仿真到现实）一直是绕不开的难题，不仅仿真环境搭建成本高昂，模型迁移到现实世界时也常出现性能折损。近日，由李飞飞团队联合英伟达GEAR实验室、佐治亚理工大学等多家机构共同发布的一项全新研究，为这一困境提供了新的破局思路:Real2Sim。 这项被称为“SimFoundry”的系统，通过一段真实世界的视频，即可自动生成一个具备交互能力、可进行训练与评测的机器人仿真环境。与传统的3D场景重建不同，SimFoundry实现了对真实世界的深度解析与重构，通过自动化技术大幅降低了仿真环境的搭建门槛。 SimFoundry的核心创新在于“数字孪生”与“数字表亲”的闭环</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29390</guid>
+      <pubDate>Mon, 06 Jul 2026 02:31:00 +0000</pubDate>
     </item>
     <item>
-      <title>英伟达双塔 AI 模型开源发布，文本生成速度提升 2.42 倍、画质保留 98.7%</title>
-      <link>https://news.aibase.com/zh/news/29371</link>
-      <description>英伟达 7 月 2 日推出 Nemotron-Labs-TwoTower 离散扩散语言模型，旨在解决大模型逐一生成 Token 速度慢的痛点，相关权重已在 Huggingface 开源。模型基于现有 Nemotron 骨干网络改造，复用预训练权重，无需从零完整训练，大幅降低开发成本。 60B 双塔架构，分工并行提升生成效率 模型总参数量 60B，拆分为两座 30B 独立神经网络协同工作，每塔激活 3B 参数，搭载 128 个可路由专家模块。上下文塔固定冻结，负责留存全文语义信息；去噪塔专门训练，依靠扩散机制并行生成文本，两塔通过交叉注意力互通数据。 传统模型逐 Token 串行输出，双塔架构可</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29371</guid>
-      <pubDate>Fri, 03 Jul 2026 07:41:00 +0000</pubDate>
+      <title>AI编程迎来“深度思考”：Deep Code正式适配DeepSeek-V4</title>
+      <link>https://news.aibase.com/zh/news/29391</link>
+      <description>在AI编程工具日趋激烈的竞争中，一款名为Deep Code的开源终端编程助手近日引发了开发者关注。这款工具的核心亮点在于实现了对DeepSeek-V4系列模型的深度适配，为追求高质量推理与代码生成的开发者提供了新的选择。 Deep Code并非一款全新的工具，其首个版本早在今年5月便已上线。经过多次迭代，目前的v0.1.31版本已经展现出成熟的开发辅助能力。该工具不仅支持VS Code插件模式，还提供了终端CLI版本，能够灵活融入开发者的日常工作流中。 作为一款基于智能体（Agent）架构的编程助手，Deep Code最显著的特性是强调“连续协作”能力。它能够结合项目上下文保留会话记录，这意味</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29391</guid>
+      <pubDate>Mon, 06 Jul 2026 02:47:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI 视频赛道格局重塑：谷歌 Gemini Omni Flash 登顶盲测榜首</title>
-      <link>https://news.aibase.com/zh/news/29372</link>
-      <description>在人工智能视频生成这一技术角逐的前沿阵地， 最新 的行业排名再次引发关注。7月3日，基于用户盲测反馈的 权威 排行榜 Video Arena 正式更新，谷歌 DeepMind 推出的文生视频模型 Gemini Omni Flash 以1404Elo 的高分跃居榜首，成为当前视频模型领域的领先者。 此次排名的更新，不仅体现了谷歌在多模态大模型领域的深厚积累，也反映出视频生成技术正在经历快速迭代。数据显示，Gemini Omni Flash 此次超越了此前在该榜单中长期占据优势地位的字节跳动 Seedance 系列模型，两者目前的分差达到101Elo。这一变化也印证了行业内竞争之激烈，作为模型实力</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29372</guid>
-      <pubDate>Fri, 03 Jul 2026 07:45:00 +0000</pubDate>
+      <title>巨资奔赴纳斯达克：SK海力士拟筹资 280 亿美元，剑指史上第二大IPO</title>
+      <link>https://news.aibase.com/zh/news/29392</link>
+      <description>在人工智能产业爆发式增长的背景下，全球存储芯片巨头SK海力士即将迎来其资本市场的“高光时刻”。根据监管申报文件披露，该公司计划于本周正式启动在美国纳斯达克的上市进程，筹资规模预计高达 280 亿美元，有望创下全球IPO史上第二高的募资纪录。 此次上市将通过发行存托凭证（ADR）的方式进行，即每 10 份存托凭证对应 1 股普通股。按照计划，公司将在本周敲定最终发行价格，并于周五正式在纳斯达克挂牌交易。为了确保这一重量级发行顺利落地，公司管理层已启动全球路演，向国际投资者推介其增长前景。 SK海力士此番动作，被市场视为AI基础设施商业化的关键信号。作为高带宽内存（HBM）芯片的核心供应商，SK海</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29392</guid>
+      <pubDate>Mon, 06 Jul 2026 02:59:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI 智能体 Elements Claw 成功“闭环”超导材料研发</title>
-      <link>https://news.aibase.com/zh/news/29373</link>
-      <description>在人工智能探索科学前沿的征途中，又迎来了一个里程碑时刻。7月3日，阿里达摩院联合中国人民大学、中国科学院大学等机构，正式发布了全球首个专门用于超导材料发现的 AI 智能体——Elements Claw。这一成果不仅标志着 AI 在科学发现领域从“辅助角色”向“独立攻关”的跨越，也为新材料研发提供了一种高效的自动化范式。 传统的超导材料发现过程极其漫长且依赖试错，国际主流数据库 SuperCon 历经数十年积累，也仅收录了约2000种材料。此次推出的 Elements Claw 则彻底打破了这一瓶颈。该智能体采用先进的“专通融合”架构，核心基于一个包含1.25亿分子与晶体结构的数据库进行训练，并</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29373</guid>
-      <pubDate>Fri, 03 Jul 2026 07:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI 研究进入“自动驾驶”时代：杨植麟谈大模型训练的第三阶段</title>
-      <link>https://news.aibase.com/zh/news/29374</link>
-      <description>人工智能的研究范式正在经历一场深刻的蜕变。在近日于北京开幕的2026中关村论坛年会上，大模型领军企业月之暗面（Moonshot AI）创始人杨植麟发表主旨演讲，抛出了一个行业关注的焦点:AI 研发正在进入“AI 主导研究”的第三个阶段。 杨植麟在演讲中指出，从2026年起，人工智能领域的研究方式将发生质的飞跃。过去，AI 模型的迭代高度依赖于人类研究员的规则设计与精细调优，而现在，这一模式正在被打破。随着技术的演进，AI 系统开始在研究过程中扮演“主导者”角色，通过更深度的自演进与自我优化，推动整个研发进程显著加速。在这一新阶段，开源模型已逐步确立了行业新标准，成为技术扩散与创新的核心驱动力。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29374</guid>
-      <pubDate>Fri, 03 Jul 2026 08:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>字节豆包 AI 手机项目生变：硬件负责人离职，项目进入“调整期”</title>
-      <link>https://news.aibase.com/zh/news/29376</link>
-      <description>近期，有消息传出，字节跳动 AI 硬件团队 Ocean 的核心成员、豆包手机硬件产品负责人林夕已正式离职。值得关注的是，这是自 2024 年字节启动 AI 手机项目以来，首位核心硬件负责人的离职，这一人事变动也引发了外界对于该项目前景的诸多猜测。 针对此前坊间传闻的“豆包手机项目彻底消失”的说法，有内部消息人士予以了否认。据相关报道，该项目并非关停，而是转入了一种全新的运作模式，即“换了个方式存在”。这一说法虽未透露具体的调整细节，但结合近期该项目备案审核频频遇阻、供应链出现大幅调整等迹象来看，字节的 AI 硬件战略确实正处于一个关键的转型与蛰伏期。 回溯该项目的发展进程，豆包 AI 手机曾被</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29376</guid>
-      <pubDate>Fri, 03 Jul 2026 08:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>高盛研判下半年市场：资金撤离七大科技巨头，半导体等 AI 上游板块更受青睐</title>
-      <link>https://news.aibase.com/zh/news/29377</link>
-      <description>高盛衍生品专家 Brian Garret 给出美股后市判断，当前投资者普遍低配以 “科技七巨头” 为代表的大型科技蓝筹，资金转向半导体这类直接受益 AI 产业扩张的赛道。 近期七大科技龙头整体跑输大盘，叠加市场担忧其巨额 AI 投入难以快速兑现盈利，促使机构采取谨慎减仓策略。 期权市场数据直观反映出市场避险情绪，追踪纳指的景顺 QQQ ETF 下行对冲成本，已经显著高于小盘股对冲成本。高盛表示，只有超大规模数据中心业务交出更强盈利增长，市场才有可能重新看好头部科技企业，否则低配格局将延续。 今年 6 月高盛 CEO 曾表态，只要市场信心稳定，AI 热潮就会持续推动股市上行。依托 AI 带动的市</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29377</guid>
-      <pubDate>Fri, 03 Jul 2026 09:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>9.9元解锁无限出图！香蕉 2、Image2免费随便造</title>
-      <link>https://news.aibase.com/zh/news/29378</link>
-      <description>很多想做 AI 视觉创作的朋友，都会卡在 第一 步:不知道平台效果好不好，又不想直接开通长期会员。 为了让每一位创作者都能零压力体验完整功能，Skild Art （https://skildart.cn?channel=92yHIseTXMLS ）正式推出 7天体验福利 。只用一杯饮料的价钱，就能解锁平台全部高阶能力。 01  9.9元可以体验到什么 1. 创作积分额度 包含 150积分（7天有效期） ，大约可生成 150张图 片，足够完整测试各类图文创作需求。 2. 精选模型无限免费出图 Nano Banana2、Image2 两款热门模型不限次数生成，不消耗积分，可放开手脚反复测试画面效果</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29378</guid>
-      <pubDate>Fri, 03 Jul 2026 09:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>让机器人学会番茄炒蛋的“幕后推手”：Genesis AI 开源全栈训练场</title>
-      <link>https://news.aibase.com/zh/news/29379</link>
-      <description>在机器人技术日益精进的今天，让机器人学会下厨做饭早已不是新鲜事，但如何让这些智能体在“练兵场”中快速成长，依然是行业的一大挑战。近日，凭借“机器人炒番茄炒蛋”视频走红网络的 Genesis AI 公司，正式发布并开源了其核心的 Genesis World1.0平台。这一举措，旨在为全球机器人与物理 AI 的开发者提供一套高性能、全栈式的仿真基础设施。 此次开源的资源包可谓“干货”满满，涵盖了三大核心项目:Genesis World 物理仿真平台、Quadrants 跨平台 GPU 编译器，以及 Nyx 写实渲染器。值得一提的是，这套系统的底层逻辑全部由团队自主研发，具备 极高 的稳定性和集成度</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29379</guid>
-      <pubDate>Fri, 03 Jul 2026 09:59:00 +0000</pubDate>
+      <title>告别高额Token账单：pxpipe如何用“图像”重塑Claude Code开发成本</title>
+      <link>https://news.aibase.com/zh/news/29393</link>
+      <description>在AI编程辅助工具日益普及的当下，高昂的API调用成本始终是开发者心头的痛点。为了解决这一难题，一款名为pxpipe的本地代理工具引起了技术社区的关注。它的核心逻辑颇具巧思:通过将庞大的上下文信息转化为图像，绕过部分昂贵的文本Token计费，从而大幅削减 Claude Code 的使用开销。 pxpipe的工作原理并不复杂。在请求发送至模型端之前，它会精准识别出系统中冗长的文本内容，包括系统提示词、工具文档以及较早的历史记录，并将这些信息重新渲染为紧凑的PNG图片。由于模型在处理图像时，其Token成本取决于像素尺寸而非文本字符数，这种“以图换字”的策略在处理密集内容时表现出了 极高 的性价比</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29393</guid>
+      <pubDate>Mon, 06 Jul 2026 03:23:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
