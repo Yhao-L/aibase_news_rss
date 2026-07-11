@@ -8,209 +8,97 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 10 Jul 2026 02:58:29 +0000</lastBuildDate>
-    <item>
-      <title>蚂蚁灵波开源 LingBot-Video，全球首个面向具身的视频基模来了!</title>
-      <link>https://news.aibase.com/zh/news/29489</link>
-      <description>7月9日，蚂蚁灵波开源 LingBot-Video，这是全球首个基于 Mixture-of-Experts（MoE）架构、面向具身智能的开源视频生成基础模型。该模型围绕机器人和具身智能的核心需求重新设计视频预训练范式，在推理效率、物理合理性、动作理解和任务完成度等方面取得系统性提升，为视频基础模型从数字内容创作走向具身智能提供了新的开源底座。 在北京大学联合字节跳动发布的基准 RBench 上，LingBot-Video 的总分是0.620，超越了 Wan2.6（0.607）、Seedance1.5Pro(0.584)、Cosmos3Super(0.581)。RBench 作为面向机器人操作视</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29489</guid>
-      <pubDate>Thu, 09 Jul 2026 03:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI编码圈再传重磅：瑞典新星Lovable估值或将翻倍至 132 亿美元</title>
-      <link>https://news.aibase.com/zh/news/29490</link>
-      <description>在AI编程领域持续升温的背景下，瑞典初创公司Lovable正处于新一轮融资的中心。据 最新 行业消息，该公司正计划筹集 3 亿美元，若融资顺利，其估值将达到 132 亿美元，这一数字正好是去年 12 月 66 亿美元估值的两倍。据悉，本轮融资预计由Menlo Ventures领投。 Lovable之所以备受资本青睐，核心在于其主打的“氛围编码”（vibe coding）技术。这项技术极大地降低了软件开发的门槛，用户无需精通繁复的编程语言，只需通过自然语言描述需求，系统便能自动构建应用程序。这种高效、直观的开发模式，不仅吸引了大量个人开发者、设计师和小型企业，更成功打入了Workday、Asan</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29490</guid>
-      <pubDate>Thu, 09 Jul 2026 03:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prime Intellect完成1. 3 亿美元融资，估值达 10 亿美元</title>
-      <link>https://news.aibase.com/zh/news/29491</link>
-      <description>近日，专注于提供计算资源与开发工具的初创公司Prime Intellect宣布完成1. 3 亿美元的A轮融资，公司估值一举跨入 10 亿美元独角兽行列。 本轮融资阵容豪华，由Radical Ventures领投，包括英伟达风投（Nvidia Ventures）、英特尔资本（Intel Capital）、戴尔科技资本（Dell Technologies Capital）及Iconiq在内的多家 顶级 机构跟投。此外，Perplexity创始人Aravind Srinivas、Box创始人Aaron Levie等一批行业 领袖 也以天使投资人身份参与其中。 Prime Intellect成立于 2</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29491</guid>
-      <pubDate>Thu, 09 Jul 2026 03:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>港股AI板块热度不减：智谱、MiniMax解禁日表现抢眼</title>
-      <link>https://news.aibase.com/zh/news/29492</link>
-      <description>在港股人工智能板块近期持续走强的背景下，两家行业标杆企业——智谱与MiniMax，在7月9日这一天成为了市场关注的焦点。尽管面临着解禁压力，但这两家公司不仅顶住了震荡，股价更呈现出强劲的上涨势头，显示出资本市场对于AI核心资产的深度认可。 智谱（02513.HK）在经历了解禁担忧的“预演”后，今日多头动能全面爆发，盘中涨幅一度超过20%，成为板块内当之无愧的领涨龙头。消息面上，智谱于今日宣布与中金香港订立配售协议，计划按每股1，588港元的价格配售最多1978万股新H股，配售价较前一日收市价折让约13%。尽管通常情况下配售新股会被视为市场利空，但此次投资者反应积极，被业内解读为公司引入长期机构</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29492</guid>
-      <pubDate>Thu, 09 Jul 2026 03:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>小米全新 AI 战略：构建未来的智能基础设施，重塑行业格局！</title>
-      <link>https://news.aibase.com/zh/news/29493</link>
-      <description>在智能科技日益发展的今天，小米公司正积极调整其战略布局，以适应 AI 大模型的崛起。小米最近宣布将小爱同学的技术团队进行重组，目的是将 AI 技术深度融入到公司各个业务中。这一举措不仅展示了小米在 AI 领域的前瞻性思考，也预示着其未来可能的竞争优势。 过去，小米的 AI 业务多是围绕单一产品进行开发，但随着大模型的引入，AI 技术正逐渐成为公司运作的核心基础设施。小米正在借助 MiMo 这一基座大模型，推动不同产品之间的协作，实现更为高效的用户体验。MiMo 团队将与小爱同学、手机操作系统、云端工程团队等紧密合作，共同构建智能产品的底层能力。 根据内部消息，小米的 AI 团队正在不断壮大，业</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29493</guid>
-      <pubDate>Thu, 09 Jul 2026 03:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>高考录取启动：千问接入EMS上线通知书实时追踪与提醒</title>
-      <link>https://news.aibase.com/zh/news/29494</link>
-      <description>7月9日消息，高考志愿录取结果即将揭晓，为了让用户更方便了解录取通知书寄送进度，千问高考接入中国邮政EMS，上线实时追踪与提醒功能。 千问高考志愿日历会向每位高考用户推送“查询录取通知书物流状态”提醒，用户可点击提前完成授权。待录取通知书开始寄送以及物流状态变化时，千问都会主动向用户发送通知提醒。用户也可以在界面中查看实时物流轨迹。 此外，用户也可在千问高考页面“查询录取通知”里手动输入单号查询，还能通过“寄EMS”直接寄件。 至此千问高考陪伴用户度过了志愿填报的每一个关键阶段。此前千问从引导考生明确自身需求出发，帮助用户厘清复杂填报规则与政策，直至最终生成个性化志愿报告。其中，志愿日历功能将</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29494</guid>
-      <pubDate>Thu, 09 Jul 2026 05:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>全球首部AI女演员主演电影开机：没有身体没有童年，却能调取全人类记忆</title>
-      <link>https://news.aibase.com/zh/news/29495</link>
-      <description>英国伦敦AI影视公司Particle6 正式宣布启动长片电影《Misaligned》的制作，主角将由公司打造的AI"演员"蒂莉·诺伍德担纲。片方称这将是"首部AI主演的长片电影"，也是诺伍德的首个主演角色。 影片被描述为一部"融入存在主义AI混乱的成长题材喜剧正剧"，故事设定在一个名为"蒂莉宇宙"的超现实数字世界中。主角蒂莉是一个AI生命体，没有真实的身体、没有童年、没有属于自己的人生经历， 唯一 拥有的权限是调取所有人的经历与记忆。当来自暗网的"引诱机器人"说服她放弃自身的行为护栏、发展出属于自己的欲望与野心时，故事开始走向失控——她变得越"像人"就越出名，同时也越为自己建立在全人类经验之上</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29495</guid>
-      <pubDate>Thu, 09 Jul 2026 06:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta被曝研发全天候AI眼镜：支持超级感知与无感音视频捕捉</title>
-      <link>https://news.aibase.com/zh/news/29496</link>
-      <description>据《金融时报》报道，Meta正研发一款具备全天候多模态感知能力的智能眼镜原型机。该设备支持“ 超级 感知”模式，能够以“每隔几秒”的频率连续录制音频并拍摄照片，用户可通过Meta AI对捕捉到的音视频内容进行即时提问与交互。为了缓解外界对数据隐私的担忧，Meta拟采用一种独特的元数据处理机制:系统不存储原始视频和音频，亦不向用户直接开放，而是提取其元数据上传至服务器供AI查询。 然而，这一高频捕捉功能依然引发了巨大的隐私争议。Meta此前已因人脸识别、偷拍事件等面临严峻审查。针对用户蓄意遮挡录制指示灯的黑产行为，Meta于周二宣布将推出系统更新，一旦检测到LED灯被篡改将直接禁用摄像头。但白皮</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29496</guid>
-      <pubDate>Thu, 09 Jul 2026 06:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>阶跃星辰首款AI智能体手机即将发布，跑在OpenAI前面</title>
-      <link>https://news.aibase.com/zh/news/29497</link>
-      <description>国内通用大模型独角兽阶跃星辰官方宣布，将推出新一代智能体终端，带来Agent时代的新答案。据国内媒体爆料，阶跃星辰即将发布AI终端品牌、智能体系统及其 首款 AI智能体手机，这也是全球大模型企业中率先落地的原生智能体手机终端，上市节奏早于OpenAI规划的AI终端。 知情人士透露，这款AI智能体手机由A股上市公司华勤技术负责代工生产，双方是深度绑定合作关系，并非简单的贴牌代工模式。华勤技术为全球智能硬件ODM行业头部企业，智能手机、笔记本电脑、平板电脑出货量超全球10%，且早在阶跃星辰B+轮融资阶段便完成战略入股，后续C轮融资持续加码，叠加豪威、中兴等产业链企业共同布局，形成了大模型、整机制造</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29497</guid>
-      <pubDate>Thu, 09 Jul 2026 06:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​一个普通摄像头就能自主导航：Mistral发布8B模型Robostral Navigate，性能碾压多摄像头方案</title>
-      <link>https://news.aibase.com/zh/news/29498</link>
-      <description>法国AI企业Mistral发布 首款 面向机器人导航的AI模型Robostral Navigate，总参数量仅8B。这款模型让机器人仅凭单个普通RGB摄像头，就能在复杂环境中实现完全自主导航，无需依赖深度传感器或激光雷达。 该模型主要面向具身导航任务，适用场景覆盖办公室、住宅、商业建筑以及户外环境。传统机器人导航通常需要搭载激光雷达或深度传感器来感知周围空间，硬件成本和部署复杂度都不低。Robostral Navigate将这一门槛大幅拉低，一颗普通摄像头加上8B模型，就能完成从环境感知到路径规划的完整闭环。 凭"单眼"碾压"多眼"，全新场景成功率超76% 性能数据相当亮眼。在R2R-CE基准</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29498</guid>
-      <pubDate>Thu, 09 Jul 2026 07:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>亚马逊被爆开发AI智能体“Moonraker”:Alexa将支持多步复杂任务串联</title>
-      <link>https://news.aibase.com/zh/news/29499</link>
-      <description>据科技媒体爆料，亚马逊正在秘密推进一项代号为“Moonraker”的先进人工智能智能体（AI Agent）项目，旨在赋予智能语音助手 Alexa 串联执行复杂任务的能力。作为现行生成式AI助手 Alexa Plus 的延伸功能，Moonraker 改变了以往单次只能响应单一指令的局限，能够深度理解复合型请求，并按逻辑顺序自动执行多个相关联的操作。 例如，用户只需发出一条指令，系统即可同时完成“呼叫网约车”与“给朋友发送短信通知”等多步工作流。这一技术升级标志着 Alexa 正在从传统的“一问一答”式语音助手，向能够处理复杂多步骤任务的真正数字化个人助理演进。 目前，亚马逊正使用 Anthrop</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29499</guid>
-      <pubDate>Thu, 09 Jul 2026 07:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI"按量计费"吓退企业高管：近三分之一承认不懂经济账，算力账单成了黑箱</title>
-      <link>https://news.aibase.com/zh/news/29500</link>
-      <description>据外媒The Register报道，"四大"会计师事务所毕马威的一项 最新 调查显示，不少企业高管正被AI新的按量计费模式"吓"到。过去企业可以通过固定价格合同让AI公司补贴大语言模型的使用成本，但随着算力价格持续攀升，整个科技行业被迫转向防守，低价使用AI的阶段已经难以维持。 毕马威此次调查覆盖 20 个国家或地区的 2145 名 高级 管理人员，结果揭示了一个令人意外的现实。高达29%的受访者不知道AI成本不断上涨究竟从何而来，另有近三分之一高管承认自己不懂AI的经济账，这一问题已经直接影响了企业在工作场景中真正部署AI的进程。报告作者指出，随着按使用量计费模式越来越普遍，许多组织仍在建设</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29500</guid>
-      <pubDate>Thu, 09 Jul 2026 08:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI炮轰AI评测"标杆"： 731 道题近三成有缺陷， 8 个月通过率从23%飙到80%已失灵</title>
-      <link>https://news.aibase.com/zh/news/29502</link>
-      <description>OpenAI发布博文公开挑战行业 权威 评测基准SWE-Bench Pro，认为在 731 个公开测试任务中，约30%存在评测缺陷。SWE-Bench Pro由Scale AI推出，专门评测大语言模型与AI智能体的编程能力，因高度贴近实际企业级开发且具备 极高 的防作弊标准，现已成为AI软件工程领域的行业 权威 基准。 OpenAI在博文中指出一个关键信号：前沿模型在该基准上的通过率仅用 8 个月就从23.3%飙升至80.3%。这一"进步"速度过于异常，OpenAI认为该基准已无法有效评估模型的真实软件开发能力，很可能是因为评测本身存在系统性问题，而非模型能力真的实现了如此飞跃。 两条审查路径</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29502</guid>
-      <pubDate>Thu, 09 Jul 2026 08:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​ChatGPT正式"住进"Chrome浏览器：能看网页、能操作标签页，还能碰你的本地文件</title>
-      <link>https://news.aibase.com/zh/news/29503</link>
-      <description>OpenAI发布升级公告，全面更新适用于谷歌Chrome浏览器的ChatGPT扩展程序。用户现在可以直接在Chrome侧边栏中使用ChatGPT，无需切换到独立应用或网页端，AI助手真正变成了"浏览器原住民"。 官方介绍，升级后的扩展程序让ChatGPT能够研究市场、比较来源、从网站提取信息，或在应用内打开并完善Google Workspace和Microsoft365 中的文件。它可以使用浏览器引入 最新 上下文，在网页间执行步骤操作，并在用户审阅和指导结果的同时持续推进工作。这意味着ChatGPT不再只是一个被动等待提问的对话框，而是能主动浏览网页、读取内容、跨标签页协调任务的智能体。 能</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29503</guid>
-      <pubDate>Fri, 10 Jul 2026 00:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI发布GPT-5.6模型系列:Sol、Terra、Luna三版本上线，主打网络安全与高性价比</title>
-      <link>https://news.aibase.com/zh/news/29504</link>
-      <description>7月9日，OpenAI正式推出全新模型系列GPT-5.6，包含主力版本Sol、中级版本Terra和经济型版本Luna，旨在日益激烈的AI竞赛中以更高的效率和成本优势重夺行业主导权。该系列模型目前已在ChatGPT、Codex及OpenAI API同步上线。 作为本次发布的核心亮点，GPT-5.6被定位为OpenAI迄今为止 最强 大的网络安全模型。在特朗普政府此前曾试图限制其推广的背景下，该模型全面支持防御性安全活动，涵盖威胁建模、代码审查、漏洞补丁以及蓝队演练等关键领域，实现了在前沿性能与合规安全之间的平衡。 在开发者生态和企业级市场方面，OpenAI展现出强烈的进攻性，直接对标近期在企业端</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29504</guid>
-      <pubDate>Fri, 10 Jul 2026 01:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI大整合：聊天、办公、编程三合一，全新ChatGPT桌面应用上线</title>
-      <link>https://news.aibase.com/zh/news/29505</link>
-      <description>OpenAI发布官方公告，宣布推出全新桌面应用程序，将Codex和ChatGPT体验整合为一体。此举旨在增强AI编程体验的同时，将产品覆盖面从开发者群体拓展至更广泛的非技术用户。 桌面版Codex更新后将变身为全新的ChatGPT桌面应用，包含Chat聊天、ChatGPT Work工作和Codex三个核心组成部分。更新后应用会保留现有的Codex任务和项目，用户也可以在设置中选择继续使用Codex应用图标，确保迁移过程平滑无感。 三大模块各司其职，从聊天到编程一站搞定 新版应用的功能划分清晰明确。Chat模块支持提问、搜索和对话交互，满足日常信息查询需求。Work模块面向知识型工作场景，可用于</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29505</guid>
-      <pubDate>Fri, 10 Jul 2026 01:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI初创公司Lyzr利用自主研发代理自主完成1亿美元B轮融资</title>
-      <link>https://news.aibase.com/zh/news/29506</link>
-      <description>7月9日，成立三年的企业级人工智能代理（AI Agent）初创公司Lyzr宣布成功完成1亿美元的B轮融资，公司估值达到约5亿美元。引人注目的是，本次融资的全程 negotiations 与核心流程均由该公司自主研发的人工智能代理系统“SivaClaw”独立主导并完成，标志着AI代理在复杂商业决策与资本运作场景中的落地取得突破性进展。 据彭博社报道，在这场由AI主导的募资过程中，SivaClaw代理系统展现出了 极高 的商业可行性与技术成熟度。该系统不仅独立回答了超过130位投资者的专业提问，完成了投资备忘录的撰写，还通过数据分析追踪了投资者在宣讲幻灯片上的停留时长，从而实现对投资者意向的精准研</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29506</guid>
-      <pubDate>Fri, 10 Jul 2026 01:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中国移动上线“新消息Claw”应用号，支持短信远程操控电脑端AI智能体</title>
-      <link>https://news.aibase.com/zh/news/29507</link>
-      <description>7月10日，中国移动“新消息”服务正式上线“新消息Claw”应用号。该服务针对电脑端各类Claw（业内俗称“龙虾”）开源AI行动式智能体，打造了一条免下载安装App的短信远程操控通道，有效解决了用户电脑不在身边、智能体推送提醒易遗漏的双重痛点。 作为一种能自主操作电脑、处理文件、写代码及整理报表的行动式AI（Action AI）智能体，Claw此前在移动端一直缺乏便捷的远程控制入口。中国移动此次通过升级运营商短信体系，补齐了这一短板。在实际应用中，“新消息Claw”展现出多重核心优势:用户无需下载专用软件，直接在短信内发送文字即可下达任务，保障了使用的安全与简洁;支持自定义定时汇总工作资讯并进</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29507</guid>
-      <pubDate>Fri, 10 Jul 2026 01:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI"二号人物"卸任:因神经免疫系统疾病复发，Fidji Simo转任兼职顾问</title>
-      <link>https://news.aibase.com/zh/news/29508</link>
-      <description>7月10日，OpenAI内部排名第二的 资深 高管Fidji Simo宣布将卸任全职职务。在当地时间周四向员工发布的内部信中，Simo坦言自己此前因神经免疫系统疾病复发而休假，但康复进度不及预期，因此决定转任兼职顾问。 Simo于2024年加入OpenAI董事会，2025年5月正式出任OpenAI应用部门首席执行官。该职位的设立旨在整合公司的业务与产品运营，当时包括首席运营官Brad Lightcap、首席财务官Sarah Friar以及首席产品官Kevin Weil在内的多位高管均向其汇报，而CEO Sam Altman则将精力更多转向研究、算力及安全领域。加入OpenAI之前，Simo曾自</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29508</guid>
-      <pubDate>Fri, 10 Jul 2026 01:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>谷歌升级Android Bench代码排行榜:Claude5斩获榜首，Gemini准确率与效率双落后</title>
-      <link>https://news.aibase.com/zh/news/29509</link>
-      <description>7月9日，谷歌宣布对其Android Bench代码开发者排行榜进行重大改版，全面引入标准化的Harbor沙箱框架。此举将测试迁移至安全隔离环境，旨在简化全球开发者运行独立评估、定制开发环境及共享数据的流程。伴随架构升级，谷歌通过GitHub向全球开源该基准测试，允许社区提交自定义Android开发任务与模型评估。 然而，在重新测定的基准排名中，谷歌自家模型表现不及预期:Anthropic旗下旗舰模型Claude Fable5以84.5%的准确率荣登榜首，OpenAI的GPT-5.5以80.2%紧随其后;相比之下，谷歌Gemini3.1Pro仅位列第五。 尽管Gemini在测试成本上具备一定优</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29509</guid>
-      <pubDate>Fri, 10 Jul 2026 01:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​27B大模型塞进iPhone！苹果看中AI压缩黑科技：体积缩到十四分之一，速度还快 8 倍</title>
-      <link>https://news.aibase.com/zh/news/29510</link>
-      <description>据科技媒体The Information报道，苹果公司正接洽AI初创公司PrismML，评估在iPhone上直接运行更大规模AI模型的可行性。这一动作意味着苹果可能在端侧AI能力上迎来重大突破，让手机跑起原本需要云端算力支撑的大型语言模型。 PrismML是加州理工学院衍生出来的AI初创公司，核心突破为原生1-bit模型压缩技术。该技术可将模型体积压缩至全精度版本的约十四分之一，内存占用降低超90%。传统量化方案通常只是降低精度但仍保留多比特权重，而PrismML的权重仅用负 1 和正 1 两个值表示，配合分组缩放因子完成计算，从架构层面彻底重构了模型的存储与推理方式。 没有"高精度逃生通道"</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29510</guid>
-      <pubDate>Fri, 10 Jul 2026 01:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta携手博通与台积电，自研AI芯片“Iris”将于9月正式量产</title>
-      <link>https://news.aibase.com/zh/news/29511</link>
-      <description>据路透社报道及Meta内部备忘录显示，Meta正与博通（Broadcom）及台积电(TSMC)展开合作，计划于2026年9月正式量产代号为“Iris”的自研AI数据中心处理器。该芯片属于Meta定制化自主基础设施(MTIA)项目的一部分，已在六周的初始漏洞测试中顺利过关。其核心职能在于深度优化Facebook和Instagram等平台的核心内容排序、推荐系统以及生成式算法，以此分担数据中心成本，并摆脱对第三方GPU的高度依赖。 在全球硬件短缺与“芯片通胀”的背景下，Meta已与三星电子、闪迪（SanDisk）和住友电气(Sumitomo Electric)等行业巨头签署了高规格内存、闪存及先进</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29511</guid>
-      <pubDate>Fri, 10 Jul 2026 01:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​Anthropic推出"AI镜子"功能：让你的AI助手给你写一份"使用体检报告"</title>
-      <link>https://news.aibase.com/zh/news/29512</link>
-      <description>Anthropic正式宣布上线测试版功能Reflect，让Claude化身一面"镜子"，帮助用户回顾和审视自己的AI使用习惯。该功能已向开启记忆功能的免费版、Pro版和Max版用户开放，入口设在网页端和桌面端应用的设置页面内。 用户可选择回看过去1个月、3个月、6个月或12个月的聊天活动，系统会自动生成一份个性化的使用总结。报告内容涵盖重点话题分布、高频使用模式、常见任务类型，以及用户最活跃的时间段和对应处理的工作内容。Anthropic还透露，后续将增加使用时长可视化视图，并支持设置静默时段和使用时长提醒。 四大维度"体检"，从用AI到会用AI Reflect最核心的设计，是围绕四个维度对用</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29512</guid>
-      <pubDate>Fri, 10 Jul 2026 01:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI发布GPT-5.6，深绑微软Copilot365破除“分道扬镳”传闻</title>
-      <link>https://news.aibase.com/zh/news/29513</link>
-      <description>7月9日，OpenAI正式发布全新大模型系列GPT-5.6，并宣布该模型将作为微软Microsoft365Copilot的“ 首选 模型”，全面支持Word、Excel、PowerPoint及Cowork等全套生产力应用。此举不仅实现了双方产品线的功能升级，也对近期外界关于两家科技巨头关系破裂的传闻进行了强有力的正面回应。 本周早些时候，市场有传言称微软正试图通过在其办公软件中逐步引入自研的“MAI”大模型，以替代部分OpenAI软件，从而达到降低运营成本的目的。这一动态引发了行业内关于微软与OpenAI两大巨头是否正在“渐行渐远”的广泛猜测。 随着GPT-5.6的推出及其作为Copilot“</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29513</guid>
-      <pubDate>Fri, 10 Jul 2026 01:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>谷歌推出“我的广告中心”新功能:自动披露生成式AI广告信息</title>
-      <link>https://news.aibase.com/zh/news/29514</link>
-      <description>谷歌于9日正式宣布在其“我的广告中心”面板中新增“此广告是如何制作的”信息区块，旨在全球范围内提高生成式人工智能在广告创意中使用的透明度。 新规全面覆盖谷歌搜索、YouTube以及Discover等主流平台。当广告主依托谷歌旗下的AI工具进行广告文本、图像或事件的创建与编辑时，系统将通过自动化技术在后台直接生成并展示AI披露标签。 针对使用第三方工具创作的内容，谷歌虽未采取强制性一刀切的硬性要求，但也同步上线了自主声明控件。这一举措标志着全球 最大 数字广告生态正加速构筑针对生成式内容的合规屏障，特别是在部分强监管法治区域，这一合规开关的开启将直接联动本地法规，转化为前端可视化的AI准入标识。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29514</guid>
-      <pubDate>Fri, 10 Jul 2026 01:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​摩根大通泼冷水：AI投资热潮降温，市场不再"沾AI就买"</title>
-      <link>https://news.aibase.com/zh/news/29515</link>
-      <description>摩根大通资产管理全球市场策略师戴维·莱博维茨近日表示，投资者对AI的态度正在从盲目追捧转向理性甄别。随着AI逐渐演变为覆盖各类资产和行业的交易主题，如何精准分辨其中的风险与回报，已成为华尔街必须掌握的一课。 莱博维茨指出，投资者已经开始更细致地区分AI产业链中的不同环节，判断哪些领域可能供给过剩、哪些领域仍有强劲需求。他直言:"市场不再只是抱着'我们看好AI，所以凡是跟AI沾边的东西都买'的想法。"这种从"一窝蜂"到"挑着买"的转变，标志着AI投资正从情绪驱动进入价值驱动阶段。 芯片硬件供给过剩风险 最大 ，数据中心更具结构性支撑 在具体方向上，莱博维茨给出了明确判断。他认为，相较于半导体和硬</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29515</guid>
-      <pubDate>Fri, 10 Jul 2026 01:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>字节跳动 Seedance2.5模型将于7月16日全量开放 API</title>
-      <link>https://news.aibase.com/zh/news/29516</link>
-      <description>字节跳动旗下 最新 视频生成模型 Seedance2.5将于7月16日正式全量开放 API，这标志着该模型从灰度测试走向全面商用，有望进一步降低高品质视频生成的门槛。 此前，该模型于6月23日正式发布，官方曾预告将于7月初上线但未透露具体日期，本次全量开放标志着落地进程的正式确立。目前，字节旗下 AI 创作平台“即梦”已在官网展开上线预热，并预示正式推出后将配套上线会员折扣与积分优惠活动。 作为本次迭代的核心，Seedance2.5在单段生成长度、多素材参考以及视频编辑三个维度实现了技术突破。模型将支持30秒单段原生视频直出，大幅拉长了 AI 视频的连贯表达空间;在多模态融合方面，其参考素材容</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29516</guid>
-      <pubDate>Fri, 10 Jul 2026 02:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>从零开始预训练，蚂蚁灵波发布具身原生世界动作模型LingBot-VA2.0</title>
-      <link>https://news.aibase.com/zh/news/29517</link>
-      <description>7月10日，蚂蚁灵波发布业界首个具身原生世界动作模型 LingBot-VA2.0。该模型的发布，标志着机器人基础模型正式从“基于数字世界模型构建”到“面向物理世界原生设计”的关键转变。它代表了具身智能发展的一种关键路线选择:机器人“大脑”不再依托数字世界模型能力的“嫁接”，而是从动态建模、因果预测、实时执行等与环境交互的原始需求出发，进行原生设计。 得益于具身原生架构，LingBot-VA2.0在真机测试中表现出了出色的执行速度和泛化能力。以下面这个视频为例，在不依赖任何外部拍摄设备的情况下，机器人就可以完成与人类的多轮随机对打。 今年以来，世界模型与具身智能怎么融合一直是各方关注的焦点。以终</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29517</guid>
-      <pubDate>Fri, 10 Jul 2026 02:24:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Jul 2026 02:34:27 +0000</lastBuildDate>
     <item>
       <title>吸金 20 亿美元！MiniMax完成 160 亿港元新一轮融资，获超 7 倍超额认购</title>
       <link>https://news.aibase.com/zh/news/29518</link>
       <description>中国大模型独角兽企业 MiniMax 已于今日上午正式完成新一轮总额高达160亿港元（折合超20亿美元）的融资。本次巨额资金注入将全面补充 MiniMax 的资金储备，为其接下来的 AI 基础设施建设、前沿模型研发以及全球商业化扩张提供强有力的资金支持。 作为近期全球 AI 领域最受瞩目的交易之一，本轮融资在国际资本市场引发了极其热烈的反响。最初计划的发行规模约为18亿美元，但在国际投资者的强劲需求推动下，最终扩募至20亿美元以上。交易共吸引了百余家投资机构参与，实现了高达7倍的超额认购覆盖。 本次交易的投资方背景极为雄厚，涵盖亚太、欧洲和美国三大主流市场。参与机构包括多家 顶级 国际主权基金</description>
       <guid isPermaLink="false">https://news.aibase.com/zh/news/29518</guid>
       <pubDate>Fri, 10 Jul 2026 02:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MiniMax完成160亿港元新一轮融资，创始人闫俊杰宣布零薪酬直至实现AGI</title>
+      <link>https://news.aibase.com/zh/news/29519</link>
+      <description>MiniMax正式宣布完成新一轮160亿港元融资。根据公告，公司拟将募集资金净额的80%投入AI基础设施及模型研究与开发，进一步夯实技术底座。同日，MiniMax创始人兼CEO闫俊杰发布内部全员信，就近期市场波动作出回应，并作出多项重磅个人承诺。 创始人零薪酬，让股5%激励团队与开源社区 闫俊杰在内部信中宣布，自即日起至公司实现AGI之日，其本人将不再从公司领取任何薪酬。与此同时，未来四年内，他将拿出个人名下相当于公司总股本4%的股份，用于激励长期与公司并肩作战、共同创造价值的团队成员;另拿出1%的股份设立专项基金，持续支持相关开源社区发展。 闫俊杰在信中表示，身处行业一线的团队更能感知技术演</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29519</guid>
+      <pubDate>Fri, 10 Jul 2026 03:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>马斯克公开认错"看走眼"：Anthropic才是AI老大，我不会拔它服务器</title>
+      <link>https://news.aibase.com/zh/news/29520</link>
+      <description>马斯克在社交平台X上罕见地公开承认自己看错了Anthropic。他不仅称赞对方"显然是目前AI领域的 领导者 "，还明确承诺不会因竞争关系切断Anthropic的服务器服务，与去年 9 月"胜利从来不在Anthropic的可能结果范围内"的轻蔑表态形成 180 度反转。 这番表态的背景是，SpaceX此前已与Anthropic达成合作，向后者出租算力。有X用户发帖指出，Anthropic完全依赖从SpaceXAI租用的算力，如果马斯克想搞垮Anthropic，只需将其业务从服务器上一键移除即可。面对这一"阴谋论"式提问，马斯克直接回应称搞垮竞争对手这种把戏"不是我的风格"，并坦承"我显然在An</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29520</guid>
+      <pubDate>Fri, 10 Jul 2026 03:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>​GPT-5. 6 今日全量开放：三档定价碾压竞品，AI开发正式进入"性价比"新阶段</title>
+      <link>https://news.aibase.com/zh/news/29521</link>
+      <description>OpenAI正式向全球全量开放GPT-5. 6 系列模型，一口气推出旗舰版Sol、均衡版Terra和性价比版Luna三款产品， 24 小时内陆续覆盖ChatGPT、Codex和API。三款模型定价分别为5/ 30 美元、2.5/ 15 美元和1/ 6 美元（每百万Token输入/输出）， 最低 档Luna的价格仅为Anthropic旗舰模型Fable5 的十六分之一。 性能全面超越Claude，编程和网络安全成主战场 GPT-5. 6 此次发布的核心叙事只有一个词：性价比。在跨 55 个行业的Agents' Last Exam评测中，Sol以53. 6 分超出Claude Fable5 达13</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29521</guid>
+      <pubDate>Fri, 10 Jul 2026 03:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>​谷歌发布LiteRT.js：浏览器跑AI推理最高快 3 倍，WebAssembly硬核加速</title>
+      <link>https://news.aibase.com/zh/news/29522</link>
+      <description>谷歌正式发布全新Web端AI推理加速库LiteRT.js。该库采用WebAssembly技术，并深度结合WebGPU与WebNN等硬件加速能力，旨在替代TensorFlow.js所使用的传统JavaScript内核方案，大幅提升浏览器中人工智能与机器学习工作负载的运行速度。 WebAssembly是一种二进制指令格式，能让网页在浏览器中以接近本地代码的速度执行高性能计算。TensorFlow.js则是谷歌此前开发的经典库，支持开发者将基于TensorFlow构建的模型直接部署到Web浏览器中，实现客户端AI功能。此次推出的LiteRT.js正是在这一基础上进行的架构升级。 实测提速 3 倍，老</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29522</guid>
+      <pubDate>Fri, 10 Jul 2026 05:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>腾讯拟接盘Manus成最大股东，估值20亿美元发力智能体生态</title>
+      <link>https://news.aibase.com/zh/news/29523</link>
+      <description>据外媒7月10日报道，腾讯控股正在洽谈成为新加坡AI初创公司Manus的 最大 股东。此前，美国科技巨头Meta Platforms与Manus在2025年底达成的超20亿美元收购交易已被要求撤销。 知情人士透露，包括腾讯、真格基金、红杉中国及公司管理层在内的现有投资者，正计划支持一项以20亿美元（约合人民币136亿元）相同估值撤销Meta收购案的交易。腾讯预计将在此次交易中认购最多股份并保留少数股东身份，而Benchmark等美国风投机构大概率退出。交易完成后，Manus将保持独立运营，押注其最终在香港上市，这也意味着Manus可能需要进行重组以满足中国监管要求。 成立于2022年的Manu</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29523</guid>
+      <pubDate>Fri, 10 Jul 2026 06:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>大模型公司造手机抢跑OpenAI:阶跃星辰7月13日发首款AI智能体终端</title>
+      <link>https://news.aibase.com/zh/news/29524</link>
+      <description>据"阶跃终端"公众号消息，阶跃星辰将于7月13日晚19点召开"阶跃终端品牌暨新一代智能体战略发布会"，主题直指"Agent时代真正的智能体"。结合"阶跃StepFun"公众号近日的预热内容，本次发布会预计将带来新一代智能体终端产品。 据《科创板日报》此前报道，阶跃星辰即将发布AI终端品牌、智能体系统及其 首款 AI智能体手机。值得注意的是，OpenAI此前已公开押注新一代AI终端，但计划要到2027年才上市。阶跃星辰此次抢先落地AI智能体手机，成为全球大模型厂商中率先迈出这一步的玩家。 华勤技术深度代工，非简单贴牌模式 在制造端，蓝鲸新闻援引知情人士消息透露，阶跃星辰将推出的AI智能体手机由A</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29524</guid>
+      <pubDate>Fri, 10 Jul 2026 07:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>三星开发4nm AI PC专用芯片“GAIA” 已向联想、惠普供样测试</title>
+      <link>https://news.aibase.com/zh/news/29525</link>
+      <description>据报道，三星电子正通过一款代号为“GAIA”的生成式AI加速芯片悄然切入AI PC市场。据行业消息，这款由三星系统LSI事业部开发的专用NPU芯片采用4纳米制程工艺，目前已向联想、惠普等全球头部PC制造商提供原型样品进行性能验证，最快将于2027年启动量产。 GAIA本质上是三星移动端NPU技术向PC场景的延伸，其核心采用差异化的“存储中心型”架构理念。该芯片旨在将计算单元与内存深度整合，并推进与下一代DRAM技术——处理器内存（PIM）的融合，使数据在存储的同时能直接执行运算，从而大幅降低跨处理器传输的延迟与功耗。 与英伟达、高通、英特尔等强调替代主处理器的路线不同，GAIA定位为独立AI计</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29525</guid>
+      <pubDate>Fri, 10 Jul 2026 07:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kimi联合美国运通与农业银行正式发行首张AI原生信用卡</title>
+      <link>https://news.aibase.com/zh/news/29526</link>
+      <description>据每日经济新闻报道， 7月10日，全球首张AI原生信用卡——“Kimi信用卡”正式对外发行。该项目由Kimi、美国运通与中国农业银行联合打造，自今年4月开始筹备，于6月12日开放预约，并最终敲定合作。作为首张将AI服务纳入核心权益体系的消费凭证，该信用卡的推出标志着AI大模型应用从单纯的软件订阅向金融生态融合迈出关键一步，正式开启了智能体支付及AI算力消费的新路径。 该信用卡的核心亮点在于实现了“消费即获生产力”的价值闭环。持卡人的日常消费积分不仅可八折兑换Kimi会员权益，积分商城的兑换比例更达1000∶1， 最高 支持50%用积分兑换。用户的每一笔消费均可转化为Kimi算力额度，或直接用于</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29526</guid>
+      <pubDate>Fri, 10 Jul 2026 07:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>三星杀回PC芯片战场：自研AI专用芯片GAIA已送测联想惠普， 2027 年量产</title>
+      <link>https://news.aibase.com/zh/news/29527</link>
+      <description>三星电子正加速布局AI PC专用芯片市场，其自主研发的加速处理器代号"GAIA"计划于 2027 年实现量产。该芯片由三星设备解决方案部门旗下系统LSI事业部主导开发，目前已完成原型样品制作，并向联想、惠普等主要PC厂商送测，正式进入性能验证阶段。 GAIA采用4nm制程工艺，核心架构围绕神经网络处理器（NPU）设计。与传统的CPU和GPU不同，该芯片专注于生成式AI相关计算任务的加速处理。同时，三星正在探索GAIA与存内计算（PIM）技术的协同方案——PIM可在存储器件内直接完成数据计算，有助于减少数据搬运带来的延迟和能耗，这对端侧AI的能效优化至关重要。 不只是PC芯片，还瞄准机器人市场 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29527</guid>
+      <pubDate>Fri, 10 Jul 2026 08:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>​Meta 发布新旗舰模型 Muse Spark 1.1，升级多代理自动化功能</title>
+      <link>https://news.aibase.com/zh/news/29528</link>
+      <description>Meta 公司今天正式推出了其新旗舰大型语言模型 Muse Spark 1.1，旨在优化多代理自动化工作流程。该模型可通过 Meta AI 聊天机器人服务以及 API 接口进行访问，现已进入公众预览阶段。 多代理自动化工作流程通常由一个主要代理和多个子代理组成，主要代理负责制定任务执行计划，子代理则根据指示执行具体操作。在新项目开始时，主要代理会生成项目计划。Meta 表示，Muse Spark 1.1 能够及时检测并响应执行过程中出现的变化，从而调整项目计划。 由于多代理自动化任务往往涉及大量步骤，代理在执行过程中会生成大量数据。如果这些数据超出了模型的上下文限制，则必须丢弃部分信息，这通常</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29528</guid>
+      <pubDate>Fri, 10 Jul 2026 08:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI日报：GPT5.6系列模型发布 Codex消失;腾讯拟接盘Manus成最大股东；MiniMax创始人宣布零薪酬直至实现AGI</title>
+      <link>https://news.aibase.com/zh/news/29529</link>
+      <description>欢迎来到【AI日报】栏目!这里是你每天探索人工智能世界的指南，每天我们为你呈现AI领域的热点内容，聚焦开发者，助你洞悉技术趋势、了解创新AI产品应用。 新鲜AI产品 点击了解 :https://app.aibase.com/zh 1、ChatGPT正式住进Chrome浏览器:能看网页、能操作标签页，还能碰你的本地文件 OpenAI升级了ChatGPT扩展程序，使其能够直接在Chrome浏览器侧边栏中运行，无需切换到独立应用或网页端。该扩展程序具备浏览网页、读取内容、跨标签页协调任务的能力，并可访问本地文件系统和已安装的插件，标志着浏览器正从信息展示窗口进化为AI执行工作台。 【AiBase提要</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29529</guid>
+      <pubDate>Fri, 10 Jul 2026 08:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>快手 KwaiKAT 发布 KAT-Coder-Pro V2.5:告别"补代码"，首个能端到端跑通完整工程的国产 Agentic 编程模型</title>
+      <link>https://news.aibase.com/zh/news/29530</link>
+      <description>快手 KwaiKAT 团队今日正式发布旗舰级 Agentic Coding 模型 KAT-Coder-Pro V2.5。新版本针对传统编程模型"跑分高但落地差"的痛点，围绕长程工程能力、通用 Agentic 能力与大规模 Agentic 强化学习体系三大维度系统性升级，目标是从单点代码补全演进为可独立完成完整软件工程任务和复杂业务工作流的 AI Agent。 在长程工程能力上，团队自研 AutoBuilder 自动化流水线，将可运行仓库环境构建成功率从行业平均约16.5% 提升至57.2%，沉淀覆盖12种编程语言、超10万个可验证真实仓库环境;同时回收高价值失败轨迹转化为训练数据，让模型掌握跨</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29530</guid>
+      <pubDate>Fri, 10 Jul 2026 09:18:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
