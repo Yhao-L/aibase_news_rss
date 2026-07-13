@@ -8,97 +8,62 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 11 Jul 2026 02:34:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 02:42:00 +0000</lastBuildDate>
     <item>
-      <title>吸金 20 亿美元！MiniMax完成 160 亿港元新一轮融资，获超 7 倍超额认购</title>
-      <link>https://news.aibase.com/zh/news/29518</link>
-      <description>中国大模型独角兽企业 MiniMax 已于今日上午正式完成新一轮总额高达160亿港元（折合超20亿美元）的融资。本次巨额资金注入将全面补充 MiniMax 的资金储备，为其接下来的 AI 基础设施建设、前沿模型研发以及全球商业化扩张提供强有力的资金支持。 作为近期全球 AI 领域最受瞩目的交易之一，本轮融资在国际资本市场引发了极其热烈的反响。最初计划的发行规模约为18亿美元，但在国际投资者的强劲需求推动下，最终扩募至20亿美元以上。交易共吸引了百余家投资机构参与，实现了高达7倍的超额认购覆盖。 本次交易的投资方背景极为雄厚，涵盖亚太、欧洲和美国三大主流市场。参与机构包括多家 顶级 国际主权基金</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29518</guid>
-      <pubDate>Fri, 10 Jul 2026 02:42:00 +0000</pubDate>
+      <title>OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户</title>
+      <link>https://news.aibase.com/zh/news/29531</link>
+      <description>生成式人工智能进入主流视野三年多后，OpenAI 正在将产品重心从个人生产力工具向家庭场景延伸。近期，OpenAI 在旧金山公开招聘一位专职产品经理，负责为家庭、护理人员和老年人打造用户体验。此举表明，以 ChatGPT 为代表的 AI 助手正逐渐演变为融入日常生活的家庭技术，其角色不再仅仅是设备或内容的中介，这也标志着消费级人工智能正步入跨代共享的发展新阶段。 这一战略动作背后，是 ChatGPT 用户群体人口结构的显著变化。Sensor Tower 数据显示，在2026年第二季度，ChatGPT 全球35岁及以上用户占比已从去年同期的26% 攀升至31%，而18至24岁年轻用户占比则从34</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29531</guid>
+      <pubDate>Mon, 13 Jul 2026 00:59:00 +0000</pubDate>
     </item>
     <item>
-      <title>MiniMax完成160亿港元新一轮融资，创始人闫俊杰宣布零薪酬直至实现AGI</title>
-      <link>https://news.aibase.com/zh/news/29519</link>
-      <description>MiniMax正式宣布完成新一轮160亿港元融资。根据公告，公司拟将募集资金净额的80%投入AI基础设施及模型研究与开发，进一步夯实技术底座。同日，MiniMax创始人兼CEO闫俊杰发布内部全员信，就近期市场波动作出回应，并作出多项重磅个人承诺。 创始人零薪酬，让股5%激励团队与开源社区 闫俊杰在内部信中宣布，自即日起至公司实现AGI之日，其本人将不再从公司领取任何薪酬。与此同时，未来四年内，他将拿出个人名下相当于公司总股本4%的股份，用于激励长期与公司并肩作战、共同创造价值的团队成员;另拿出1%的股份设立专项基金，持续支持相关开源社区发展。 闫俊杰在信中表示，身处行业一线的团队更能感知技术演</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29519</guid>
-      <pubDate>Fri, 10 Jul 2026 03:12:00 +0000</pubDate>
+      <title>苹果正式起诉OpenAI指控其窃取商业机密，涉及前高管及核心AI硬件项目</title>
+      <link>https://news.aibase.com/zh/news/29532</link>
+      <description>苹果公司于2026年7月10日正式向美国加州北区地方法院提起诉讼，指控OpenAI涉嫌窃取商业秘密并违反合同，这一重磅法律行动标志着两大科技巨头在人工智能领域的竞争全面白热化。 苹果在诉状中指出，OpenAI 高级 领导层——包括前苹果iPhone及Apple Watch产品设计副总裁、现任OpenAI首席硬件官唐·谭（Tang Tan）指使了系统性的窃密行为，涉嫌在招聘中利用苹果机密项目代号、要求求职者携带苹果硬件组件参加面试，并指导即将离职的员工规避公司安全程序。 此外，前苹果 高级 系统电气工程师刘畅也被控在2026年离职加入OpenAI后，利用未归还的苹果笔记本电脑下载了包含未发布技术</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29532</guid>
+      <pubDate>Mon, 13 Jul 2026 01:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>马斯克公开认错"看走眼"：Anthropic才是AI老大，我不会拔它服务器</title>
-      <link>https://news.aibase.com/zh/news/29520</link>
-      <description>马斯克在社交平台X上罕见地公开承认自己看错了Anthropic。他不仅称赞对方"显然是目前AI领域的 领导者 "，还明确承诺不会因竞争关系切断Anthropic的服务器服务，与去年 9 月"胜利从来不在Anthropic的可能结果范围内"的轻蔑表态形成 180 度反转。 这番表态的背景是，SpaceX此前已与Anthropic达成合作，向后者出租算力。有X用户发帖指出，Anthropic完全依赖从SpaceXAI租用的算力，如果马斯克想搞垮Anthropic，只需将其业务从服务器上一键移除即可。面对这一"阴谋论"式提问，马斯克直接回应称搞垮竞争对手这种把戏"不是我的风格"，并坦承"我显然在An</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29520</guid>
-      <pubDate>Fri, 10 Jul 2026 03:27:00 +0000</pubDate>
+      <title>​Claude Code再进化！内置浏览器让AI自主“刷网页”</title>
+      <link>https://news.aibase.com/zh/news/29533</link>
+      <description>知名AI企业Anthropic近日为旗下开发者工具Claude Code迎来重大升级，正式加入了一款内置的集成浏览器窗口。这项新功能赋予了Claude在应用内部直接打开、阅读、点击以及在外部网页上进行打字输入的能力。 通过这项升级，开发者可以省去频繁切换应用的麻烦，让AI直接在工具内高效检索技术文档、追踪问题记录等关键资源。该内置浏览器采用了便捷的标签页式管理架构，用户只需通过简单的键盘快捷键就能快速将其唤醒。 兼顾安全与控制 为了防止AI出现非预期的越权行为，Anthropic在技术底层为其部署了多重严密的安全审查机制。系统内部的分类器会对所有在外部网站上的写入操作进行严格筛查，确保核心控制</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29533</guid>
+      <pubDate>Mon, 13 Jul 2026 01:14:00 +0000</pubDate>
     </item>
     <item>
-      <title>​GPT-5. 6 今日全量开放：三档定价碾压竞品，AI开发正式进入"性价比"新阶段</title>
-      <link>https://news.aibase.com/zh/news/29521</link>
-      <description>OpenAI正式向全球全量开放GPT-5. 6 系列模型，一口气推出旗舰版Sol、均衡版Terra和性价比版Luna三款产品， 24 小时内陆续覆盖ChatGPT、Codex和API。三款模型定价分别为5/ 30 美元、2.5/ 15 美元和1/ 6 美元（每百万Token输入/输出）， 最低 档Luna的价格仅为Anthropic旗舰模型Fable5 的十六分之一。 性能全面超越Claude，编程和网络安全成主战场 GPT-5. 6 此次发布的核心叙事只有一个词：性价比。在跨 55 个行业的Agents' Last Exam评测中，Sol以53. 6 分超出Claude Fable5 达13</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29521</guid>
-      <pubDate>Fri, 10 Jul 2026 03:33:00 +0000</pubDate>
+      <title>近七成美国民众渴望共享AI红利！呼吁设立主权财富基金</title>
+      <link>https://news.aibase.com/zh/news/29534</link>
+      <description>随着科技企业频繁裁员而利润却持续攀升，美国民众对大型科技公司的不满情绪日益高涨。一项 最新 全国调查显示，越来越多的人希望让巨头们承担责任，将AI带来的惊人财富回馈给整个社会。 数据表明，高达69%的受访者支持强制AI公司交出股份。他们倾向于将企业50%的股权转入一个公共主权财富基金，以此来让全体公民共享社会技术变革的丰厚收益。 应对失业危机 这一呼声的背后，是普通劳动者对自身就业前景的深度焦虑。经济学家预测，在未来十年的AI转型期内，全美可能有多达 1500 万名员工因自动化而失去工作。 尽管这种冲击和历史上的重大技术变革类似，长期来看也会催生新岗位，但短期的阵痛依然让公众倍感压力。因此，通</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29534</guid>
+      <pubDate>Mon, 13 Jul 2026 01:37:00 +0000</pubDate>
     </item>
     <item>
-      <title>​谷歌发布LiteRT.js：浏览器跑AI推理最高快 3 倍，WebAssembly硬核加速</title>
-      <link>https://news.aibase.com/zh/news/29522</link>
-      <description>谷歌正式发布全新Web端AI推理加速库LiteRT.js。该库采用WebAssembly技术，并深度结合WebGPU与WebNN等硬件加速能力，旨在替代TensorFlow.js所使用的传统JavaScript内核方案，大幅提升浏览器中人工智能与机器学习工作负载的运行速度。 WebAssembly是一种二进制指令格式，能让网页在浏览器中以接近本地代码的速度执行高性能计算。TensorFlow.js则是谷歌此前开发的经典库，支持开发者将基于TensorFlow构建的模型直接部署到Web浏览器中，实现客户端AI功能。此次推出的LiteRT.js正是在这一基础上进行的架构升级。 实测提速 3 倍，老</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29522</guid>
-      <pubDate>Fri, 10 Jul 2026 05:39:00 +0000</pubDate>
+      <title>用“@”就能让 AI 改你照片?Meta 刚上线的新功能被骂到连夜下架</title>
+      <link>https://news.aibase.com/zh/news/29535</link>
+      <description>社交媒体巨头 Meta 在人工智能与隐私保护的博弈中再次陷入舆论风暴。据 TechCrunch 报道，Meta 旗下 Meta Superintelligence Labs 本周早些时候推出了全新 AI 图片生成器 Muse Image 。 然而，该产品中一项备受推崇的核心功能——允许用户通过“@”提及公开 Instagram 账号来直接修改和生成他人照片，因缺乏必要的告知机制，立即引发了用户和包括 CAA 在内的经纪公司的强烈反对。 面对汹涌的抗议浪潮，Meta 随后迅速改变主意，于周五发布博文宣布正式移除该功能，知名媒体人 Dylan Byers 最先 公开了这一决定。Meta 在官方声明</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29535</guid>
+      <pubDate>Mon, 13 Jul 2026 01:46:00 +0000</pubDate>
     </item>
     <item>
-      <title>腾讯拟接盘Manus成最大股东，估值20亿美元发力智能体生态</title>
-      <link>https://news.aibase.com/zh/news/29523</link>
-      <description>据外媒7月10日报道，腾讯控股正在洽谈成为新加坡AI初创公司Manus的 最大 股东。此前，美国科技巨头Meta Platforms与Manus在2025年底达成的超20亿美元收购交易已被要求撤销。 知情人士透露，包括腾讯、真格基金、红杉中国及公司管理层在内的现有投资者，正计划支持一项以20亿美元（约合人民币136亿元）相同估值撤销Meta收购案的交易。腾讯预计将在此次交易中认购最多股份并保留少数股东身份，而Benchmark等美国风投机构大概率退出。交易完成后，Manus将保持独立运营，押注其最终在香港上市，这也意味着Manus可能需要进行重组以满足中国监管要求。 成立于2022年的Manu</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29523</guid>
-      <pubDate>Fri, 10 Jul 2026 06:42:00 +0000</pubDate>
+      <title>被寄予厚望的AI浏览器夭折，OpenAI正式宣布关停Atlas</title>
+      <link>https://news.aibase.com/zh/news/29536</link>
+      <description>OpenAI近日宣布将正式关停旗下被寄予厚望的AI浏览器Atlas，该项目从发布到终结仅仅维持了九个月的时间。这款曾被宣称要彻底改变网络浏览体验并演变为AI操作系统的产品，如今不得不面临黯然退场的命运。 高调登场却漏洞百出 Atlas在去年十月高调问世，主打无需用户动手即可由AI代劳订机票和买网购的智能代理模式。然而产品上线后却暴露出严重的网络安全漏洞，甚至极易受到提示词注入攻击的威胁。 此外该浏览器的运行速度极其缓慢，在实际测试中添加三件商品至购物车竟然耗时长达十分钟。同时为了规避潜在的版权法律纠纷，它还主动屏蔽了互联网上的大量内容，导致实用性大打折扣。 转型与新业务的押注 随着Atlas将</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29536</guid>
+      <pubDate>Mon, 13 Jul 2026 01:53:00 +0000</pubDate>
     </item>
     <item>
-      <title>大模型公司造手机抢跑OpenAI:阶跃星辰7月13日发首款AI智能体终端</title>
-      <link>https://news.aibase.com/zh/news/29524</link>
-      <description>据"阶跃终端"公众号消息，阶跃星辰将于7月13日晚19点召开"阶跃终端品牌暨新一代智能体战略发布会"，主题直指"Agent时代真正的智能体"。结合"阶跃StepFun"公众号近日的预热内容，本次发布会预计将带来新一代智能体终端产品。 据《科创板日报》此前报道，阶跃星辰即将发布AI终端品牌、智能体系统及其 首款 AI智能体手机。值得注意的是，OpenAI此前已公开押注新一代AI终端，但计划要到2027年才上市。阶跃星辰此次抢先落地AI智能体手机，成为全球大模型厂商中率先迈出这一步的玩家。 华勤技术深度代工，非简单贴牌模式 在制造端，蓝鲸新闻援引知情人士消息透露，阶跃星辰将推出的AI智能体手机由A</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29524</guid>
-      <pubDate>Fri, 10 Jul 2026 07:15:00 +0000</pubDate>
+      <title>别人敲钟，我们归零:智谱披露“摸高”计划，押注全自动化智能体生态</title>
+      <link>https://news.aibase.com/zh/news/29537</link>
+      <description>7月11日，大模型企业智谱创始人唐杰发布内部信，宣布公司将启动“Touch High（摸高）计划”，在未来两年内战略性投入长程任务、自治智能体系统、完全自我训练以及 极致 安全治理四大核心引擎，全力冲击下一代通用人工智能(AGI)。就在近期，智谱发布了开源模型GLM-5.2，该模型支持百万(1M)上下文并在长程任务上保持领先，面向全量用户以MIT协议开源。 在此次战略部署中，智谱明确将技术研发指向长程任务的规划与执行，推动模型从即时问答走向宏大工程;同时，通过构建成千上万个具备专业技能的智能体协作，加速数字生产力向全自动化公司（NPC）形态演进。在数据资源层面，智谱将建设高质量合成数据工厂，通</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29537</guid>
+      <pubDate>Mon, 13 Jul 2026 02:29:00 +0000</pubDate>
     </item>
     <item>
-      <title>三星开发4nm AI PC专用芯片“GAIA” 已向联想、惠普供样测试</title>
-      <link>https://news.aibase.com/zh/news/29525</link>
-      <description>据报道，三星电子正通过一款代号为“GAIA”的生成式AI加速芯片悄然切入AI PC市场。据行业消息，这款由三星系统LSI事业部开发的专用NPU芯片采用4纳米制程工艺，目前已向联想、惠普等全球头部PC制造商提供原型样品进行性能验证，最快将于2027年启动量产。 GAIA本质上是三星移动端NPU技术向PC场景的延伸，其核心采用差异化的“存储中心型”架构理念。该芯片旨在将计算单元与内存深度整合，并推进与下一代DRAM技术——处理器内存（PIM）的融合，使数据在存储的同时能直接执行运算，从而大幅降低跨处理器传输的延迟与功耗。 与英伟达、高通、英特尔等强调替代主处理器的路线不同，GAIA定位为独立AI计</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29525</guid>
-      <pubDate>Fri, 10 Jul 2026 07:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kimi联合美国运通与农业银行正式发行首张AI原生信用卡</title>
-      <link>https://news.aibase.com/zh/news/29526</link>
-      <description>据每日经济新闻报道， 7月10日，全球首张AI原生信用卡——“Kimi信用卡”正式对外发行。该项目由Kimi、美国运通与中国农业银行联合打造，自今年4月开始筹备，于6月12日开放预约，并最终敲定合作。作为首张将AI服务纳入核心权益体系的消费凭证，该信用卡的推出标志着AI大模型应用从单纯的软件订阅向金融生态融合迈出关键一步，正式开启了智能体支付及AI算力消费的新路径。 该信用卡的核心亮点在于实现了“消费即获生产力”的价值闭环。持卡人的日常消费积分不仅可八折兑换Kimi会员权益，积分商城的兑换比例更达1000∶1， 最高 支持50%用积分兑换。用户的每一笔消费均可转化为Kimi算力额度，或直接用于</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29526</guid>
-      <pubDate>Fri, 10 Jul 2026 07:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>三星杀回PC芯片战场：自研AI专用芯片GAIA已送测联想惠普， 2027 年量产</title>
-      <link>https://news.aibase.com/zh/news/29527</link>
-      <description>三星电子正加速布局AI PC专用芯片市场，其自主研发的加速处理器代号"GAIA"计划于 2027 年实现量产。该芯片由三星设备解决方案部门旗下系统LSI事业部主导开发，目前已完成原型样品制作，并向联想、惠普等主要PC厂商送测，正式进入性能验证阶段。 GAIA采用4nm制程工艺，核心架构围绕神经网络处理器（NPU）设计。与传统的CPU和GPU不同，该芯片专注于生成式AI相关计算任务的加速处理。同时，三星正在探索GAIA与存内计算（PIM）技术的协同方案——PIM可在存储器件内直接完成数据计算，有助于减少数据搬运带来的延迟和能耗，这对端侧AI的能效优化至关重要。 不只是PC芯片，还瞄准机器人市场 </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29527</guid>
-      <pubDate>Fri, 10 Jul 2026 08:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​Meta 发布新旗舰模型 Muse Spark 1.1，升级多代理自动化功能</title>
-      <link>https://news.aibase.com/zh/news/29528</link>
-      <description>Meta 公司今天正式推出了其新旗舰大型语言模型 Muse Spark 1.1，旨在优化多代理自动化工作流程。该模型可通过 Meta AI 聊天机器人服务以及 API 接口进行访问，现已进入公众预览阶段。 多代理自动化工作流程通常由一个主要代理和多个子代理组成，主要代理负责制定任务执行计划，子代理则根据指示执行具体操作。在新项目开始时，主要代理会生成项目计划。Meta 表示，Muse Spark 1.1 能够及时检测并响应执行过程中出现的变化，从而调整项目计划。 由于多代理自动化任务往往涉及大量步骤，代理在执行过程中会生成大量数据。如果这些数据超出了模型的上下文限制，则必须丢弃部分信息，这通常</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29528</guid>
-      <pubDate>Fri, 10 Jul 2026 08:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI日报：GPT5.6系列模型发布 Codex消失;腾讯拟接盘Manus成最大股东；MiniMax创始人宣布零薪酬直至实现AGI</title>
-      <link>https://news.aibase.com/zh/news/29529</link>
-      <description>欢迎来到【AI日报】栏目!这里是你每天探索人工智能世界的指南，每天我们为你呈现AI领域的热点内容，聚焦开发者，助你洞悉技术趋势、了解创新AI产品应用。 新鲜AI产品 点击了解 :https://app.aibase.com/zh 1、ChatGPT正式住进Chrome浏览器:能看网页、能操作标签页，还能碰你的本地文件 OpenAI升级了ChatGPT扩展程序，使其能够直接在Chrome浏览器侧边栏中运行，无需切换到独立应用或网页端。该扩展程序具备浏览网页、读取内容、跨标签页协调任务的能力，并可访问本地文件系统和已安装的插件，标志着浏览器正从信息展示窗口进化为AI执行工作台。 【AiBase提要</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29529</guid>
-      <pubDate>Fri, 10 Jul 2026 08:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>快手 KwaiKAT 发布 KAT-Coder-Pro V2.5:告别"补代码"，首个能端到端跑通完整工程的国产 Agentic 编程模型</title>
-      <link>https://news.aibase.com/zh/news/29530</link>
-      <description>快手 KwaiKAT 团队今日正式发布旗舰级 Agentic Coding 模型 KAT-Coder-Pro V2.5。新版本针对传统编程模型"跑分高但落地差"的痛点，围绕长程工程能力、通用 Agentic 能力与大规模 Agentic 强化学习体系三大维度系统性升级，目标是从单点代码补全演进为可独立完成完整软件工程任务和复杂业务工作流的 AI Agent。 在长程工程能力上，团队自研 AutoBuilder 自动化流水线，将可运行仓库环境构建成功率从行业平均约16.5% 提升至57.2%，沉淀覆盖12种编程语言、超10万个可验证真实仓库环境;同时回收高价值失败轨迹转化为训练数据，让模型掌握跨</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29530</guid>
-      <pubDate>Fri, 10 Jul 2026 09:18:00 +0000</pubDate>
+      <title>Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入</title>
+      <link>https://news.aibase.com/zh/news/29538</link>
+      <description>7月12日，Anthropic宣布为其AI编程助手Claude Code内置集成浏览器窗口，标志着该工具正式具备了在应用内直接读取、点击和输入外部网页内容的原生交互能力。 这一重大功能升级使Claude能够无缝跨越本地与云端界面的边界，高效处理文档网站、问题跟踪器等外部资源。 在技术实现与安全架构上，该内置浏览器采用全新的独立配置文件运行，绝不保存任何用户登录信息，且通过专门的分类器对所有外部网站的写入操作进行严格过滤。未经用户明确授权，系统将全面拦截购买行为、账户创建或绕过验证码等操作。 此外，企业组织可灵活通过白名单机制限制其访问范围，甚至完全禁用该浏览器工具。作为多模态与智能代理（Age</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29538</guid>
+      <pubDate>Mon, 13 Jul 2026 02:37:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
