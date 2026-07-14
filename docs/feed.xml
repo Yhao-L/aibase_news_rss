@@ -8,49 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 13 Jul 2026 02:42:00 +0000</lastBuildDate>
-    <item>
-      <title>OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户</title>
-      <link>https://news.aibase.com/zh/news/29531</link>
-      <description>生成式人工智能进入主流视野三年多后，OpenAI 正在将产品重心从个人生产力工具向家庭场景延伸。近期，OpenAI 在旧金山公开招聘一位专职产品经理，负责为家庭、护理人员和老年人打造用户体验。此举表明，以 ChatGPT 为代表的 AI 助手正逐渐演变为融入日常生活的家庭技术，其角色不再仅仅是设备或内容的中介，这也标志着消费级人工智能正步入跨代共享的发展新阶段。 这一战略动作背后，是 ChatGPT 用户群体人口结构的显著变化。Sensor Tower 数据显示，在2026年第二季度，ChatGPT 全球35岁及以上用户占比已从去年同期的26% 攀升至31%，而18至24岁年轻用户占比则从34</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29531</guid>
-      <pubDate>Mon, 13 Jul 2026 00:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>苹果正式起诉OpenAI指控其窃取商业机密，涉及前高管及核心AI硬件项目</title>
-      <link>https://news.aibase.com/zh/news/29532</link>
-      <description>苹果公司于2026年7月10日正式向美国加州北区地方法院提起诉讼，指控OpenAI涉嫌窃取商业秘密并违反合同，这一重磅法律行动标志着两大科技巨头在人工智能领域的竞争全面白热化。 苹果在诉状中指出，OpenAI 高级 领导层——包括前苹果iPhone及Apple Watch产品设计副总裁、现任OpenAI首席硬件官唐·谭（Tang Tan）指使了系统性的窃密行为，涉嫌在招聘中利用苹果机密项目代号、要求求职者携带苹果硬件组件参加面试，并指导即将离职的员工规避公司安全程序。 此外，前苹果 高级 系统电气工程师刘畅也被控在2026年离职加入OpenAI后，利用未归还的苹果笔记本电脑下载了包含未发布技术</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29532</guid>
-      <pubDate>Mon, 13 Jul 2026 01:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​Claude Code再进化！内置浏览器让AI自主“刷网页”</title>
-      <link>https://news.aibase.com/zh/news/29533</link>
-      <description>知名AI企业Anthropic近日为旗下开发者工具Claude Code迎来重大升级，正式加入了一款内置的集成浏览器窗口。这项新功能赋予了Claude在应用内部直接打开、阅读、点击以及在外部网页上进行打字输入的能力。 通过这项升级，开发者可以省去频繁切换应用的麻烦，让AI直接在工具内高效检索技术文档、追踪问题记录等关键资源。该内置浏览器采用了便捷的标签页式管理架构，用户只需通过简单的键盘快捷键就能快速将其唤醒。 兼顾安全与控制 为了防止AI出现非预期的越权行为，Anthropic在技术底层为其部署了多重严密的安全审查机制。系统内部的分类器会对所有在外部网站上的写入操作进行严格筛查，确保核心控制</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29533</guid>
-      <pubDate>Mon, 13 Jul 2026 01:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>近七成美国民众渴望共享AI红利！呼吁设立主权财富基金</title>
-      <link>https://news.aibase.com/zh/news/29534</link>
-      <description>随着科技企业频繁裁员而利润却持续攀升，美国民众对大型科技公司的不满情绪日益高涨。一项 最新 全国调查显示，越来越多的人希望让巨头们承担责任，将AI带来的惊人财富回馈给整个社会。 数据表明，高达69%的受访者支持强制AI公司交出股份。他们倾向于将企业50%的股权转入一个公共主权财富基金，以此来让全体公民共享社会技术变革的丰厚收益。 应对失业危机 这一呼声的背后，是普通劳动者对自身就业前景的深度焦虑。经济学家预测，在未来十年的AI转型期内，全美可能有多达 1500 万名员工因自动化而失去工作。 尽管这种冲击和历史上的重大技术变革类似，长期来看也会催生新岗位，但短期的阵痛依然让公众倍感压力。因此，通</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29534</guid>
-      <pubDate>Mon, 13 Jul 2026 01:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>用“@”就能让 AI 改你照片?Meta 刚上线的新功能被骂到连夜下架</title>
-      <link>https://news.aibase.com/zh/news/29535</link>
-      <description>社交媒体巨头 Meta 在人工智能与隐私保护的博弈中再次陷入舆论风暴。据 TechCrunch 报道，Meta 旗下 Meta Superintelligence Labs 本周早些时候推出了全新 AI 图片生成器 Muse Image 。 然而，该产品中一项备受推崇的核心功能——允许用户通过“@”提及公开 Instagram 账号来直接修改和生成他人照片，因缺乏必要的告知机制，立即引发了用户和包括 CAA 在内的经纪公司的强烈反对。 面对汹涌的抗议浪潮，Meta 随后迅速改变主意，于周五发布博文宣布正式移除该功能，知名媒体人 Dylan Byers 最先 公开了这一决定。Meta 在官方声明</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29535</guid>
-      <pubDate>Mon, 13 Jul 2026 01:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>被寄予厚望的AI浏览器夭折，OpenAI正式宣布关停Atlas</title>
-      <link>https://news.aibase.com/zh/news/29536</link>
-      <description>OpenAI近日宣布将正式关停旗下被寄予厚望的AI浏览器Atlas，该项目从发布到终结仅仅维持了九个月的时间。这款曾被宣称要彻底改变网络浏览体验并演变为AI操作系统的产品，如今不得不面临黯然退场的命运。 高调登场却漏洞百出 Atlas在去年十月高调问世，主打无需用户动手即可由AI代劳订机票和买网购的智能代理模式。然而产品上线后却暴露出严重的网络安全漏洞，甚至极易受到提示词注入攻击的威胁。 此外该浏览器的运行速度极其缓慢，在实际测试中添加三件商品至购物车竟然耗时长达十分钟。同时为了规避潜在的版权法律纠纷，它还主动屏蔽了互联网上的大量内容，导致实用性大打折扣。 转型与新业务的押注 随着Atlas将</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29536</guid>
-      <pubDate>Mon, 13 Jul 2026 01:53:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Jul 2026 02:26:54 +0000</lastBuildDate>
     <item>
       <title>别人敲钟，我们归零:智谱披露“摸高”计划，押注全自动化智能体生态</title>
       <link>https://news.aibase.com/zh/news/29537</link>
@@ -64,6 +22,209 @@
       <description>7月12日，Anthropic宣布为其AI编程助手Claude Code内置集成浏览器窗口，标志着该工具正式具备了在应用内直接读取、点击和输入外部网页内容的原生交互能力。 这一重大功能升级使Claude能够无缝跨越本地与云端界面的边界，高效处理文档网站、问题跟踪器等外部资源。 在技术实现与安全架构上，该内置浏览器采用全新的独立配置文件运行，绝不保存任何用户登录信息，且通过专门的分类器对所有外部网站的写入操作进行严格过滤。未经用户明确授权，系统将全面拦截购买行为、账户创建或绕过验证码等操作。 此外，企业组织可灵活通过白名单机制限制其访问范围，甚至完全禁用该浏览器工具。作为多模态与智能代理（Age</description>
       <guid isPermaLink="false">https://news.aibase.com/zh/news/29538</guid>
       <pubDate>Mon, 13 Jul 2026 02:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开</title>
+      <link>https://news.aibase.com/zh/news/29539</link>
+      <description>中兴通讯旗下品牌努比亚今日正式宣布，其在世界移动通信大会（MWC26）上 首次 亮相的情感陪伴AI宠物机器人——iMoochi，将于7月17日10点在中兴商城及各大电商平台正式上线。 作为针对都市独居人群情感需求推出的AI硬件新物种，iMoochi的上市标志着中兴通讯在AI硬件赛道上的进一步延伸，正从功能性终端向拟生命体交互体验迈进。 该款AI宠物机器人搭载紫光展锐T8300芯片，内置5处触摸感应与重力传感系统，支持声纹认主与记忆成长。在交互体验上，iMoochi打破了传统人声交互的恐怖谷效应，由专业声优打造定制化萌系音色及专属语言系统。通过头部轻碰、持续抚摸等动作，设备可触发摇头、摆尾等多维</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29539</guid>
+      <pubDate>Mon, 13 Jul 2026 02:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑</title>
+      <link>https://news.aibase.com/zh/news/29540</link>
+      <description>人工智能公司Anthropic近日宣布，将继续延长旗下Claude Fable5 旗舰模型在所有付费订阅方案中的访问权限，截止日期由原定的 7 月 12 日推迟至 7 月 19 日。 与此同时，Claude Code的每周费率上限也将继续保持在比常规标准高出50%的水平，直至同一日期。延期期间用户对Fable5 的使用仍计入每周订阅限额的一半，且无需额外支付费用，额度用尽或延期窗口关闭后系统将自动切换至常规使用额度。 分析人士指出，Anthropic此举是在AI行业竞争白热化背景下为留住开发者所采取的策略之一。OpenAI的GPT-5. 6 系列模型于上周正式向公众全量开放，早期测试数据显示其</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29540</guid>
+      <pubDate>Mon, 13 Jul 2026 03:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互</title>
+      <link>https://news.aibase.com/zh/news/29541</link>
+      <description>努比亚手机官方微博宣布，AI陪伴新物种iMoochi将于 7 月 17 日上午 10 点在中兴商城及各大电商平台正式开售。这款产品最早亮相于 2026 年世界移动通信大会（MWC26），凭借萌系外形和拟生命体交互设计，瞄准都市独居人群的情感陪伴需求。 会"成长"的毛茸伙伴 iMoochi 最大 的亮点在于拟生命体交互体验。用户可以通过头部轻碰、持续抚摸等动作触发它摇头、摆尾、发声等多维反馈，毛茸茸的外壳搭配云朵般的触感，进一步增强了温暖陪伴的氛围。随着使用时间增长，iMoochi还会逐渐发展出独特的"性格"和"生活节奏"，比如打哈欠、感知饥饿冷暖、主动发起玩耍等拟生命行为，让陪伴感更加真实自然</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29541</guid>
+      <pubDate>Mon, 13 Jul 2026 03:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代</title>
+      <link>https://news.aibase.com/zh/news/29542</link>
+      <description>抖音电商近日完成重要战略调整，在 最新 修订的《商家技术服务费管理规范》及《技术服务费费率标准》中，正式将大模型应用“豆包”写进技术服务费规则，该规范于2026年7月15日正式生效。 此次调整明确规定，订单技术服务费费率将根据“商品类目及成交渠道”综合确定。这意味着豆包不再仅作为前台的AI购物入口，来自豆包等特定渠道的订单将在商家结算侧被正式识别与归因，特定渠道的补充技术服务费率标准也将在生效后予以公开。 这一动作标志着AI导流订单实现了初步可衡量的商业化计算，生成式AI搜索优化（GEO）也将从早期的“曝光逻辑”真正走向“成交归因与成本核算”阶段。 与渠道费率调整同步，平台还上调了保暖护具、电</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29542</guid>
+      <pubDate>Mon, 13 Jul 2026 05:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务</title>
+      <link>https://news.aibase.com/zh/news/29543</link>
+      <description>商汤科技正式发布并全面开源"日日新SenseNova-Vision"理解生成统一视觉大模型，这是商汤日日新大模型体系的重要视觉能力升级。商汤表示，行业以往的"统一视觉"多是把检测、分割、深度预测等多个专家模型打包封装，本质仍是割裂的，而SenseNova-Vision的核心变革是让视觉成为通用基础模型的原生能力，彻底融入大模型体系。 单模型碾压四大领域 在多项评测中，SenseNova-Vision以"单模型"在四大核心视觉领域大范围领跑，比肩甚至超越各领域专用专家模型。在结构化视觉理解方面，目标检测、指代检测、OCR、关键点定位等任务全面领先同类通用模型，稠密小目标检测和长尾类别识别等复杂场</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29543</guid>
+      <pubDate>Mon, 13 Jul 2026 05:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>哈啰试水AI校园社交，推出精准交友产品“Match”</title>
+      <link>https://news.aibase.com/zh/news/29544</link>
+      <description>据读佳消息， 7月13日，哈啰在高校社交赛道祭出新动作，推出一款专为大学生打造的AI精准交友产品“Match”。该产品目前已在上海多所高校试点冷启动一个多月，吸引了超过1万人参与。据悉，Match后续还计划推出独立APP以优化移动端交互体验。 在核心功能与运作机制上，Match要求用户必须通过高校邮箱完成身份验证，并填写一份深度三观与性格问卷。平台基于AI算法进行深度匹配，于每周二晚9点向用户推送契合度 最高 的心动对象并提供联系方式，引导用户在站外完成后续互动。这种“轻体量、高精准”的去中心化匹配模式，旨在打破传统社交软件低效打招呼的僵局，切入高校年轻群体对高质量、强信任关系网络的需求。 从</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29544</guid>
+      <pubDate>Mon, 13 Jul 2026 06:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>职场社交变“AI重灾区”?研究显示LinkedIn长篇垃圾内容占比高达41%</title>
+      <link>https://news.aibase.com/zh/news/29545</link>
+      <description>随着生成式人工智能的普及，社交媒体正在被AI内容淹没。根据数据分析公司 Pangram 的 最新 研究，在字数超过250字的社交媒体长篇帖子中，每四篇就有一篇是由人工智能生成的。其中，职场社交平台 LinkedIn 已成为长篇 AI 垃圾内容的“ 绝对 王者 ”。 该数据源自 Pangram 的 Chrome 扩展程序在2026年4月至6月期间对五个主流社交平台超过100万条帖子的扫描监测。数据显示，尽管 LinkedIn 的帖子数量仅占所有扫描样本的三分之一，但却贡献了近三分之二的检测到的人工智能内容。在 LinkedIn 平台上，高达41% 的长篇帖子被标记为 AI 撰写，在50-250字</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29545</guid>
+      <pubDate>Mon, 13 Jul 2026 06:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>蚂蚁集团连发两款开源安全模型，为大模型与智能体套上“紧箍咒”</title>
+      <link>https://news.aibase.com/zh/news/29546</link>
+      <description>7月13日，蚂蚁AI安全实验室宣布开源智能体安全护栏SingGuard-NSFA，并同步披露多模态安全护栏SingGuard的详细信息。两款模型分别面向“自主执行的智能体”和“多模态交互的大模型”两大前沿场景，标志着蚂蚁在AI安全领域进一步完善系统化布局。 随着AI从内容生成迈向自主执行，安全问题正从模型输出扩展到行为控制、权限管理和系统治理。智能体开始自主调用工具、运行代码、规划任务，模型也逐渐具备理解图像、文本等多模态信息的能力，AI系统的能力边界不断拓展，也带来了新的安全挑战。 过去一年，提示词注入、权限滥用、恶意代码执行、数据泄露等安全事件持续出现。从Amazon Q提示词投毒、Mic</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29546</guid>
+      <pubDate>Mon, 13 Jul 2026 06:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>阶跃星辰发布 Step Edge 系列终端模型，实现本地高效多模态处理</title>
+      <link>https://news.aibase.com/zh/news/29547</link>
+      <description>近日， 阶跃星辰 正式发布了面向手机、车载等终端设备的 Step Edge 系列终端模型 ，包括基础版、Audio 版、GUI 版和 Gen 版四大版本。该系列模型可在本地处理文本、图像和音频，支持屏幕理解、语音识别、界面操作以及图像生成等功能。 据官方介绍，Step Edge 系列终端工具调用延迟低至 0.1秒 。在简单、高频或弱网络环境下，任务可完全在本地完成;复杂推理任务则交由云端处理。这种混合架构显著降低了设备对网络和云计算的依赖，同时敏感数据无需上传，极大提升了隐私安全性。 为进一步优化终端性能，LeapStep 同步发布了自主研发的 Step Inference NPU 推理引擎 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29547</guid>
+      <pubDate>Mon, 13 Jul 2026 06:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制</title>
+      <link>https://news.aibase.com/zh/news/29548</link>
+      <description>由于旗舰模型GPT-5.6Sol的市场需求在过去48小时内出现爆发式激增，OpenAI今日宣布临时取消面向Plus、Pro及Business订阅用户的5小时使用限制，以应对算力需求的集中释放。产品负责人Tibo指出，近期Codex和ChatGPT Work的使用强度 极高 ，为保障用户的编程与智能体（Agent）工作流不受受限，平台已同步对所有用户进行了一次性使用额度的重置。 在释放使用权限的同时，OpenAI正全面优化GPT-5.6Sol的运行效率。据官方透露，此次模型升级将显著降低实际算力与Token的用量消耗，从而实现同等配额下承载更多任务的目标。尽管具体的技术细节尚未公开，但行业普遍推</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29548</guid>
+      <pubDate>Mon, 13 Jul 2026 07:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源</title>
+      <link>https://news.aibase.com/zh/news/29549</link>
+      <description>韩国政府宣布将编制 2027 财年规模超过 800 万亿韩元（约合3. 6 万亿元人民币）的创纪录财政预算，资金来源将主要依靠蓬勃发展的AI芯片产业带来的税收增长。相比 2026 财年727. 9 万亿韩元的财政支出计划，增幅显著。韩国企划财政部长朴洪根在国家财政战略会议上表示，这项预算将通过增加税收收入以及压缩财政支出来筹措资金。 三大 超级 项目成投入重点 韩国政府明确，半导体、AI数据中心和物理AI三大" 超级 项目"将成为财政投入的 最高 优先事项。总统李在明表示，政府将采取一切可行措施确保企业投资项目按计划推进，并强调当前新增税收收入是一项宝贵资源，应当在全球AI主导权竞争即将决定胜</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29549</guid>
+      <pubDate>Mon, 13 Jul 2026 07:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频</title>
+      <link>https://news.aibase.com/zh/news/29550</link>
+      <description>米哈游旗下AI陪伴互动软件《BSide: Olivia Lin》在Steam平台开启抢先体验。该应用需绑定米哈游通行证并支持与Steam账户关联，定位并非游戏，而是一款融合AI互动、音乐生成与桌面动态壁纸的工具类应用。 会弹钢琴的AI陪伴伙伴 应用的主角"林离"是一位主修钢琴、辅修心理学的上海女生，钟爱黑胶、老电影和雨天，正在进行一项关于"音乐与回忆"的个人研究。用户可以沉浸感受她的钢琴演奏，每一首曲子都是她对音乐与回忆的理解与表达。用户还能将MIDI文件上传给她，系统会自动生成对应的音乐视频，留存创作灵感。 除了音乐功能，用户还可以通过AI互动写信，用文字表达情绪，与林离交换专属故事，获得个</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29550</guid>
+      <pubDate>Mon, 13 Jul 2026 08:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署</title>
+      <link>https://news.aibase.com/zh/news/29552</link>
+      <description>7月13日午间，在2026中国互联网大会“网民权益和个人信息保护论坛”上，《智能体个人信息保护自律公约》正式发布。腾讯、百度、美团、连尚集团等31家行业头部企业作为首批代表现场签署该公约。 作为人工智能行业的重要自律规范，该公约的推出填补了国内智能体（AI Agent）领域专项个人信息保护规范的空白。在技术创新日新月异的背景下，公约旨在通过头部企业的表率带头作用，引领AI行业生态向规范化、健康化发展，并直接回应了国家“十五五”规划对人工智能安全可控发展的核心要求。中国信息通信研究院总工程师魏然在会上对公约核心内容进行了深度解读，引导AI企业在推进技术迭代的同时，坚守用户信息保护的底线，以行业自</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29552</guid>
+      <pubDate>Mon, 13 Jul 2026 08:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加</title>
+      <link>https://news.aibase.com/zh/news/29553</link>
+      <description>微软Windows与设备部门执行副总裁Pavan Davuluri在博客发文透露，Windows团队正全面利用AI挖掘漏洞，后续Patch Tuesday安全更新将包含更多漏洞修补内容。微软强调，这并不意味着系统本身安全漏洞增多，而是公司发现漏洞的效率提高了。 AI安全系统MDASH上线 今年 5 月，微软为内部引入了多模态AI安全系统MDASH（Microsoft Detection and Analysis for Security Hardening）。该系统会自动扫描Windows关键二进制文件，结合多个AI模型分析潜在漏洞，再通过Windows专用验证流程过滤误报，最后交由工程师进行</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29553</guid>
+      <pubDate>Mon, 13 Jul 2026 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siri 迎来全面 AI 进化!苹果正式发布 iOS27首个公开测试版</title>
+      <link>https://news.aibase.com/zh/news/29554</link>
+      <description>苹果公司今日正式面向用户推出了 iOS27 的首个公开测试版 。本次更新无需开发者账号，用户只需在 Apple Beta 软件计划网站 注册或登录，并在 iPhone 的“设置 &gt; 常规 &gt; 软件更新 &gt; Beta 更新”中选择相应版本即可下载安装。苹果建议用户在备用设备上进行体验，并提前做好 iCloud 或电脑备份。 Siri 的 AI 彻底重构 基于新一代 Apple Intelligence 系统， Siri 获得了脱胎换骨的改变。它不仅能进行持续对话、理解屏幕内容、在应用内执行操作，还能检索用户的个人信息。Siri 的回复现在集成在动态岛中，并拥有专属应用来同步历史记录。此外，相机应</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29554</guid>
+      <pubDate>Tue, 14 Jul 2026 00:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI员工集体声援CEO奥尔特曼：他乐于听取不同意见，内部批评文化被赞"有人情味"</title>
+      <link>https://news.aibase.com/zh/news/29555</link>
+      <description>OpenAI多名员工公开声援CEO萨姆·奥尔特曼，称其并非排斥批评，反而非常愿意听取不同意见。这一轮集体发声源于OpenAI人工智能产品负责人尼克·休伯一篇现已删除的帖文，其中提到面试时被要求用数据验证据称由奥尔特曼持有的观点，引发了外界对OpenAI内部文化是否容许异议的讨论。 员工集体反驳"报复"传言 OpenAI后训练前沿团队联席负责人埃里克·米切尔率先发声，称自己曾多次当面反驳奥尔特曼、纠正他的说法，甚至向管理层表达不满。"每次我提出异议或投诉时，他都会抱着好奇和开放的态度听取，有时甚至愿意退让。"米切尔明确表示，所谓OpenAI存在"员工因坦率批评领导层而遭报复"的企业文化并不符合事</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29555</guid>
+      <pubDate>Tue, 14 Jul 2026 00:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI安全团队再失核心，近年已有 8 名安全负责人相继出走</title>
+      <link>https://news.aibase.com/zh/news/29556</link>
+      <description>据《商业内幕》报道，OpenAI安全系统团队负责人约翰内斯·海德克即将离职。这是近年来OpenAI安全与对齐团队 最新 一位离任的核心成员，AI分析师安德鲁·柯伦甚至借用《哈利·波特》中的说法，将OpenAI安全负责人走马灯般更替的现象形容为一种"诅咒"。 安全负责人频繁更迭，多人公开质疑公司安全态度 海德克于 2021 年加入OpenAI，在上一任安全负责人翁荔离职后接手该团队，负责模型发布前的风险评估和缓解措施。OpenAI表示，研究与安全副总裁米娅·格莱泽将接任，推动安全工作更深入融入各研究团队。然而OpenAI一直未能稳定留住 高级 安全负责人，一些离职员工还曾公开质疑公司是否真正重视</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29556</guid>
+      <pubDate>Tue, 14 Jul 2026 01:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>苹果起诉OpenAI：昔日员工被指利用“零日漏洞”窃取核心机密</title>
+      <link>https://news.aibase.com/zh/news/29557</link>
+      <description>近日，苹果公司向加利福尼亚州北区联邦地区法院提起诉讼，正式指控OpenAI窃取商业机密。这场科技巨头之间的法律博弈，核心聚焦于一名离职员工涉嫌利用系统漏洞获取苹果内部敏感数据的行为。 据苹果公司提交的诉状显示，案件的主角是一名曾担任系统电气工程师的员工Chang Liu。在离职并加入OpenAI后，Liu被指控利用其遗留的访问权限，非法侵入苹果内部共享网络。苹果方面在诉讼中强调，Liu利用了一个此前未被发现的“零日漏洞”，成功绕过了公司的身份验证机制，从而深入公司内部网络获取了大量机密文件。 苹果公司披露，该漏洞属于极度罕见的身份验证错误。尽管服务器日志显示该漏洞理论上可能影响少数用户，但目前</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29557</guid>
+      <pubDate>Tue, 14 Jul 2026 01:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>手机新物种诞生：阶跃星辰发布原生智能体系统与首款手机STEPX Neo</title>
+      <link>https://news.aibase.com/zh/news/29558</link>
+      <description>7月13日晚，阶跃星辰举办「阶跃终端品牌暨新一代智能体战略发布会」，正式向外界展示了其在人工智能终端领域的 最新 布局。此次发布会的核心看点在于三项创新成果:智能体原生系统Step AOS、大模型原生AI终端品牌STEPX，以及旗下 首款 手机产品STEPX Neo。 作为此次发布的核心，Step AOS系统是专为智能体量身打造的原生操作系统。它在硬件调度与系统能力分配上进行了深度重构，旨在提供更强的稳定性与高性能支持。该系统主打三大关键能力: 首先是记忆能力。Step AOS引入了双域三步记忆结构，不仅能让智能体深度理解并记住用户偏好，还能通过智能体域让其经验实现自我迭代，带来“越用越懂你”</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29558</guid>
+      <pubDate>Tue, 14 Jul 2026 01:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>视频生成初创公司PixVerse完成4.39亿美元C轮融资，估值突破20亿美元</title>
+      <link>https://news.aibase.com/zh/news/29559</link>
+      <description>新加坡视频生成初创公司PixVerse于2026年7月13日宣布完成C轮融资，共筹集资金4.39亿美元，公司估值由此飙升至20亿美元以上。本轮融资由阿里巴巴、Lollapalooza Capital、华侨银行旗下的Lion X Ventures等多家知名机构参与，此前PixVerse已于同年3月完成由鼎晖投资领投的首期C轮融资。 新注入的资金将主要用于拓展其全球模型服务、招募研究与市场人员，并加速推进企业级业务的全球化布局。 PixVerse由前字节跳动计算机视觉专家王昌虎与前光速光元执行董事谢杰登于2023年创立。凭借独特的AI数据标注技术及核心视觉理解优势，该公司已构建起多元化的产品矩阵，</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29559</guid>
+      <pubDate>Tue, 14 Jul 2026 01:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>视觉模型新突破：商汤开源 SenseNova-Vision-7B-MoT</title>
+      <link>https://news.aibase.com/zh/news/29560</link>
+      <description>人工智能视觉领域近期迎来重要进展。商汤科技正式宣布开源其多任务视觉模型 SenseNova-Vision-7B-MoT，旨在为视觉理解及 GUI 智能体开发提供强有力的基座支撑。 此次开源的模型具备出色的任务整合能力。它成功将目标检测、OCR（光学字符识别）、深度估计、法线估计、图像分割以及多视图处理等多种核心视觉任务，统一集成至一个7B 参数规模的模型中。这种架构设计不仅提升了模型的通用性，还支持通过自然语言定义全新的视觉任务变体，实现了视觉能力在传统任务边界之外的灵活重组。 为了支持社区的研究与应用，商汤此次采取了完全开源的策略。开发者不仅可以获取模型权重，还能获得包含5000万个样本的 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29560</guid>
+      <pubDate>Tue, 14 Jul 2026 01:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PixVerse 完成 4.39 亿美元 C 轮扩展融资 估值飙升至 20 亿美元</title>
+      <link>https://news.aibase.com/zh/news/29561</link>
+      <description>人工智能视频生成赛道近日再起波澜。总部位于新加坡的视频生成创企PixVerse宣布完成C轮扩展融资，筹集资金达4.39亿美元。在当前AI行业竞争白热化的背景下，此次融资不仅让PixVerse的估值一举突破20亿美元大关，也向市场释放出强烈的增长信心。 PixVerse的发展史是一部典型的技术驱动创业史。公司由王长虎与Jaden Xie于2023年联合创立。王长虎此前在字节跳动负责计算机视觉核心技术，曾深度参与TikTok推荐算法底层视觉理解架构的构建。这种深厚的数据标注与算法工程经验，被视为PixVerse在群雄逐鹿的市场中突围的核心壁垒。 目前，PixVerse已经构建起多元化的产品矩阵。其</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29561</guid>
+      <pubDate>Tue, 14 Jul 2026 01:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>抢滩 OpenAI 腹地!Anthropic 启动 Claude 卢比计价，全面发力印度市场</title>
+      <link>https://news.aibase.com/zh/news/29562</link>
+      <description>7月13日报道 ，美国人工智能独角兽 Anthropic 已开始在其仅次于美国的全球第二大市场印度（占其全球用户量的5.8%）推出 Claude 产品的本地化卢比（INR）计价服务。 此次调整覆盖了官网和移动应用端。包含当地税费后，Claude Pro 订阅价格为每月2000卢比（约合21美元）;Claude Max 起售价为每月11999卢比(约合125美元);团队套餐起售价为每席每月2399卢比(约合25美元)。 目前，用户仍需通过银行卡或苹果与谷歌的应用商店系统进行支付，暂不支持印度广泛使用的 UPI 实时支付网络，而其主要竞争对手 OpenAI 的 ChatGPT 此前已支持卢比和 U</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29562</guid>
+      <pubDate>Tue, 14 Jul 2026 01:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI主权新突破：德国研究联盟发布开源大模型Soofi S</title>
+      <link>https://news.aibase.com/zh/news/29563</link>
+      <description>近日，由德国人工智能协会协调的研究联盟正式发布了全新开源大语言模型——Soofi S30B-A3B。这一成果不仅标志着欧洲在主权AI基础设施建设上的重要进展，也为追求高性能与高效率的开源模型领域注入了新鲜血液。 该模型在架构设计上颇具匠心。Soofi S采用了一种资源高效的“混合专家”架构，结合了Mamba-2与标准注意力层。其总参数量为316亿，但在实际生成过程中，每个token仅激活约32亿参数。这种设计让它的计算成本大幅降低，更接近于小型模型，同时在高负载场景下的处理速度和生成吞吐量表现 极佳 。特别是在处理长文本时，其性能优势尤为明显——在4万token长度的上下文环境下，其生成吞吐量</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29563</guid>
+      <pubDate>Tue, 14 Jul 2026 01:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>腾讯混元发布 HyOCR-1.5：仅 1B 参数 推理提速 6.37 倍</title>
+      <link>https://news.aibase.com/zh/news/29564</link>
+      <description>近日，轻量化端到端 OCR 专家模型 HyOCR-1.5正式发布，通过一系列技术革新，在保持轻量化架构的同时，实现了性能与效率的显著跃升。 作为该领域的首个全栈开源模型，HyOCR-1.5不仅公开了模型权重，更将训练配方、数据构造方法及推理加速框架向社区全面开放。这一举措极大降低了开发门槛，使开发者能够轻松复现、微调甚至将其部署在消费级显卡或普通笔记本电脑上。 为了解决长自回归解码带来的延迟瓶颈，研发团队引入了名为“DFlash”的投机解码框架。通过一个约90.7M 参数的轻量级草稿模型进行并行预测，DFlash 在保证输出准确性的前提下，实现了推理速度的数倍提升。在 权威 测评 OmniDo</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29564</guid>
+      <pubDate>Tue, 14 Jul 2026 01:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI发布用户提示词指南:面向常规界面与Codex构建统一框架</title>
+      <link>https://news.aibase.com/zh/news/29565</link>
+      <description>OpenAI 近日发布了一份面向普通用户的全新提示词（Prompt）指南，旨在降低非开发者的交互门槛。该指南将常规 ChatGPT 界面与 Codex 整合至单一框架，核心理念倡导“从小处着手，直接表达需求”。这与近期发布的 GPT-5 和 GPT-5.5 开发者文档中侧重 API 参数和复杂提示模式的风格截然不同。 该指南发布不久前，OpenAI 推出了基于 Codex 技术和新 GPT-5.6 模型构建的独立产品 ChatGPT Work 。为配合该布局，新指南围绕 目标、背景、输出格式和边界 四个可选模块，建议用户“用约束条件代替循序渐进的脚本”，直接展示最终结果，并仅在必要时引入电子表</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29565</guid>
+      <pubDate>Tue, 14 Jul 2026 01:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta大手笔：斥资 500 亿美元打造5GW数据中心，AI算力格局迎来重塑</title>
+      <link>https://news.aibase.com/zh/news/29566</link>
+      <description>在人工智能算力竞赛不断升级的当下，Meta近日正式对外宣布了一项极具震撼力的基础设施扩建计划。公司决定对其位于路易斯安那州里奇兰教区的现有数据中心进行大规模扩容，将算力规模提升至5GW（吉瓦）的量级。 此次项目的总投资额超过 500 亿美元，这不仅是Meta发展史上的一个重要里程碑，在全球范围内也属于极为罕见的超大规模AI基础设施投资。据了解，这笔巨额资金将主要用于支持后续的深度基础设施建设，以及配套的劳动力培训计划。 针对外界关注的成本负担问题，Meta做出明确承诺：该数据中心在运营过程中产生的能源消耗、水资源使用以及相关基础设施的维护费用，将全部由Meta自行承担，绝不会将这些成本转嫁给周</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29566</guid>
+      <pubDate>Tue, 14 Jul 2026 02:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>英伟达营收逼近千亿大关，黄仁勋亲自回应架构延期传闻</title>
+      <link>https://news.aibase.com/zh/news/29567</link>
+      <description>在近期举办的一场行业交流会上，英伟达首席执行官黄仁勋向投资者传递了明确信号：尽管公司季度营收已逼近 1000 亿美元大关，但其增长动力并未放缓，反而呈现出加速态势。面对外界对于ASIC（专用集成电路）竞争加剧及产品路线图的质疑，管理层给予了积极回应，重申了公司在AI算力市场的核心竞争力。 针对此前市场流传的下一代旗舰架构Rubin Ultra将推迟至 2028 年的传闻，黄仁勋予以明确否认。他强调，Rubin Ultra仍将严格按照既定计划于明年出货。虽然部分机架设计因应大规模算力集群的需求正在进行架构优化——例如引入新的设计方案以适配800V高压供电及机架间光互连技术，但这属于正常的研发迭代</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29567</guid>
+      <pubDate>Tue, 14 Jul 2026 02:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>软银独家合作Sierra，大模型智能客服正式进军日本市场</title>
+      <link>https://news.aibase.com/zh/news/29568</link>
+      <description>软银集团于7月14日宣布与美国AI初创公司Sierra建立战略合作伙伴关系。自今日起，软银正式成为Sierra在日本市场的 独家 合作方，双方将联合推出由智能AI代理驱动的新一代客户服务解决方案。 目前，软银旗下的线上手机品牌Linemo已率先接入Sierra的相关AI技术。按照集团规划，该技术后续将全面推向软银（SoftBank）、Y!mobile等自有核心品牌，并逐步渗透至集团旗下的其他业务线。 作为由OpenAI前董事长布雷特·泰勒（Bret Taylor）参与创立的独角兽企业，Sierra的核心优势在于构建具备高度交互与自主解题能力的AI Agent。此次软银将其引入日本电信及商业生态</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29568</guid>
+      <pubDate>Tue, 14 Jul 2026 02:11:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
