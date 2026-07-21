@@ -8,112 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 20 Jul 2026 03:38:23 +0000</lastBuildDate>
-    <item>
-      <title>发布仅三天就踩下刹车：Kimi K3 用户请求爆表，月之暗面算力顶到天花板</title>
-      <link>https://news.aibase.com/zh/news/29696</link>
-      <description>一款大模型上线三天就不得不暂停新用户入口，这种事在行业里并不多见，但月之暗面刚刚就这么做了。 7 月 19 日，Kimi官方发布公告称，由于Kimi K3 上线后用户请求量快速增长，为保障现有订阅用户的使用体验，即日起暂停C端新用户订阅，把现有算力优先投入已订阅用户服务，确保他们的会员权益不受影响。 这纸公告背后，是一组超出团队预期的数字。Kimi团队表示，自 7 月 16 日发布Kimi K3 以来，产品获得了远超预期的用户支持，但过去 48 小时内，用户请求量已大幅超过此前的预估，并逼近现有算力集群的承载极限。在算力完成扩容之前，平台将暂时停止向C端开放新的订阅名额。公告同时给出承诺：月之</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29696</guid>
-      <pubDate>Mon, 20 Jul 2026 00:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>阿里新一代大模型千问3. 8 将至：预览版抢先登陆阿里云与Qoder，正式版拟近期开源</title>
-      <link>https://news.aibase.com/zh/news/29697</link>
-      <description>大模型的开源节奏，正在被国内头部厂商越拉越紧。 据悉，阿里 最新 一代大模型千问3. 8 即将发布并同步开源，这意味着通义千问家族在开源赛道上又向前迈出一步。 新模型的体验窗口已经悄然打开。目前，Qwen3.8-Max预览版已率先上线阿里云Token Plan、Qoder以及QoderWork三个平台，用户现在就能提前摸一摸这一代新模型的能力边界。按照阿里的规划，Qwen3.8-Max的正式版将于近期正式推出并开源，届时完整的模型权重将向开发者开放。 在国产大模型密集发力的当下，阿里选择让预览版先行、正式版紧随开源，既提前释放了产品信号，也把模型能力放进真实用户场景里接受检验。千问3. 8 正</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29697</guid>
-      <pubDate>Mon, 20 Jul 2026 00:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kimi因算力紧缺暂停C端新用户订阅，全速推进集群扩容</title>
-      <link>https://news.aibase.com/zh/news/29698</link>
-      <description>7月19日深夜，Kimi发布公告称，由于近期用户请求量快速增长，现有算力集群承载压力接近极限，团队决定暂停C端新用户订阅，并启动算力扩容计划。 Kimi表示，过去48小时内，用户请求量大幅超出此前预估，当前算力资源已接近集群 最大 承载能力。为保障已有订阅用户的服务体验，Kimi将优先调配现有算力资源，确保已订阅用户权益不受影响。同时，团队正在全速推进算力扩容，待新增算力陆续到位后，将逐步开放更多订阅名额，直至恢复正常订阅服务。 在订阅体系调整方面，Kimi计划对后续新用户权益进行拆分，将“Kimi主权益”和“Kimi Code权益”分别管理。其中，Kimi主权益覆盖Kimi Web、Kimi</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29698</guid>
-      <pubDate>Mon, 20 Jul 2026 00:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Netflix5.87亿美元收购本·阿弗莱克AI电影制作公司InterPositive</title>
-      <link>https://news.aibase.com/zh/news/29699</link>
-      <description>Netflix近日在提交的监管文件中披露，公司已以5.87亿美元现金完成对AI电影制作初创公司InterPositive的收购。该交易此前于3月宣布，但双方当时并未公布具体金额，彭博社此前报道称交易规模可能接近6亿美元。 InterPositive由演员兼导演本·阿弗莱克共同创立，专注于利用人工智能技术辅助影视制作流程。阿弗莱克表示，公司希望通过AI工具“保护人类创造力的力量”，帮助电影制作团队在后期制作阶段提升效率，尤其是在解决现实拍摄过程中的素材缺失、背景替换以及光线调整等问题方面。 根据Netflix此前公布的信息，InterPositive团队将在收购后整体加入Netflix，阿弗莱克</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29699</guid>
-      <pubDate>Mon, 20 Jul 2026 01:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>神珍科学多模态基础模型在沪亮相： 110 亿参数打通六类科学数据，一个模型读懂DNA到气象场</title>
-      <link>https://news.aibase.com/zh/news/29700</link>
-      <description>7 月 19 日，上海科学智能研究院在 2026 世界人工智能大会的科学智能开放论坛上，揭开了一个承托多领域科学智能研究的底层 超级 大脑——神珍科学多模态基础模型。这个名字取自《西游记》里的天河定底神珍铁，团队希望这套开放模型以相对精炼的形态承载多样科学任务，也让更多研究者参与检验、使用与共建。它是今年 3 月初面世的系统级科研智能体大圣的 超级 大脑。 在技术上，神珍立足物质科学、生命科学、地球科学等多元学科场景，阶段性实现了跨领域科学知识的统一表征与多模态融合理解。模型总参数约 110 亿，面向DNA、RNA、蛋白质、小分子、地球系统和医学影像六类科学数据，在一个统一模型中同时支持科学理</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29700</guid>
-      <pubDate>Mon, 20 Jul 2026 01:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Fable5使用权限大调整:部分用户失去访问权，Anthropic加速扩容</title>
-      <link>https://news.aibase.com/zh/news/29701</link>
-      <description>Anthropic宣布调整Claude Fable5模型的订阅访问策略，自7月20日起，Max和Team Premium套餐用户仍可继续使用Fable5，但使用限额将大幅降低。其中，奖励使用阶段结束后，常规使用额度将减少33%，Fable5的实际可用额度仅为调整后限额的50%。 与此同时，Pro和Team Standard套餐用户将失去Fable5访问权限，Anthropic将向这些用户提供一次性100美元使用额度，后续需按照API价格进行付费。由于高频调用成本较高，该额度可能较快消耗完毕。 Anthropic表示，公司正在持续投入资源提升计算产能，并承认Fable系列模型需求增长超出预期，对</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29701</guid>
-      <pubDate>Mon, 20 Jul 2026 01:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>面壁智能开源MiniCPM-Robot：1.5B的VLA模型完整放出，个人开发者也能在真机器人上跑操作</title>
-      <link>https://news.aibase.com/zh/news/29702</link>
-      <description>具身智能这场仗，过去基本是巨头和实验室的专属游戏——模型太大、门槛太高，普通开发者连真实机器人都摸不着。7月19日，面壁智能（OpenBMB）把这扇门直接踹开了。它开源了首个具身AI模型系列MiniCPM-Robot，把1.5B参数的视觉-语言-动作模型完整放出，让个人开发者也能在真实机器人上跑操作与目标跟踪，这种开放程度在具身领域相当罕见。 这套系列包含三个核心组件。主角之一是MiniCPM-RobotManip，一个1.5B参数的通用视觉-语言-动作（VLA）模型，专门负责机器人操作。另一位是MiniCPM-RobotTrack，一个面向现实世界目标跟踪的紧凑型模型。两者之外，面壁还一并发</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29702</guid>
-      <pubDate>Mon, 20 Jul 2026 01:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google DeepMind发布GenCeption:基于视频生成模型实现多项计算机视觉突破</title>
-      <link>https://news.aibase.com/zh/news/29703</link>
-      <description>Google DeepMind近日发布新模型GenCeption，该模型基于预训练视频生成模型构建，用于解决深度估计、图像分割、3D姿态估计等经典计算机视觉任务，并在多项基准测试中达到接近或超过当前领先水平。值得关注的是，GenCeption所需训练数据规模远低于传统专用视觉模型。 当前计算机视觉领域仍以任务专用模型为主，例如用于分割任务的Segment Anything、用于深度估计的Depth Anything等，不同任务通常采用独立架构。DeepMind研究团队认为，大型文本到视频模型在训练过程中学习了场景空间结构、物体运动规律以及语言与视觉之间的关联，可能具备成为通用视觉基础模型的潜力</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29703</guid>
-      <pubDate>Mon, 20 Jul 2026 01:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Epoch AI测试三大AI文本检测器:模仿人类文风后最高近三成内容漏检</title>
-      <link>https://news.aibase.com/zh/news/29704</link>
-      <description>Epoch AI 最新 研究显示，主流AI文本检测器能够几乎完美识别普通AI生成内容，但当大语言模型刻意模仿特定作者写作风格时，检测准确率明显下降，科学写作成为最难识别的场景。 研究团队测试了Pangram（3.3.2）、GPTZero(2026-05-11-base)和Originality.ai(Turbo3.0.2)三款主流AI文本检测器，并构建包含495篇人类原创文本的测试集，覆盖博客、小说和科学写作三类内容，所有样本均创作于ChatGPT于2022年11月发布之前，以避免训练数据污染。 测试结果显示，对于普通AI生成文本，三款检测器漏检率 最高 仅0.7%;在人类文本识别方面，Pan</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29704</guid>
-      <pubDate>Mon, 20 Jul 2026 01:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>昆仑万维把 2026 定为世界模型元年：Matrix-Game 3. 5 单卡实时生成，5B模型跑出20FPS</title>
-      <link>https://news.aibase.com/zh/news/29705</link>
-      <description>世界模型这条赛道，今年被一家中国公司正式写进了自己的时间表。在2026世界人工智能大会（WAIC）上，昆仑万维董事长方汉宣布，2026年就是世界模型元年，并一口气发布了Matrix-Game3.5世界模型、Mureka v9.5与O3音乐模型三款新品。 最受关注的是Matrix-Game3.5。昆仑万维给这套世界模型塞进了Patch级记忆注入能力，让模型在生成过程中能够携带并调用画面片段的记忆，从而把交互推向实时。性能数字相当亮眼:一个5B参数的模型，在720p分辨率下，单张显卡就能跑到20FPS的实时生成速度。更关键的是，其核心架构已经开源，这意味着做游戏和具身智能的开发者，可以直接把它拉下</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29705</guid>
-      <pubDate>Mon, 20 Jul 2026 01:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>嫌whisper.cpp和ONNX不够用？Handy作者开源transcribe.cpp：60+转录模型、GPU加速、即插即用替代</title>
-      <link>https://news.aibase.com/zh/news/29706</link>
-      <description>本地语音转录这块，开发者长期被困在一个尴尬的夹缝里:要么用whisper.cpp，要么用ONNX，想上苹果设备还得再塞一个MLX，等于同时维护两套引擎、为每个引擎各移植一遍模型。7月19日，知名语音转文字应用Handy的作者和维护者sebjones，把他在分发跨平台应用时踩过的坑，直接炼成了一个新库transcribe.cpp，并发布v0.1.0版本。这是一个基于ggml的语音转录库，支持当下所有 最新 的转录模型，且handy-computer这个Hugging Face组织下发布的每一个模型，都经过了数值验证和词错率（WER）测试，确保与官方参考实现一致。作者也坦承，这是0.1.0版本，难</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29706</guid>
-      <pubDate>Mon, 20 Jul 2026 01:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>杨植麟在GTC2026 摊牌：月之暗面把Adam、全注意力和残差连接全换了，而且全部开源</title>
-      <link>https://news.aibase.com/zh/news/29707</link>
-      <description>大模型训练的地基，正在被一家中国公司悄悄撬动。在GTC2026的演讲How We Scaled Kimi K2.5中，月之暗面CEO杨植麟没有只讲K2.5这一个产品，而是把过去一年多公司想清楚的一件事摊开了:当开源模型要逼近闭源前沿，除了继续堆参数和算力，还有另一条路——把Transformer时代沿用了近十年的三个基础组件，各自重新做一遍。优化器Adam（2014年提出）、注意力机制(2017年)、残差连接(2015年)，月之暗面给这三个地基组件各递上了一个替代方案，而且全部开源。 杨植麟把整条技术路线拆成三个方向:让每个Token更值钱、让更长的上下文真正有用、让多个Agent同时协作。除</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29707</guid>
-      <pubDate>Mon, 20 Jul 2026 01:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BrowseComp被刷到90%后，美团LongCat甩出LoHoSearch：前沿模型集体跌回三成出头</title>
-      <link>https://news.aibase.com/zh/news/29708</link>
-      <description>搜索智能体到底有多强，过去一年基本是BrowseComp说了算。但这个标尺正在失灵——它在10个月内就把模型成绩从30%一路推到了90%，基准测试本身的意义正快速被刷没。7月17日，美团LongCat抛出了一块更硬的试金石LoHoSearch，意图把搜索智能体重新逼回爬坡区。 LoHoSearch的难题不是人写的，而是从一个囊括762万个实体的维基百科知识图谱里自动生成的。正因为这种机器生成的出身，它在搜索空间和结构复杂度上，抵达了人类标注者根本无法稳定设计出的难度上限。换句话说，过去的基准靠人脑出题，题目再难也有 天花板 ;LoHoSearch把出题权交给图谱，难度 天花板 被彻底掀开。 结</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29708</guid>
-      <pubDate>Mon, 20 Jul 2026 01:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>腾讯混元Hy3限免活动延期至8月5日，WorkBuddy和CodeBuddy用户继续免费使用</title>
-      <link>https://news.aibase.com/zh/news/29709</link>
-      <description>腾讯混元大模型Hy3限时免费活动迎来延期。腾讯表示，原定为期两周的Hy3免费体验活动临近结束后，收到大量用户希望继续使用的反馈，因此决定面向WorkBuddy和CodeBuddy用户延长限免期限，活动将持续至8月5日。 此次延期主要覆盖腾讯旗下AI办公与编程相关产品用户，开发者和企业用户可继续体验基于混元Hy3模型提供的智能辅助能力。此前，Hy3通过限免活动吸引用户测试其在代码生成、开发辅助以及工作流场景中的应用效果。 随着AI大模型逐渐从通用问答向专业生产力工具演进，代码生成、智能办公等场景成为模型竞争的重要方向。通过延长免费体验周期，腾讯希望进一步扩大Hy3在真实业务环境中的使用规模，并收</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29709</guid>
-      <pubDate>Mon, 20 Jul 2026 02:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>谷歌升级Gemini Enterprise:优化界面并推进Workspace连接器重构</title>
-      <link>https://news.aibase.com/zh/news/29710</link>
-      <description>谷歌正在推进企业级AI助手Gemini Enterprise的新一轮更新，平台主提示栏已采用与消费者版Gemini应用一致的炫彩视觉设计，进一步统一企业与个人用户的产品体验。这一变化也体现出谷歌希望让企业AI助手与数亿用户使用的Gemini生态保持一致的发展方向。 此次更新中，更受关注的是Google Workspace连接器升级。部分用户收到通知称，连接器更新后可能需要重新授权才能继续使用。虽然谷歌尚未公布具体技术细节，但这一调整可能涉及权限扩展或底层架构优化。 近年来，Gemini Enterprise持续扩展企业数据连接能力，目前已支持Slack、Microsoft Teams、Noti</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29710</guid>
-      <pubDate>Mon, 20 Jul 2026 02:15:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Jul 2026 02:36:09 +0000</lastBuildDate>
     <item>
       <title>阿里发布Token Plan个人版，Qwen3.8-Max-Preview同步上线</title>
       <link>https://news.aibase.com/zh/news/29711</link>
@@ -148,6 +43,160 @@
       <description>一款刚开源不到半个月的大模型，靠着用户一句"再来两周"的呼声，硬是把免费期从两周拉长到了近一个月。7月20日，腾讯公关总监张军在微博上透露，混元大模型Hy3的两周限免活动临近收官时，公司收到了大量用户希望延期的强烈反馈，为此腾讯决定，针对WorkBuddy和CodeBuddy用户，把Hy3的限时免费活动延长至8月5日。 这场限免的主角Hy3，是腾讯在7月6日刚刚开源发布的新一代模型。它最鲜明的身份，是一个快慢思考融合的模型——既能快速给出直觉式回应，也能沉下来做深度推理，两种节奏被揉进了同一套架构里。技术底座上，Hy3采用MoE（混合专家）架构，总参数规模达到295B，激活参数则为21B，相当</description>
       <guid isPermaLink="false">https://news.aibase.com/zh/news/29715</guid>
       <pubDate>Mon, 20 Jul 2026 03:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”</title>
+      <link>https://news.aibase.com/zh/news/29716</link>
+      <description>近日，字节跳动正式推出音频创作模型Seed Audio1.0，标志着AI音频生成技术从单一语音合成阶段，迈入完整声音场景创作的崭新阶段。该模型目前已上线火山方舟体验中心，向创作者开放测试。 长期以来，影视级音频内容生产依赖多模型分别生成人声、音效与环境声，再通过人工繁琐拼接与混音，流程冗长且难以保证整体叙事一致性。Seed Audio1.0的核心突破在于，它并非简单拼接素材，而是在统一框架下联合建模多种音频要素，端到端生成可服务于叙事的“完整声音作品”。 据官方介绍，Seed Audio1.0具备三大核心能力。首先是精准的时空编排，支持以100毫秒的精度按时间线控制对白、音效的入场时机，完美适</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29716</guid>
+      <pubDate>Mon, 20 Jul 2026 05:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek V4正式版实测曝光，或于下周一发布剑指Kimi K3</title>
+      <link>https://news.aibase.com/zh/news/29717</link>
+      <description>在全球AI圈目光聚焦于Kimi K3热度之际，国产大模型厂商DeepSeek传来新动向。近日，DeepSeek V4正式版的测试视频与实机演示在社交平台悄然曝光，多方消息指出，该模型有望最早于下周一（7月下旬首个周一）正式发布，时间点恰好承接K3刷屏之后，引发行业高度关注。 据流出的测试信息与海外博主反馈，DeepSeek V4正式版在多项核心指标上表现惊艳。实测性能初步达到Claude Opus4.8的水平，尤其在3D方向的生成能力上远超Opus4.8，代理（Agent）行为表现与编码稳健性亦有显著提升。更有激进观点称，在特定测试(如游戏代码生成)中，V4正式版已压过Fable5与GPT-5</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29717</guid>
+      <pubDate>Mon, 20 Jul 2026 05:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出"全体上车"</title>
+      <link>https://news.aibase.com/zh/news/29718</link>
+      <description>一条命令就能在本地拉起开源大模型，这个让无数开发者摆脱API密钥和天价账单的工具，刚刚拿到了通往下一程的燃料。 7 月 9 日，Ollama在官方博客中宣布完成 8800 万美元融资，投资方阵容横跨 顶级 风投与开源世界的老将：Benchmark的Peter Fenton、Theory Ventures的Tomasz Tunguz、8VC的Alex Kolicich共同领投，Docker创始人Solomon Hykes、ClickHouse CEO Aaron Katz、GIMP联合创建者兼Cockroach Labs联合创始人Spencer Kimball、Amp CEO Quinn Sla</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29718</guid>
+      <pubDate>Mon, 20 Jul 2026 05:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hugging Face披露AI智能体攻击事件，采用GLM5.2完成日志取证分析</title>
+      <link>https://news.aibase.com/zh/news/29719</link>
+      <description>全球 最大 的AI开源社区Hugging Face近日披露，其服务器遭遇黑客AI智能体攻击。事件发生后，安全团队首先尝试调用一家美国商业前沿大模型API，对超过1.7万条与攻击相关的日志进行分析，但由于模型未能准确区分事件响应人员与攻击者，其安全防护机制误判相关请求并拒绝提供分析支持。 随后，Hugging Face在自有基础设施上部署中国开源模型GLM5.2，对海量安全日志展开取证分析，并顺利完成事件调查工作。 此次事件反映出，随着AI智能体逐渐参与网络攻击，安全分析对大模型的理解能力、推理能力以及部署方式提出了更高要求。相比依赖云端商业API，本地部署的开源模型能够在数据安全、权限控制和任</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29719</guid>
+      <pubDate>Mon, 20 Jul 2026 06:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%</title>
+      <link>https://news.aibase.com/zh/news/29720</link>
+      <description>2026盛夏的黄浦江畔，世界人工智能大会如期拉开帷幕，智象未来（HiDream.ai）在这场聚光灯下把一枚重磅新品推到了台前——全球首个无限时长内容创作多模态智能体vivago R1。一同落地的，还有它与中科类脑等机构组建的一带一路Token出海联盟，以及与飞捷科思等发起的物理智能创新联合体倡议。这家公司试图用技术创新与生态协同双轮，把AI从工具推向能并肩工作的智能伙伴。 在大会期间由中国信息通信研究院主办的论坛上，智象未来创始人兼CEO梅涛以《迈向世界模型:原生全模态推动智能体能力跃迁》为题发表主旨演讲，系统梳理了大模型与智能体双向并进、走向世界模型的态势。他的判断很清晰: 顶级 模型的智能</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29720</guid>
+      <pubDate>Mon, 20 Jul 2026 06:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>腾讯WorkBuddy6月访问量超2000万，领跑AI办公智能体市场</title>
+      <link>https://news.aibase.com/zh/news/29721</link>
+      <description>最新 发布的《2026年Q2中国办公智能体平台市场洞察报告》显示，腾讯WorkBuddy在国内PC端AI原生办公智能体市场保持领先，2026年6月单月访问量达到2097万次，超过第二、第三名总和。 报告显示，6月中国PC端AI原生办公智能体市场总访问量突破6000万次，行业规模持续扩大。腾讯旗下AI编程智能体CodeBuddy也保持头部位置。 作为AI效率办公智能体，WorkBuddy支持用户通过自然语言指令完成任务规划、文件处理和结果交付，可在PC、微信小程序、App等多端使用。 自2026年3月发布以来，WorkBuddy持续升级，已接入混元、DeepSeek、智谱GLM、Kimi等主流大</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29721</guid>
+      <pubDate>Mon, 20 Jul 2026 07:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速</title>
+      <link>https://news.aibase.com/zh/news/29722</link>
+      <description>一行原本不该暴露商业机密的公开代码，把Anthropic的下一手芯片布局捅了出来。据芯片行业分析机构SemiAnalysis解读，AMD AI业务 高级 总监在GitHub上公开发布的代码里，明确留下了Anthropic将作为AMD客户的痕迹。这桩非官方、非媒体报道的泄露，指向一个清晰的信号：Anthropic正在主动拓宽芯片来源，把算力供应商从单一名单里解放出来。 周一，SemiAnalysis在社交平台X上抛出分析帖，结论正来自对AMD那位 高级 总监公开代码的专业拆解——代码内容直接涉及Anthropic作为AMD客户的相关信息。该机构表示，后续还会进一步解释代码细节与背后背景。若这一判</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29722</guid>
+      <pubDate>Mon, 20 Jul 2026 08:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放</title>
+      <link>https://news.aibase.com/zh/news/29724</link>
+      <description>近日，阿里通义千问团队正式发布新一代实时语音合成模型Qwen-Audio-3.0-TTS，推动语音合成从“能说话”迈向“会表达”。其Plus版本已在全球 权威 榜单Artificial Analysis的Speech Arena中斩获全球 第一 ，综合表现超越Gemini3.1TTS、ElevenLabs v3等主流模型。 本次发布包含双版本:Flash版主打实时交互，首包延迟约300ms，适配智能助手等低延时场景;Plus版聚焦高质量生成，自然度与音色还原度更优。 核心能力实现四大突破: 一是多语种与方言覆盖升级，支持16种语言，Plus版在全部16种语言上的平均说话人相似度达82.75，位</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29724</guid>
+      <pubDate>Mon, 20 Jul 2026 09:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台</title>
+      <link>https://news.aibase.com/zh/news/29725</link>
+      <description>一份来自国新办发布会的半年报，把中国开源生态的体重直接量了出来。7月20日上午10时，国务院新闻办公室举行新闻发布会，工业和信息化部总工程师王卫明、运行监测协调局局长陶青、信息通信管理局局长谢存一并出席，介绍2026年上半年工业和信息化发展情况并答记者问。在这场发布会上，陶青给出的一组数字，让外界 第一 次看清了基础软件、工业软件与开源生态同时发力的现实轮廓。 先是一张稳稳的基本盘。今年1到5月，我国软件业务收入超过6.2万亿元，同比增长10.3%，延续了稳健增长的态势。在这张盘面之下，软件业今年主要呈现出四条清晰的发展脉络。 第一 条脉络是基础软件加速成势。操作系统、数据库等基础软件持续突破</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29725</guid>
+      <pubDate>Mon, 20 Jul 2026 09:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>谷歌研发“Frozen v2”AI芯片，预计2028年发布，能效提升最高10倍</title>
+      <link>https://news.aibase.com/zh/news/29726</link>
+      <description>谷歌母公司Alphabet正在研发一款代号为“Frozen v2”的新型AI服务器芯片，用于提升自主研发Gemini模型的运行效率。据The Information援引匿名消息人士报道，该芯片预计于2028年推出，其单位能耗产生代币数量的效率可能达到谷歌现有AI芯片的6至10倍。 针对相关报道，谷歌向TechCrunch表示，公司持续探索和测试创新技术，以提升系统性能与效率，但并非所有研发项目都会最终实现量产。谷歌强调，通过硬件与软件协同设计的“全栈开发”模式，可以打造更高集成度、针对实际AI工作负载优化的计算系统。 近年来，随着生成式AI应用快速扩张，全球AI算力需求持续增长，科技企业纷纷加</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29726</guid>
+      <pubDate>Tue, 21 Jul 2026 00:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic获批15亿美元版权和解协议，将向50万部作品支付赔偿</title>
+      <link>https://news.aibase.com/zh/news/29727</link>
+      <description>据路透社报道，美国联邦法院周一正式批准Anthropic公司与作家、出版商达成的15亿美元集体诉讼和解协议。该协议用于解决Anthropic因训练AI模型过程中涉嫌侵犯版权引发的诉讼，公司随后将开始向相关版权方支付赔偿。 美国加州北区地方法院法官Araceli Martinez-Olguin签署了最终批准文件。此前，已退休法官威廉·阿尔苏普曾初步批准该和解方案，并裁定Anthropic曾非法下载并存储数百万本受版权保护的书籍。 根据赔偿方案，每部涉案作品预计可获得3000美元赔偿，涉及作品数量约50万部，赔偿金额将由拥有版权的作者和出版商共同分配。这一金额被认为是美国版权法领域规模 最大 的和</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29727</guid>
+      <pubDate>Tue, 21 Jul 2026 00:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>15 亿美元和解获法官点头：Anthropic版权案落地，作家集体诉讼画上句号</title>
+      <link>https://news.aibase.com/zh/news/29728</link>
+      <description>一桩牵动整个AI行业的版权拉锯战，终于等来了法官落槌。据界面新闻援引报道，当地时间 7 月 20 日，美国加州北区联邦法官Araceli Martínez-Olguín正式批准了人工智能公司Anthropic涉及 15 亿美元的和解协议，并驳回了针对赔偿金额过低的异议。这份协议要解决的，是由作家团体提起的集体诉讼——这群作家早在 2024 年便指控Anthropic未经许可，将他们的著作拿来训练旗下AI聊天机器人Claude。 法官的批准，意味着围绕训练数据版权归属的这场标志性交锋暂告段落，也为AI公司使用受版权保护文本作为训练素材的合法性边界，添上了一个分量十足的判例注脚。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29728</guid>
+      <pubDate>Tue, 21 Jul 2026 01:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>谷歌密造"Frozen v2"专用芯片：把Gemini烙进硅片，单位功耗token能力翻 6 到 10 倍</title>
+      <link>https://news.aibase.com/zh/news/29729</link>
+      <description>把模型直接焊进芯片里，让硅片替算法省下算力和数据传输——谷歌正沿着这条路，悄悄打磨一款代号Frozen v2 的新型服务器芯片。据多家媒体报道，这款芯片的目标是更高效地运行Gemini模型，报道称它将把Gemini的部分架构 永久 嵌入芯片之中，从而减少回答用户问题时所需的计算量与数据搬运量。谷歌工程师预计，与其 最新 一代通用AI芯片TPU（张量处理器）相比，Frozen芯片在单位功耗下可提供 6 至 10 倍的Token处理能力。 这款芯片的登场时间被定在 2028 年，但谷歌明确它不会取代通用型TPU，而是成为定制芯片产品线中更专一、更具针对性的专用分支。消息公布后，资本市场立刻给出了反</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29729</guid>
+      <pubDate>Tue, 21 Jul 2026 01:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>经典版 Outlook 迎来重大更新：微软宣布今年内引入 AI 自动起草邮件功能</title>
+      <link>https://news.aibase.com/zh/news/29730</link>
+      <description>微软正在积极推进旗下办公软件的智能升级。根据 最新 规划，微软计划在年底前向 Windows 10 和 Windows 11 平台上的经典版 Outlook 用户推送 Copilot 功能更新。 AI 赋能邮件撰写 这次更新最核心的亮点是加入了 AI 起草电子邮件功能。持有相关许可证的用户届时可以直接在写信框中一键唤醒 AI，让系统协助撰写新邮件或润色已有草稿。 微软此举旨在让老用户也能享受智能化带来的便捷体验。不过也有分析指出，这一变动可能打破部分传统用户的习惯，甚至增加日常使用的复杂性。 推动软件升级迭代 其实微软一直以来都在引导用户向新版 Outlook 迁移。团队正不断丰富新版应用的功</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29730</guid>
+      <pubDate>Tue, 21 Jul 2026 01:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>苹果 41 页诉状怒撕OpenAI，为何唯独放过了传奇设计师伊夫？</title>
+      <link>https://news.aibase.com/zh/news/29731</link>
+      <description>苹果公司近日正式向法院提起诉讼，指控OpenAI及其硬件子公司通过挖角员工和获取内部文件等手段盗用商业机密。在长达 41 页的诉状中，多名前高管及核心工程师被点名控告，但令人意外的是，前首席设计师乔纳森·伊夫却并未出现在名单中。 三重考量避开核心人物 知名科技记者马克·古尔曼对此进行了深度剖析，指出苹果未点名伊夫的首要原因是其关联性有限。伊夫虽然通过旗下设计公司参与了相关硬件项目，但他并不负责实际的招聘与日常运营工作。 此外，深层的资金与人脉关系也是苹果选择回避的关键因素。伊夫与乔布斯遗孀关系密切，后者不仅投资了涉事硬件公司，其家族姓氏在苹果内部依然拥有举足轻重的特殊影响力。 顾及形象避免舆论</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29731</guid>
+      <pubDate>Tue, 21 Jul 2026 01:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>马斯克把Grok塞进Excel：选中一片数据就能问涨跌原因，图表直接插进表格</title>
+      <link>https://news.aibase.com/zh/news/29732</link>
+      <description>马斯克旗下的xAI，把自家大模型Grok直接装进了微软Office的心脏地带。据多家财经媒体 7 月 21 日消息，xAI为微软Excel推出了一款名为Grok For Excel的免费Microsoft365 插件，目前已上线Microsoft Marketplace，同时兼容Word与PowerPoint。这意味着Grok不再只活在聊天框里，而是成了办公套件里随手可调用的数据分析员。 这款插件的使用逻辑极其贴近真实办公场景：用户在Excel里选中一片数据区域，就能直接向Grok发问，询问数据的变动情况、背后的原因以及其中的亮点，而Grok的回答会明确引用对应的数据单元格，不是凭空给结论。它</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29732</guid>
+      <pubDate>Tue, 21 Jul 2026 01:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2 万亿参数隔空交锋：Kimi K3 登顶后，月之暗面喊话马斯克"欢迎入伙"</title>
+      <link>https://news.aibase.com/zh/news/29733</link>
+      <description>一场发生在中文微博与英文社交平台之间的隔空喊话，把大模型参数竞赛的火药味推到了台前。7月20日，月之暗面发布的新一代开源大模型Kimi K3登顶全球榜单，引发广泛关注，而就在几天前，埃隆·马斯克的一句话，让这场竞争从榜单延伸到了口水仗。 7月18日上午，马斯克在社交平台发文称，旗下那款2万亿参数的模型在各方面都优于当前1.5万亿参数版本，将在下周完成初步训练，且有可能超越Kimi;同时他放话，新模型的推理速度和Token效率将接近现有的1.5T模型，也就是Grok4.5。这番表态，等于在Kimi K3刚刚登顶的节点上，直接把参数规模的对标线拉到了2万亿以上。 月之暗面的回应干脆又带刺。它在微博</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29733</guid>
+      <pubDate>Tue, 21 Jul 2026 01:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adobe Project Indigo引入AI摄影助手，利用大模型优化拍摄与编辑体验</title>
+      <link>https://news.aibase.com/zh/news/29734</link>
+      <description>Adobe正在为旗下实验性iOS相机应用Project Indigo加入一系列AI功能，通过大型语言模型（LLM）分析照片内容，为用户提供摄影点评、编辑建议以及智能优化方案。该应用此前已支持专业拍摄控制、多帧超分辨率和多种摄影模式，此次更新进一步强化了AI辅助创作能力。 新功能包括照片点评、拍摄与编辑建议、 高级 物体移除、AI景深生成以及照片风格迁移等。其中，照片点评功能能够围绕构图、光线、色彩和情感表达等维度提供类似专业摄影师的分析;拍摄建议功能则会针对重新构图、曝光调整以及画面元素优化提出具体指导，帮助用户提升拍摄技巧。 Project Indigo开发负责人Marc Levoy曾参与谷</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29734</guid>
+      <pubDate>Tue, 21 Jul 2026 01:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>唐杰亲自剧透GLM-5.5：一句"史诗级plus"，把国产大模型的军备赛又挑高了一截</title>
+      <link>https://news.aibase.com/zh/news/29735</link>
+      <description>国产大模型的密集爆发，正把和美国旗舰闭源AI的身位拉近到肉眼难辨。快科技7月20日报道，在千问、Kimi接连秀出肌肉之后，轮到智谱出手了，传闻中的GLM-5.5被描述为一轮史诗级提升。而这次不是媒体猜测，是智谱创始人唐杰亲自下了场。 有网友在评论里提到，千问和Kimi都完成了史诗级进化，顺口问了句GLM还有没有戏。唐杰的回应当场把期待值拉满——他用了一个词:史诗级plus。这意味着，在智谱自己的判断里，这一代的提升幅度比网友提到的那些还要大。 具体的数字现在当然无从谈起，但唐杰显然希望外界对GLM保持信心。他的底气来自上一代的战绩:在Kimi K3登场之前，GLM-5.2是国产大模型中 第一 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29735</guid>
+      <pubDate>Tue, 21 Jul 2026 02:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>智谱AI落地1GW国产AI算力中心，并收购中科加禾强化AI Infra能力</title>
+      <link>https://news.aibase.com/zh/news/29736</link>
+      <description>据外媒报道，智谱AI（Z.ai）已完成1GW级国产AI算力数据中心建设，整体采用国产AI芯片。同时，公司于近日完成对国产AI异构算力软件企业中科加禾(XCore Sigma)的收购，进一步完善从算力资源到基础软件的AI基础设施布局。 据了解，中科加禾源自中国科学院计算技术研究所编译实验室，长期专注于异构算力软件栈、编译优化、运行时系统以及AI推理基础设施建设，被业内视为国内领先的AI Infra技术团队之一。此次收购将增强智谱在国产芯片适配、算力调度和模型部署优化方面的能力。 业内认为，智谱此次两项布局分别对应AI产业链中的“算力供给”和“算力释放”环节。其中，1GW级国产算力中心能够为大规模</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29736</guid>
+      <pubDate>Tue, 21 Jul 2026 02:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>三星电子成立RX机器人事业部，加速机器人业务商业化</title>
+      <link>https://news.aibase.com/zh/news/29737</link>
+      <description>7月21日，三星电子正式成立机器人事业部RX（Robotics eXperience，机器人体验），该部门将直接向公司首席执行官汇报，并被纳入三星未来增长战略的重要布局。 据了解，RX事业部将负责统筹三星机器人领域的中长期发展规划，推动核心机器人技术研发与产品业务落地，同时加强韩国及海外研发体系建设，以提升机器人技术商业化能力。 此次组织调整意味着三星正进一步加大对机器人领域的投入，推动相关业务从技术研发阶段向规模化应用阶段转型。作为全球领先的消费电子和智能硬件企业，三星希望通过机器人技术拓展新的增长空间，并强化其在人工智能、智能家居和未来服务机器人领域的竞争力。 近年来，随着人工智能、大模型</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29737</guid>
+      <pubDate>Tue, 21 Jul 2026 02:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>苹果 41 页诉状点名三人却放过伊夫：古尔曼拆解这份"留白"背后的三重算计</title>
+      <link>https://news.aibase.com/zh/news/29738</link>
+      <description>一份41页的诉状，把苹果与OpenAI的暗战摆上了法庭，但最耐人寻味的，是它点了谁的名、又故意略过了谁。据多家媒体援引彭博社马克·古尔曼的分析，苹果自7月12日起诉OpenAI及其硬件子公司io Products盗用商业秘密，诉状中明确点名了Tang Tan、Chang Liu、Yu-Ting Alyssa Peng三人，却对前苹果设计师乔纳森·伊夫只字未提。 古尔曼认为，这份留白并非疏忽，而是经过权衡的结果，背后至少叠着三层考量。 第一 层是关联性的强弱——在苹果的判断里，伊夫与这起商业秘密争议的实质牵连有限，不足以把他推上被告席。 第二层则牵出人际与资本的网络:伊夫与乔布斯遗孀Lauren</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29738</guid>
+      <pubDate>Tue, 21 Jul 2026 02:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
