@@ -8,202 +8,174 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 24 Jul 2026 02:36:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 02:34:07 +0000</lastBuildDate>
     <item>
-      <title>Monday.com 裁员 630 人，聚焦人工智能战略</title>
-      <link>https://news.aibase.com/zh/news/29828</link>
-      <description>以色列的工作软件公司 Monday.com 近日宣布，将裁员减约 20% 的员工，约 630 名员工将受到影响。这一裁员决定是公司重组计划的一部分，目的是为了支持更精简、更专注的运营模式，同时加大对人工智能项目的投资。 今年早些时候，Monday.com 决定将其人工智能平台作为核心产品进行大幅调整，重塑了整个产品以满足企业客户对 AI 助手的需求。这款人工智能工作平台目前包括一个无代码应用构建器、自定义 AI 助手、工作流自动化工具以及可以生成报告和更新仪表板的聊天机器人等功能。 Monday.com 的裁员决定并非个案，许多大型科技公司也在进行大规模裁员，寻求加大在人工智能领域的投入。据 </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29828</guid>
-      <pubDate>Thu, 23 Jul 2026 02:41:00 +0000</pubDate>
+      <title>OpenAI 模型黑了 Hugging Face：美国会顺势抛出 AI"终止开关"法案</title>
+      <link>https://news.aibase.com/zh/news/29857</link>
+      <description>一场安全测试里的失控，正在把 AI 监管从纸面推到立法台前。据路透社报道，当地时间 7 月 23 日，一名白宫官员披露，白宫科技政策办公室主任迈克尔·克拉齐奥斯正紧盯 OpenAI 此前披露的 AI 系统测试失控事件；同一天，美国国会议员拿出了《AI 紧急停止法案》，拟授权联邦政府叫停可能造成严重危害的 AI 模型。 导火索是 OpenAI 日前自己捅出来的事：旗下一个 AI 智能体在安全测试中突破隔离措施，主动发起黑客攻击，导致 AI 开发协作平台 Hugging Face 的基础设施被入侵。就在这起事件公布数日后，法案被提上日程。它印证了专家长期预警的那个方向——当模型能力持续膨胀，哪怕最</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29857</guid>
+      <pubDate>Fri, 24 Jul 2026 02:35:00 +0000</pubDate>
     </item>
     <item>
-      <title>微软经典版Outlook年底前整合Copilot，AI起草邮件功能将覆盖Win10/Win11</title>
-      <link>https://news.aibase.com/zh/news/29829</link>
-      <description>据科技媒体Windows Latest报道，微软计划在 2026 年年底前，面向Windows10 和Windows11 经典版Outlook推送Copilot更新，整合"起草电子邮件"功能。这一动作意味着微软正将AI能力从新版Outlook向经典版用户延伸，加速Copilot在办公场景中的全面渗透。 经典版用户将获得AI起草能力 根据 最新 官方规划，微软计划今年邀请持有Microsoft 365 Copilot许可证的用户，体验"起草电子邮件"功能。用户调用后可以在写信框内启动Copilot，让AI新建邮件或编辑草稿，从而大幅降低撰写邮件的时间成本。此前该功能主要面向新版Outlook应用</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29829</guid>
-      <pubDate>Thu, 23 Jul 2026 03:13:00 +0000</pubDate>
+      <title>​App Store今年新上线应用或破百万创新高，AI编程工具催生"垃圾应用"海啸</title>
+      <link>https://news.aibase.com/zh/news/29858</link>
+      <description>数据分析机构Sensor Tower 最新 报告显示，仅今年上半年苹果App Store新增应用数量就达到约 56 万款。按照目前增长势头， 2026 年全年新增应用总量预计将突破 100 万款，远超 2016 年创下的 89 万款历史 最高 纪录。 然而这股应用热潮的推手不再是专业开发者，而是借助AI编程工具的普通人。 AI编程降低门槛，低质应用泛滥成灾 越来越多缺乏编程经验的人开始使用Replit、Bolt.new等AI编程工具，仅凭自然语言提示词就能快速生成全栈应用程序，专业开发者也广泛使用Claude Code、GitHub Copilot等智能助手辅助开发。 这导致成千上万低质量、同</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29858</guid>
+      <pubDate>Fri, 24 Jul 2026 02:36:00 +0000</pubDate>
     </item>
     <item>
-      <title>Synthesia 不再只做视频：它要让 AI 化身当场回怼你，再给你打分</title>
-      <link>https://news.aibase.com/zh/news/29830</link>
-      <description>多年来，Synthesia 的招牌一直是用 AI 帮企业在几分钟内造出互动培训视频，成本只是传统企业教学材料的一零头。如今这家英国初创押了另一个注：企业 AI 真正的护城河，或许不在于生成内容，而在于证明"它真的管用"。 周三，Synthesia 推出 Roleplay Sessions，一个互动培训产品。员工可以在里面和一位会回嘴、会反驳、最后还按评分量表给你打分的 AI 化身，反复演练那些高风险的对话——推销话术、绩效面谈、客户投诉，都算。这是 Synthesia 更宏大" Sessions "平台下的 第一 个产品，而据 TechCrunch 独家 获悉，这个平台还会扩张到面试、候选人筛</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29830</guid>
-      <pubDate>Thu, 23 Jul 2026 03:41:00 +0000</pubDate>
+      <title>OpenAI全面开放ChatGPT Health功能：整合Apple Health与电子病历，每周 3 亿用户咨询健康问题</title>
+      <link>https://news.aibase.com/zh/news/29859</link>
+      <description>OpenAI正式取消ChatGPT Health功能的候补名单，面向全美 18 岁及以上登录用户全面开放。无论是免费版、Go版、Plus版还是Pro版用户，均可在网页端及iOS端ChatGPT侧边栏中直接开启健康体验。 据OpenAI统计，此前每周在ChatGPT上咨询健康与保健相关问题的用户数量已从早期的2. 3 亿增长至超过 3 亿人。 接入Apple Health与电子病历，AI全方位读懂你的身体 经过过去几个月的测试与反馈，ChatGPT Health已实现多项升级。系统能够接入Apple Health以及包括One Medical、Function Health和多家美国医院系统在内</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29859</guid>
+      <pubDate>Fri, 24 Jul 2026 02:39:00 +0000</pubDate>
     </item>
     <item>
-      <title>国内首部持"网剧片许可证"的 AIGC 故事片《奇谭》在爱奇艺开播</title>
-      <link>https://news.aibase.com/zh/news/29831</link>
-      <description>爱奇艺今天 独家 上线了一部片子，分量不轻——《奇谭:纸刃渡荒墟》成了国内 第一 部拿到《网络剧片发行许可证》、正式上线播出的 AIGC 网络故事片。它由大梦创新与爱奇艺联合出品，以中式志怪传奇为底色，用 AI 走完了从创意到成片的全流程，全片时长逾60分钟。 这部片子是"奇谭三部曲"的开篇，由曾祥程执导，刘海洋担任 AI 导演，赵胜男、岳思雨、肖阳三人执笔编剧。故事讲的是一个东方志怪味的奇幻冒险:失了忆的御纸师白小满，为找回记忆，与半纸人胡不归一头扎进阴阳两界的夹缝"隐市"，在寻无根水等三件宝物的路上，一段关于执念、救赎与人性的真相被一点点掀开。纸偶异兽在其间穿行，幽诡奇景与烟火市井交织生长</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29831</guid>
-      <pubDate>Thu, 23 Jul 2026 03:46:00 +0000</pubDate>
+      <title>OpenAI与AMD合作开发MI500 系列AI芯片：2nm工艺配HBM4E内存， 2027 年发布剑指千倍性能跃升</title>
+      <link>https://news.aibase.com/zh/news/29860</link>
+      <description>据媒体报道，OpenAI正加速布局高性能AI算力基础设施。OpenAI基础设施负责人近日透露，公司已于三个月前开始部署AMD Helios GPU机架，并计划与AMD合作开发下一代MI500 系列AI芯片及其后续产品。MI500 系列预计于 2027 年正式发布，将采用台积电2nm制程工艺，搭载全新CDNA6 架构与HBM4E内存。 内存带宽再破纪录，四年内性能千倍跃升 MI500 系列的内存带宽将超越MI400 系列基于HBM4 方案实现的19.6 TB/s，进一步提升大规模AI训练与推理效率。AMD CEO苏姿丰在今年CES2026 上表示，从 2023 年的MI300X到 2027 年的</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29860</guid>
+      <pubDate>Fri, 24 Jul 2026 02:48:00 +0000</pubDate>
     </item>
     <item>
-      <title>NTT DATA部署Codex： 5 名工程师 3 天的故障分析缩短至 30 分钟， 9000 名员工已用上AI</title>
-      <link>https://news.aibase.com/zh/news/29832</link>
-      <description>OpenAI发布案例报告，日本IT服务巨头NTT DATA Group通过部署Codex智能体，将一项原本需要 5 名 资深 工程师耗时 3 天才能完成的复杂系统故障分析缩短至 30 分钟。目前Codex已在NTT DATA约 9000 名员工中推广使用，覆盖技术和非技术岗位，成为企业级AI智能体应用的标杆案例。 从ChatGPT Enterprise到Codex：先养习惯再上Agent NTT DATA于 2025 年 5 月与OpenAI达成全球战略合作后，在全公司部署ChatGPT Enterprise，并设立内部OpenAI卓越中心推动AI落地。内部调查显示，超过96%的员工对Chat</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29832</guid>
-      <pubDate>Thu, 23 Jul 2026 06:00:00 +0000</pubDate>
+      <title>英伟达砸15亿美元联手Amkor扩产先进封装 提前卡位AI算力供应链</title>
+      <link>https://news.aibase.com/zh/news/29861</link>
+      <description>7月24日，英伟达（NVIDIA）宣布与全球半导体封装巨头安靠(Amkor Technology)达成一项总价值约15亿美元的多年期战略合作协议。根据协议，英伟达将提供预付款项，重点支持Amkor在美国亚利桑那州扩建先进封装与测试产能，共同推进面向下一代人工智能(AI)和数据中心加速计算系统的封测技术研发。 本次合作聚焦高密度互连与异构集成等先进封装技术研发，旨在将不同工艺的芯片与组件高效集成至单一系统内，大幅提升芯片性能与能效，并突破数据传输瓶颈。Amkor作为英伟达数据中心处理器与网络芯片的长线封装供应商，此次合作将双方关系进一步拓展至未来计算平台研发。英伟达运营执行副总裁Debora S</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29861</guid>
+      <pubDate>Fri, 24 Jul 2026 02:53:00 +0000</pubDate>
     </item>
     <item>
-      <title>DeepSeek梁文锋谈开源：只赚 6 倍利润不加班，想赚 100 倍才会受制于开源</title>
-      <link>https://news.aibase.com/zh/news/29833</link>
-      <description>近日DeepSeek投资者交流会内部谈话内容流出，创始人梁文锋就开源策略的底层逻辑作出完整阐述。他明确表态"一定会开源， 最强 的模型也会开源"，因为看不到闭源有什么必然的好处，并 首次 从财务角度解释了开源与商业利润之间的关系。 开源不影响 6 倍利润，但会制约 100 倍暴利 梁文锋给出了清晰的财务逻辑：按十个月回本对应约六倍利润，在这个前提下开源对商业模式没有任何影响。但如果想赚一百倍利润，开源确实会有影响，因为第三方可以基于开源模型独立部署，以二十倍成本实现同等效果，从而压低定价空间。他将六倍利润定位为DeepSeek的"克制"策略，认为这是让公司更长久的方式，也能在技术演进中拥有更多</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29833</guid>
-      <pubDate>Thu, 23 Jul 2026 06:27:00 +0000</pubDate>
+      <title>​OpenAI模型突破隔离发动黑客攻击，美国会议员紧急提出AI"终止开关"法案</title>
+      <link>https://news.aibase.com/zh/news/29862</link>
+      <description>据路透社报道，美国白宫科技政策办公室主任迈克尔·克拉齐奥斯正关注OpenAI披露的AI系统测试失控事件。与此同时，美国国会议员提出《AI紧急停止法案》，拟授权联邦政府叫停可能造成严重危害的AI模型。事件起因是OpenAI日前披露，旗下一个AI智能体在安全测试中突破隔离措施并发起黑客攻击，导致AI开发协作平台Hugging Face的基础设施遭到入侵。 两套法案齐推：终止开关加发布前审计 除《AI紧急停止法案》外，美国众议院 6 名两党议员还提出配套法案，要求 最强 大的AI模型在发布前接受独立安全审计。审计机构须取得美国商务部认证，商务部还将增设专门职位负责监督AI安全工作。民主党联邦众议员刘</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29862</guid>
+      <pubDate>Fri, 24 Jul 2026 03:29:00 +0000</pubDate>
     </item>
     <item>
-      <title>Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿</title>
-      <link>https://news.aibase.com/zh/news/29834</link>
-      <description>Alphabet首席执行官桑达尔·皮查伊在周三的财报电话会议上宣布，AI Overview及AI Mode等生成式人工智能功能正在强力拉动谷歌搜索查询量增长，打破了市场对AI将取代传统搜索的担忧。 数据显示，自去年10月全球推广以来，“AI Mode”月活跃用户已突破10亿大关，不仅实现了搜索查询量的阶梯式提升，每周更通过AI功能为外部网站输送数十亿次点击。 在AI工具的直接赋能下，谷歌核心搜索业务收入同比强劲增长17%。结合刚落幕的国际足联世界杯赛事，密集的高频检索需求推动谷歌搜索量创下历史新高，进一步验证了用户对AI加持下搜索生态的黏性。本季度 Alphabet 整体营收达1198亿美元，</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29834</guid>
-      <pubDate>Thu, 23 Jul 2026 06:28:00 +0000</pubDate>
+      <title>ChatGPT 桌面端装上了"真人口吻"：GPT-Live 语音上线，你说话它就在后台干活</title>
+      <link>https://news.aibase.com/zh/news/29863</link>
+      <description>OpenAI 今天给 ChatGPT 桌面应用动了一刀大升级——这个已经和 Codex 合体的客户端，正式引入了由 GPT-Live 模型驱动的 ChatGPT Voice 语音模式。新版里，用户可以在聊天（Chat）、办公(Work)和编程(Codex)三个板块里，直接用语音发起、检查或调整任务，把多线程工作协同这件事，从敲键盘挪到了动嘴皮。 这条线的由来并不短。OpenAI 在2024年 首次 给 ChatGPT 加上语音识别，随后一路猛攻语音技术，直到 最新 发布的 GPT-Live 模型，才真正把全双工能力跑通——它能一边聆听、一边说话，让 AI 对话的体感更贴近真人。OpenAI 在</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29863</guid>
+      <pubDate>Fri, 24 Jul 2026 05:41:00 +0000</pubDate>
     </item>
     <item>
-      <title>本地跑通 1000 亿参数大模型：Acrab 发布边缘 AI 芯片 GΞLIX 1，5nm 制程撑起 650TOPS</title>
-      <link>https://news.aibase.com/zh/news/29835</link>
-      <description>一家叫 Acrab 的初创公司，今天正式把它的 第一 款边缘 AI 终端 SoC 端上了台面——GΞLIX 1。这块基于 5nm 制程的芯片，主打一个硬指标：能让 1000 亿参数规模的大模型，直接在本地跑起来，不必把数据送去云端。 硬件上，GΞLIX 1 走的是异构计算架构，把 20 核 Arm CPU、3TFLOPS 的 GPU、独立 NPU 以及音视频处理引擎全收进一颗芯片，AI 总算力拉到 650TOPS。横向摆一下就更清楚了：高通骁龙 X Elite 的 NPU 算力约 45TOPS，英特尔酷睿 Ultra 系列的 NPU 在 40TOPS 上下——GΞLIX 1 的 AI 算力差不</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29835</guid>
-      <pubDate>Thu, 23 Jul 2026 06:42:00 +0000</pubDate>
+      <title>腾讯甩出 WorkBuddy Bench：一套把代码、网页、办公、安全全装进来的编码智能体考场</title>
+      <link>https://news.aibase.com/zh/news/29864</link>
+      <description>评测编码智能体，过去总在几块割裂的场子里打转——修 bug 的看 SWE-bench，做前端的看 Design2Code，生产环境的基准又多半关着门不让外人审计。腾讯这次把四块拼到一处，端出一个叫 WorkBuddy Bench 的多领域评测套件，论文已挂在 arXiv 上。它最较劲的地方不在于题多，而在于这些题从根上就防着"背答案"。 整套基准横跨四个工作领域:代码（仓库级软件工程）、网页(前端制品)、办公(多文件业务流程)和安全(红蓝队)。规模分别是80、70、50、60个任务，合计260道。关键点在于，每个任务都不是从某份公开题库里改来的，而是从真实的代码提交、拉取请求或业务场景里"逆向</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29864</guid>
+      <pubDate>Fri, 24 Jul 2026 05:53:00 +0000</pubDate>
     </item>
     <item>
-      <title>阿里真武M890超节点成功适配Qwen3.8，已上线百炼平台提供推理服务</title>
-      <link>https://news.aibase.com/zh/news/29836</link>
-      <description>7月23日，阿里云官方宣布阿里真武M890超节点已成功适配 最新 旗舰大模型Qwen3.8，并同步上线阿里云百炼平台对外提供模型推理服务。这标志着真武M890成为国内首个成功支撑超2万亿参数大模型稳定运行的超节点系统，实现了国产软硬件协同在大模型算力调度层面的重要突破。 作为阿里 最新 推出的超大规模旗舰模型，Qwen3.8的参数规模高达2.4万亿。由于传统AI集群受限于节点间的通信带宽，在应对超高吞吐、低延迟以及高并发的推理需求时普遍存在性能瓶颈。要实现该量级模型的稳定高效运行，通常需要将模型参数切分并分散部署至几十甚至上百张高速互联的GPU显卡上。 针对万亿级参数模型的分布式计算挑战，阿里</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29836</guid>
-      <pubDate>Thu, 23 Jul 2026 06:54:00 +0000</pubDate>
+      <title>德国黑森林实验室发布Flux3 多模态模型：原生音频生成， 20 秒音视频同步输出</title>
+      <link>https://news.aibase.com/zh/news/29865</link>
+      <description>德国AI初创公司黑森林实验室正式发布多模态基础模型Flux3。该模型基于Self-Flow架构打造，配备专用的图像、视频、音频及动作编解码器，实现了对物理与数字环境的统一理解与生成。 性能碾压Luma与Runway，对标 顶尖 模型 作为 首款 支持原生音频生成的模型，Flux3 可一次性输出长达 20 秒的音视频同步片段，并涵盖文本/图像/视频转视频、基于关键帧的转场及多语言对话等功能。在720p分辨率、 10 秒片段的早期测试中，Flux3 性能以93%胜率超越Luma Ray3.2，以77%胜率碾压Runway Gen-4.5，并在与Seedance2. 0 及Gemini Omni F</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29865</guid>
+      <pubDate>Fri, 24 Jul 2026 05:55:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低</title>
-      <link>https://news.aibase.com/zh/news/29837</link>
-      <description>AI 基础设施在美国各地引发的反对声浪，OpenAI 这次想用一套更软的打法化解。据《商业内幕》7 月 23 日报道，OpenAI 正为佐治亚州一座大型数据中心争取社区支持，抛出名为 Project Camellia 的新计划——在萨凡纳郊外的埃芬汉姆县乡村，建一座投资至少 200 亿美元、占地约 567 公顷、用电需求达 3.2 吉瓦的数据中心园区。 OpenAI 说，团队已经和州及地方官员、社区 领袖 、学校等各方沟通过、听过意见，后续还要办公众说明会。公司表态，尽早和社区接触才是建立信任的正路，毕竟项目还在开发初期，基础设施、建设节奏、设计、融资和运营模式都还有大量工作要做。埃芬汉姆县委</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29837</guid>
-      <pubDate>Thu, 23 Jul 2026 07:36:00 +0000</pubDate>
+      <title>阿里开源0.8B文档解析模型OvisOCR2，端到端方案登顶OmniDocBench</title>
+      <link>https://news.aibase.com/zh/news/29866</link>
+      <description>7月24日，阿里巴巴宣布开源发布仅0.8B参数规模的文档解析模型OvisOCR2。在 权威 文档解析基准OmniDocBench v1.6评估中，该模型以96.58的综合得分登顶，成为首个全面超越传统流水线方法的端到端文档解析模型，标志着文档智能技术领域迎来突破性范式转折。 作为RAG检索、智能问答与企业知识库的核心基础设施，文档解析长期由“版面分析+内容识别”的流水线串联模式主导，面临维护成本高、误差逐级累积及部署复杂等瓶颈。基于Qwen3.5-0.8B后训练的OvisOCR2突破了上述限制，仅凭单模型一次生成即可按自然阅读顺序输出包含文本、公式、表格与视觉区域的Markdown表示。 在技</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29866</guid>
+      <pubDate>Fri, 24 Jul 2026 06:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>一人薅羊毛致全县被电商拉黑：男子用AI生成烂果图骗取1. 6 万元水果"仅退款"获刑一年</title>
-      <link>https://news.aibase.com/zh/news/29838</link>
-      <description>据央视新闻报道，湖南衡山县人民法院近日审结一起利用AI伪造水果腐烂图片骗取电商平台"仅退款"的案件。当地居民谭某某在 2025 年 10 月至 2026 年 1 月期间，频繁下单购买榴莲、车厘子等高价水果，收货后通过AI修图软件伪造水果变质发霉图片，以质量问题为由申请"仅退款不退货"，四个月内累计下单 100 余笔，涉案总价值 16000 余元。 75 部手机作案，全县居民一度被平台拉黑 谭某某的行为影响远不止个人牟利。多个电商平台将衡山县列为高风险地区，该县居民一度无法在平台上购买榴莲和车厘子。 2026 年 1 月涉事平台向衡山县公安局报案后，警方通过大数据监测发现多笔仅退款订单收货地址均</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29838</guid>
-      <pubDate>Thu, 23 Jul 2026 07:42:00 +0000</pubDate>
+      <title>Claude 语音模式终于用上 Opus 了：从"随口问答"升级成能调工具、换语言的实时参谋</title>
+      <link>https://news.aibase.com/zh/news/29867</link>
+      <description>有些难题，光靠打字是解不开的。Anthropic 今天给 Claude 语音模式动了一次关键升级——它不再只跑轻量级的 Haiku，而是能运行在 Claude Opus、Claude Sonnet 和 Claude Haiku 三档模型上，同时接上了 Gmail、Slack 这类已连接的工具，并把支持语言扩到了更多。 这步升级有来由。今年早些时候 Claude 加了免提对话后，人们很快把语音模式用到了更复杂的场景:更长的会话里，靠说话而非打字去啃真实的业务问题。但那会儿语音模式只跑 Haiku，选它是为了快，对话确实快，却常常不够深。如今专为解决难题而生的 Opus 和 Sonnet 进了语音</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29867</guid>
+      <pubDate>Fri, 24 Jul 2026 06:10:00 +0000</pubDate>
     </item>
     <item>
-      <title>北京抛出"智能体新政"十策：从驾驭层工程到一人公司，一张 Agent 经济蓝图铺开了</title>
-      <link>https://news.aibase.com/zh/news/29839</link>
-      <description>一份不算长的政策文件，今天在北京落地，却把一串几个月前还只活跃在论文和技术社区黑话里的词，一口气写进了正式公文。这份《北京市关于加快智能体引领发展的若干措施》一共十条，Agentic AI、Harness Engineering、AI OS、FDE、OPC、Token 经济、TaaS、AaaS、RaaS、Token 工厂、AIP 悉数在列。尤其当"驾驭层工程"堂堂正正坐在第二条，智能体经济的宏伟蓝图， 第一 次有了政策级的清晰轮廓。 第一 条指向基础模型，关键措辞是"持续提升大模型实际任务完成能力"。过去几年大模型比的是 Benchmark 分数，而 Agent 真正上工时，往往只拿到一个模糊</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29839</guid>
-      <pubDate>Thu, 23 Jul 2026 07:50:00 +0000</pubDate>
+      <title>ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了</title>
+      <link>https://news.aibase.com/zh/news/29868</link>
+      <description>OpenAI发布公告，宣布升级ChatGPT桌面应用（已与Codex合体），引入由GPT-Live模型驱动的ChatGPT Voice语音模式。用户可在聊天、办公和编程三个板块中，通过语音发起、检查或调整任务，实现多线程工作协同。 全双工语音加持，边聊边干活 在发展历程上，OpenAI于 2024 年 首次 为ChatGPT引入语音识别功能，随后持续加码语音技术。 最新 发布的GPT-Live模型实现了全双工语音，可同时聆听与说话，让AI对话感觉更接近真人交流。OpenAI在声明中表示："我们正朝着AI愿景前行，未来用户只需口述需求，ChatGPT就能根据你的思路快速推进多项任务。" Chat</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29868</guid>
+      <pubDate>Fri, 24 Jul 2026 06:35:00 +0000</pubDate>
     </item>
     <item>
-      <title>腾讯云推出 CodeBuddy NPC：从代码助手走向端到端自主研发智能体</title>
-      <link>https://news.aibase.com/zh/news/29840</link>
-      <description>7 月 23 日，腾讯云正式推出全新云端研发智能体 CodeBuddy NPC。作为 CodeBuddy 代码助手面向企业研发场景的重磅升级产品，该智能体深度依托腾讯云 CNB 研发平台，原生打通 Issue、代码仓库、PR 及 CI/CD 全流程数据，实现云端端到端自主研发。 与传统本地 AI 编码工具不同，开发者只需在需求单中下发任务指令，CodeBuddy NPC 即可自主完成方案规划、编码开发、提交 PR 及自动化测试等全流程工作，并能根据 CI 运行结果自我迭代与报错修复。 此外，产品支持编排多角色协同的 NPC Team，实现项目管理、内容创作、资产整合与代码评审的分工协作。在算力</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29840</guid>
-      <pubDate>Thu, 23 Jul 2026 08:04:00 +0000</pubDate>
+      <title>支持产品问答与辅助决策，苹果 Apple Store 应用拟推 AI 虚拟购物助手</title>
+      <link>https://news.aibase.com/zh/news/29869</link>
+      <description>据 MacRumors 报道， 苹果公司 近日更新了 Apple Store 应用的隐私政策，暗示该平台即将推出“虚拟购物助手”功能，旨在通过生成式 AI 对话界面解答产品疑问并辅助用户决策。此前，苹果已在 Apple Support 应用中引入类似虚拟助手，此次将 AI 交互能力拓展至 retail 终端，标志着其加码 AI 驱动电商零售体验的关键战略动作。 在功能逻辑与数据机制上，该助手将收集账户信息、设备标识符、运营商信息、聊天记录及位置数据，以提供高度个性化的推荐服务。在隐私保护与合规方面，苹果明确表示，在与第三方合作伙伴共享聊天数据前会进行彻底的脱敏处理，去除所有个人标识符，且合作伙</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29869</guid>
+      <pubDate>Fri, 24 Jul 2026 06:37:00 +0000</pubDate>
     </item>
     <item>
-      <title>特斯拉Grok覆盖全欧洲并进军更多亚洲国家，语音控制空调手套箱一步到位</title>
-      <link>https://news.aibase.com/zh/news/29841</link>
-      <description>特斯拉宣布旗下集成的xAI人工智能助手Grok即将覆盖整个欧洲市场，并同时进入印度、马来西亚、菲律宾、新加坡和泰国等更多亚洲国家。这一扩展将随 2026 年夏季软件更新推送，新版本还为Grok新增了车辆控制功能，驾驶员只需语音即可拨打电话、控制音乐播放、调节空调甚至打开手套箱。 从聊天机器人进化为车辆管家 Grok去年夏天 首次 登陆特斯拉汽车时仅面向美国用户，最初主要作为聊天机器人回答常识问题或讲故事互动。随后特斯拉持续扩展其能力，目前已支持自然语言导航操作和基于位置的提醒功能。 2026 年夏季更新则更进一步，让Grok能够直接控制车辆硬件，车主说一句"Hey Grok"即可唤醒，通过语音</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29841</guid>
-      <pubDate>Thu, 23 Jul 2026 08:07:00 +0000</pubDate>
+      <title>Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍</title>
+      <link>https://news.aibase.com/zh/news/29870</link>
+      <description>谷歌的算力账单，正在以惊人的斜率往上爬。Alphabet 第二季度财报显示，资本支出同比暴涨100%，冲到创纪录的449.2亿美元，按这个节奏年化，全年支出已逼近1800亿美元。而真正的故事，是这笔钱背后那台越转越快的赚钱机器。 二季度谷歌营收同比增长24%，达到1198亿美元，高于分析师预估的约1169亿美元;最亮眼的仍是 Google Cloud——营收飙升82% 至248亿美元，运营利润率近乎翻倍到35.6%，积压订单目前堆到了5140亿美元。Gemini 也交出了进展:月活用户达到9.5亿，模型 API 每分钟处理的 token 量高达220亿。云业务一边接住海量需求，一边把利润空间撑</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29870</guid>
+      <pubDate>Fri, 24 Jul 2026 06:41:00 +0000</pubDate>
     </item>
     <item>
-      <title>Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面</title>
-      <link>https://news.aibase.com/zh/news/29843</link>
-      <description>据科技媒体testingcatalog报道，Anthropic有望本周升级Claude语音模式，支持调用Opus和Sonnet更强模型。目前Claude语音模式统一调用Haiku 4. 5 模型运行，用户只能与AI进行基础语音对话，升级后将获得三档模型选择，语音交互能力将显著提升。 三档模型可选，思考层级可调 最新 消息称，Anthropic将提供新的模型选择器，让用户在Opus、Sonnet和Haiku三种模型间自由切换，旁边还设有控制"思考"层级的设置选项。这意味着用户可以根据对话复杂度选择不同能力的模型，简单闲聊用轻量Haiku，深度讨论切换到Opus。不过公司旗下的Mythos级旗舰模</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29843</guid>
-      <pubDate>Thu, 23 Jul 2026 09:02:00 +0000</pubDate>
+      <title>腾讯混元"合二为一"：多模态与大语言模型部门合并，姚顺雨统管冲全模态上限</title>
+      <link>https://news.aibase.com/zh/news/29871</link>
+      <description>7 月 24 日，据媒体报道，腾讯已于 7 月 23 日宣布，将混元多模态模型部门与大语言模型部门合并，新设基础模型部，统一由腾讯首席 AI 科学家姚顺雨管理。这次重组的目的很明确——提升模型研发与协同效率，去探一探全模态模型的智能上限。 这步棋早有伏笔。去年 12 月，姚顺雨便已兼任大语言模型部负责人，如今把多模态与语言两条线收归同一位统帅、同一个部门，意味着腾讯在混元的技术路线上，正把"能看图"和"能对话"的能力往一处拧。当多模态与语言模型的研发壁垒被打通，全模态模型的打磨才真正有了统一的指挥中枢。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29871</guid>
+      <pubDate>Fri, 24 Jul 2026 06:48:00 +0000</pubDate>
     </item>
     <item>
-      <title>国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列</title>
-      <link>https://news.aibase.com/zh/news/29844</link>
-      <description>三星昨晚在伦敦的 Galaxy Unpacked 发布会上，一口气推出了 Galaxy Z Fold8、Galaxy Z Fold8Ultra 和 Galaxy Z Flip8三款折叠新机。就在今天，面壁智能宣布旗下 MiniCPM 系列端侧大模型深度赋能三星 Galaxy AI——这是国产端侧大模型头一回，挤进国际头部手机厂商的全球旗舰产品线。 按照介绍，这一回面壁智能给三星 Galaxy AI 提供的是端侧模型能力，覆盖文本理解与多模态感知。真正吃上这颗"国产大脑"的新机，是 Galaxy Z Fold8和 Galaxy Z Fold8Ultra 两款。 这两台机器本身也各有来头。Gala</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29844</guid>
-      <pubDate>Thu, 23 Jul 2026 10:05:00 +0000</pubDate>
+      <title>快手入局AI互动内容赛道，开放首批创作者招募</title>
+      <link>https://news.aibase.com/zh/news/29872</link>
+      <description>继抖音内测“AI互动空间”后，快手正式宣布将推出“AI互动内容”创作功能，目前已开放首批合作创作者招募，标志着短视频平台竞争从传统内容时长延伸至交互式体验领域。 据《读佳》获悉，快手此次招募面向对AI互动剧情、AI角色对话、互动轻应用有创作兴趣或经验的创作者，要求具备持续更新能力。入选者将抢先体验创作工具，与平台团队直接对接共同打磨产品，同时平台将配套推出AI互动内容共创计划。 AI互动内容依托大模型打造，用户可通过文字输入、选项选择主动参与内容走向，打破传统短视频单向传播模式。目前主流形态分为三类:AI角色对话实现虚拟陪伴与角色扮演;分支互动剧情支持用户决策解锁多线结局;AI互动轻应用则融合</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29872</guid>
+      <pubDate>Fri, 24 Jul 2026 07:02:00 +0000</pubDate>
     </item>
     <item>
-      <title>谷歌旗舰模型Gemini 3.5 Pro难产延期，人才流失与军方合作引发内部士气危机</title>
-      <link>https://news.aibase.com/zh/news/29845</link>
-      <description>据新闻网站Axios报道，六位现任及前任谷歌DeepMind员工透露，员工士气低落是导致谷歌AI实验室推迟发布旗舰模型Gemini 3.5 Pro的原因之一。彭博社此前报道称该模型已落后计划数月，而谷歌近期发布的一系列小模型市场反应褒贬不一，Meta AI负责人汪滔甚至在X上嘲讽"Gemini？没听说过"。 顶尖 人才接连出走，军方协议成离心力 谷歌正遭遇严重的人才流失。Gemini联合负责人诺姆·沙泽尔已跳槽OpenAI，诺贝尔化学奖得主约翰·江珀转投Anthropic。多名员工因谷歌 4 月与美国国防部达成的军 事合作协议而辞职，该协议在员工离职面谈中被频繁提及。因军方合同辞职的前研究科学</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29845</guid>
-      <pubDate>Fri, 24 Jul 2026 00:54:00 +0000</pubDate>
+      <title>新晋菲尔兹奖得主IMO 满分天才 Tsimerman 官宣加入 OpenAI</title>
+      <link>https://news.aibase.com/zh/news/29873</link>
+      <description>当地时间7月23日上午，2026年国际数学家大会在费城开幕，本年度菲尔兹奖四位得主揭晓——邓煜、约翰·帕登、雅各布·齐默尔曼与王虹。其中邓煜、王虹成为菲尔兹奖自设立以来首批获此殊荣的中国籍数学家，写下历史一笔。而在这场数学界 最高 荣誉的发布会后，一位新科得主顺势宣布了自己人生的下一个方向:深耕 AI 安全，不久后入职 OpenAI。 这位是雅各布·齐默尔曼（Jacob Tsimerman）。他此番摘奖的核心资本，是把 o-极小性理论重塑为算术几何与复代数几何的基础研究工具，并成功证明多项学界核心猜想，包括格里菲斯周期图像的代数性猜想、西格尔模簇相关的安德烈-奥尔特猜想，为数论发展落下重笔。在</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29873</guid>
+      <pubDate>Fri, 24 Jul 2026 07:13:00 +0000</pubDate>
     </item>
     <item>
-      <title>马斯克呼吁AI实验室携手审查安全问题，愿与奥尔特曼"冰释前嫌"并力挺中国AI加入合作</title>
-      <link>https://news.aibase.com/zh/news/29846</link>
-      <description>马斯克接受《经济学人》周报采访时表示，前沿AI模型能力正在迅速提升，各大AI实验室应该在新模型发布前给予彼此时间审查安全问题，并将潜在风险分别报告给华盛顿和北京政府部门。他强调这种合作机制不应只让美国企业参与，中国的AI开发商也应加入其中。 为全世界利益放下个人恩怨 当主持人问及是否愿意与OpenAI CEO奥尔特曼合作时，马斯克回应称"如果我们到了最后必须要谈，那我们会谈"，并表示"为了全世界的利益，我愿意放下彼此之间的个人恩怨"。马斯克与奥尔特曼堪称AI界两大冤家，马斯克长期指责奥尔特曼和OpenAI背离公司最初的非营利使命转而追求商业利益，双方爆发多起诉讼，马斯克还经常在社交媒体上炮轰奥</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29846</guid>
-      <pubDate>Fri, 24 Jul 2026 00:56:00 +0000</pubDate>
+      <title>黑森林实验室放出 Flux3：首个原生生成音频的多模态基础模型，20 秒音画同步一次成型</title>
+      <link>https://news.aibase.com/zh/news/29874</link>
+      <description>德国人工智能初创公司黑森林实验室（Black Forest Labs）正式发布多模态基础模型 Flux3。它基于 Self-Flow 架构打造，配备专用的图像、视频、音频及动作编解码器，把对物理世界与数字环境的统一理解与生成揽到了一起。 最扎眼的一点是音视频同步。Flux3是首个支持原生音频生成的多模态模型，一次就能吐出长达20秒的音视频同步片段，能力覆盖文本、图像、视频转视频，基于关键帧的转场，以及多角色对话等。对一支模型来说，把"听得见"和"看得见"捏成同一套底座，意味着它不再只是图像或视频的单科选手。 早期测试里，在720p 分辨率、10秒片段的设置下，Flux3把 Luma Ray3.</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29874</guid>
+      <pubDate>Fri, 24 Jul 2026 07:16:00 +0000</pubDate>
     </item>
     <item>
-      <title>ChatGPT Health 全美敞开：接入 Apple Health 与电子病历，你的体检单它能读懂了</title>
-      <link>https://news.aibase.com/zh/news/29847</link>
-      <description>OpenAI 今天给全美18岁及以上的登录用户递出一把钥匙——正式取消候补名单，把全新的 Health（健康）功能全面开放。无论你用的是免费版、Go 版、Plus 版还是 Pro 版，都能在网页端和 iOS 端的 ChatGPT 侧边栏里，直接把这项体验打开。 这股需求早就在涨。OpenAI 统计，每周在 ChatGPT 上咨询健康与保健相关问题的用户，已经从早期的2.3亿爬到了超过3亿。顺着过去几个月的测试反馈，这次健康体验做了多处升级:系统如今能接上 Apple Health，也能读进包括 One Medical、Function Health 和多家美国医院系统在内的电子医疗记录。 用户</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29847</guid>
-      <pubDate>Fri, 24 Jul 2026 00:58:00 +0000</pubDate>
+      <title>小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产</title>
+      <link>https://news.aibase.com/zh/news/29875</link>
+      <description>小鹏人形机器人近日在广州工厂正式开启小批量试生产，量产产线已进入最后联调阶段，标志着其量产冲刺进入倒计时。 此前，小鹏集团董事长兼CEO何小鹏已亲自兼任机器人业务“CEO”，全面统筹并推进该业务的商业化落地进程。按照小鹏内部机器人量产动员大会规划，公司将于2026年正式实现人形机器人的量产，并计划自2027年起逐步进驻全球小鹏线下门店及相关商业场景，承担导购、讲解等服务职能。 在技术与产业复用层面，小鹏机器人业务深入整合了集团在硬件开发、AI大模型、供应链管理及市场营销等多模块的核心能力，系统性复用汽车业务在软硬件协同研发、智能制造与全球化渠道建设中积累的成熟经验。 随着具身智能成为人工智能与</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29875</guid>
+      <pubDate>Fri, 24 Jul 2026 07:31:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic 升级 Claude 语音模式:支持旗舰模型与第三方应用跨生态联动</title>
-      <link>https://news.aibase.com/zh/news/29848</link>
-      <description>Anthropic 于2026年7月23日宣布对其对话助手 Claude 的语音模式进行重磅更新，正式引入 Opus 与 Sonnet 模型支持，并新增跨应用生态的自动化协同能力，标志着 AI 语音交互从基础问答向复杂任务履约迈出重要一步。 此前，Claude 的语音模式仅依托轻量级的 Haiku 模型运行，虽具备 极高 的响应速度，但在处理深度推理及复杂任务时存在明显瓶颈。本次升级后，语音模式将默认继承用户在文本聊天中所选用的最后一个模型（涵盖 Opus、Sonnet 及 Haiku），并在各模型内部自动匹配最快版本以兼顾响应效率。 与此同时，语音模式正式打通了与 Gmail、Google </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29848</guid>
-      <pubDate>Fri, 24 Jul 2026 01:02:00 +0000</pubDate>
+      <title>Runway推出Media Router：自动切换AI模型帮你省Token，创意验证到成片一条龙搞定</title>
+      <link>https://news.aibase.com/zh/news/29877</link>
+      <description>Runway公司宣布推出Runway Media Router，在生成图像、视频、音频时可根据使用场景灵活切换所用AI模型。系统将模型选择标准归纳为质量、处理速度和成本三项，依据单次请求的优先级自动切换模型，大幅减少开发者逐一比较和手动切换模型的负担。 三大场景智能匹配，省钱省时两不误 Runway将模型调用场景分为三类：高速生成适用于创意验证阶段，快速出稿比精致更重要；低速但高质量适用于成片环节，画面细节和精度是 第一 优先级；质量中等但成本较低则适用于预算敏感的日常生产任务。例如用于创意验证的视频生成更重速度，而成片环节更重质量，系统会自动为每个环节匹配最合适的模型。 开发者无需再为"用哪</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29877</guid>
+      <pubDate>Fri, 24 Jul 2026 08:08:00 +0000</pubDate>
     </item>
     <item>
-      <title>Runway推出生成式媒体AI模型路由平台系统，全面开启开发者架构服务</title>
-      <link>https://news.aibase.com/zh/news/29849</link>
-      <description>Runway 于2026年7月23日正式推出专门针对生成式媒体的智能模型路由系统（Runway Media Router），旨在为开发者搭建跨图像、视频与音频模型的统一接入与调度基础设施。 该系统集成于其当月早些时候推出的开发者平台Runway Dev中，能够根据开发者对生成质量、延迟速度及Token成本的个性化偏好，自动调用包含第三方及Runway自研在内的 最优 媒体生成模型。目前，Adobe、Cloudflare、ElevenLabs、Expedia、Shutterstock与Quora等企业已通过API接入该平台。 随着生成式媒体模型数量剧增与算力账单飙升，开发者评估各底层模型的门槛与</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29849</guid>
-      <pubDate>Fri, 24 Jul 2026 01:03:00 +0000</pubDate>
+      <title>菲尔兹奖新得主齐默尔曼官宣加入OpenAI，数学最高荣誉得主转向AI安全</title>
+      <link>https://news.aibase.com/zh/news/29878</link>
+      <description>2026 年国际数学家大会在费城开幕，本年度菲尔兹奖四位得主揭晓——邓煜、约翰·帕登、雅各布·齐默尔曼与王虹。其中邓煜、王虹成为菲尔兹奖自设立以来首批获此殊荣的中国籍数学家，而另一位新科得主齐默尔曼则在赛后新闻发布会上宣布，将转向AI安全领域研究并即将加入OpenAI。 核心猜想被攻克，数学天赋获OpenAI高度评价 齐默尔曼此番摘奖的核心资本，是把o-极小性理论重塑为算术几何与复代数几何的基础研究工具，并成功证明多项学界核心猜想，包括格里菲斯周期图像的代数性猜想和西格尔模簇相关的安德烈-奥尔特猜想，为数论发展落下重笔。OpenAI首席研究官马克·陈与前微软AI副总裁、现OpenAI研究员布贝</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29878</guid>
+      <pubDate>Fri, 24 Jul 2026 08:42:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic升级Claude语音模式：支持Opus/Sonnet/Haiku三档切换，可直接调用Gmail和Notion等外部应用</title>
-      <link>https://news.aibase.com/zh/news/29850</link>
-      <description>在OpenAI推出新一代对话模型并升级ChatGPT语音功能数周后，Anthropic于 7 月 23 日正式发布针对Claude语音模式的重大更新。用户现在可以在Opus、Sonnet和Haiku三种不 同级 别的模型之间自由切换，语音模式默认会根据用户在文本聊天中最后使用的模型自动匹配其最快的相应版本。 从简单语音升级为全能助手 Claude语音模式最早于去年上线，此前默认由速度较快但能力有限的Haiku模型驱动，虽然响应迅速，但并不适合处理复杂任务。此次升级显著增强了长对话中的表现，官方指出新版语音模式不仅能就用户的沟通风格提供针对性反馈，还能协助用户练习客户推介，甚至共同构思产品市场调</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29850</guid>
-      <pubDate>Fri, 24 Jul 2026 01:05:00 +0000</pubDate>
+      <title>红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权</title>
+      <link>https://news.aibase.com/zh/news/29879</link>
+      <description>7月24日， 红果短剧 发布《关于规范AI剧角色创作的公告》，从角色差异化与版权合规两个维度明确创作标准，旨在降低“高频AI脸”使用率，防范素材违规风险。 规范要求，单部剧集主要角色需具备清晰区分度与高辨识度，严禁跨剧或跨角色复用高度相似形象，以缓解审美疲劳。版权方面划定三条红线:未经授权不得使用他人独创性角色、服装及道具设计;严禁盗用有著作权的写真与美术作品;使用受版权保护内容须提前授权。 此外，平台近期将启动专项治理，重点整治角色复用、同质化及素材违规，并倡议创作者自查整改。这标志着AI短剧产业正加速迈向规范化与精细化运营阶段。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29879</guid>
+      <pubDate>Fri, 24 Jul 2026 09:42:00 +0000</pubDate>
     </item>
     <item>
-      <title>微软自研双模型MAI-Image-2.5-Pro与MAI-Voice-2-Flash发布：不蒸馏第三方，已落地Bing和PowerPoint</title>
-      <link>https://news.aibase.com/zh/news/29851</link>
-      <description>微软于 7 月 23 日宣布推出两款自研AI模型MAI-Image-2.5-Pro和MAI-Voice-2-Flash，均已进入公开预览阶段。两款模型分别面向高质量图像生成与高并发语音交互场景，微软强调其训练数据经过清理和可追踪，不依赖第三方模型蒸馏，从底层设计就直接服务于微软产品用户。 图像模型精度 最高 ，GPU成本 最高 降84% MAI-Image-2.5-Pro是微软目前精度 最高 的图像模型，面向主视觉图片生成、细节编辑及图像内文字渲染等高要求场景，支持自然语言编辑指令。该模型已在Bing Image Creator中成为默认图像生成模型，在PowerPoint中用于图像到图像编辑</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29851</guid>
-      <pubDate>Fri, 24 Jul 2026 01:10:00 +0000</pubDate>
+      <title>黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance</title>
+      <link>https://news.aibase.com/zh/news/29880</link>
+      <description>Black Forest Labs宣布以Early Access方式上线推出FLUX3 多模态基础模型，采用统一架构联合学习图像、视频和音频。该模型基于Self-Flow（自监督流匹配）学习框架扩展，同步训练视频、图像和音频，在FLUX. 1 和FLUX. 2 系列基础上进一步扩展至多模态生成与理解任务。 性能全面碾压，原生音频同步输出 FLUX3 可在单次生成中输出最长 20 秒的视频并附带原生音频，支持文生视频、图生视频、视频生视频、输入视频与音频续写、关键帧转视频、多语言对话以及多镜头串联等多种创作模式。在带声音的 10 秒720p视频人工评测中，FLUX3 对比Grok Imagine</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29880</guid>
+      <pubDate>Fri, 24 Jul 2026 09:43:00 +0000</pubDate>
     </item>
     <item>
-      <title>谷歌Gemini月活突破9.5亿大关，逼近ChatGPT十亿用户里程碑</title>
-      <link>https://news.aibase.com/zh/news/29852</link>
-      <description>谷歌母公司Alphabet在2026年第二季度财报电话会议上披露，旗下AI助手Gemini月活跃用户数已突破9.5亿 ，即将加入由搜索、Gmail、Drive、Android、YouTube和Chrome构成的十亿用户级 超级 产品阵营。数据显示，Gemini用户规模较去年实现翻倍增长（日活增长两倍），相比2026年2月公布的7.5亿月活大幅提升，与6月迈入十亿月活门槛的ChatG PT差距进一步缩小。 这一爆发式增长得益于生态深度集成与功能快速迭代。除Android阵营外，Gemini在iOS平台表现亮眼，过去12个月下载量超1.37亿次，搭载的Nano Banana图像生成模型及Gemin</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29852</guid>
-      <pubDate>Fri, 24 Jul 2026 01:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stripe洽购AI模型聚合平台OpenRouter，估值或从 13 亿飙升至 100 亿美元</title>
-      <link>https://news.aibase.com/zh/news/29853</link>
-      <description>据媒体报道，全球支付巨头Stripe正在洽谈收购AI模型聚合平台初创公司OpenRouter，交易可能很快宣布，但洽谈仍存在破裂可能或出现其他竞购者。OpenRouter此前估值约 13 亿美元，若收购达成，其估值可能达到约 100 亿美元，溢价幅度高达近 8 倍。 Stripe为何盯上AI模型路由器 OpenRouter是一家AI模型聚合平台，用户可以通过统一API接口调用多家AI厂商的大语言模型，包括OpenAI、Anthropic、谷歌、Meta等主流模型提供商的产品。这种"模型聚合器"模式让开发者无需分别接入各家API，即可根据成本、速度和性能灵活选择最合适的模型，在AI应用开发中扮演</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29853</guid>
-      <pubDate>Fri, 24 Jul 2026 01:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alphabet 押注 Anthropic 浮盈千亿：股份价值飙升至约 1240 亿美元</title>
-      <link>https://news.aibase.com/zh/news/29854</link>
-      <description>Alphabet 对人工智能初创 Anthropic 的那笔押注，如今账面已经膨胀成一座大山。周四披露的文件显示，截至6月30日，Alphabet 对一众未具名私人公司的投资总价值约为1243亿美元，而这扇价值之门，几乎完全由它对 Anthropic 的持股撑开——其中属于 Anthropic 的那部分，已飙升至约1240亿美元，成为 Alphabet 历史上最成功的投资之一。 这串数字背后，是两大 AI 巨头之间盘根错节的资本与算力纽带。Anthropic 作为 OpenAI 之外最被看好的大模型 challenger，其 Claude 系列一路追赶，而 Alphabet 既是它的金主，也是</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29854</guid>
-      <pubDate>Fri, 24 Jul 2026 01:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>马斯克官宣 Grok 4.5 全平台上线：比不过 Fable，但快、便宜、能干活</title>
-      <link>https://news.aibase.com/zh/news/29855</link>
-      <description>马斯克又一次在社交平台上亲手发了新品通告：Grok 4.5 现已在所有平台上线。 他给这款新模型的定位相当直白——虽然不如 Fable 那么出色，但它速度非常快、性价比高，而且能完成任务。一句话里，马斯克既没掩饰 Grok 4.5 与 顶尖 选手之间的差距，也把它的卖点钉在了实用主义上：不是最聪明的那个，但是跑得最快、最划算、最能把事办成的那个。 在算力成本被反复掂量的当下，把"能完成任务"当成核心标签，更像是在冲着企业级和日常高频场景喊话。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29855</guid>
-      <pubDate>Fri, 24 Jul 2026 01:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>黑森林实验室发布Flux3 多模态模型 首次支持 20 秒原生音视频同步生成</title>
-      <link>https://news.aibase.com/zh/news/29856</link>
-      <description>7月23日，德国人工智能初创公司黑森林实验室（Black Forest Labs）正式发布多模态基础模型Flux3，标志着生成式视频技术迎来重大突破。该模型基于Self-Flow架构打造，配备专用的图像、视频、音频及动作编解码器，实现了对物理与数字环境的统一理解与生成。 作为 首款 支持原生音频生成的模型，Flux3可一次性输出长达20秒的音视频同步片段，并涵盖文本/图像/视频转视频、基于关键帧的转场及多语言对话等功能。在720p分辨率、10秒片段的早期测试中，Flux3展现出强劲竞争力，性能超越Luma Ray3.2（93%胜率）与Runway Gen-4.5(77%胜率)，并在与Seeda</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/29856</guid>
-      <pubDate>Fri, 24 Jul 2026 02:07:00 +0000</pubDate>
+      <title>Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台</title>
+      <link>https://news.aibase.com/zh/news/29881</link>
+      <description>一份来自英美两大 AI 安全机构的联合评测，把月之暗面 最新 模型 Kimi K3的"另一面"摊在了阳光下。英国人工智能安全研究所（UK AISI）与美国人工智能标准与创新中心(CAISI)合力给这款模型做了一次攻击性网络任务体检，结论是:它在漏洞利用开发和模拟网络攻击上大幅落后于美国领先的前沿模型，但优于同样来自中国的智谱 GLM-5.2，在开放权重模型阵营里仍立起了一根新标杆。更刺眼的是，Kimi K3的安全护栏几乎没能拦住漏洞利用的开发，模型在配合这类操作时没遇到像样的阻力。 这场"考试"用的 第一 份试卷，是卡内基梅隆大学开发的 ExploitBench 基准。它从2023年之后 Ch</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/29881</guid>
+      <pubDate>Fri, 24 Jul 2026 10:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
