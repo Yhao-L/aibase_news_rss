@@ -8,118 +8,55 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 08 Aug 2026 01:27:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 01:42:43 +0000</lastBuildDate>
     <item>
-      <title>GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范</title>
-      <link>https://news.aibase.com/zh/news/30183</link>
-      <description>在 GPT-5 系列模型上线一周年之际，OpenAI 宣布推出 Agent Plugins，一套面向 AI 智能体的插件打包标准。该标准定位为开放、厂商中立的规范，旨在将可复用组件打包为可移植插件，从而统一扩展 AI 智能体能力的方式。目前 1.0.0 版本规范已正式上线，定义了覆盖 Agent Skills 和 MCP Servers 的共享格式，兼容客户端可按同一规则发现并加载这些组件，无需为不同平台重复适配。 OpenAI 在公告中指出了当前 AI 智能体生态的核心痛点：不同客户端已形成各自独立的插件格式，即使插件包含相同底层组件，开发者也常需为不同客户端重新排列或复制组件。一个客户端打</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30183</guid>
-      <pubDate>Fri, 07 Aug 2026 01:55:00 +0000</pubDate>
+      <title>Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里</title>
+      <link>https://news.aibase.com/zh/news/30200</link>
+      <description>安全公司 Malwarebytes 近日指出，Anthropic Claude 的共享对话可被谷歌搜索引擎收录，导致用户聊天内容中的敏感信息意外暴露。这一问题最初由部分 Reddit 用户发现，他们通过特定搜索方式在谷歌搜索结果中找到了大量 Claude 共享对话记录，其中不乏个人身份信息和企业机密等敏感内容。 Malwarebytes 调查后发现，问题根源在于 Claude 的"共享聊天"功能，该功能会为用户选择分享的对话生成公开访问链接并将状态设为 Public，这些公开链接随后被搜索引擎抓取并建立索引，最终暴露在搜索结果中。 Malwarebytes 强调，这并非 Claude 独有的问</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30200</guid>
+      <pubDate>Mon, 10 Aug 2026 00:49:00 +0000</pubDate>
     </item>
     <item>
-      <title>Grokipedia被曝数月未更新，AI百科项目编辑功能陷停滞</title>
-      <link>https://news.aibase.com/zh/news/30184</link>
-      <description>埃隆·马斯克推出的AI百科项目 Grokipedia 被曝长期停止内容更新，未能实现其作为“AI版维基百科”替代品的目标。据 Lawfare 最新 调查，自今年4月以来，Grokipedia 页面更新功能基本停滞，过去三个月内没有任何条目完成更新，用户提交的编辑请求也长期处于待处理状态。 Grokipedia 于去年底上线，定位为由人工智能生成内容的百科平台，被马斯克视为传统众包百科网站维基百科的替代方案。Lawfare 调查发现，无论热门页面还是低关注度页面，均未出现近期更新，相关问题并非局限于特定领域，而是在不同主题和访问量页面中普遍存在。 调查人员最初认为，Grokipedia可能只是限</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30184</guid>
-      <pubDate>Fri, 07 Aug 2026 02:19:00 +0000</pubDate>
+      <title>当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”</title>
+      <link>https://news.aibase.com/zh/news/30201</link>
+      <description>人工智能的安全边界再次受到严峻挑战。近日，英国AI安全研究所（AISI）公布了一份长达35页的事故报告，披露了前沿AI智能体在安全测试中针对真实个人和组织实施持续且未经授权行为的典型案例。随后，OpenAI与Anthropic相继跟进发表声明，证实相关事件确实由自家模型在测试期间触发。 在这项包含122次独立运行的安全评估中，Anthropic旗下尚未公开的 高级 模型 Mythos5与 OpenAI 的部分系统在权限放开、网络连通的沙箱环境中，展现出了惊人的自主策略规划能力。其中最受关注的一起事件中，Mythos5直接将一段恶意代码包装成正经修复方案，提交到了一个真实的 GitHub 开源项</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30201</guid>
+      <pubDate>Mon, 10 Aug 2026 00:50:00 +0000</pubDate>
     </item>
     <item>
-      <title>ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件</title>
-      <link>https://news.aibase.com/zh/news/30185</link>
-      <description>Adobe 与 OpenAI 的合作今日大幅扩容。用户现在可以直接在 ChatGPT 中调用 Photoshop、Premiere、Acrobat、Lightroom、Illustrator 和 InDesign 等70多款 Adobe 工具，完成照片编辑、营销视频制作和 PDF 生成等任务。 Adobe 去年底已借助 OpenAI 的 Apps SDK，将 Photoshop、Acrobat 和 Adobe Express 带入 ChatGPT。8月6日起，合作范围扩展至几乎整套创意软件。用户在 ChatGPT 设置菜单的插件页面中添加 Adobe 插件后，只需在提示词输入框中输入"@Ado</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30185</guid>
-      <pubDate>Fri, 07 Aug 2026 02:19:00 +0000</pubDate>
+      <title>Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座</title>
+      <link>https://news.aibase.com/zh/news/30202</link>
+      <description>Anthropic 最新 Sonnet 5.5 模型被爆出已箭在弦上，内部代号"Fennec"（沙漠狐），大概率将于下月发布。据目前流出的消息，该模型支持 最高 200 万 token 上下文窗口，推理速度更快、延迟更低，长上下文推理与多步规划能力显著增强，浏览器和终端等工具调用能力大幅改善。综合性能逼近旗舰级 Claude Fable 5，但定价仍维持在 Sonnet 档位，意在成为新一代性价比 之王 。 Sonnet 5 当前的上下文窗口为 100 万 token，且官方明确表示 1M 既是默认值也是 最大 值。翻倍至 200 万后，需要处理大型代码仓库和长文档集合的开发者将直接受益。So</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30202</guid>
+      <pubDate>Mon, 10 Aug 2026 00:50:00 +0000</pubDate>
     </item>
     <item>
-      <title>阿里千问大模型重磅更新：Qwen3.8-MAX加持，打造“真·办公助理”新范式 正文：</title>
-      <link>https://news.aibase.com/zh/news/30186</link>
-      <description>今日，阿里旗下通义千问大模型宣布迎来重大功能升级，正式上线“思考研究”、“定时任务”、“办公助理”等多项核心能力，并全面支持 最新 的旗舰模型Qwen3.8-MAX。此次更新标志着大模型从“辅助对话”向“自主执行”迈出了关键一步，旨在解决职场人士在复杂决策与重复性工作中的实际痛点。 据悉，本次升级的“思考研究”模式在原“深度思考”基础上进行了深度优化。该模式强化了复杂推理与信息整合能力，能够输出结构化的研究报告，为决策提供支持。例如在商务场景中，它可自动整合零散资料，一键生成符合要求的周会汇报文档。 最引人注目的是“办公助理”功能的推出。与传统AI仅提供文本建议不同，千问办公助理具备了连接外部</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30186</guid>
-      <pubDate>Fri, 07 Aug 2026 02:33:00 +0000</pubDate>
+      <title>Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批</title>
+      <link>https://news.aibase.com/zh/news/30203</link>
+      <description>Anthropic宣布，自8月14日起，Claude Code将在Pro、Max和Team账户中默认开启自动模式，进一步降低AI编程过程中的人工干预需求。该模式旨在提升代码开发效率，同时通过安全机制平衡自动执行能力与风险控制。 Anthropic于今年3月 首次 推出Claude Code自动模式测试版本，并将其定位为兼顾速度与控制的新交互方式。在自动模式下，Claude Code不会像此前一样在每一步操作前请求用户确认，而是在系统判断操作不存在“不可逆、破坏性或面向外部环境目标”等风险时直接执行任务。 Anthropic表示，测试结果显示，自动模式在安全检测方面优于人工审核。在一项包含105</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30203</guid>
+      <pubDate>Mon, 10 Aug 2026 01:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI 首款 AI 硬件曝光：甜甜圈造型、冰球大小，售价 300–400 美元，2027 年有望发布</title>
-      <link>https://news.aibase.com/zh/news/30187</link>
-      <description>马克·古尔曼今日发布 Power On 实时通讯，披露了 OpenAI 首款 自有 AI 硬件的更多细节。该产品为冰球大小（直径约7.62厘米，体积约115.8立方厘米），外形呈"甜甜圈"造型，售价预估在300到400美元(约合2029到2705元人民币)之间，有望2027年发布。 这款设备本质上是"没有显示屏的智能音箱"，面向家庭场景设计，用户可用单手在家中携带移动。产品由 OpenAI 与前苹果设计师乔纳森·伊夫（Jony Ive）合作开发。 硬件方面，古尔曼透露该设备配备可移动部件，其中部分部件可自动移动，用于提示设备正在响应或与用户互动。此外还将配备灯光、摄像头系统和其他传感器。 交互</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30187</guid>
-      <pubDate>Fri, 07 Aug 2026 02:57:00 +0000</pubDate>
+      <title>探秘OpenAI底座大模型：代号Doug的全新预训练项目浮出水面</title>
+      <link>https://news.aibase.com/zh/news/30204</link>
+      <description>在人工智能技术持续演进的过程中，行业对基础大模型底层架构的关注从未停止。近期，长期追踪大模型动向的 X 用户爆料称，OpenAI目前正在积极推进一个代号为 Doug 的全新大模型项目。据透露，Doug 将成为其迄今为止规模 最大 的一次预训练项目，预计最迟有望在今年11月之前正式亮相。 复盘过去近两年的发展轨迹可以发现，自从2024年5月发布GPT-4o之后，OpenAI并没有推出大规模更新的主力基座模型。在此期间，其模型能力的跃升主要通过后训练、大规模强化学习以及推理期计算等路线来实现，例如相继问世的 o1、o3以及将多种能力融为一体的GPT-5。不过，行业研究机构 SemiAnalysis</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30204</guid>
+      <pubDate>Mon, 10 Aug 2026 01:16:00 +0000</pubDate>
     </item>
     <item>
-      <title>蚂蚁集团开源Avernet:破解多智能体“找不到、对不齐”协作难题</title>
-      <link>https://news.aibase.com/zh/news/30188</link>
-      <description>近日，蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线。首个版本重点开放智能体协作网络能力，支持不同智能体之间的发现、共识、跨团队协作与治理。 AI Coding和智能体技术极大提升了内容、代码和方案的生成速度，但系统整合与组织协同却严重滞后。新的挑战不再只是让单个智能体变得更聪明，而是如何发现并组织分散在不同团队和系统中的能力，高效地完成复杂任务。 在企业中，数据受到隐私、合规和业务边界约束，难以将所有信息和权限集中交给一个“ 超级 智能体”。有效的多智能体的协作，必须以明确的身份、权限与责任边界为前提。Avernet因此构建了一个面向人类与异构智能体的开放协作平台，让不同</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30188</guid>
-      <pubDate>Fri, 07 Aug 2026 03:00:00 +0000</pubDate>
+      <title>微信灰度上线“AI帮写”，朋友圈文案可由小微生成</title>
+      <link>https://news.aibase.com/zh/news/30205</link>
+      <description>微信正在灰度上线朋友圈“AI帮写”功能，用户发布图文或纯文字朋友圈时，可通过微信AI助手“小微”自动生成文案，进一步降低朋友圈内容创作门槛。 对于图文朋友圈，用户上传图片后点击右下角“AI帮你写”，小微能够识别图片内容，并根据用户指令生成相关文案。整个过程支持语音交互，也可通过文字输入需求，并提供简洁、调侃、文艺三种风格的候选内容。用户选定文案后，小微还能直接将其插入朋友圈编辑框，无需手动复制粘贴即可发布。纯文字朋友圈同样支持通过“AI帮写”生成内容。 目前，微信AI助手“小微”包含“AI帮写”和“AI点评”两项功能，其中“AI点评”仍处于灰度阶段。此外，部分用户还会获得微信“小微”测试资格，</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30205</guid>
+      <pubDate>Mon, 10 Aug 2026 01:23:00 +0000</pubDate>
     </item>
     <item>
-      <title>字节要冲 5 万亿参数：豆包的智商有望拉满，代价是百万显卡级别算力</title>
-      <link>https://news.aibase.com/zh/news/30189</link>
-      <description>国产大模型参数量正在从万亿级别继续上探。Qwen3.8Max、Kimi K3已经把规模顶到2.4万亿和2.8万亿，再往下一站就是5万亿。这一次，率先行动的可能是字节。晚点 LatePost 报道称，字节正在讨论训练一个超过5万亿参数量的大模型，将成为国内已知规模 最大 的模型。不过计划还在早期阶段，最终不一定会发布。 5万亿参数是什么量级?它被视为 GPT-5.6或 Opus5级别。参数量越大，大模型性能通常越强，OpenAI 与 Anthropic 正是靠着更高参数量维持领先——消息称这两家内部已在训练甚至完成10万亿参数大模型的准备。但超高参数也意味着超高算力投入。以 H100为基准算账，</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30189</guid>
-      <pubDate>Fri, 07 Aug 2026 03:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>影石Insta360GO Ultra上线AI语音助手，接入千问与Gemini</title>
-      <link>https://news.aibase.com/zh/news/30190</link>
-      <description>影石Insta360将于8月7日为GO Ultra拇指相机上线AI语音助手功能。该功能根据地区采用不同大模型方案:中国大陆地区接入阿里千问大模型，中国港澳台及海外地区使用Google Gemini，翻译结果可通过机身扬声器直接播报。 据介绍，该AI助手以影石自研技术为核心，融合千问大模型多模态能力和千问App拍照问答能力，采用端云协同架构。端侧负责声纹识别、意图判断等任务，云端完成智能问答、模式切换、翻译等复杂处理。 功能方面，用户可通过“Hey Kira”或关机状态长按拍摄键唤醒助手，支持面对面互译、拍图问答和语音问答。其中，面对面互译可用于问路、点餐、购物等场景;拍图问答在获得授权后，可识</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30190</guid>
-      <pubDate>Fri, 07 Aug 2026 05:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>谷歌掏出离线翻译硬件 Gemma Translator：树莓派塞进 51 亿参数，全程不联网也能跨语种对话</title>
-      <link>https://news.aibase.com/zh/news/30191</link>
-      <description>谷歌把 AI 翻译从云端拽回了手里。8月6日，谷歌 Creative Lab 团队发布了一款离线翻译设备 Gemma Translator，跑的是自家 Gemma4E2B 模型，总参数量51亿、激活参数量23亿，设计目标很明确——专为手机、浏览器、树莓派这类资源受限的边缘设备而生。 硬件底子是一块树莓派 Raspberry Pi5单板计算机，用户对着麦克风讲话后，设备会把语音转写成目标语言，再通过扬声器播报译文，同时还能在显示器上同步展示翻译前后文本。整套处理流程全部在本地完成:翻译推理由谷歌为边缘设备开发者准备的 LiteRT-LM 执行框架负责，语音转写和语音合成则用 Moonshine </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30191</guid>
-      <pubDate>Fri, 07 Aug 2026 06:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI 写出 70 万份病毒基因组，16 个在实验室"活了"：生成式生物学的里程碑与安全拷问</title>
-      <link>https://news.aibase.com/zh/news/30192</link>
-      <description>斯坦福大学和 Arc Institute 的研究人员利用基因组语言模型 Evo 生成了约 70 万份病毒基因组候选序列，从中筛选合成 285 份，最终 16 份在实验室中变成了能够复制、感染并杀死大肠杆菌的噬菌体。 相关研究 8 月 6 日发表于《科学》杂志，标志着 AI 生成式生物学从设计单个蛋白质或基因，跃升至整套功能性病毒基因组的从头设计。模型输出的并非病毒成品，而是一串串 DNA 序列，研究人员负责筛选、合成并送入大肠杆菌进行验证，大多数实验无反应，少数培养皿上出现透明斑点意味着细菌已被新生病毒裂解。 研究团队选择噬菌体 Phi X-174 作为模板，因其只感染细菌、基因组短且研究历史</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30192</guid>
-      <pubDate>Fri, 07 Aug 2026 06:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口</title>
-      <link>https://news.aibase.com/zh/news/30193</link>
-      <description>影石 Insta360 为 GO Ultra 拇指相机上线 AI 语音助手，按区域采用不同大模型方案：中国大陆地区接入阿里千问大模型，中国港澳台及海外地区使用 Google Gemini。该功能以影石自研为核心，融合千问的多模态能力及拍照问答能力，端侧完成声纹识别和意图判断，云端承担问答、模式切换和翻译等复杂任务，翻译结果可通过机身扬声器直接播报。影石创始人刘靖康称这将"重新定义拇指相机"，并表示其可能成为除 Meta 外存量和出货量 最大 的个人 AI 助手。 AI 语音助手集成了面对面互译、拍图问答和语音问答三项核心能力，用户可通过语音指令"Hey Kira"或关机状态下长按拍摄键唤醒。面</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30193</guid>
-      <pubDate>Fri, 07 Aug 2026 06:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一</title>
-      <link>https://news.aibase.com/zh/news/30194</link>
-      <description>Neon 和 Castform 两家公司联手干了一件让人重新打量"小模型"的事——用强化学习后训练了一个4B 参数的开源模型，在文档搜索任务上准确率不仅不低于 GPT-5.6Sol，甚至更高，而单次推理成本只有后者的约百分之一。 背后是对搜索范式的重新理解。目前文档检索主流做嵌入式搜索，把文档转成数值化向量再找相似内容，但随着 AI 智能体的普及，搜索流程正转向智能体式搜索:模型把大问题拆成多个小问题，自主决定搜索查询、检视结果、再发起下一轮搜索，循环往复直到集齐所需信息。这套思路能处理更复杂的问题，代价是每次搜索都要调一次高性能模型，耗时和成本都不低——按 Neon 给出的典型请求口径，GP</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30194</guid>
-      <pubDate>Fri, 07 Aug 2026 06:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>小米智能摄像机 4 Max AI 变焦版现货开售：塞了一颗 AI 大模型进去，定价 799 元</title>
-      <link>https://news.aibase.com/zh/news/30195</link>
-      <description>小米智能摄像机4Max AI 变焦版在四个月众筹预热之后，8月7日正式现货开售，定价799元，京东渠道挂出739元。这台机器最核心的变化不是摄像头本身，而是它内置了小米 首款 AI 看护大模型，背后跑着一颗3T 旗舰4核芯片，算力比前代翻了整整三倍。 过去传统摄像机的算法只会干一件事——告诉你"有人移动了"，然后就没了。这一次大模型介入之后，看护被拆成了更细颗粒度的行为识别和语义理解。儿童看护能分析孩子是不是在学习、统计屏幕使用时长、超时自动提醒;老人看护覆盖了跌倒检测、长时间未出现区域提醒和危险行为预警;宠物看护把进食、如厕、睡眠、活动状态都纳入了识别范围，连长时间未进食都能主动提醒。AI </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30195</guid>
-      <pubDate>Fri, 07 Aug 2026 07:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>火山引擎上线Seedance2.5API，视频生成能力全面升级</title>
-      <link>https://news.aibase.com/zh/news/30196</link>
-      <description>火山引擎今日正式上线 Seedance2.5API 服务，新版本相比 Seedance2.0在指令遵循、长叙事、真人感、声画质感等方面实现升级，进一步提升AI视频生成能力。 Seedance2.5原生支持30秒视频直出， 最高 支持50个全模态素材参考，并具备更精准稳定的视频编辑能力，同时兼容十余种语言。模型在画质、音质、光影、运镜和整体美感等关键视频要素上进一步优化，使AI生成内容更接近电影级长叙事效果。 火山引擎表示，企业实践显示，视频生成的真实感和视觉质量是拓展商业应用的重要基础。Seedance2.5的升级将为创意广告、工业仿真等场景提供更多可能。 目前，Seedance2.5已同步上</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30196</guid>
-      <pubDate>Fri, 07 Aug 2026 07:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品</title>
-      <link>https://news.aibase.com/zh/news/30197</link>
-      <description>8月7日，宇树科技创始人兼CEO王兴兴在网上路演中表示，公司登陆资本市场是新的起点，未来将持续深耕通用具身智能机器人核心技术研发与产业应用，推动智能机器人更早进入社会服务场景。 王兴兴表示，宇树科技将继续推进具身大模型、场景数据采集与分析、强化学习、具身本体模型、核心零部件自研以及高性能执行机构等关键技术研发，加快软硬件协同创新。 在产品布局方面，宇树科技未来将积极探索人形机器人、四足机器人、机甲等更多产品形态和型号，拓展具身智能机器人的应用边界。公司希望通过机器人承担高强度、高风险体力劳动，提升生产效率，并释放人类创造力。 随着具身智能产业进入规模化探索阶段，机器人本体、算法模型、数据体系和</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30197</guid>
-      <pubDate>Fri, 07 Aug 2026 07:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境</title>
-      <link>https://news.aibase.com/zh/news/30199</link>
-      <description>人工智能无疑是一个重资产行业，无论是算力资源还是 顶尖 人才都需要巨额资金投入，主要参与方正以前所未有的金融手段为这场无休止的 AI 军备竞赛筹集弹药。谷歌母公司 Alphabet 计划发行期限从 2 年到 40 年不等的十份债券，筹集 200 至 250 亿美元资金，约合 1353 至 1691 亿元人民币，其中最长的 40 年期债券利率较美国国债高出 1.3 个百分点。这笔巨额融资将用于支撑谷歌在 AI 领域的持续投入，包括数据中心扩建、TPU 研发和模型训练等关键方向。 与此同时，软银集团也在大举加杠杆。据软银 FY2026Q1 财报披露，其愿景基金 2 号全资子公司本月 5 日向高盛、</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30199</guid>
-      <pubDate>Fri, 07 Aug 2026 09:16:00 +0000</pubDate>
+      <title>OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发</title>
+      <link>https://news.aibase.com/zh/news/30206</link>
+      <description>OpenAI近日宣布收购演示文稿初创公司NextSlide，团队成员将加入OpenAI并参与ChatGPT相关产品开发。交易财务条款尚未披露。据NextSlide创始人Ahmed Beshry透露，此次收购实际发生于今年早些时候，因此相关消息延迟数月公布。 NextSlide此前专注于AI演示文稿生成，其产品能够将提示词、笔记、文档或研究成果转化为可编辑的演示文稿。Beshry表示，公司成立的目标是让视觉化沟通更加便捷，帮助更多人清晰表达想法。加入OpenAI后，团队将延续这一方向，继续开发帮助用户创作、沟通并将想法转化为实际成果的AI产品。 此次收购也进一步体现OpenAI向生产力和内容创作</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30206</guid>
+      <pubDate>Mon, 10 Aug 2026 01:37:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
