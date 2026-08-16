@@ -15,7 +15,7 @@
   <h1>📡 AIbase RSS 订阅源</h1>
   <p>自动抓取 <a href="https://news.aibase.com" target="_blank">AIbase</a> 每日最新 AI 资讯，每小时更新一次。</p>
   <h2>订阅地址</h2>
-  <div class="url">https://suy123xb.github.io/aibase_news_rss/feed.xml</div>
+  <a class="url" id="feed-url" href="./feed.xml">feed.xml</a>
   <h2>使用方式</h2>
   <p>将上方地址复制到任意 RSS 阅读器（如 Feedly、Inoreader）或 Coze RSS 插件中即可订阅。</p>
   <h2>说明</h2>
@@ -24,5 +24,9 @@
     <li>由 GitHub Actions 定时驱动，无需手动维护</li>
     <li>数据来源：<a href="https://news.aibase.com/zh/news" target="_blank">news.aibase.com</a></li>
   </ul>
+  <script>
+    const feedUrl = document.getElementById('feed-url');
+    feedUrl.textContent = feedUrl.href;
+  </script>
 </body>
 </html>
