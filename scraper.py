@@ -37,6 +37,27 @@ CONFIG = {
     "request_retries": 3,           # 请求失败重试次数（指数退避）
 }
 
+DEFAULT_GITHUB_REPOSITORY = "Yhao-L/aibase_news_rss"
+
+
+def get_feed_url() -> str:
+    """返回 RSS 的公开地址；在 GitHub Actions 中随仓库地址自动变化。"""
+    override = os.getenv("RSS_FEED_URL", "").strip()
+    if override:
+        return override
+
+    repository = os.getenv("GITHUB_REPOSITORY", DEFAULT_GITHUB_REPOSITORY).strip()
+    if repository.count("/") != 1:
+        log.warning(
+            "GITHUB_REPOSITORY=%r 格式无效，回退到 %s",
+            repository,
+            DEFAULT_GITHUB_REPOSITORY,
+        )
+        repository = DEFAULT_GITHUB_REPOSITORY
+
+    owner, repo = repository.split("/", 1)
+    return f"https://{owner.lower()}.github.io/{repo}/feed.xml"
+
 URLS = {
     "zh": {
         "list": "https://news.aibase.com/zh/news",
@@ -542,7 +563,7 @@ def generate_rss(items: list[dict], lang: str) -> str:
     fg.title(cfg["feed_title"])
     fg.description(cfg["feed_desc"])
     fg.link(href=cfg["list"], rel="alternate")
-    fg.link(href="https://suy123xb.github.io/aibase_news_rss/feed.xml", rel="self")
+    fg.link(href=get_feed_url(), rel="self")
     fg.language("zh-CN" if lang == "zh" else "en")
     fg.lastBuildDate(datetime.now(timezone.utc))
 

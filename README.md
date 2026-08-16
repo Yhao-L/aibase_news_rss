@@ -5,7 +5,7 @@
 ## 📡 订阅地址
 
 ```
-https://suy123xb.github.io/aibase_news_rss/feed.xml
+https://yhao-l.github.io/aibase_news_rss/feed.xml
 ```
 
 ## ✨ 特性
