@@ -8,202 +8,174 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 21 Aug 2026 01:14:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 01:10:57 +0000</lastBuildDate>
     <item>
-      <title>小米新一代人形机器人惊艳亮相，大模型加持动作丝滑宛如真人</title>
-      <link>https://news.aibase.com/zh/news/30484</link>
-      <description>小米新一代人形机器人近日正式亮相2026世界机器人博览会，并登陆“具身花园”展台。在现场演示中，这款机器人化身优雅的“花艺师”，不仅能够流畅地完成抓取香片、撒花并递送给观众等精细动作，还支持握手、碰拳、比心等多元互动，整体表现自然流畅，摆脱了以往机器人的生硬感。 据官方介绍，这些看似生动的交互并非依靠单纯的预设程序机械执行，而是由强大的大模型驱动。机器人能够结合大模型对现场的复杂交互指令与实时场景进行深度理解、自主判断，从而独立完成各项操作。 在硬件规格方面，这款人形机器人身高约1.70米，体重约66公斤，全身拥有高达66个自由度。值得一提的是，其半数自由度均集中在手部，极大地提升了手部的精细</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30484</guid>
-      <pubDate>Thu, 20 Aug 2026 01:20:00 +0000</pubDate>
+      <title>移动端基准全面超越GPT与Claude！阿里发布Qwen-UI-Agent，开启GUI智能体新纪元</title>
+      <link>https://news.aibase.com/zh/news/30513</link>
+      <description>阿里巴巴于8月20日正式发布了全新的GUI智能体基座模型Qwen-UI-Agent。该模型全面覆盖移动端、电脑端、网页端及深度搜索（DeepSearch）环境，并在多项核心图形用户界面基准测试中全面对标并超越业界多款旗舰模型。 在具体的基准表现方面，Qwen-UI-Agent在移动端展现出强劲实力。在MobileWorld基准上得分为82.1%，分别领先GPT-5.6Sol和Claude Opus4.8达12.0和14.6个百分点;在真实环境基准MobileWorld-Real上取得了92.2%的成绩，超越了Gemini3.1Pro、Claude Opus4.8以及GPT-5.6Sol;在An</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30513</guid>
+      <pubDate>Fri, 21 Aug 2026 01:21:00 +0000</pubDate>
     </item>
     <item>
-      <title>斩获Anthropic 2.5亿美元巨额订单！AI芯片黑马Fractile估值暴增6倍冲击65亿美元</title>
-      <link>https://news.aibase.com/zh/news/30485</link>
-      <description>AI芯片赛道再迎重磅融资黑马。人工智能芯片初创公司Fractile目前正在进行新一轮融资，目标以高达 65 亿美元的投前估值融资约 6 亿美元。知情人士透露，Fractile在今年 5 月完成上一轮融资后的估值仅约为 10 亿美元，本轮估值在短短几个月内实现了超过 6 倍的惊人飙升。 推动公司估值暴增的核心动力，来自于其斩获的重量级商业订单。据悉，Fractile已与Anthropic达成初步合作协议，将向后者出售价值约2. 5 亿美元的AI芯片，双方未来还计划进一步扩大合作规模。按照目前的进度规划，相关芯片预计将于 2027 年正式投入使用。 成立于 2022 年的Fractile，是一家专</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30485</guid>
-      <pubDate>Thu, 20 Aug 2026 01:23:00 +0000</pubDate>
+      <title>宇树科技推进物理AI模型自进化，王兴兴披露最新预研方向</title>
+      <link>https://news.aibase.com/zh/news/30514</link>
+      <description>宇树科技创始人、董事长王兴兴在 2026 世界机器人大会主论坛上透露，公司正推进物理AI机器人模型自进化，并探索通过AI大模型自动完成机器人控制代码开发。宇树科技登陆科创板次日，王兴兴表示，公司计划以前沿AI大模型为核心，自定义规则、经验框架及约束工具，让模型自主检索 最新 学术论文、研究成果和开源方案，自动生成机器人控制代码，再通过模型自评与人工评审进行验证。 王兴兴指出，基础模型能力提升将推动自进化系统持续迭代。该闭环还可将仿真数据、真实世界数据和人类行为数据纳入训练流程，随着机器人部署规模扩大，测试数据与评价指标持续积累，有望显著提升机器人开发和迭代效率。 大会现场，宇树科技通过多机型协</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30514</guid>
+      <pubDate>Fri, 21 Aug 2026 01:22:00 +0000</pubDate>
     </item>
     <item>
-      <title>京东发布机器人战略，2028年前投入百亿资源布局产业生态</title>
-      <link>https://news.aibase.com/zh/news/30486</link>
-      <description>在2026世界机器人大会（WRC2026）期间，京东担任大会全球战略合作伙伴，并发布机器人领域战略布局，计划从供应链、服务体系和技术平台三方面推动机器人产业规模化发展。 供应链方面，京东宣布截至2028年将在机器人领域投入百亿资源，助力100个机器人品牌实现独立销售额突破10亿元。目前，京东已通过自营模式与200余家机器人品牌及大量核心零部件企业展开合作，覆盖个人消费与家庭服务场景，并布局零售、健康、工业、物流等多个行业领域。同时，京东欧洲Joybuy已与50余家中国机器人品牌建立合作，推动中国机器人产品进入海外市场。 服务体系建设方面，京东计划未来5年打造覆盖全球超过100个国家的机器人售后</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30486</guid>
-      <pubDate>Thu, 20 Aug 2026 01:27:00 +0000</pubDate>
+      <title>腾讯新一代大模型Hy4将发布，将成WorkBuddy核心引擎</title>
+      <link>https://news.aibase.com/zh/news/30515</link>
+      <description>继此前财报会议公开预告后，腾讯新一代大模型Hy4 的内部测试界面近日正式曝光，这意味着其距离正式发布已为期不远。从泄露的模型选择界面来看，腾讯延续了“自研模型与集成优秀开源方案并行”的既定战略，共提供了三项核心选择：定位为专家级大模型的Hy4、标注为新升级且适用大部分场景的Hy3，以及专注于推理与理解的DeepSeek。 作为此次升级的焦点，Hy4 的整体定位明显高于前代Hy3，被赋予了解决更复杂业务与技术难题的专家级能力。在技术演进路径上，行业普遍推测其性能的大幅提升可能源于两个方向：一是将参数规模直接迈向 1 万亿级别以追平行业旗舰水平；二是在现有Hy3 架构基础上进一步深度强化RL（强化</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30515</guid>
+      <pubDate>Fri, 21 Aug 2026 01:24:00 +0000</pubDate>
     </item>
     <item>
-      <title>冲击5万亿参数终极目标！字节跳动Seed基模团队架构大洗牌，四大核心一级部门浮出水面</title>
-      <link>https://news.aibase.com/zh/news/30487</link>
-      <description>为了给传闻中参数规模超 5 万亿的下一代超大模型铺路，字节跳动的大模型部门 Seed 近期完成了新一轮深度的组织架构调整。此次调整打破了以往按模态和研究方向划分的传统模式，将原先分散的团队重新整合，全面优化研发效率。 在本次架构调整中，Seed 基础模型（Seed Foundation Model）正式成立了四个全新的一级部门。首先是预训练数据团队 Pretrain Data，由李成刚担任负责人，该部门由原先散落在文本、编程、视觉理解和语音等方向的预训练团队合并而来，统一负责新 Omni 模型的多模态数据及超大模型预训练工作。 其次是强化学习团队 Horizon RL，由唐晟宇负责。该团队整合</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30487</guid>
-      <pubDate>Thu, 20 Aug 2026 01:30:00 +0000</pubDate>
+      <title>苹果音乐将强制标注AI生成内容，音乐平台加速治理AI“垃圾信息”</title>
+      <link>https://news.aibase.com/zh/news/30516</link>
+      <description>苹果计划于2026年晚些时候要求Apple Music内容提供商，为实质性使用AI生成的音乐添加AI透明度标签，意味着此前自愿披露的机制将转向强制执行。苹果于2026年3月推出AI透明度标签，目前标签尚未向终端用户公开，但公司已表示希望尽可能向听众提供相关信息。 此次调整是苹果治理AI生成音乐滥用的一部分。苹果表示已开发内部工具监测音乐流，识别AI生成歌曲、垃圾内容和身份冒用，并可针对篡改播放量的AI歌曲采取下架措施。2025年，苹果还重新分配约20亿次被操纵流媒体播放产生的版税，将相关资金转入艺术家和唱片公司的分配池。 苹果高管Oliver Schusser此前透露，上传至Apple Mus</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30516</guid>
+      <pubDate>Fri, 21 Aug 2026 01:29:00 +0000</pubDate>
     </item>
     <item>
-      <title>特斯拉中国车机重磅升级豆包大模型，开启智能语音新时代</title>
-      <link>https://news.aibase.com/zh/news/30488</link>
-      <description>特斯拉中国车机系统近日正式迎来重大更新，全面上线字节跳动旗下的豆包大模型。事实上，特斯拉中国已于7月31日起分批推送了2026.14.13版本车机软件更新，全面覆盖Model3、Model Y、Model S以及Model X全系车型，并且新交付的车辆将优先搭载。车主完成OTA升级后，只需长按方向盘语音按钮、呼喊唤醒词“嘿，Tesla”或者操作方向盘滚轮，即可轻松唤醒全新的AI语音助手。 在技术架构上，全新的AI语音助手依托于豆包端到端语音交互架构，成功跳过了传统语音助手“语音转文字、文本理解、文字转语音”的多步中间环节。这种“语音到语音”的直连方式不仅大幅降低了交互延迟，更带来了极低延迟、更</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30488</guid>
-      <pubDate>Thu, 20 Aug 2026 01:32:00 +0000</pubDate>
+      <title>AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元</title>
+      <link>https://news.aibase.com/zh/news/30517</link>
+      <description>顶级 AI实验室和企业对高质量训练数据的需求持续攀升，推动数据标注初创公司快速增长。成立仅四年的Micro1，据知情人士透露，过去8个月年化营收从1亿美元增至5亿美元。公司通常保留合同收入的60%至70%，由此计算年净收入约1.5亿至2亿美元。 目前Micro1规模仍低于Mercor和Handshake，后两者年化总收入今年分别达到20亿美元和10亿美元，但Micro1的增长显示，AI训练数据市场正形成足以支撑多家公司的巨大需求。部分研究人员甚至预计，未来AI在数据上的支出可能达到与算力相当的规模。 Micro1正在通过自动生成视频描述等方式扩大合成数据生产，部分数据还可重复出售给多个客户，使</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30517</guid>
+      <pubDate>Fri, 21 Aug 2026 01:33:00 +0000</pubDate>
     </item>
     <item>
-      <title>Stripe完成收购OpenRouter，交易估值据报达75亿美元</title>
-      <link>https://news.aibase.com/zh/news/30489</link>
-      <description>Stripe宣布已完成对AI模型路由平台OpenRouter的收购，虽然双方未披露交易金额，但据《纽约时报》援引消息人士称，Stripe此次交易支付约75亿美元，远高于OpenRouter今年5月13亿美元的估值。 据报道，此次收购中，OpenRouter创始人预计将获得约15亿美元收益，投资者则获得约60亿美元回报。Stripe为完成交易击败了包括Databricks在内的多家潜在竞争者。收购完成后，OpenRouter预计将继续保持独立运营，其产品、使命和现有服务承诺不会发生变化。 OpenRouter成立于AI模型应用快速增长阶段，主要帮助开发者在不同大模型之间进行调用和路由管理，降低模</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30489</guid>
-      <pubDate>Thu, 20 Aug 2026 01:40:00 +0000</pubDate>
+      <title>​ 突破千亿参数大关！“阳光清言”藏语大模型正式发布，拉萨市纳金数智研究院揭牌成立</title>
+      <link>https://news.aibase.com/zh/news/30518</link>
+      <description>8 月 20 日， 2026 全球数字经济大会拉萨分会场“数启纳金·智汇高原”主题论坛在拉萨盛大举行。在本次活动现场，拉萨市纳金数智研究院正式揭牌成立，备受瞩目的“阳光清言”通用藏语大模型也同步迎来了正式发布。 据了解，“阳光清言”通用藏语大模型的研发成果最早于 2025 年 11 月 19 日亮相，随后顺利通过了中央网络安全和信息化委员会办公室的备案。在经历近两个月的内部测试以及两个多月的公开测试后，该模型终于在今天正式发布。中国工程院院士、西藏大学教授、拉萨市纳金数智研究院发起人尼玛扎西在主旨报告中指出，“阳光清言”是基于强基座模型精心打造的千亿级参数藏语通用大模型。它不仅完美继承了强基座</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30518</guid>
+      <pubDate>Fri, 21 Aug 2026 01:39:00 +0000</pubDate>
     </item>
     <item>
-      <title>ChatGPT全球故障，用户登录和聊天记录加载功能异常</title>
-      <link>https://news.aibase.com/zh/news/30490</link>
-      <description>OpenAI旗下ChatGPT近日出现全球范围服务故障，用户无法登录、注册账号、加载历史聊天记录或正常发送消息，受影响范围覆盖美国、欧洲等多个地区。 此次故障约于美国东部时间8月19日晚8点开始。受影响用户打开ChatGPT后，页面可能停留在侧边栏加载动画界面，并出现“并发请求过多”等错误提示，导致无法继续发送消息。同时，chatgpt.com的新用户注册和账号登录功能也出现异常，部分用户无法访问此前保存的聊天记录。 除ChatGPT主服务外，OpenAI旗下编码平台Codex也受到此次故障影响。OpenAI随后通过官方状态页面确认相关问题，表示已发现部分用户遇到登录异常，并正在采取缓解措施恢</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30490</guid>
-      <pubDate>Thu, 20 Aug 2026 01:41:00 +0000</pubDate>
+      <title>Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效</title>
+      <link>https://news.aibase.com/zh/news/30519</link>
+      <description>Adobe正式推出Firefly音频生成工具，包括“生成音乐”“生成语音”和“生成音效”，用户可直接在Firefly桌面及移动Web应用中创建商业安全的音频内容，进一步将AI音频能力融入视频创作流程。 Adobe与伯克利音乐学院近期调查显示，100%的受访视频创作者、音乐人和营销人员会在视频中使用音乐，其中32.7%已使用AI生成音乐;43.2%将法律及版权风险、38.9%将授权费用视为主要障碍。 针对这些痛点，Firefly“生成音乐”可根据视频内容、氛围、节奏和时长生成原创且完全授权的音乐，并提供4个方案供用户编辑选择。Adobe表示，生成内容无需额外订阅即可用于商业作品。 “生成语音”可</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30519</guid>
+      <pubDate>Fri, 21 Aug 2026 01:43:00 +0000</pubDate>
     </item>
     <item>
-      <title>韶音首款AI开放式耳机OpenFit 2 AI重磅发布，深度接入千问大模型剑指高端商务</title>
-      <link>https://news.aibase.com/zh/news/30491</link>
-      <description>作为全球开放式耳机出货量连续三年稳居榜首的头部品牌，韶音近日正式发布了旗下 首款 AI硬件产品——OpenFit 2 AI。该产品深度接入了阿里巴巴千问大模型，并针对金融、法律等高专业门槛的商务语境进行了专项深度调优，标志着韶音在巩固其核心硬件壁垒的同时，正式全面迈入AI驱动的全新发展阶段。 在核心功能与软件生态方面，OpenFit 2 AI被精准定位为新一代商务生产力工具。硬件层面，该耳机不仅搭载了先进的防漏音技术，更支持最长达 8 小时的连续录音。在AI能力加持下，它可实现覆盖 49 种语言的高效转写，内置 12 类垂直行业专业词库与 19 种智能总结模板，并提供多达 30 种语种的精准翻</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30491</guid>
-      <pubDate>Thu, 20 Aug 2026 01:51:00 +0000</pubDate>
+      <title>Waymo定制出租车Ojai全面接入Gemini，开启车内智能交互新体验</title>
+      <link>https://news.aibase.com/zh/news/30520</link>
+      <description>作为全球自动驾驶领域的头部玩家，Waymo近日正式宣布了一项重磅升级:将谷歌旗下的Gemini人工智能助手深度整合进其专为网约车场景打造的定制自动驾驶出租车Ojai之中，标志着无人物流与出行正加速向高度智能化迈进。 在市场布局与运营进展方面，目前这款搭载了Gemini助手的全新Ojai车型已经在洛杉矶、菲尼克斯和旧金山向所有普通用户全面开放。按照官方规划，Waymo计划在今年晚些时候将该服务进一步拓展至丹佛、拉斯维加斯和圣迭戈等多个新城市。在出行选择上，未来乘客在呼叫网约车时，可以在全新的Ojai车型与现有的捷豹I-Pace自动驾驶出租车之间根据需求自由选择。 在核心功能与交互体验上，目前处于</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30520</guid>
+      <pubDate>Fri, 21 Aug 2026 01:44:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手</title>
-      <link>https://news.aibase.com/zh/news/30492</link>
-      <description>近日，一则关于人工智能巨头 OpenAI 的重磅消息在科技圈引发广泛关注。在内部全员大会上，OpenAI 首席财务官萨拉·弗里亚尔向全体员工明确了公司的上市时间表，并透露了 最新 的财务与业务核心数据。 上市只是融资新起点，时间表锁定 2027 年 在全员大会中，萨拉·弗里亚尔向员工透露，公司最迟将于 2027 年完成上市，若业务持续保持强劲向好，也有可能更早登陆公开市场。她向员工强调，IPO 并不是终点，而是一个发展过程中的里程碑，本质上只是另一种形式的融资渠道。此前在 3 月完成的高达 1220 亿美元（约合 8243.43 亿元人民币）融资，已经为公司留出了充足的战略操作空间。 据知情人</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30492</guid>
-      <pubDate>Thu, 20 Aug 2026 02:08:00 +0000</pubDate>
+      <title>皮尤研究:ChatGPT发布后，超三成网页出现AI创作痕迹</title>
+      <link>https://news.aibase.com/zh/news/30521</link>
+      <description>皮尤研究中心8月20日发布 最新 研究称，在ChatGPT于2022年11月发布后上线的网页中，超过三分之一已经出现AI撰写或大量编辑的迹象，显示生成式AI正在快速改变互联网内容生态。 研究基于Common Crawl网络档案库，覆盖近5年的约50万个英文网页，并利用Open Pangram技术检测AI创作痕迹。在2026年7月随机抽取的1万个网页中，约10%存在明显AI创作迹象。由于样本包含大量AI出现前发布的旧网页，皮尤进一步剔除早期页面后发现，在ChatGPT发布之后产生的网页中，约35%存在AI创作迹象。 从域名来看，.com网站出现AI创作痕迹的比例约为.edu和.gov网站的10倍</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30521</guid>
+      <pubDate>Fri, 21 Aug 2026 02:34:00 +0000</pubDate>
     </item>
     <item>
-      <title>Meta推出Mac版AI助手，支持屏幕共享和语音输入功能</title>
-      <link>https://news.aibase.com/zh/news/30493</link>
-      <description>Meta宣布推出专为其AI聊天机器人打造的Mac桌面应用，进一步强化Meta AI在生产力场景中的应用能力。新应用支持用户共享电脑窗口，让AI根据屏幕内容提供建议、回答问题或生成内容，同时支持跨应用语音输入功能。 此次发布标志着Meta正推动AI聊天机器人从简单问答工具向智能生产力助手转型，以应对来自Google Gemini、OpenAI ChatGPT和Anthropic Claude等产品的竞争。目前，Gemini桌面应用已支持窗口共享功能，而ChatGPT和Claude则进一步提供计算机操作能力。 在Mac版Meta AI中，用户可以直接通过语音方式进行内容输入，并在其他应用程序中使用</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30493</guid>
-      <pubDate>Thu, 20 Aug 2026 02:11:00 +0000</pubDate>
+      <title>Claude Platform 正式上线Computer Use、Skills API 与 Files API</title>
+      <link>https://news.aibase.com/zh/news/30522</link>
+      <description>Anthropic近日正式宣布，其备受瞩目的电脑操作（Computer use）、Skills API 以及 Files API 在 Claude Platform 上全面开放，迎来全面可用(Generally Available)阶段。此次更新不仅重磅推出了全新的浏览器使用工具(Browser use tool)，还对各项底层能力进行了深度优化，旨在赋能企业轻松构建能够真正操作软件、运用团队专业知识并输出成品的生产级智能体(Production Agents)。 在核心技术与能力升级方面，电脑操作功能迎来了重大突破。更新后的工具允许 Claude 在单个模型调用轮次中执行多项连续动作，大幅缩</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30522</guid>
+      <pubDate>Fri, 21 Aug 2026 02:58:00 +0000</pubDate>
     </item>
     <item>
-      <title>CounterPoint预估：智能眼镜与戒指将成未来增长最快品类</title>
-      <link>https://news.aibase.com/zh/news/30494</link>
-      <description>市场调查机构 CounterPoint Research 近日发布 最新 预测报告指出，在2026至2032年期间，全球消费级可穿戴设备的累计营收将突破1万亿美元大关，整体市场的年复合增长率预计将达到12%。 该机构首席分析师 Anshika Jain 指出，可穿戴设备的应用场景正在从传统的日常健身迅速延伸至预防性医疗领域。越来越多的消费者愿意为能够进行持续健康监测的高端设备支付更高价格，这也直接推动了整体营收的增长速度明显超越出货量的增速。 在具体的品类表现方面，智能眼镜预计将在2032年迎来爆发，届时其单品营收有望达到440亿美元，约占整个可穿戴设备总营收的五分之一。凭借内置的相机、麦克风</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30494</guid>
-      <pubDate>Thu, 20 Aug 2026 02:16:00 +0000</pubDate>
+      <title>千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线</title>
+      <link>https://news.aibase.com/zh/news/30523</link>
+      <description>阿里云千问AI平台（MaaS）近日更新模型服务矩阵，智谱旗舰大模型GLM-5.3、DeepSeek-V4-Pro正式版完成接入，配套API服务同步对外开放，开发者可快速调用模型能力。 本次上线的两款模型均聚焦编程与智能体核心应用场景。其中GLM-5.依托智谱 最新 技术迭代，大幅强化编程能力、长程任务执行能力与网络安全能力;DeepSeek-V4-Pro重点升级智能体交互能力，适配代码开发、多步骤复杂任务处理等需求。 目前千问AI平台已完成多品类主流模型聚合，覆盖文本生成、代码开发、语音处理、图像生成、视频生成五大赛道。平台已接入通义千问Qwen3.8-Max、Qwen3.8开源模型、Qwen</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30523</guid>
+      <pubDate>Fri, 21 Aug 2026 02:59:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI升级Codex安全防护，新增危险操作拦截与权限控制</title>
-      <link>https://news.aibase.com/zh/news/30495</link>
-      <description>OpenAI宣布升级旗下AI编程代理Codex的安全防护体系，通过多项安全措施降低代理在执行代码任务过程中误删文件、覆盖数据等潜在破坏性操作风险。 OpenAI团队成员Tibo近日在社交平台发文表示，公司针对近期收到的Codex破坏性操作报告进行了调查，发现主要风险集中在临时工作目录清理环节。部分问题源于系统变量复用，例如错误使用 $HOME 等变量导致清理操作指向真实用户目录;此外，部分操作在执行删除或覆盖前缺少充分路径校验，也增加了数据损坏风险。 针对上述问题，OpenAI已从多个层面加强防护。新版Codex要求代理在执行敏感操作前验证目标路径，并使用独立临时目录，避免依赖可能产生误导的系</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30495</guid>
-      <pubDate>Thu, 20 Aug 2026 03:14:00 +0000</pubDate>
+      <title>Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者</title>
+      <link>https://news.aibase.com/zh/news/30524</link>
+      <description>随着大模型向应用层和生产力的深度渗透，AI原生应用的开发门槛正在被彻底打破。xAI 近日正式宣布，其备受瞩目的应用构建功能 Grok Build 已全面结束早期测试，正式面向所有套餐用户开放，并全面覆盖网页端、iOS 以及 Android 移动端。 在核心功能体验上，Grok Build 展现出了 极高 的便捷性与直观性。用户只需在与 Grok 的日常对话中，用自然语言详细描述自己想要的应用、小游戏、网站或数据仪表盘，系统便能在对话界面中实时生成并运行完整版本。自7月份推出早期测试版以来，该功能经历了高速迭代，不仅大幅提升了生成速度，更彻底打通了从创意构思、内容发布到社群分享的完整闭环。 为了</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30524</guid>
+      <pubDate>Fri, 21 Aug 2026 03:08:00 +0000</pubDate>
     </item>
     <item>
-      <title>王兴兴首谈具身智能行业拐点：核心痛点在于大模型与真机如何完美对齐</title>
-      <link>https://news.aibase.com/zh/news/30496</link>
-      <description>刚刚完成科创板上市的宇树科技创始人王兴兴，在2026世界机器人大会主论坛上发表了上市后的首场公开演讲，围绕具身智能行业的未来发展拐点抛出了 最新 判断。 在她看来，人形机器人产业若想真正迎来全面爆发，前提是跨越属于具身智能的“ChatGPT时刻”。这一关键临界点有着非常清晰的衡量标准:当机器人置身于80%的陌生场景中时，仅凭人类的语音或文字指令，就能够独立且顺利地完成大约80%的任务。 关于这一历史性转折点的到来时间，王兴兴给出了理性预判，认为快则2到3年，慢则5到10年，行业有望正式抵达该拐点。 然而，阻碍具身智能迈向“ChatGPT时刻”的 最大 核心挑战，目前已经不再是机器人的运动硬件本</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30496</guid>
-      <pubDate>Thu, 20 Aug 2026 03:22:00 +0000</pubDate>
+      <title>从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴</title>
+      <link>https://news.aibase.com/zh/news/30525</link>
+      <description>近日，豆包工作任务模式迎来重磅更新，技能、连接器、工作伙伴三大功能全新上线，豆包协同办公能力再度升级。目前平台已上架超200个技能与连接器，同时支持用户自主创建专属技能，搭建标准化工作流。 技能功能支持沉淀个性化工作方法。撰写项目周报时确定的格式、内容规范，能够一键保存为个人技能，实现每周重复复用，固化成熟工作流程。连接器打通豆包与各类办公工具，以飞书连接器为例，接入后可直接在应用内查找资料、处理任务，无需反复切换页面、手动上传文件。 工作伙伴提供多领域专业智能体，覆盖数据分析、内容策划、科研、金融等方向。用户可按需组建工作小队，分工协作完成复杂任务。例如制作数据调研报告时，联动数据、研究、设</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30525</guid>
+      <pubDate>Fri, 21 Aug 2026 05:49:00 +0000</pubDate>
     </item>
     <item>
-      <title>75亿美元！Stripe正式收购模型路由平台OpenRouter</title>
-      <link>https://news.aibase.com/zh/news/30497</link>
-      <description>全球支付巨头 Stripe 近日正式确认，已敲定对知名 AI 模型路由与网关平台 OpenRouter 的收购交易。知情人士透露，此次交易的最终金额高达约75亿美元，远超其在今年5月完成1.13亿美元 B 轮融资时的13亿美元估值，实现了超过5倍的惊人飙升。 作为当前 AI 领域炙手可热的底层基础设施，OpenRouter 为开发者提供了一个高效的统一入口，能够根据用户的实际需求、任务复杂度、价格及可靠性，将请求动态路由至数百个不同的 AI 模型。目前，该平台已接入超过400至500个主流模型，拥有超过1000万全球用户，每日处理的 token 数量突破10万亿大关，其庞大的流量与调度数据在行</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30497</guid>
-      <pubDate>Thu, 20 Aug 2026 05:47:00 +0000</pubDate>
+      <title>SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析</title>
+      <link>https://news.aibase.com/zh/news/30526</link>
+      <description>SAP近日与职业电竞俱乐部Team Liquid联合开发一款AI语音智能应用，旨在将比赛和训练中的队内语音转化为结构化赛事数据，为职业战队分析比赛、优化战术并提升选手竞技表现提供支持。 该应用可自动接收比赛或训练产生的多声道音频，并精准分离不同选手的独立语音流。在此基础上，系统进一步完成语音转写、发言人识别和情绪分析，将原本零散、无序的队内通话转化为按照比赛时间轴对应的结构化数据，并为每段内容生成完整时间戳。 通过对语音内容与赛事进程进行关联，战队能够更系统地分析选手在不同比赛阶段的沟通方式、情绪变化及决策过程，从而辅助复盘和训练。此次合作也体现出AI语音技术正从通用转写向专业场景的数据分析延</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30526</guid>
+      <pubDate>Fri, 21 Aug 2026 06:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”</title>
-      <link>https://news.aibase.com/zh/news/30498</link>
-      <description>宇树科技创始人兼CEO、CTO王兴兴在2026世界机器人大会（WRC2026）主论坛发表演讲时表示，具身智能正在接近类似“ChatGPT时刻”的产业临界点，预计最快还需2至3年，较慢情况下可能需要5年至10年实现突破。 就在演讲前一天，宇树科技刚登陆上海证券交易所科创板，上市首日收盘价较发行价上涨460%。王兴兴表示，判断具身智能进入产业爆发阶段的标准并非单一场景展示，而是在80%的陌生环境中，机器人通过语音或文字指令能够完成约80%的任务。 王兴兴指出，目前人形机器人 最大 的技术瓶颈在于AI模型与真实物理世界之间的对齐问题。机器人在经过充分训练的固定场景中可以达到较高成功率，但当物品、环境</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30498</guid>
-      <pubDate>Thu, 20 Aug 2026 05:49:00 +0000</pubDate>
+      <title>商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑</title>
+      <link>https://news.aibase.com/zh/news/30527</link>
+      <description>商汤科技正式宣布开源全新的轻量级、原生统一多模态大模型 SenseNova U1.5Lite。作为一款参数量为8B 的轻量化模型，它在多项核心视觉任务中展现出了超越同量级模型的实力，甚至在部分复杂排版与文字渲染上达到了媲美超大规模商业模型的交付水平。 SenseNova U1.5Lite 原生支持3至4K 的上下文长度，能够同时处理主体、数量、空间关系、文字、布局以及风格等多重约束，从而显著提升复杂视觉任务执行时的稳定性。 在具体功能特性方面，该模型带来了多项核心升级。首先是更高质量的视觉生成，显著改善了整体构图、色彩、材质、光影、真实感和局部细节，有效避免了传统模型常见的局部正确但整体完成度</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30527</guid>
+      <pubDate>Fri, 21 Aug 2026 06:17:00 +0000</pubDate>
     </item>
     <item>
-      <title>快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位</title>
-      <link>https://news.aibase.com/zh/news/30499</link>
-      <description>随着物流行业的全面智能化升级，一线员工的职业转型正在迎来历史性突破。京东物流近日正式宣布，首批经过系统培训的一线快递员、仓管员和质检员已成功完成考核，正式以“机器人维修工程师”的新身份上岗。 此次培训在京东服务涿州技术认证培训中心全面展开。为了帮助一线员工实现从传统体力向高技术岗位的跨越，京东充分尊重员工的自主学习意愿，为其提供数十天的脱产集中培训。培训内容紧密贴合产业前沿，涵盖了机器人产业发展趋势、精密机械构造以及规范化的故障维修流程。不仅如此，京东还联合国内绝大多数头部机器人企业，引入了多款 最新 样机供学员进行现场拆解与实操演练，确保学员在真实场景中快速掌握核心技能。 参与培训的一线员工</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30499</guid>
-      <pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
+      <title>LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍</title>
+      <link>https://news.aibase.com/zh/news/30528</link>
+      <description>日前，Liquid AI 与 Hugging Face 正式发布了 LFM2.5系列三款核心模型的 DSpark 草稿模型检查点，包括 LFM2.5-1.2B-Instruct、LFM2.5-2.6B 以及 LFM2.5-8B-A1B。通过引入全新的投机解码路径，该技术在完全不改变模型输出质量的前提下，大幅提升了推理吞吐量。 核心性能提升与应用表现 在实际测试中，DSpark 草稿模型展现出了亮眼的加 速效 果。在 GPU 端，整体吞吐量 最高 可提升3.18倍;在端侧设备上， 最高 提升幅度也能达到2.87倍。 特别是在端侧智能体（Agent）推理场景中，LFM2.5-2.6B 的函数调用延</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30528</guid>
+      <pubDate>Fri, 21 Aug 2026 06:34:00 +0000</pubDate>
     </item>
     <item>
-      <title>快手二季度营收355亿元，可灵AI商业化收入同比增长超200%</title>
-      <link>https://news.aibase.com/zh/news/30500</link>
-      <description>快手科技发布2026年第二季度财报显示，公司二季度总收入达到355亿元，核心商业收入同比增长7.4%，经调整净利润达到39亿元，净利润率为11%。同期，快手应用平均日活用户达到4.12亿，月活用户达到7.97亿。 AI业务成为快手增长的重要驱动力。其中，可灵AI二季度收入超过8.5亿元，同比增长超过200%。截至6月，可灵AI全球用户突破1亿，覆盖224个国家和地区，企业客户接近5万家。 产品方面，可灵AI3.0系列模型推出原生4K视频直出功能，支持影视、广告等专业创作场景;可灵3.0Turbo进一步提升视频生成效率和音画同步能力，可灵MCP与CLI支持AI Agent批量调用，拓展自动化创作</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30500</guid>
-      <pubDate>Thu, 20 Aug 2026 06:24:00 +0000</pubDate>
+      <title>Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%</title>
+      <link>https://news.aibase.com/zh/news/30529</link>
+      <description>企业在构建人工智能系统时，往往面临一个痛点：核心业务数据和专有知识由于涉及机密，通常被隔离在各种长篇密集文档、金融申报文件、法律合同以及政府记录之后。传统的一次性检索增强生成（RAG）由于只能检索固定文本块且缺乏推理迭代能力，面对这类结构复杂的长文档和跨来源对比任务时往往力不从心。为了解决这一行业难题，Mistral AI 正式推出了全新升级的 Agentic Search。该技术引入了多步骤检索循环机制，不仅打破了传统方法的局限，还让 AI 系统在处理企业级复杂文档查询时实现了质的飞跃。 五大核心工具协同，从“机械检索”迈向“主动推理” 传统 RAG 的核心缺陷在于“只检索、不推理、无法迭代</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30529</guid>
+      <pubDate>Fri, 21 Aug 2026 06:41:00 +0000</pubDate>
     </item>
     <item>
-      <title>IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者</title>
-      <link>https://news.aibase.com/zh/news/30501</link>
-      <description>随着越来越多的企业开始将AI应用于客户服务、运营管理等核心业务场景，企业AI安全风险也呈现出更加复杂、多元的发展趋势。除传统的大模型越狱、敏感信息泄露等风险外，工具滥用、智能体越权执行、多智能体协同攻击等新型风险不断出现。 8月20日，国际数据公司IDC发布《IDC MarketScape: 中国生成式AI安全评估平台2026年厂商评估》报告，聚焦中国生成式AI安全评估平台市场，对主流厂商进行全面评估，其中蚂蚁数科凭借其在生成式AI安全评估领域的技术能力、产品成熟度以及在金融、医疗、制造业的深度积累与规模化落地成果，成功入选 领导者 类别。 据了解，针对生成式AI产生的新型安全风险，蚂蚁数科蚁</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30501</guid>
-      <pubDate>Thu, 20 Aug 2026 06:29:00 +0000</pubDate>
+      <title>阿里开源 Qwen-UI-Agent：真机多模态基座模型登场</title>
+      <link>https://news.aibase.com/zh/news/30530</link>
+      <description>阿里巴巴正式推出了以真实世界为中心的 GUI 智能体基座模型 Qwen-UI-Agent。该模型全面覆盖了移动端、电脑端、网页端以及深度搜索环境，旨在打破传统模拟测试的局限，让模型真正具备在复杂真实设备上无缝操作的能力。 全面超越行业旗舰的综合性能 在各项 权威 测试与实际环境中，Qwen-UI-Agent 展现出了强劲的实力: 移动端表现 :在 MobileWorld 测试中斩获82.1% 的高分，领先多个主流国际旗舰模型;而在自建的百台真机基准 MobileWorld-Real 上，成功率高达92.2%，在 Android Daily 中更是接近满分。 电脑端表现 :在 OSWorld-V</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30530</guid>
+      <pubDate>Fri, 21 Aug 2026 07:10:00 +0000</pubDate>
     </item>
     <item>
-      <title>宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售</title>
-      <link>https://news.aibase.com/zh/news/30502</link>
-      <description>机器人赛道近期动作频频。宇树科技于8月20日正式宣布推出全新仿生7轴灵巧机械臂R1，起售价仅为9900元。这款产品的问世，将高性能多轴机器人的门槛进一步拉低，引发了行业与开发者的广泛关注。 在硬件设计与性能规格方面，R1机械臂采用七轴联动设计，具备类人的高冗余自由度，其重复定位精度可达约0.1毫米。该机械臂各关节 最大 运动速度均超过180°/s，搭载灵巧手状态下的 最大 臂展为650毫米，额定负载为2公斤。其七轴结构赋予了设备在狭小空间内的灵活迂回作业能力，末端执行器可实现多角度精准 adjustment，充分兼顾了运动柔性与路径规划需求。 整机设计同样亮点十足。R1自重仅为5.5公斤，采用</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30502</guid>
-      <pubDate>Thu, 20 Aug 2026 06:31:00 +0000</pubDate>
+      <title>OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放</title>
+      <link>https://news.aibase.com/zh/news/30531</link>
+      <description>OpenAI近日进一步开放Codex Harness相关核心能力，将驱动Codex不同产品形态的智能体运行框架向开发者开放。Codex Harness是Codex背后的核心Agent运行环境，负责连接模型、用户与工具，并管理任务执行、上下文、会话及代码操作等流程。OpenAI此前已将Codex CLI及相关核心代码开源，并持续完善Harness和App Server能力。 从架构来看，Codex Harness并非单纯的代码生成工具，而是完整的Agent执行框架。其核心包括Agent Loop、线程生命周期与持久化、配置及身份认证、工具执行和扩展机制等。通过Codex App Server，开</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30531</guid>
+      <pubDate>Fri, 21 Aug 2026 07:26:00 +0000</pubDate>
     </item>
     <item>
-      <title>MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑</title>
-      <link>https://news.aibase.com/zh/news/30503</link>
-      <description>8月20日，AI企业MiniMax正式发布生产力工具MiniMax Design，标志着多模态内容创作从“操作像素”迈向“操作语义”的新阶段。该产品基于MiniMax原生多模态视频模型H3构建，旨在将前沿模型能力转化为可落地的商业生产力。 MiniMax Design的核心突破在于交互逻辑的转变。用户无需精确指定每个像素的变化，仅需通过自然语言表达创作意图，系统即可自动拆解任务、调用模型能力，完成从素材生成到成片交付的全流程。其底层依托H3模型强大的多模态理解与参考控制能力，能够处理复杂的项目级上下文，包括剧本、角色资产、历史版本及用户风格偏好。 目前，该工具已展现出在商业场景的实用价值:品牌</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30503</guid>
-      <pubDate>Thu, 20 Aug 2026 07:34:00 +0000</pubDate>
+      <title>韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI</title>
+      <link>https://news.aibase.com/zh/news/30533</link>
+      <description>韩国互联网巨头Kakao8月21日宣布，公司董事会已通过拆分方案，计划设立新公司“Kakao AI”，由其聚焦KakaoTalk及人工智能业务;现有公司则保留并更名为“Kakao X”，重点承担投资、金融科技、内容和出行业务。Kakao表示，此次重组旨在让两大业务建立独立运营体系，加快AI战略落地并提升资本配置效率。 按照方案，两家公司将按照净资产账面价值以36%和64%的比例进行拆分，现有股东将按持股比例获得两家公司的股份。拆分后的Kakao AI将被定位为“AI核心公司”，重点依托拥有约5000万用户的KakaoTalk推进AI业务。公司计划将KakaoTalk从传统即时通信工具升级为能够</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30533</guid>
+      <pubDate>Fri, 21 Aug 2026 08:27:00 +0000</pubDate>
     </item>
     <item>
-      <title>通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑</title>
-      <link>https://news.aibase.com/zh/news/30504</link>
-      <description>通义千问（Qwen）官方近日公开感谢 Unsloth 团队，对其发布的 Qwen3.8-27B GGUF 量化版本表示高度认可，并称该版本“更小更聪明”。这一互动迅速在开源社区引发热议，进一步凸显了本地大模型部署门槛的持续降低。 官方互动:通义千问致谢 Unsloth 通义千问官方明确表示，对 Unsloth 的出色工作表示衷心感谢，认为这对社区是 极好 的消息，并鼓励大家尝试这一“更小更聪明”的 Qwen3.8-27B 版本。此举体现了开源模型团队与量化优化方的紧密协作。 Unsloth Dynamic V3量化重磅升级 Unsloth 最新 推出的 Dynamic V3（v3.0）量化方案</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30504</guid>
-      <pubDate>Thu, 20 Aug 2026 07:57:00 +0000</pubDate>
+      <title>国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型</title>
+      <link>https://news.aibase.com/zh/news/30534</link>
+      <description>8 月 21 日下午，科大讯飞在 2026 年半年度业绩说明会上释放了一个重磅消息：公司总裁吴晓如透露，科大讯飞将在今年全球 1024 开发者节上，正式推出基于全国产算力的全新主力通用大模型。 作为行业备受瞩目的技术演进节点，这一全新大模型的落地节奏已经明确。按照规划，科大讯飞将在今年 8 月底率先推出阶段性版本，让市场和开发者提前体验其技术实力。 在核心性能与指标表现上，该模型展现出了极强的竞争力。据官方披露，即将推出的全新主力通用大模型，不仅在代码能力和Token性价比上整体达到了国内 第一 梯队水平，更在全国产算力训练的通用大模型中，各项关键指标继续保持国内领先地位。这一突破不仅意味着国</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30534</guid>
+      <pubDate>Fri, 21 Aug 2026 09:27:00 +0000</pubDate>
     </item>
     <item>
-      <title>小米人形机器人首次亮相，已成功注册多枚小米铁大商标</title>
-      <link>https://news.aibase.com/zh/news/30506</link>
-      <description>近日，2026世界机器人大会（WRC2026）上，小米新一代人形机器人“铁大” 首次 亮相展会。该款机器人身高约1.70米，体重66公斤，全身拥有66个自由度，其中一半集中在手部。 企查查APP显示，小米科技有限责任公司已申请注册多枚“小米铁大”商标，国际分类涉及医疗园艺、健身器材、设计研究、通讯服务等，当前商标均已注册成功。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30506</guid>
-      <pubDate>Thu, 20 Aug 2026 08:40:00 +0000</pubDate>
+      <title>雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆</title>
+      <link>https://news.aibase.com/zh/news/30535</link>
+      <description>雷鸟创新（RayNeo）在2026雷鸟AI眼镜新品发布会上推出全新iO系列， 首款 产品雷鸟iO定位“人类增强AI眼镜”，售价2499元，首发到手价1996元起，支持0至1000度近视配镜，已在京东、天猫、抖音及线下眼镜渠道开售。Counterpoint与IDC数据显示，雷鸟创新2026年 第一 季度位居中国及全球AR眼镜出货量 第一 。 雷鸟iO采用双目显示架构和蓝湖光波导，OC区域透过率93%，非显示区超过98%，入眼亮度1800尼特，支持等效33英寸画面及DC调光。整机采用镁铝合金前框和钛合金镜腿，重量34克，配备体积小于一颗红豆的“萤火光引擎Nano”。产品支持Smart Crown智</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30535</guid>
+      <pubDate>Fri, 21 Aug 2026 09:33:00 +0000</pubDate>
     </item>
     <item>
-      <title>美团搜索 3.0如何用大模型表征重构本地生活搜索底座？</title>
-      <link>https://news.aibase.com/zh/news/30507</link>
-      <description>随着大语言模型（LLM）技术的深度演进，搜索引擎正经历第三次范式跃迁，从传统的关键词文本匹配，加速迈向以复杂意图理解与认知决策为核心的3.0时代。近日，美团技术团队发表深度技术解析，全面披露了美团搜索3.0在服务零售排序场景中的三次迭代演进，揭示了大模型语义表征(Semantic Representation)在本地生活复杂场景下的落地路径与核心价值。 一、 破局服务零售:从传统词面匹配到大模型语义重构 服务零售与商品零售在业务形态上有着本质区别。相较于标准化程度较高的商品零售，美团所处的服务零售与本地生活场景呈现出品类繁多、搜索需求类型多元（交易型、信息型、留资型并存）、供给非标准化程度 极</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30507</guid>
-      <pubDate>Thu, 20 Aug 2026 09:30:00 +0000</pubDate>
+      <title>长眼！DeepSeek Flash视觉模型突发更新，支持多模态</title>
+      <link>https://news.aibase.com/zh/news/30536</link>
+      <description>8月21日消息，DeepSeek对其大模型工具链进行了高强度迭代，正式将DeepSeek Harness升级至0.1.1-rc.1版本。此次更新 最大 的亮点，是在原有的DeepSeek V4Flash及V4Pro模型基础之上，重磅新增了全新的视觉模型体验版——V4Flash Vision-Exp。 就在前一日发布的v0.1.0-rc.8版本中，DeepSeek Harness已经率先打通了多模态核心能力。通过支持配置原生图片请求，系统的/goal、/plan等关键指令正式实现图文混合输入。这意味着，用户现在可以直接将工作截图和具体需求同时发送，让AI智能体（Agent）直接“看图干活”，大幅</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30536</guid>
+      <pubDate>Fri, 21 Aug 2026 09:50:00 +0000</pubDate>
     </item>
     <item>
-      <title>DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向</title>
-      <link>https://news.aibase.com/zh/news/30508</link>
-      <description>发布仅满7天，开源智能体工具 DeepSeek Harness 便迎来了全新版本升级，正式引入增强的多模态支持。通过此次更新，DeepSeek 模型适配器已支持配置启用原生图片请求，引发了外界对于 DeepSeek 自家视觉模型即将发布的广泛猜想。 伴随着底层架构的完善，此次更新在交互体验上带来了多项实用改进。此前仅限于纯文本传输的 /goal、/plan 等命令，现在全面支持带图发送;同时，@ 的引用范围也从单纯的文件扩展到了历史会话中。这意味着开发者在单次提问时，可以同时挂载截图、本地文件与过往对话内容。为了保障复杂工作流的稳定性，新版本不仅实现了 MCP 与 ACP 对持久化图片附件的支</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30508</guid>
-      <pubDate>Thu, 20 Aug 2026 09:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>全球下载量破十亿大关！Google Gemma开源大模型火爆出圈，从太空探索一路杀进医学前沿</title>
-      <link>https://news.aibase.com/zh/news/30509</link>
-      <description>Google DeepMind 近日宣布，旨在帮助开发者在任何地方构建负责任、创新型 AI 应用的 Gemma 系列模型，其全球下载量已正式突破10亿次大关。数据显示，在过去两年中，开发者们发布了超过十万个 Gemma 模型变体，共同构建了一个繁荣的创新生态系统——“Gemmaverse”。 凭借 极高 的灵活性，Gemma 模型能够部署在从本地设备、边缘基础设施甚至太空等各种复杂环境中。目前，Gemma 已正式走向外太空，美国宇航局（NASA）、Satlyt 和 Starcloud 等团队正在轨道上直接运行该模型，用于支持星载图像分析、优化稀缺的下行带宽以及路由星际通信，充分证明了其在极端受</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30509</guid>
-      <pubDate>Fri, 21 Aug 2026 00:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mac版ChatGPT深度接管苹果信息，古尔曼直言将直接对标Siri生态优势</title>
-      <link>https://news.aibase.com/zh/news/30510</link>
-      <description>OpenAI近日在官方渠道正式宣布，针对macOS版ChatGPT应用程序进行了一项重磅升级，全面新增了对苹果原生“信息”应用的深度控制与交互能力。 在核心功能方面，升级后的ChatGPT在获得用户明确授权后，能够直接在Mac本地读取、撰写和发送短信，并支持对海量聊天历史进行智能搜索以及快速生成对话摘要。OpenAI强调，该功能在设计上并不会对用户的全部消息进行全局索引，整个运行过程高度依赖用户的主动授权与本地系统集成。 为了顺利开启这一全新的联动体验，用户需要在应用内以及苹果操作系统的相关隐私设置中完成多项必要授权。在初次设置时，ChatGPT会弹窗说明将访问电脑本地保存的消息历史，同时用户</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30510</guid>
-      <pubDate>Fri, 21 Aug 2026 00:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI企业市场份额反超Anthropic，AI支出持续扩张</title>
-      <link>https://news.aibase.com/zh/news/30511</link>
-      <description>企业信用卡与费用管理平台Ramp 最新 数据显示，OpenAI在美国企业AI市场的份额已重新超过Anthropic。数据显示，今年5月Anthropic曾以41%的市场份额领先OpenAI的39%;截至7月，Anthropic份额接近44%，OpenAI则接近40%。Ramp经济学家Ara Kharazian表示，进入第三季度以来，OpenAI在该领域的增长速度已超过Anthropic。 该数据覆盖超过7万家美国企业，这些企业通过Ramp的账单支付及企业信用卡产品产生数十亿美元支出，客户以科技行业企业为主。不过，Ramp未披露具体支出金额，且数据并不能代表整个企业AI市场，未涵盖使用美国运通等</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30511</guid>
-      <pubDate>Fri, 21 Aug 2026 01:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grok出现异常故障，部分用户遭遇大段乱码回复</title>
-      <link>https://news.aibase.com/zh/news/30512</link>
-      <description>xAI旗下聊天机器人Grok近日出现异常故障，部分用户在使用Grok.com时遭遇持续生成的乱码和无意义文本。受影响用户表示，在要求Grok生成PDF后，模型曾连续输出多段无法理解的内容，部分回复还出现指向强化学习研究网站的来源链接。 据报道，受影响用户主要使用Grok Lite，最早于周三上午发现问题。测试未能复现，表明故障可能仅影响少量用户。部分用户反馈，刷新或重新开启会话通常能够恢复正常，但也有人多次刷新后仍持续收到乱码。该问题目前似乎仅出现在Grok.com的直接查询中，X.com上的Grok未受到影响。 Grok官方账号随后确认，这是“罕见的临时生成故障”，并表示重新开始聊天或重新生</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30512</guid>
-      <pubDate>Fri, 21 Aug 2026 01:10:00 +0000</pubDate>
+      <title>字节Seed再调整:预训练、强化学习与Agent研发全面重构</title>
+      <link>https://news.aibase.com/zh/news/30537</link>
+      <description>据媒体报道，字节跳动大模型部门Seed已于上周完成新一轮组织调整，其中Seed Foundation Model新设四个一级部门，负责人均向吴永辉汇报。此次调整进一步整合预训练数据、强化学习及模型后训练资源，并将B端与C端产品模型能力分开布局。（Sina Finance） 其中，Pretrain Data由李成刚负责，整合此前分散在文本模型、编程、视觉理解和语音等方向的预训练数据团队，统一负责新Omni模型的多模态数据及超大模型预训练数据。Horizon RL由唐晟宇负责，整合后训练、推理和视觉理解等团队，重点推进强化学习，以提升模型基础智能上限。 Product Posttrain-Work</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30537</guid>
+      <pubDate>Fri, 21 Aug 2026 09:58:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
