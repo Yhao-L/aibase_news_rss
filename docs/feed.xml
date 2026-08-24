@@ -8,174 +8,62 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 22 Aug 2026 01:10:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 01:12:45 +0000</lastBuildDate>
     <item>
-      <title>移动端基准全面超越GPT与Claude！阿里发布Qwen-UI-Agent，开启GUI智能体新纪元</title>
-      <link>https://news.aibase.com/zh/news/30513</link>
-      <description>阿里巴巴于8月20日正式发布了全新的GUI智能体基座模型Qwen-UI-Agent。该模型全面覆盖移动端、电脑端、网页端及深度搜索（DeepSearch）环境，并在多项核心图形用户界面基准测试中全面对标并超越业界多款旗舰模型。 在具体的基准表现方面，Qwen-UI-Agent在移动端展现出强劲实力。在MobileWorld基准上得分为82.1%，分别领先GPT-5.6Sol和Claude Opus4.8达12.0和14.6个百分点;在真实环境基准MobileWorld-Real上取得了92.2%的成绩，超越了Gemini3.1Pro、Claude Opus4.8以及GPT-5.6Sol;在An</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30513</guid>
-      <pubDate>Fri, 21 Aug 2026 01:21:00 +0000</pubDate>
+      <title>Keep 2026半年报出炉，自研大模型加速商业化落地</title>
+      <link>https://news.aibase.com/zh/news/30538</link>
+      <description>运动科技平台Keep正式交出了2026年半年度财务报告。财报数据显示，公司在今年上半年实现营业收入8.25亿元，经调整净利润达到588万元，实现了稳健的经营表现。 在核心用户运营数据方面，平台的商业化变现能力和用户黏性持续增强。其中，每用户平均收益（ARPU）同比增长21.3%，月活跃用户(MAU)的月均运动时长也实现了15.3%的增长，反映出用户对平台内容的深度参与。 人工智能战略的落地成为本期财报的核心亮点。随着自研的Keepace.ai大模型持续融入App的核心应用场景，垂直领域的AI功能正在全面提速，同时公司也在积极向B端市场探索技术能力输出。 在自有品牌健身产品板块，业务规模实现显著</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30538</guid>
+      <pubDate>Mon, 24 Aug 2026 00:44:00 +0000</pubDate>
     </item>
     <item>
-      <title>宇树科技推进物理AI模型自进化，王兴兴披露最新预研方向</title>
-      <link>https://news.aibase.com/zh/news/30514</link>
-      <description>宇树科技创始人、董事长王兴兴在 2026 世界机器人大会主论坛上透露，公司正推进物理AI机器人模型自进化，并探索通过AI大模型自动完成机器人控制代码开发。宇树科技登陆科创板次日，王兴兴表示，公司计划以前沿AI大模型为核心，自定义规则、经验框架及约束工具，让模型自主检索 最新 学术论文、研究成果和开源方案，自动生成机器人控制代码，再通过模型自评与人工评审进行验证。 王兴兴指出，基础模型能力提升将推动自进化系统持续迭代。该闭环还可将仿真数据、真实世界数据和人类行为数据纳入训练流程，随着机器人部署规模扩大，测试数据与评价指标持续积累，有望显著提升机器人开发和迭代效率。 大会现场，宇树科技通过多机型协</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30514</guid>
-      <pubDate>Fri, 21 Aug 2026 01:22:00 +0000</pubDate>
+      <title>AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作</title>
+      <link>https://news.aibase.com/zh/news/30539</link>
+      <description>在人工智能技术狂飙突进的今天，大模型厂商不仅在产品性能上展开军备竞赛，更开始向大众普及与AI协作的核心心智。知名AI企业Anthropic近期正式宣布，将原本专属于内部新员工的入职培训平台 Claude Academy 向公众全面免费开放。 作为一套系统化的学习资源库，该平台共包含 289 个学习资源，内容覆盖面极广，从底层的AI基础知识，到Claude Code、API调用、智能体（Agents）开发，再到生产级别的系统部署均有涉猎。用户只需注册一个免费的Claude账号即可登录学习，并在顺利完成课程后获得官方颁发的、可公开验证的结业徽章。 与市面上偏向操作技巧的泛AI教程不同，该平台的核心</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30539</guid>
+      <pubDate>Mon, 24 Aug 2026 00:46:00 +0000</pubDate>
     </item>
     <item>
-      <title>腾讯新一代大模型Hy4将发布，将成WorkBuddy核心引擎</title>
-      <link>https://news.aibase.com/zh/news/30515</link>
-      <description>继此前财报会议公开预告后，腾讯新一代大模型Hy4 的内部测试界面近日正式曝光，这意味着其距离正式发布已为期不远。从泄露的模型选择界面来看，腾讯延续了“自研模型与集成优秀开源方案并行”的既定战略，共提供了三项核心选择：定位为专家级大模型的Hy4、标注为新升级且适用大部分场景的Hy3，以及专注于推理与理解的DeepSeek。 作为此次升级的焦点，Hy4 的整体定位明显高于前代Hy3，被赋予了解决更复杂业务与技术难题的专家级能力。在技术演进路径上，行业普遍推测其性能的大幅提升可能源于两个方向：一是将参数规模直接迈向 1 万亿级别以追平行业旗舰水平；二是在现有Hy3 架构基础上进一步深度强化RL（强化</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30515</guid>
-      <pubDate>Fri, 21 Aug 2026 01:24:00 +0000</pubDate>
+      <title>专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议</title>
+      <link>https://news.aibase.com/zh/news/30540</link>
+      <description>OpenAI本周正式推出了面向年轻用户的ChatGPT青少年版，通过年龄识别机制对部分功能进行限制。然而，这一新版本的推出并未迎来一片叫好，反而引发了多名儿童安全专家对其次安全机制透明度与实际效果的质疑。 多位来自儿童安全与评估领域的专家指出，在向广大家长和青少年推荐之前，该系统必须接受大量独立测试，OpenAI也亟需提高透明度，详细说明其安全机制的具体运作方式。来自Common Sense Media的罗比·托尼认为，虽然OpenAI做出了诸多重要承诺，但必须拿出实打实的证据来证明这些功能的有效性。 儿童网络安全倡议组织Fairplay执行董事乔什·戈林则表达了更为严厉的担忧。他指出，尽管纸</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30540</guid>
+      <pubDate>Mon, 24 Aug 2026 00:51:00 +0000</pubDate>
     </item>
     <item>
-      <title>苹果音乐将强制标注AI生成内容，音乐平台加速治理AI“垃圾信息”</title>
-      <link>https://news.aibase.com/zh/news/30516</link>
-      <description>苹果计划于2026年晚些时候要求Apple Music内容提供商，为实质性使用AI生成的音乐添加AI透明度标签，意味着此前自愿披露的机制将转向强制执行。苹果于2026年3月推出AI透明度标签，目前标签尚未向终端用户公开，但公司已表示希望尽可能向听众提供相关信息。 此次调整是苹果治理AI生成音乐滥用的一部分。苹果表示已开发内部工具监测音乐流，识别AI生成歌曲、垃圾内容和身份冒用，并可针对篡改播放量的AI歌曲采取下架措施。2025年，苹果还重新分配约20亿次被操纵流媒体播放产生的版税，将相关资金转入艺术家和唱片公司的分配池。 苹果高管Oliver Schusser此前透露，上传至Apple Mus</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30516</guid>
-      <pubDate>Fri, 21 Aug 2026 01:29:00 +0000</pubDate>
+      <title>哈佛商学院引入AI虚拟导师，699美元创业训练营上线</title>
+      <link>https://news.aibase.com/zh/news/30541</link>
+      <description>哈佛商学院正将AI虚拟形象引入创业者训练营HBS Foundry，通过数字化导师为学员提供个性化反馈。该项目为期8周，费用699美元，每周提供与真人导师的直播课程，同时在模拟路演和董事会会议环节，由AI虚拟形象进行指导与反馈。这些虚拟形象由AI初创公司HeyGen开发。 据《纽约时报》报道，记者莎拉·凯斯勒曾使用飞桥资本联合创始人杰夫·巴斯冈的AI虚拟形象进行创业推介。体验中，虚拟巴斯冈对其“香蕉版Uber”方案提出反馈，但数字形象被指存在明显僵硬的笑容。 项目主管凯瑟琳娜·林格斯表示，团队最初设想的AI功能更接近聊天机器人，但试用版推出后，学生希望获得更具引导性的互动体验。尽管部分大学生对A</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30541</guid>
+      <pubDate>Mon, 24 Aug 2026 00:55:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元</title>
-      <link>https://news.aibase.com/zh/news/30517</link>
-      <description>顶级 AI实验室和企业对高质量训练数据的需求持续攀升，推动数据标注初创公司快速增长。成立仅四年的Micro1，据知情人士透露，过去8个月年化营收从1亿美元增至5亿美元。公司通常保留合同收入的60%至70%，由此计算年净收入约1.5亿至2亿美元。 目前Micro1规模仍低于Mercor和Handshake，后两者年化总收入今年分别达到20亿美元和10亿美元，但Micro1的增长显示，AI训练数据市场正形成足以支撑多家公司的巨大需求。部分研究人员甚至预计，未来AI在数据上的支出可能达到与算力相当的规模。 Micro1正在通过自动生成视频描述等方式扩大合成数据生产，部分数据还可重复出售给多个客户，使</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30517</guid>
-      <pubDate>Fri, 21 Aug 2026 01:33:00 +0000</pubDate>
+      <title>得州州长阿博特：AI 数据中心遭反对，是行业"自掘坟墓"</title>
+      <link>https://news.aibase.com/zh/news/30542</link>
+      <description>得州州长阿博特周日做客 ABC《本周》节目时称，美国民众对 AI 数据中心的尖锐批评"理应如此"。他直言，科技公司"基本上是在为自己造成的问题自掘坟墓，所以才遭到应得的抵制"——这些造价数十亿、占地数百英亩的设施，宣传攻势并未奏效，反在全美引发集结反对。 七成美国人反对，州长被迫转向 皮尤与盖洛普调查显示相当比例民众反对栖身数据中心附近，盖洛普更称七成美国人反对本地建设、其中近半强烈反对。批评者挤满规划会、发起请愿乃至诉讼。对阿博特这样的保守派政客，这是中期选举前的棘手现实：他须在选民意愿与特朗普全力押注 AI 之间走钢丝，后者正加速联邦审批、力挺 OpenAI 与甲骨文 5000 亿美元"星</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30542</guid>
+      <pubDate>Mon, 24 Aug 2026 00:59:00 +0000</pubDate>
     </item>
     <item>
-      <title>​ 突破千亿参数大关！“阳光清言”藏语大模型正式发布，拉萨市纳金数智研究院揭牌成立</title>
-      <link>https://news.aibase.com/zh/news/30518</link>
-      <description>8 月 20 日， 2026 全球数字经济大会拉萨分会场“数启纳金·智汇高原”主题论坛在拉萨盛大举行。在本次活动现场，拉萨市纳金数智研究院正式揭牌成立，备受瞩目的“阳光清言”通用藏语大模型也同步迎来了正式发布。 据了解，“阳光清言”通用藏语大模型的研发成果最早于 2025 年 11 月 19 日亮相，随后顺利通过了中央网络安全和信息化委员会办公室的备案。在经历近两个月的内部测试以及两个多月的公开测试后，该模型终于在今天正式发布。中国工程院院士、西藏大学教授、拉萨市纳金数智研究院发起人尼玛扎西在主旨报告中指出，“阳光清言”是基于强基座模型精心打造的千亿级参数藏语通用大模型。它不仅完美继承了强基座</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30518</guid>
-      <pubDate>Fri, 21 Aug 2026 01:39:00 +0000</pubDate>
+      <title>奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权</title>
+      <link>https://news.aibase.com/zh/news/30543</link>
+      <description>OpenAI CEO 奥尔特曼在 8 月 23 日播客中表示，担心 AI 终将被少数公司、模型或个人控制，使绝大多数消费者在技术如何塑造世界上没有发言权。他主张"正确做法是让人们深度掌控未来，社会和模型将共同进化"。 "用自由换安全"恐催生垄断 奥尔特曼点出另一重矛盾：他同样担忧 AI 挣脱人类控制，但对这种风险的恐惧反而会推动前一种局面的出现。他暗指 Anthropic CEO 阿莫迪——后者屡次警告 Mythos 模型对网安、金融、关键基础设施构成"非常真实威胁"，并主张政府加强监管，在奥尔特曼看来这便是"用大量自由换取安全"。 分歧落到"开放权重"路线：Anthropic 是上月 唯一 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30543</guid>
+      <pubDate>Mon, 24 Aug 2026 01:02:00 +0000</pubDate>
     </item>
     <item>
-      <title>Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效</title>
-      <link>https://news.aibase.com/zh/news/30519</link>
-      <description>Adobe正式推出Firefly音频生成工具，包括“生成音乐”“生成语音”和“生成音效”，用户可直接在Firefly桌面及移动Web应用中创建商业安全的音频内容，进一步将AI音频能力融入视频创作流程。 Adobe与伯克利音乐学院近期调查显示，100%的受访视频创作者、音乐人和营销人员会在视频中使用音乐，其中32.7%已使用AI生成音乐;43.2%将法律及版权风险、38.9%将授权费用视为主要障碍。 针对这些痛点，Firefly“生成音乐”可根据视频内容、氛围、节奏和时长生成原创且完全授权的音乐，并提供4个方案供用户编辑选择。Adobe表示，生成内容无需额外订阅即可用于商业作品。 “生成语音”可</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30519</guid>
-      <pubDate>Fri, 21 Aug 2026 01:43:00 +0000</pubDate>
+      <title>告别“虚火”！OpenAI紧急出手：Codex明天重置额度并修复用量Bug</title>
+      <link>https://news.aibase.com/zh/news/30544</link>
+      <description>针对近期大批用户反馈的用量消耗过快问题，OpenAI Codex &amp; ChatGPT 团队负责人蒂博·索蒂奥（Thibault Sottiaux）在社交平台上作出正式回应，宣布将于太平洋时间明天下午14: 00 左右，为所有订阅用户统一重置使用额度。 此次用量异常消耗的背后，OpenAI 专项排查团队锁定了三大具体技术诱因：首先是在长时间会话中频繁使用图片并经历多次上下文压缩时，底层运行效率出现了明显下降；其次是计算机历史记录（Computer History）在 P95 及更高分位数上的资源占用量居高不下；此外，原本用于自动生成对话标题的常规功能，其实际消耗也超出了预设预期。 为了彻底解决上</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30544</guid>
+      <pubDate>Mon, 24 Aug 2026 01:02:00 +0000</pubDate>
     </item>
     <item>
-      <title>Waymo定制出租车Ojai全面接入Gemini，开启车内智能交互新体验</title>
-      <link>https://news.aibase.com/zh/news/30520</link>
-      <description>作为全球自动驾驶领域的头部玩家，Waymo近日正式宣布了一项重磅升级:将谷歌旗下的Gemini人工智能助手深度整合进其专为网约车场景打造的定制自动驾驶出租车Ojai之中，标志着无人物流与出行正加速向高度智能化迈进。 在市场布局与运营进展方面，目前这款搭载了Gemini助手的全新Ojai车型已经在洛杉矶、菲尼克斯和旧金山向所有普通用户全面开放。按照官方规划，Waymo计划在今年晚些时候将该服务进一步拓展至丹佛、拉斯维加斯和圣迭戈等多个新城市。在出行选择上，未来乘客在呼叫网约车时，可以在全新的Ojai车型与现有的捷豹I-Pace自动驾驶出租车之间根据需求自由选择。 在核心功能与交互体验上，目前处于</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30520</guid>
-      <pubDate>Fri, 21 Aug 2026 01:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>皮尤研究:ChatGPT发布后，超三成网页出现AI创作痕迹</title>
-      <link>https://news.aibase.com/zh/news/30521</link>
-      <description>皮尤研究中心8月20日发布 最新 研究称，在ChatGPT于2022年11月发布后上线的网页中，超过三分之一已经出现AI撰写或大量编辑的迹象，显示生成式AI正在快速改变互联网内容生态。 研究基于Common Crawl网络档案库，覆盖近5年的约50万个英文网页，并利用Open Pangram技术检测AI创作痕迹。在2026年7月随机抽取的1万个网页中，约10%存在明显AI创作迹象。由于样本包含大量AI出现前发布的旧网页，皮尤进一步剔除早期页面后发现，在ChatGPT发布之后产生的网页中，约35%存在AI创作迹象。 从域名来看，.com网站出现AI创作痕迹的比例约为.edu和.gov网站的10倍</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30521</guid>
-      <pubDate>Fri, 21 Aug 2026 02:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Platform 正式上线Computer Use、Skills API 与 Files API</title>
-      <link>https://news.aibase.com/zh/news/30522</link>
-      <description>Anthropic近日正式宣布，其备受瞩目的电脑操作（Computer use）、Skills API 以及 Files API 在 Claude Platform 上全面开放，迎来全面可用(Generally Available)阶段。此次更新不仅重磅推出了全新的浏览器使用工具(Browser use tool)，还对各项底层能力进行了深度优化，旨在赋能企业轻松构建能够真正操作软件、运用团队专业知识并输出成品的生产级智能体(Production Agents)。 在核心技术与能力升级方面，电脑操作功能迎来了重大突破。更新后的工具允许 Claude 在单个模型调用轮次中执行多项连续动作，大幅缩</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30522</guid>
-      <pubDate>Fri, 21 Aug 2026 02:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线</title>
-      <link>https://news.aibase.com/zh/news/30523</link>
-      <description>阿里云千问AI平台（MaaS）近日更新模型服务矩阵，智谱旗舰大模型GLM-5.3、DeepSeek-V4-Pro正式版完成接入，配套API服务同步对外开放，开发者可快速调用模型能力。 本次上线的两款模型均聚焦编程与智能体核心应用场景。其中GLM-5.依托智谱 最新 技术迭代，大幅强化编程能力、长程任务执行能力与网络安全能力;DeepSeek-V4-Pro重点升级智能体交互能力，适配代码开发、多步骤复杂任务处理等需求。 目前千问AI平台已完成多品类主流模型聚合，覆盖文本生成、代码开发、语音处理、图像生成、视频生成五大赛道。平台已接入通义千问Qwen3.8-Max、Qwen3.8开源模型、Qwen</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30523</guid>
-      <pubDate>Fri, 21 Aug 2026 02:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者</title>
-      <link>https://news.aibase.com/zh/news/30524</link>
-      <description>随着大模型向应用层和生产力的深度渗透，AI原生应用的开发门槛正在被彻底打破。xAI 近日正式宣布，其备受瞩目的应用构建功能 Grok Build 已全面结束早期测试，正式面向所有套餐用户开放，并全面覆盖网页端、iOS 以及 Android 移动端。 在核心功能体验上，Grok Build 展现出了 极高 的便捷性与直观性。用户只需在与 Grok 的日常对话中，用自然语言详细描述自己想要的应用、小游戏、网站或数据仪表盘，系统便能在对话界面中实时生成并运行完整版本。自7月份推出早期测试版以来，该功能经历了高速迭代，不仅大幅提升了生成速度，更彻底打通了从创意构思、内容发布到社群分享的完整闭环。 为了</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30524</guid>
-      <pubDate>Fri, 21 Aug 2026 03:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴</title>
-      <link>https://news.aibase.com/zh/news/30525</link>
-      <description>近日，豆包工作任务模式迎来重磅更新，技能、连接器、工作伙伴三大功能全新上线，豆包协同办公能力再度升级。目前平台已上架超200个技能与连接器，同时支持用户自主创建专属技能，搭建标准化工作流。 技能功能支持沉淀个性化工作方法。撰写项目周报时确定的格式、内容规范，能够一键保存为个人技能，实现每周重复复用，固化成熟工作流程。连接器打通豆包与各类办公工具，以飞书连接器为例，接入后可直接在应用内查找资料、处理任务，无需反复切换页面、手动上传文件。 工作伙伴提供多领域专业智能体，覆盖数据分析、内容策划、科研、金融等方向。用户可按需组建工作小队，分工协作完成复杂任务。例如制作数据调研报告时，联动数据、研究、设</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30525</guid>
-      <pubDate>Fri, 21 Aug 2026 05:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析</title>
-      <link>https://news.aibase.com/zh/news/30526</link>
-      <description>SAP近日与职业电竞俱乐部Team Liquid联合开发一款AI语音智能应用，旨在将比赛和训练中的队内语音转化为结构化赛事数据，为职业战队分析比赛、优化战术并提升选手竞技表现提供支持。 该应用可自动接收比赛或训练产生的多声道音频，并精准分离不同选手的独立语音流。在此基础上，系统进一步完成语音转写、发言人识别和情绪分析，将原本零散、无序的队内通话转化为按照比赛时间轴对应的结构化数据，并为每段内容生成完整时间戳。 通过对语音内容与赛事进程进行关联，战队能够更系统地分析选手在不同比赛阶段的沟通方式、情绪变化及决策过程，从而辅助复盘和训练。此次合作也体现出AI语音技术正从通用转写向专业场景的数据分析延</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30526</guid>
-      <pubDate>Fri, 21 Aug 2026 06:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑</title>
-      <link>https://news.aibase.com/zh/news/30527</link>
-      <description>商汤科技正式宣布开源全新的轻量级、原生统一多模态大模型 SenseNova U1.5Lite。作为一款参数量为8B 的轻量化模型，它在多项核心视觉任务中展现出了超越同量级模型的实力，甚至在部分复杂排版与文字渲染上达到了媲美超大规模商业模型的交付水平。 SenseNova U1.5Lite 原生支持3至4K 的上下文长度，能够同时处理主体、数量、空间关系、文字、布局以及风格等多重约束，从而显著提升复杂视觉任务执行时的稳定性。 在具体功能特性方面，该模型带来了多项核心升级。首先是更高质量的视觉生成，显著改善了整体构图、色彩、材质、光影、真实感和局部细节，有效避免了传统模型常见的局部正确但整体完成度</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30527</guid>
-      <pubDate>Fri, 21 Aug 2026 06:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍</title>
-      <link>https://news.aibase.com/zh/news/30528</link>
-      <description>日前，Liquid AI 与 Hugging Face 正式发布了 LFM2.5系列三款核心模型的 DSpark 草稿模型检查点，包括 LFM2.5-1.2B-Instruct、LFM2.5-2.6B 以及 LFM2.5-8B-A1B。通过引入全新的投机解码路径，该技术在完全不改变模型输出质量的前提下，大幅提升了推理吞吐量。 核心性能提升与应用表现 在实际测试中，DSpark 草稿模型展现出了亮眼的加 速效 果。在 GPU 端，整体吞吐量 最高 可提升3.18倍;在端侧设备上， 最高 提升幅度也能达到2.87倍。 特别是在端侧智能体（Agent）推理场景中，LFM2.5-2.6B 的函数调用延</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30528</guid>
-      <pubDate>Fri, 21 Aug 2026 06:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%</title>
-      <link>https://news.aibase.com/zh/news/30529</link>
-      <description>企业在构建人工智能系统时，往往面临一个痛点：核心业务数据和专有知识由于涉及机密，通常被隔离在各种长篇密集文档、金融申报文件、法律合同以及政府记录之后。传统的一次性检索增强生成（RAG）由于只能检索固定文本块且缺乏推理迭代能力，面对这类结构复杂的长文档和跨来源对比任务时往往力不从心。为了解决这一行业难题，Mistral AI 正式推出了全新升级的 Agentic Search。该技术引入了多步骤检索循环机制，不仅打破了传统方法的局限，还让 AI 系统在处理企业级复杂文档查询时实现了质的飞跃。 五大核心工具协同，从“机械检索”迈向“主动推理” 传统 RAG 的核心缺陷在于“只检索、不推理、无法迭代</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30529</guid>
-      <pubDate>Fri, 21 Aug 2026 06:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>阿里开源 Qwen-UI-Agent：真机多模态基座模型登场</title>
-      <link>https://news.aibase.com/zh/news/30530</link>
-      <description>阿里巴巴正式推出了以真实世界为中心的 GUI 智能体基座模型 Qwen-UI-Agent。该模型全面覆盖了移动端、电脑端、网页端以及深度搜索环境，旨在打破传统模拟测试的局限，让模型真正具备在复杂真实设备上无缝操作的能力。 全面超越行业旗舰的综合性能 在各项 权威 测试与实际环境中，Qwen-UI-Agent 展现出了强劲的实力: 移动端表现 :在 MobileWorld 测试中斩获82.1% 的高分，领先多个主流国际旗舰模型;而在自建的百台真机基准 MobileWorld-Real 上，成功率高达92.2%，在 Android Daily 中更是接近满分。 电脑端表现 :在 OSWorld-V</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30530</guid>
-      <pubDate>Fri, 21 Aug 2026 07:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放</title>
-      <link>https://news.aibase.com/zh/news/30531</link>
-      <description>OpenAI近日进一步开放Codex Harness相关核心能力，将驱动Codex不同产品形态的智能体运行框架向开发者开放。Codex Harness是Codex背后的核心Agent运行环境，负责连接模型、用户与工具，并管理任务执行、上下文、会话及代码操作等流程。OpenAI此前已将Codex CLI及相关核心代码开源，并持续完善Harness和App Server能力。 从架构来看，Codex Harness并非单纯的代码生成工具，而是完整的Agent执行框架。其核心包括Agent Loop、线程生命周期与持久化、配置及身份认证、工具执行和扩展机制等。通过Codex App Server，开</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30531</guid>
-      <pubDate>Fri, 21 Aug 2026 07:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI</title>
-      <link>https://news.aibase.com/zh/news/30533</link>
-      <description>韩国互联网巨头Kakao8月21日宣布，公司董事会已通过拆分方案，计划设立新公司“Kakao AI”，由其聚焦KakaoTalk及人工智能业务;现有公司则保留并更名为“Kakao X”，重点承担投资、金融科技、内容和出行业务。Kakao表示，此次重组旨在让两大业务建立独立运营体系，加快AI战略落地并提升资本配置效率。 按照方案，两家公司将按照净资产账面价值以36%和64%的比例进行拆分，现有股东将按持股比例获得两家公司的股份。拆分后的Kakao AI将被定位为“AI核心公司”，重点依托拥有约5000万用户的KakaoTalk推进AI业务。公司计划将KakaoTalk从传统即时通信工具升级为能够</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30533</guid>
-      <pubDate>Fri, 21 Aug 2026 08:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型</title>
-      <link>https://news.aibase.com/zh/news/30534</link>
-      <description>8 月 21 日下午，科大讯飞在 2026 年半年度业绩说明会上释放了一个重磅消息：公司总裁吴晓如透露，科大讯飞将在今年全球 1024 开发者节上，正式推出基于全国产算力的全新主力通用大模型。 作为行业备受瞩目的技术演进节点，这一全新大模型的落地节奏已经明确。按照规划，科大讯飞将在今年 8 月底率先推出阶段性版本，让市场和开发者提前体验其技术实力。 在核心性能与指标表现上，该模型展现出了极强的竞争力。据官方披露，即将推出的全新主力通用大模型，不仅在代码能力和Token性价比上整体达到了国内 第一 梯队水平，更在全国产算力训练的通用大模型中，各项关键指标继续保持国内领先地位。这一突破不仅意味着国</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30534</guid>
-      <pubDate>Fri, 21 Aug 2026 09:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆</title>
-      <link>https://news.aibase.com/zh/news/30535</link>
-      <description>雷鸟创新（RayNeo）在2026雷鸟AI眼镜新品发布会上推出全新iO系列， 首款 产品雷鸟iO定位“人类增强AI眼镜”，售价2499元，首发到手价1996元起，支持0至1000度近视配镜，已在京东、天猫、抖音及线下眼镜渠道开售。Counterpoint与IDC数据显示，雷鸟创新2026年 第一 季度位居中国及全球AR眼镜出货量 第一 。 雷鸟iO采用双目显示架构和蓝湖光波导，OC区域透过率93%，非显示区超过98%，入眼亮度1800尼特，支持等效33英寸画面及DC调光。整机采用镁铝合金前框和钛合金镜腿，重量34克，配备体积小于一颗红豆的“萤火光引擎Nano”。产品支持Smart Crown智</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30535</guid>
-      <pubDate>Fri, 21 Aug 2026 09:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>长眼！DeepSeek Flash视觉模型突发更新，支持多模态</title>
-      <link>https://news.aibase.com/zh/news/30536</link>
-      <description>8月21日消息，DeepSeek对其大模型工具链进行了高强度迭代，正式将DeepSeek Harness升级至0.1.1-rc.1版本。此次更新 最大 的亮点，是在原有的DeepSeek V4Flash及V4Pro模型基础之上，重磅新增了全新的视觉模型体验版——V4Flash Vision-Exp。 就在前一日发布的v0.1.0-rc.8版本中，DeepSeek Harness已经率先打通了多模态核心能力。通过支持配置原生图片请求，系统的/goal、/plan等关键指令正式实现图文混合输入。这意味着，用户现在可以直接将工作截图和具体需求同时发送，让AI智能体（Agent）直接“看图干活”，大幅</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30536</guid>
-      <pubDate>Fri, 21 Aug 2026 09:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>字节Seed再调整:预训练、强化学习与Agent研发全面重构</title>
-      <link>https://news.aibase.com/zh/news/30537</link>
-      <description>据媒体报道，字节跳动大模型部门Seed已于上周完成新一轮组织调整，其中Seed Foundation Model新设四个一级部门，负责人均向吴永辉汇报。此次调整进一步整合预训练数据、强化学习及模型后训练资源，并将B端与C端产品模型能力分开布局。（Sina Finance） 其中，Pretrain Data由李成刚负责，整合此前分散在文本模型、编程、视觉理解和语音等方向的预训练数据团队，统一负责新Omni模型的多模态数据及超大模型预训练数据。Horizon RL由唐晟宇负责，整合后训练、推理和视觉理解等团队，重点推进强化学习，以提升模型基础智能上限。 Product Posttrain-Work</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30537</guid>
-      <pubDate>Fri, 21 Aug 2026 09:58:00 +0000</pubDate>
+      <title>Guidelight评估五大AI实验室，OpenAI遏制能力排名第一</title>
+      <link>https://news.aibase.com/zh/news/30545</link>
+      <description>Guidelight AI Standards近日发布一项针对前沿AI实验室遏制能力的评估，结果显示，五家领先实验室中很少有企业公开披露完整的AI失控应对方案。该评估覆盖Anthropic、Google、OpenAI、Meta和xAI，仅依据公开信息考察其是否建立监控、异常行为处置、第三方审计及失控模型关闭等机制。 在满分5分的评估中，OpenAI以3分排名 最高 ，Anthropic和Meta得分 最低 。Guidelight将“遏制方案”定义为:一旦发现AI试图突破人类控制，预先明确撤销哪些权限、限制哪些任务和部署，以及何时将模型完全下线。OpenAI此前多次在安全事件后暂停或终止相关工作</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30545</guid>
+      <pubDate>Mon, 24 Aug 2026 01:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
