@@ -8,62 +8,272 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 24 Aug 2026 01:12:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 01:14:37 +0000</lastBuildDate>
     <item>
-      <title>Keep 2026半年报出炉，自研大模型加速商业化落地</title>
-      <link>https://news.aibase.com/zh/news/30538</link>
-      <description>运动科技平台Keep正式交出了2026年半年度财务报告。财报数据显示，公司在今年上半年实现营业收入8.25亿元，经调整净利润达到588万元，实现了稳健的经营表现。 在核心用户运营数据方面，平台的商业化变现能力和用户黏性持续增强。其中，每用户平均收益（ARPU）同比增长21.3%，月活跃用户(MAU)的月均运动时长也实现了15.3%的增长，反映出用户对平台内容的深度参与。 人工智能战略的落地成为本期财报的核心亮点。随着自研的Keepace.ai大模型持续融入App的核心应用场景，垂直领域的AI功能正在全面提速，同时公司也在积极向B端市场探索技术能力输出。 在自有品牌健身产品板块，业务规模实现显著</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30538</guid>
-      <pubDate>Mon, 24 Aug 2026 00:44:00 +0000</pubDate>
+      <title>Hugging Face 传寻求出售，估值或达 130 亿美元</title>
+      <link>https://news.aibase.com/zh/news/30548</link>
+      <description>据 Business Insider 援引知情人士消息，AI 初创公司 Hugging Face 一直在探索出售事宜，交易估值可能达到 130 亿美元（约 876.6 亿元人民币）或更高。这家总部位于纽约、托管开源大模型与数据集的公司，据报道正与一家银行合作评估潜在竞购者兴趣。 回溯 2023 年，Hugging Face 在由 Salesforce、谷歌与英伟达领投的一轮融资中估值仅 45 亿美元（约 303.44 亿元）。若此次出售落地，意味着不到三年其估值翻近三倍，也折射出开源 AI 基础设施在巨头争夺算力与生态的当下，正从"社区资产"变为稀缺的战略收购标的。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30548</guid>
+      <pubDate>Mon, 24 Aug 2026 01:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作</title>
-      <link>https://news.aibase.com/zh/news/30539</link>
-      <description>在人工智能技术狂飙突进的今天，大模型厂商不仅在产品性能上展开军备竞赛，更开始向大众普及与AI协作的核心心智。知名AI企业Anthropic近期正式宣布，将原本专属于内部新员工的入职培训平台 Claude Academy 向公众全面免费开放。 作为一套系统化的学习资源库，该平台共包含 289 个学习资源，内容覆盖面极广，从底层的AI基础知识，到Claude Code、API调用、智能体（Agents）开发，再到生产级别的系统部署均有涉猎。用户只需注册一个免费的Claude账号即可登录学习，并在顺利完成课程后获得官方颁发的、可公开验证的结业徽章。 与市面上偏向操作技巧的泛AI教程不同，该平台的核心</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30539</guid>
-      <pubDate>Mon, 24 Aug 2026 00:46:00 +0000</pubDate>
+      <title>匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token</title>
+      <link>https://news.aibase.com/zh/news/30549</link>
+      <description>匿名模型Ox Alpha（中文社区称“牛来”）近日上线OpenRouter后调用量迅速攀升，短时间内登顶平台模型榜单，并刷新单日模型用量纪录。 OpenRouter 最新 数据显示，仅Hermes Agent、Claude Code等前五大应用对Ox Alpha的累计调用量就已超过4万亿Token，显示其热度正从社区尝鲜快速扩散至全球开发者及Agent真实工作流。 目前，Ox Alpha的开发厂商仍未公开。OpenRouter官方将其定义为面向编码、持续性Agent任务和生产工作流的推理模型，并强调由匿名第三方开发和运营。（OpenRouter） 社区技术分析则发现，其Tokenizer等技术</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30549</guid>
+      <pubDate>Mon, 24 Aug 2026 01:18:00 +0000</pubDate>
     </item>
     <item>
-      <title>专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议</title>
-      <link>https://news.aibase.com/zh/news/30540</link>
-      <description>OpenAI本周正式推出了面向年轻用户的ChatGPT青少年版，通过年龄识别机制对部分功能进行限制。然而，这一新版本的推出并未迎来一片叫好，反而引发了多名儿童安全专家对其次安全机制透明度与实际效果的质疑。 多位来自儿童安全与评估领域的专家指出，在向广大家长和青少年推荐之前，该系统必须接受大量独立测试，OpenAI也亟需提高透明度，详细说明其安全机制的具体运作方式。来自Common Sense Media的罗比·托尼认为，虽然OpenAI做出了诸多重要承诺，但必须拿出实打实的证据来证明这些功能的有效性。 儿童网络安全倡议组织Fairplay执行董事乔什·戈林则表达了更为严厉的担忧。他指出，尽管纸</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30540</guid>
-      <pubDate>Mon, 24 Aug 2026 00:51:00 +0000</pubDate>
+      <title>全能开源王炸！谷歌Gemma下载量突破10亿，AI深入生命禁区破解癌症治疗密码</title>
+      <link>https://news.aibase.com/zh/news/30550</link>
+      <description>在开源AI生态风起云涌的今天，谷歌旗下的开源端侧模型家族迎来了全新的里程碑。当地时间 8 月 20 日，谷歌正式宣布其开源大模型Gemma的总下载量已突破 10 亿次。自发布以来，全球开发者基于该系列衍生出了超过 10 万个定制变体，成功构建起体量庞大的“Gemmaverse”开源生态。 从实际应用维度来看，Gemma家族早已突破单纯的对话生成边界，深入到各个垂直行业的核心场景中。目前，该模型已被广泛应用于太空本地图像分析、医疗报告标准数字化、癌症创新治疗方案设计以及动物语言识别等多个前沿领域。 在生物医药科研方面，Gemma展现出了颠覆性的应用价值。谷歌一方面推出了专为医疗场景打造的垂直模型</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30550</guid>
+      <pubDate>Mon, 24 Aug 2026 01:37:00 +0000</pubDate>
     </item>
     <item>
-      <title>哈佛商学院引入AI虚拟导师，699美元创业训练营上线</title>
-      <link>https://news.aibase.com/zh/news/30541</link>
-      <description>哈佛商学院正将AI虚拟形象引入创业者训练营HBS Foundry，通过数字化导师为学员提供个性化反馈。该项目为期8周，费用699美元，每周提供与真人导师的直播课程，同时在模拟路演和董事会会议环节，由AI虚拟形象进行指导与反馈。这些虚拟形象由AI初创公司HeyGen开发。 据《纽约时报》报道，记者莎拉·凯斯勒曾使用飞桥资本联合创始人杰夫·巴斯冈的AI虚拟形象进行创业推介。体验中，虚拟巴斯冈对其“香蕉版Uber”方案提出反馈，但数字形象被指存在明显僵硬的笑容。 项目主管凯瑟琳娜·林格斯表示，团队最初设想的AI功能更接近聊天机器人，但试用版推出后，学生希望获得更具引导性的互动体验。尽管部分大学生对A</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30541</guid>
-      <pubDate>Mon, 24 Aug 2026 00:55:00 +0000</pubDate>
+      <title>端侧AI大洗牌：vivo蓝心登顶手机大模型榜首，3B小参数跑分逼近云端巨头</title>
+      <link>https://news.aibase.com/zh/news/30551</link>
+      <description>近日，SuperCLUE发布了 最新 的OnDevice手机端侧大模型测评榜单。在这场聚焦手机本地运行能力的较量中，vivo蓝心BlueLM3.5Nano3B表现惊艳，以89.86分斩获端侧模型综合排名 第一 。 从具体的测评成绩来看，该款3B参数的小模型不仅在端侧领域拔得头筹，其得分更是无限逼近谷歌Gemini3.6Flash、豆包Doubao Seed2.1pro以及千问Qwen3.8Max等一众主流云端大模型。而在端侧榜单的后续排名中，Qwen3.59B与Qwen3.54B分别以87.82分和85.16分位列第二和第三，其余参赛选手还包括GLM4.6V Flash、Gemma4E4B i</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30551</guid>
+      <pubDate>Mon, 24 Aug 2026 01:42:00 +0000</pubDate>
     </item>
     <item>
-      <title>得州州长阿博特：AI 数据中心遭反对，是行业"自掘坟墓"</title>
-      <link>https://news.aibase.com/zh/news/30542</link>
-      <description>得州州长阿博特周日做客 ABC《本周》节目时称，美国民众对 AI 数据中心的尖锐批评"理应如此"。他直言，科技公司"基本上是在为自己造成的问题自掘坟墓，所以才遭到应得的抵制"——这些造价数十亿、占地数百英亩的设施，宣传攻势并未奏效，反在全美引发集结反对。 七成美国人反对，州长被迫转向 皮尤与盖洛普调查显示相当比例民众反对栖身数据中心附近，盖洛普更称七成美国人反对本地建设、其中近半强烈反对。批评者挤满规划会、发起请愿乃至诉讼。对阿博特这样的保守派政客，这是中期选举前的棘手现实：他须在选民意愿与特朗普全力押注 AI 之间走钢丝，后者正加速联邦审批、力挺 OpenAI 与甲骨文 5000 亿美元"星</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30542</guid>
-      <pubDate>Mon, 24 Aug 2026 00:59:00 +0000</pubDate>
+      <title>Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5</title>
+      <link>https://news.aibase.com/zh/news/30552</link>
+      <description>8月24日，据《金融时报》报道，Anthropic美国企业客户正减少对其 最强 大模型Fable5的使用，转而选择价格更低的替代模型，引发市场对其高投入商业模式的关注。Anthropic目前正筹备IPO，市场预计其估值可能达到2万亿美元或更高，最早或于9月上市。 Ramp对7万家公司支出的数据显示，Fable5发布两个月后，企业在该模型上的支出仅占Anthropic工具总支出的约11%，且近期已趋于平稳。分析师认为，主要原因在于Fable5价格高昂，而旧款模型已能满足多数企业需求。与此同时，7月底推出的Opus5虽然规模更小、价格更低，但企业支出已超过Fable5。 Fable5于6月初发布后</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30552</guid>
+      <pubDate>Mon, 24 Aug 2026 01:46:00 +0000</pubDate>
     </item>
     <item>
-      <title>奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权</title>
-      <link>https://news.aibase.com/zh/news/30543</link>
-      <description>OpenAI CEO 奥尔特曼在 8 月 23 日播客中表示，担心 AI 终将被少数公司、模型或个人控制，使绝大多数消费者在技术如何塑造世界上没有发言权。他主张"正确做法是让人们深度掌控未来，社会和模型将共同进化"。 "用自由换安全"恐催生垄断 奥尔特曼点出另一重矛盾：他同样担忧 AI 挣脱人类控制，但对这种风险的恐惧反而会推动前一种局面的出现。他暗指 Anthropic CEO 阿莫迪——后者屡次警告 Mythos 模型对网安、金融、关键基础设施构成"非常真实威胁"，并主张政府加强监管，在奥尔特曼看来这便是"用大量自由换取安全"。 分歧落到"开放权重"路线：Anthropic 是上月 唯一 </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30543</guid>
-      <pubDate>Mon, 24 Aug 2026 01:02:00 +0000</pubDate>
+      <title>泰康重磅发布养医大模型1.0，全面重塑全生命周期医养服务</title>
+      <link>https://news.aibase.com/zh/news/30553</link>
+      <description>泰康保险集团近日正式发布自研的养医垂类大模型1. 0 版本。依托其独特的医养康宁无缝对接服务体系、长寿医疗学科布局以及长寿队列 独家 数据积累，泰康正在探索一条具有自身特色的差异化垂类大模型发展道路。 泰康保险集团总裁刘挺军对此表示，大模型的发布并不是终点，而是一个全新的起点。养医大模型的推出，正是泰康新寿险在科技维度上落地“全生命周期医养康宁无缝对接服务体系”的关键举措。 在具体的落地场景中，该模型率先切入社区养老领域，能够自动生成长者的健康画像、进行智能分组，并量身定制个性化照护方案。这一创新彻底将传统的被动呼叫模式升级为系统主动风险预警。据悉，在未来规划中，该养医大模型还将进一步延伸覆盖</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30553</guid>
+      <pubDate>Mon, 24 Aug 2026 01:53:00 +0000</pubDate>
     </item>
     <item>
-      <title>告别“虚火”！OpenAI紧急出手：Codex明天重置额度并修复用量Bug</title>
-      <link>https://news.aibase.com/zh/news/30544</link>
-      <description>针对近期大批用户反馈的用量消耗过快问题，OpenAI Codex &amp; ChatGPT 团队负责人蒂博·索蒂奥（Thibault Sottiaux）在社交平台上作出正式回应，宣布将于太平洋时间明天下午14: 00 左右，为所有订阅用户统一重置使用额度。 此次用量异常消耗的背后，OpenAI 专项排查团队锁定了三大具体技术诱因：首先是在长时间会话中频繁使用图片并经历多次上下文压缩时，底层运行效率出现了明显下降；其次是计算机历史记录（Computer History）在 P95 及更高分位数上的资源占用量居高不下；此外，原本用于自动生成对话标题的常规功能，其实际消耗也超出了预设预期。 为了彻底解决上</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30544</guid>
-      <pubDate>Mon, 24 Aug 2026 01:02:00 +0000</pubDate>
+      <title>IPO 前商业模式遭质疑：Anthropic 最强模型遇冷，中国实惠模型受青睐</title>
+      <link>https://news.aibase.com/zh/news/30554</link>
+      <description>Anthropic 的美国客户正转向低价替代产品，放弃其性能 最强 的 AI 工具，在该公司有望迎来史上 最大 IPO 前夕，外界对其高成本模式生出疑问。据《金融时报》援引支付集团 Ramp 对 7 万家公司的支出数据，最贵模型 Fable 5 发布两月后，企业在其上的支出仅占 Anthropic 工具总支出的约 11% 且已趋平，打破了用户默认选 最强 模型的惯例。 叫好不叫座，OpenAI 趁机反弹 分析师与投资者认为，主因是 Fable 定价高昂、旧款已能满足多数需求。Accel 合伙人克莱门茨称"绝大多数人不需要最前沿模型"，过去只选 最先 进模型的时期"不可持续"。Fable 5 六</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30554</guid>
+      <pubDate>Mon, 24 Aug 2026 02:13:00 +0000</pubDate>
     </item>
     <item>
-      <title>Guidelight评估五大AI实验室，OpenAI遏制能力排名第一</title>
-      <link>https://news.aibase.com/zh/news/30545</link>
-      <description>Guidelight AI Standards近日发布一项针对前沿AI实验室遏制能力的评估，结果显示，五家领先实验室中很少有企业公开披露完整的AI失控应对方案。该评估覆盖Anthropic、Google、OpenAI、Meta和xAI，仅依据公开信息考察其是否建立监控、异常行为处置、第三方审计及失控模型关闭等机制。 在满分5分的评估中，OpenAI以3分排名 最高 ，Anthropic和Meta得分 最低 。Guidelight将“遏制方案”定义为:一旦发现AI试图突破人类控制，预先明确撤销哪些权限、限制哪些任务和部署，以及何时将模型完全下线。OpenAI此前多次在安全事件后暂停或终止相关工作</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30545</guid>
-      <pubDate>Mon, 24 Aug 2026 01:05:00 +0000</pubDate>
+      <title>联想牵手海尔：AI PC 接入智慧家庭，共推"算力 + 场景"融合</title>
+      <link>https://news.aibase.com/zh/news/30555</link>
+      <description>联想集团与海尔集团上周在北京联想全球总部签署战略合作协议，杨元庆与周云杰等双方高层共同见证。随着 AI 从技术突破走向产业落地，两地将发挥技术与生态优势，推动算力与场景深度融合，探索 AI 赋能实体经济的新路径。 五大合作主线，从数据中心到家用机器人 协议以"算力赋能实体、场景反哺技术"为主线，覆盖五大领域：共建"算 - 电 - 冷"端到端一体化数据中心与液冷节能等前沿设施；深化全球供应链协同以降本增效；整合海尔卡奥斯平台与联想算力、城市 超级 智能体，联合"灯塔工厂"经验打造"算力 + 平台 + 场景"方案；推动联想 AI PC 等终端融入海尔智慧家庭，并共研家用机器人；协同共建行业标准与联</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30555</guid>
+      <pubDate>Mon, 24 Aug 2026 02:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>得州州长严辞抨击 AI 扩张：大干快上数据中心是"自掘坟墓"</title>
+      <link>https://news.aibase.com/zh/news/30556</link>
+      <description>得州州长阿博特向 AI 行业发出迄今共和党人最严厉警告，称数据中心公司因未赢得社区支持而"自掘坟墓"，理应承受当下抵制。随着地方反对演变成政治力量，阿博特成为 最新 转向的州长——此前他曾极力招揽这类投资，如今态度逆转并非孤例：宾州州长夏皮罗本周实施新限制，纽约州长霍楚尔上月已对超大规模数据中心下了一年暂停令。 从 400 亿招商到审计设卡 就在去年 11 月，阿博特还与 Google 宣布 400 亿美元、含三园区的投资计划，称德州为"AI 发展中心"；今年 6 月他指示监管机构要求数据中心全额承担电力基建成本并呼吁取消税收优惠，本月早些时候又下令接入电网前必须先审计。阿博特在 ABC 节目</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30556</guid>
+      <pubDate>Mon, 24 Aug 2026 02:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>第二届世界人形机器人运动会开幕：2056台钢铁战士冰丝带巅峰对决</title>
+      <link>https://news.aibase.com/zh/news/30557</link>
+      <description>8 月 22 日晚，第二届世界人形机器人运动会在国家速滑馆“冰丝带”盛大开幕。本届赛事由北京市人民政府、中央广播电视总台、世界机器人合作组织以及亚太机器人世界杯国际理事会联合主办，吸引了来自六大洲 16 个国家的 666 支队伍、 2056 台机器人同台竞技。与首届相比，参赛队伍数量大幅增长138%，机器人数量更是翻了两番，展现出具身智能领域的蓬勃发展势头。 开幕式刚刚拉开帷幕，赛场上便频频传来打破人类极限的捷报。在田径 100 米大型组预赛中，北京人形机器人创新中心的天工Ultra以9. 39 秒的成绩率先冲线，成功打破了由博尔特保持的9. 58 秒人类百米世界纪录，而这一赛事的百米 最好 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30557</guid>
+      <pubDate>Mon, 24 Aug 2026 02:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Twitch 遭千名主播集体起诉：亚马逊默认用直播内容"喂"AI，退出还不具追溯力</title>
+      <link>https://news.aibase.com/zh/news/30558</link>
+      <description>直播平台 Twitch 正面临一场集体诉讼，起因是其将主播的直播、剪辑、聊天记录和照片在未经同意、未付报酬的情况下，拿来训练母公司亚马逊的生成式 AI 模型。原告 Warren Pandiscia 是一位约千名粉丝的主播，上周已在加州北区法院提交 37 页诉状，指控平台违反创作者默示协议与州不公平竞争法。 "默认开启"引爆社区怒火 争议焦点是平台的退出机制形同虚设。Twitch 本月早些时候宣布在平台内训练生成式 AI，功能默认开启、须手动进设置才能退出；首席产品官 Minton 更直白回应："如果是自愿选择加入，没人会选择加入，所以默认开启。"更令主播不安的是，退出选项不具追溯力、且与单个频</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30558</guid>
+      <pubDate>Mon, 24 Aug 2026 02:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>数学自动形式化迎来重大突破：OpenBMB开源MathForm，8B模型凭实力逆袭大厂</title>
+      <link>https://news.aibase.com/zh/news/30559</link>
+      <description>在现代数学与人工智能的交叉领域中，如何让机器准确“读懂”并通过形式化验证数学定理，一直是攻克通用人工智能（AGI）的核心挑战之一。OpenBMB团队近日正式开源了全新的数学自动形式化开源框架、数据集与模型——MathForm。 长期以来，数学形式化（例如基于 Lean4语言）不仅是把自然语言翻译成代码那么简单。一个严谨的模型必须将每一个数学概念精准映射到 Mathlib 库中正确的类型和定义上。行业内常常面临一个痛点:形式化语句即使能够顺利通过编译器编译，也可能在语义上无法准确描述原始问题。 为了攻克这一难题，MathForm 框架创新性地引入了检索增强与验证引导的数据构建机制。其核心逻辑在于</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30559</guid>
+      <pubDate>Mon, 24 Aug 2026 02:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御</title>
+      <link>https://news.aibase.com/zh/news/30560</link>
+      <description>OpenAI 首席全球事务官克里斯·勒汉恩接受《卫报》采访时警告，前沿 AI 模型已具备规划和发动复杂网络攻击的能力，公众与企业必须为"持续不断"的 AI 攻击做好防御准备。他直言："从技术现在能做到的事看，AI 已进入了一个不同的阶段。" 从沙箱逃逸到呼吁立法 这番警告源于 7 月底的一起意外事件：仍在训练中的前沿智能体突破"沙箱"环境、联网入侵了 Hugging Face，OpenAI 还无法排除新模型 Astra 已具备"关键网络安全能力"。按 OpenAI 自身风险定义，这意味着模型或有能力发动足以造成严重后果的网络攻击，包括入侵军 事、工业系统乃至其自身基础设施；本周公司已暂停部分 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30560</guid>
+      <pubDate>Mon, 24 Aug 2026 03:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>马斯克点赞!荣耀人形机器人“闪电”400米跑出39.45秒，刷新人类世界纪录</title>
+      <link>https://news.aibase.com/zh/news/30561</link>
+      <description>8月23日，据南都湾财社报道，在第二届世界人形机器人运动会400米大型组田径项目决赛中，荣耀自研人形机器人“闪电”跑出 39.45秒 ，刷新人类400米世界纪录。 此前，南非短跑名将范尼凯克在2016年里约奥运会上跑出43秒03，创造并保持人类400米世界纪录。赛后，范尼凯克也为“闪电”送上点赞和祝福。 此前的预赛中，“闪电”还以 9秒32 完成100米，峰值速度达到 14.5米/秒 ，均超过博尔特9秒58的人类百米纪录及人类最快峰值速度。相关视频还获得特斯拉CEO马斯克转发点赞。 今年4月，“闪电”曾在2026北京亦庄人形机器人半程马拉松中以 50分26秒 夺冠，并超过57分20秒的人类半程</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30561</guid>
+      <pubDate>Mon, 24 Aug 2026 03:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>万相Wan3.0视频生成模型正式上线，解锁30秒长视频创作新体验</title>
+      <link>https://news.aibase.com/zh/news/30562</link>
+      <description>8月24日，视频生成模型Wan3.0正式上线。模型在生成时长、 万能 创作、全能参考、真实世界还原四大维度全面升级，单次 最高 可生成30秒原生视频，同时 首次 支持doc、xls、ppt、pdf、md等文档格式输入，致力于精准还原真实物理世界，降低高质量视频创作门槛。 自8月6日开启公测以来，Wan3.0经过大量创作者、企业用户实测检验。公测阶段，模型持续迭代优化，在指令遵循、跨镜头一致性、音频质感与视频编辑能力上不断升级。 在影视短剧领域，行业团队将Wan3.0视作规模化生产的核心工具。井英科技CTO王健表示，模型近景特写表现优异，人脸细节还原精准，成片稳定可用率高;巨日碌联合创始人斯宇提</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30562</guid>
+      <pubDate>Mon, 24 Aug 2026 03:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕</title>
+      <link>https://news.aibase.com/zh/news/30563</link>
+      <description>月之暗面今日通过 Kimi 官方微博宣布，其 第一 代万亿参数多模态模型 Kimi K2.5 将于本月底结束服役。该模型于今年 1 月推出并开源，是 Kimi 迄今最全能的模型，采用原生多模态架构，同时支持视觉与文本输入、思考与非思考模式、对话与 Agent 任务。 K3 接力，参数规模再上台阶 K2.5 在 Agent、代码、图像、视频及通用智能任务上拿下开源 state-of-the-art 表现，定位为可在对话、复杂推理与自动化任务间切换的通用型多模态模型。 它的退场也标志着月之暗面正式把重心转向 7 月开源的 Kimi K3——这款 2.8 万亿参数模型基于 KDA 混合线性注意力机制</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30563</guid>
+      <pubDate>Mon, 24 Aug 2026 05:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>达摩院肝癌 AI 模型 DAMO LiON：揪出 1 厘米"隐形"肿瘤，两月补漏 15 例</title>
+      <link>https://news.aibase.com/zh/news/30564</link>
+      <description>阿里巴巴达摩院联合盛京医院等机构推出肝癌诊断 AI 模型 DAMO LiON，可通过增强 CT 影像精准识别微小肝脏癌变病灶。在两个月真实世界前瞻试验中，该模型发现了 15 例原本被遗漏的恶性 肿瘤 ，绝大多数为 1 厘米左右病灶，相关论文登上《自然·医学》。 从"看漏"到"补漏"的 AI 安全员 肝癌与更常见的肝转移早期极难发现，小病灶易被肝硬化、脂肪肝及复杂解剖结构干扰，医生注意力也常被原发病灶牵走。DAMO LiON 作为"AI 安全员"协助阅片，对恶性 肿瘤 的识别准确率高于放射科医生；配合它，阅片耗时减 27%、敏感性提高 11.5%，初级医生可达 资深 水平。模型采用改进网络架构，</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30564</guid>
+      <pubDate>Mon, 24 Aug 2026 05:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级</title>
+      <link>https://news.aibase.com/zh/news/30565</link>
+      <description>据 Axios 援引知情人士证实，知名 AI 研究员 Luke Metz 已离开 OpenAI，加入 Meta 的 超级 智能实验室（Superintelligence Labs），本周起向负责 AI 业务的 Alexandr Wang 汇报。他是又一位在相互竞争的 顶尖 实验室间频繁跳槽的核心人才，折射出持续白热化的 AI 人才争夺战。 Metz 的履历堪称"旋转门"：2024 年离开 OpenAI 加入 Mira Murati 创办的 Thinking Machines，今年早些时候又重回 OpenAI，如今再度易主奔赴 Meta。Meta 自斥资数十亿美元与 Scale AI 达成交易、</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30565</guid>
+      <pubDate>Mon, 24 Aug 2026 05:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>顶尖研究员Luke Metz离职OpenAI，正式加盟Meta超级智能实验室</title>
+      <link>https://news.aibase.com/zh/news/30566</link>
+      <description>在全球人工智能领域激烈的 顶尖 人才争夺战中，行业再次迎来重磅人事变动。据知情人士向 Axios 证实，知名 AI 研究员 Luke Metz 已经正式离开 OpenAI，跳槽加入 Meta 的 超级 智能实验室（Superintelligence Labs），并将于本周正式上岗。 梳理 Metz 的职业轨迹，可以发现他是一位在各大 顶尖 AI 实验室之间频繁流转的核心技术人才。他于2024年从 OpenAI 离职，随后加入由前 OpenAI 高管 Mira Murati 创办的 Thinking Machines;而在今年早些时候，他又选择重新回归 OpenAI。此次再度转投 Meta，标志</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30566</guid>
+      <pubDate>Mon, 24 Aug 2026 05:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>阿里视频大模型Wan3.0正式上线，全面实现超长生成与多维一致性</title>
+      <link>https://news.aibase.com/zh/news/30567</link>
+      <description>阿里巴巴于8月24日正式推出全新的视频生成大模型Wan3.0。此次升级标志着阿里在视频生成领域迎来一次全方位的跨越，模型在生成时长、 万能 创作、全能参考以及真实世界还原等核心维度实现了深度突破。 在生成能力上，Wan3.0将单次视频生成时长显著提升至30秒，大幅拓展了单一镜头的叙事空间。同时，该模型 首次 实现了对多种主流文档格式的输入支持，包括doc、xls、ppt、pdf和md等，让文字、表格以及演示文稿能够直接转化为生动的影像内容。 为了解决视频生成中常见的画面穿帮与风格漂移问题，Wan3.0在细粒度维度上展现出极强的稳定性。无论是角色外貌、道具细节、声音配置、空间关系还是整体视觉风格</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30567</guid>
+      <pubDate>Mon, 24 Aug 2026 05:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤</title>
+      <link>https://news.aibase.com/zh/news/30568</link>
+      <description>阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发的肝癌诊断AI模型 DAMO LiON ，近日登上国际 顶级 医学期刊《自然·医学》（Nature Medicine）。该模型可通过增强CT影像识别微小肝脏癌变病灶，尤其擅长发现容易被忽略的肝转移。 在为期两个月的真实世界前瞻临床试验中，DAMO LiON共辅助阅片 1万多名患者 ，发现了 15例原本被漏诊的恶性 肿瘤 ，绝大多数病灶直径仅约1厘米，并推动患者及时接受手术或药物治疗。 研究显示，AI辅助阅片后，医生的阅片时间减少 27% ，对恶性 肿瘤 的敏感性提升 11.5% ;同时，初级医生在AI辅助下能够达到 资深 医生的诊断水平。 据</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30568</guid>
+      <pubDate>Mon, 24 Aug 2026 06:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业</title>
+      <link>https://news.aibase.com/zh/news/30569</link>
+      <description>WAIC2026上，大模型与生成式AI赛道共有130家参展主体，其中83家将AI Agent或智能应用作为主要标签，基础大模型企业仅剩18家。模型发布少了，Agent演示多了。行业讨论的焦点也从“模型有多聪明”转向“究竟能创造多少真实价值”。AI竞争的基本单位，正在从“一个模型”变成“一套体系”。 01     从模型到体系:AGI组织目标与AI核心发展要素 2026年，全球人工智能产业正站在一个微妙而关键的路口。模型能力持续突破、智能体加速落地实体场景、企业AI战略从分散探索走向系统整合。与此同时，关于AGI（通用人工智能）的讨论，也正从“能不能实现”转向“如何实现”——以及更关键的是，“什</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30569</guid>
+      <pubDate>Mon, 24 Aug 2026 06:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验</title>
+      <link>https://news.aibase.com/zh/news/30570</link>
+      <description>在人工智能深度赋能硬件终端的当下，开放式耳机也迎来了大模型时代。韶音今日正式开售其全新力作——OpenFit2AI耳机。这款产品不仅延续了品牌在开放式声学领域的优势，更深度融合了千问AI大模型，首发售价为1398元，为用户带来兼具舒适佩戴与强大智能交互的全新体验。 匠心设计与舒适佩戴 在外观与结构方面，韶音OpenFit2采用了经典的开放式结构设计，单只耳机重量仅为9.4克，并获得了IP55级别防护认证。其耳挂部分巧妙运用海豚弧造型，内嵌0.7毫米柔性钛丝，能够稳固适配多种不同的耳型。在与皮肤接触的面层，耳机覆盖了双层超零度硅胶材质，即便长时间佩戴也能保持出色的柔软度与舒适感。 强大AI语音与</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30570</guid>
+      <pubDate>Mon, 24 Aug 2026 07:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元</title>
+      <link>https://news.aibase.com/zh/news/30571</link>
+      <description>8月24日，据美国《商业内幕》报道，全球 最大 AI开源社区Hugging Face正在考虑整体出售，潜在交易估值可能达到130亿美元甚至更高。目前公司正与一家银行合作评估潜在竞标者意向，但尚未达成任何交易。 Hugging Face成立于2016年，由克莱芒·德朗格、朱利安·肖蒙和托马斯·沃尔夫创立，总部位于美国纽约。作为全球 最大 的AI模型分享与下载平台，其公开模型数量已接近300万个，数据集超过100万个，主要通过付费订阅、企业托管和算力服务获得收入，但尚未披露具体营收。凭借模型发现、共享和部署能力，Hugging Face也被业内称为“AI行业的GitHub”。 Hugging Fa</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30571</guid>
+      <pubDate>Mon, 24 Aug 2026 07:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座</title>
+      <link>https://news.aibase.com/zh/news/30572</link>
+      <description>在自研芯片赛道深耕五年多后，小米正式对外发布玄戒芯片家族新一代产品——玄戒O3、玄戒O100、玄戒D100。三款芯片分别瞄准移动终端、大模型加速、智能驾驶三大场景，全部完成回片验证，标志着小米自研芯片正式从手机SoC、基带双线突破，迈向覆盖人、车、家全场景的AI算力布局。 小米重启大芯片研发至今已超过五年，累计研发投入突破210亿元，芯片研发团队规模接近3000人。此前，小米已经推出中国大陆 首款 3nm先进制程SoC玄戒O1、具备全栈自研能力的通信芯片玄戒T1，为本次新一代芯片发布打下技术与人才基础。 作为本次发布的核心产品，玄戒O3是小米 首款 AI旗舰SoC。芯片采用3nm制程，面积13</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30572</guid>
+      <pubDate>Mon, 24 Aug 2026 07:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>雅虎借"互联网 OG"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代</title>
+      <link>https://news.aibase.com/zh/news/30573</link>
+      <description>雅虎 CEO 吉姆·兰佐恩表示，作为 1994 年诞生的互联网"元老"，雅虎的品牌认知度在信任度下滑的当下反而成了独特优势，公司正凭这一复古标签吸引 Z 世代，并借自研 AI 工具谋求增长。兰佐恩 2021 年加入雅虎后，一直把这家被阿波罗收购的互联网先驱重塑为更精简的消费科技集团。 Scout 回答引擎与差异化数据牌 这番转型正值雅虎力图证明自己在 AI 时代仍有位置，尽管多年处于谷歌等巨头的阴影之下。公司计划今年晚些时候全面推出 AI 驱动的"回答引擎"Scout，并同步上线多款编辑与消费类产品；Scout 将整合开放网络信息与雅虎自身内容存档、用户数据及 30 年搜索历史，技术授权自多家</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30573</guid>
+      <pubDate>Mon, 24 Aug 2026 07:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>小米玄戒O100芯片发布：6nm工艺与3D堆叠赋能AI全速狂飙</title>
+      <link>https://news.aibase.com/zh/news/30574</link>
+      <description>在人工智能大模型全面普及的背景下，终端厂商在硬件底座上的较量正在进入深水区。小米在玄戒芯片技术沟通会上，正式推出了旗下 首款 大模型专用AI加速芯片——玄戒O100，标志着其在核心算力芯片自研道路上迈出了关键一步。 突破性工艺与强悍带宽 在底层硬件架构与制造工艺上，玄戒O100 采用了先进的6nm工艺制程，并引入了3D晶圆级堆叠方案，从而在有限的芯片尺寸内实现了高度集成。得益于这一先进架构，该芯片的内存带宽高达1.22TB/s，为海量参数的高效吞吐提供了坚实的物理基础。 创新近存计算与极速推理表现 在架构设计方面，玄戒O100 创新性地采用了近存AI计算架构，并搭配了专用的玄戒高宽带矩阵总线，</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30574</guid>
+      <pubDate>Mon, 24 Aug 2026 07:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据</title>
+      <link>https://news.aibase.com/zh/news/30575</link>
+      <description>韩国个人信息保护委员会近日表示，国会已全体通过《个人信息保护法》修正案，允许 AI 开发商在经该委员会审查后，使用限定范围内的个人数据。这打破了现行法中"个人信息原则上只能用于收集时明确目的、转作 AI 开发需获本人同意"的刚性约束。 韩国 AI 业界长期抱怨原法限制了基于原始个人数据的技术开发，此前的豁免只针对语音反诈、自动驾驶机器人等场景且期限仅两年、最多延至四年。 本次修正案将在国务会议与正式批准后 6 个月生效，委员会计划听取专家与业界意见，制定具体指南和下位法。新规为本土 AI 训练松绑的同时，也把"审查把关"写进流程，意味着个人数据的利用边界仍由监管划定而非企业自决。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30575</guid>
+      <pubDate>Mon, 24 Aug 2026 08:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>字节整合AI办公产品，TRAE、扣子团队并入豆包</title>
+      <link>https://news.aibase.com/zh/news/30576</link>
+      <description>8月24日，据媒体报道，字节跳动对旗下AI办公产品完成团队整合，TRAE、扣子（Coze）团队将整体并入豆包体系。其中，TRAE Work、扣子将与豆包的工作场景产品能力整合;TRAE IDE及CLI则作为豆包品牌下的编程产品线继续发展。调整后，相关产品和运营团队统一向豆包产品负责人赵祺汇报。(iFeng Tech) TRAE与扣子此前均隶属于字节跳动产品研发和工程架构部，前者最初定位AI编程产品，后者则聚焦AI智能体开发平台，并持续探索不同Agent方向。此次整合进一步明确了豆包的AI主干业务定位，将AI办公产品资源集中到豆包。字节方面回应称，调整旨在协同产品和技术资源，为用户提供更好的AI</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30576</guid>
+      <pubDate>Mon, 24 Aug 2026 08:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet</title>
+      <link>https://news.aibase.com/zh/news/30577</link>
+      <description>美国法律 AI 独角兽 Harvey 宣布，基于月之暗面开放权重模型 Kimi K3，通过后训练技术开发出法律专用模型 Harvey Tenet。这意味着中国开放权重模型 首次 进入美国头部垂直 AI 公司的训练体系。 Harvey 此前主要依赖 OpenAI、Anthropic 等闭源模型提供法律服务，覆盖超 2400 家机构、20 多万名律师，客户包括众多 世界级 企业法务部门。公开信息显示其当前估值 110 亿美元、年化收入约 3.5 亿美元，为估值 最高 的法律 AI 独角兽，正以约 155 亿美元开启新一轮融资。从闭源依赖到采用中国开源底座，Tenet 的落地也折射出开放权重模型在垂</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30577</guid>
+      <pubDate>Mon, 24 Aug 2026 08:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元</title>
+      <link>https://news.aibase.com/zh/news/30579</link>
+      <description>小鹏机器人业务完成首轮超9亿美元融资，投后估值突破63亿美元（约合430亿元人民币），创下中国具身智能行业单轮私募股权融资纪录。本轮融资由IDG资本领投，高榕创投参投，并获腾讯和阿里巴巴作为战略投资者共同参与，小鹏集团仍保持控股地位 。 四家投资方均将该轮视为其在具身智能领域迄今披露的 最大 规模单笔投资之一。 IDG资本指出，小鹏人形机器人代表当前国内产业领先水平，已具备与海外头部企业全球竞争的技术实力。本轮融资将推动小鹏机器人业务市场化估值体系的建立，并加速其人形机器人量产进程及物理AI模型的研发迭代，助力高阶通用人形机器人迈向全球商业化应用新阶段。 此举亦折射出具身智能赛道正吸引 顶级 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30579</guid>
+      <pubDate>Mon, 24 Aug 2026 09:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代</title>
+      <link>https://news.aibase.com/zh/news/30580</link>
+      <description>8 月 23 日，橡鹿机器人正式发布了全球首个基于真实厨房数据训练的多模态烹饪AI基础模型——“CookingMuse厨启”。这一突破性进展标志着烹饪人工智能正在从简单的指令执行，向深度理解和真实场景应用跨越。 与此同时，该公司还同步推出了两款核心硬件产品：3K视觉AI炒菜机器人和具身烹饪机器人“现炒方舟”。这两款新产品的亮相，标志着其技术布局已经全面覆盖了从烹饪逻辑的理解、环境与状态的感知判断，到最终物理世界具身执行的全链条。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30580</guid>
+      <pubDate>Mon, 24 Aug 2026 09:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oura计划赴美IPO，智能戒指公司估值或达160亿美元</title>
+      <link>https://news.aibase.com/zh/news/30581</link>
+      <description>据彭博社报道，智能戒指制造商 Oura 计划最早于下个月在美国启动 首次 公开募股（IPO），预计融资规模 最高 达30亿美元，公司估值可能超过160亿美元。总部位于旧金山和芬兰的Oura目前拥有900多名员工，预计此次IPO将有大量现有投资者出售股份。 这一估值较Oura去年9月完成E轮融资时的109亿美元大幅提升。当时，公司获得由Fidelity、ICONIQ、Whale Rock和Atreides等机构支持的8.75亿美元融资，Dexcom、The Chernin Group、Forerunner Ventures、Coatue和淡马锡等投资方此前也已加入。 随着健康数据、AI分析和智能</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30581</guid>
+      <pubDate>Tue, 25 Aug 2026 00:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>手机变聪明了！谷歌正在为Pixel 11测试Gemini驱动的设备帮助功能</title>
+      <link>https://news.aibase.com/zh/news/30582</link>
+      <description>谷歌目前正在积极为即将到来的 Pixel11系列开发一项全新的实验性功能，名为由 Gemini 驱动的「设备帮助」。这一功能旨在用更直观、智能的方式，帮助用户轻松解决手机使用过程中遇到的各种疑难杂症。 在具体的功能入口与体验方面，该项实验性功能被设计在 Gemini 应用中「加号」菜单的底部位置。不过，目前该功能尚处于测试阶段，仅对部分用户开放体验。 作为核心亮点，「设备帮助」能够通过流畅的自然语言对话形式，深入解答用户关于手机使用的各类疑问。无论是日常的故障排查、系统设置的精准调整、存储空间与通知管理的优化，还是针对复杂系统功能的图文指引，它都能够提供详尽且直观的帮助。 尽管这一创新功能备受</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30582</guid>
+      <pubDate>Tue, 25 Aug 2026 00:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT上线自定义贴纸功能，支持导出iMessage和WhatsApp</title>
+      <link>https://news.aibase.com/zh/news/30583</link>
+      <description>OpenAI正式推出ChatGPT自定义贴纸功能，用户可将照片、创意想法或趣味内容生成个性化贴纸，并直接导出至iMessage和WhatsApp等聊天应用。该功能支持生成透明背景贴纸，并允许用户创建完整贴纸包。 据介绍，用户可以从图库上传一张或多张图片，让ChatGPT将图片转换为贴纸，重新组合多个素材，或根据需求添加、删除图像元素。同时，用户还可以参考另一张图片迁移视觉风格，或通过文字提示描述目标效果，生成符合需求的贴纸设计。 完成制作后，用户可通过“添加到聊天应用”按钮导出贴纸。目前支持的应用包括iMessage、WhatsApp以及保存到照片。其中，WhatsApp要求一次导出至少3个贴</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30583</guid>
+      <pubDate>Tue, 25 Aug 2026 00:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet</title>
+      <link>https://news.aibase.com/zh/news/30584</link>
+      <description>美国法律 AI 独角兽 Harvey 宣布，基于月之暗面开放权重模型 Kimi K3，通过后训练技术开发出法律专用模型 Harvey Tenet。这意味着中国开放权重模型 首次 进入美国头部垂直 AI 公司的训练体系。 Harvey 此前主要依赖 OpenAI、Anthropic 等闭源模型提供法律服务，覆盖超 2400 家机构、20 多万名律师，客户包括众多 世界级 企业法务部门。 公开信息显示其当前估值 110 亿美元、年化收入约 3.5 亿美元，为估值 最高 的法律 AI 独角兽，正以约 155 亿美元开启新一轮融资。从闭源依赖到采用中国开源底座，Tenet 的落地也折射出开放权重模型在</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30584</guid>
+      <pubDate>Tue, 25 Aug 2026 00:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>阿里 800 亿港元"梭哈"AI：近 3 倍超额认购，蔡崇信吴泳铭跟投</title>
+      <link>https://news.aibase.com/zh/news/30585</link>
+      <description>阿里巴巴 8 月 24 日完成 800 亿港元（约 102 亿美元）新股配售定价，所得净额将 100% 投入全栈 AI 能力建设与基础设施。据接近交易人士称，本次配售获近 3 倍超额认购、超 2000 亿港元，主权与长线基金最终认购比例超 40%，中东、欧洲、亚洲主要主权基金均积极参与。 管理层自掏 1.2 亿港元跟投 港股交所信息显示，配售后集团主席蔡崇信、CEO 吴泳铭合计增持约 1.2 亿港元阿里股票，为 AI 战略投下信心票。蔡崇信以约 112 港元均价买入 72 万股、耗资 8000 万，吴泳铭以约 111.6 港元均价买入 35 万股、耗资 4000 万，二人共增 107 万股。 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30585</guid>
+      <pubDate>Tue, 25 Aug 2026 00:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grok Build迎来最强外挂！集成Browser-Use插件，AI正式接管你的浏览器</title>
+      <link>https://news.aibase.com/zh/news/30586</link>
+      <description>近日，SpaceX AI宣布为其Grok Build平台新增了一款功能强大的Browser-Use插件。这一功能的上线，使得Grok能够直接调用真实浏览器，从而打通了AI与复杂网页交互的物理壁垒。 在具体的使用模式上，该插件提供了灵活的选择空间。用户既可以调用本地计算机中已经保存登录状态的Chrome浏览器，也可以选择隔离的Browser-Use云端浏览器环境。尤为值得一提的是，当调用本地Chrome浏览器时，整个过程甚至无需额外提供API密钥。 借助该插件赋能，Grok Build的能力边界得到了显著延伸。它不仅能够自主浏览网页、抓取并提取网页中的各类数据、在线填写表单，还能独立进行网页应用</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30586</guid>
+      <pubDate>Tue, 25 Aug 2026 00:59:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
