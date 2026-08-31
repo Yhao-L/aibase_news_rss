@@ -8,62 +8,111 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 29 Aug 2026 05:45:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 03:51:40 +0000</lastBuildDate>
     <item>
-      <title>Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道</title>
-      <link>https://news.aibase.com/zh/news/30692</link>
-      <description>Anthropic 于 8 月 27 日发布博文，以研究预览形式推出"模型硬件标准"（MHS）。路透社、CNBC 等媒体解读认为，这标志着该公司 首次 公开进军具身智能与物理 AI 领域——即能感知物理世界、执行复杂动作并持续学习的 AI 系统，从自动驾驶到机械臂皆可承载。 给 AI 装"身体"的统一翻译层 与早前的模型上下文协议（MCP）类似，MHS 本质是一套统一的控制与通信标准，让 AI 智能体操控具备可编程接口的设备。借助这一"翻译层"，代理可在几乎无人工干预下同时控制显微镜、液体处理器、机械臂乃至量子计算设备，全天候自主跑流程。 早期闭门测试中，MHS 在生物医药、量子计算与先进制造</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30692</guid>
-      <pubDate>Fri, 28 Aug 2026 06:08:00 +0000</pubDate>
+      <title>国内首部全AI生成长剧《后西游记》今日开播，首创“边审边播”模式</title>
+      <link>https://news.aibase.com/zh/news/30701</link>
+      <description>国内首部全AI生成的长篇剧集《后西游记》于8月31日正式与观众见面。该剧定于当日18:00在芒果TV 全网 独播，随后于20:00登陆湖南卫视电视剧黄金档。首批率先上线的“花果山篇”共计5集，每集时长40分钟。其中，芒果TV SVIP会员可抢先观看3集，VIP会员可抢先看2集。 在内容设定方面，《后西游记》改编自明末清初同名神魔小说，作为《西游记》的三大续书之一，其 第一 季规划共计30集，每集40分钟。剧集巧妙地将原著宏大框架与《西游记》原有的伏笔线索相融合，构建起一个完整的“西游后传”叙事体系。故事背景设定在孙悟空封圣一千零八十年后，因花果山遭遇全新危机，小石猴孙小圣就此觉醒，并与唐半偈等</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30701</guid>
+      <pubDate>Mon, 31 Aug 2026 00:51:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控</title>
-      <link>https://news.aibase.com/zh/news/30693</link>
-      <description>人工智能企业Anthropic近日正式推出面向硬件的MCP标准——模型硬件标准。作为一项旨在帮助大模型驱动的AI智能体安全、快捷操纵物理设备的新标准，MHS被视为推动AI技术跨越虚拟与现实鸿沟的关键一步。 该标准源于Anthropic与霍华德·休斯医学研究所Janelia研究园区的深度合作，目前已面向首批科研实验室和先进制造商开放研究预览版。在实际应用中，MHS展现出了惊人的效率提升，能够将硬件集成所需的时间从过去的数周甚至数月，大幅缩短至数小时甚至数分钟，极大地降低了科研与工业自动化的技术门槛。 在核心功能与协作表现上，MHS能够助力研究人员和工程师轻松协调自主全天候的实验与工作流程。在测试</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30693</guid>
-      <pubDate>Fri, 28 Aug 2026 06:14:00 +0000</pubDate>
+      <title>深度对齐与自研坚守：字节跳动豆包大模型2.2宣布推迟发布</title>
+      <link>https://news.aibase.com/zh/news/30702</link>
+      <description>字节跳动原计划于 8 月推出的豆包大模型 2.2 将适当推迟面世。本次延期的核心原因是内部希望通过更充分的预训练和后训练，全面提升模型在编程、工具调用以及 Agent 智能体等维度的综合能力，力求以更长的研发周期换取性能的显著跃升。 作为两代大模型之间的关键技术补强，豆包大模型 2.2 采取了更为扎实的研发路径。它既不等待下一代超大模型完全成型再去解决编程等痛点，也拒绝简单的日常迭代模式。按照规划，Seed 团队将 2026 年的主要目标之一锚定在将 Coding 能力推向行业 第一 梯队，并期望其能在年底前展现出对标智谱 GLM-5.2 以及 Kimi-K3 等同类前沿产品的行业冲击力。 在</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30702</guid>
+      <pubDate>Mon, 31 Aug 2026 00:56:00 +0000</pubDate>
     </item>
     <item>
-      <title>腾讯混元发布开源旗舰模型Hy4preview，总参数770B、上下文1M</title>
-      <link>https://news.aibase.com/zh/news/30694</link>
-      <description>腾讯混元8月28日正式发布新一代开源旗舰大模型Hy4preview，总参数770B、激活参数49B，上下文长度1M，定位真实生产力场景。模型已同步开源至HuggingFace、Github、Modelscope等平台，并在腾讯云TokenHub、OpenRouter上线，用户可在WorkBuddy/CodeBuddy、元宝、ima等产品中直接体验。 能力层面，Hy4preview依托与腾讯内部软工、游戏、金融、安全等领域专家的高质量数据共建，在四大方向取得进展:软件工程上增强长程开发任务的理解、规划与调试;办公场景可完成从数据分析到文档、表格、演示文稿的完整交付;游戏开发支持通过MCP接入Un</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30694</guid>
-      <pubDate>Fri, 28 Aug 2026 06:29:00 +0000</pubDate>
+      <title>米哈游 AI 女友《BSide: Olivia Lin》上线不足一月停运，离线版本今日限时领取</title>
+      <link>https://news.aibase.com/zh/news/30703</link>
+      <description>米哈游发布公告，旗下桌面陪伴软件《BSide: Olivia Lin》于 8 月 31 日正式停止运营，距离 7 月 13 日在Steam开启抢先体验尚不足一个月。官方同步推出离线版本，玩家需在北京时间当天15: 00 前限时下载，服务器关闭后仍可继续使用部分功能。 离线版本保留部分陪伴能力 官方介绍，离线版本支持用户在本地继续聆听角色"林离"的演奏，并使用桌面动态壁纸等功能，服务器关闭后不受影响、仍可运行。米哈游表示，林离在离线版中也会保留部分陪伴能力，用户可继续体验相关内容。 米哈游称，虽然运营时间短暂，但期间收到了用户围绕林离的互动内容，包括聆听黑胶、书写信件与上传旋律等体验。数据方面，</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30703</guid>
+      <pubDate>Mon, 31 Aug 2026 01:08:00 +0000</pubDate>
     </item>
     <item>
-      <title>蚂蚁集团携手中金公司推出首个金融增强大模型Ling-3.0-flash-Fin</title>
-      <link>https://news.aibase.com/zh/news/30695</link>
-      <description>蚂蚁集团近日携手中金公司及多位行业专家，正式发布了蚂蚁百灵旗下的首个金融增强大模型Ling-3.0-flash-Fin。该模型在延续原有架构与参数配置的基础之上，通过海量专业金融语料的深度训练，实现了投研核心能力的显著强化。 在技术特性与核心能力方面，该模型全面聚焦信息检索等四大核心能力。经过多项严格的基准测试，其在专业领域的表现尤为突出，同时通用能力也得到了进一步提升。为了推动行业生态共同发展，双方倾力打造的 FinFIRST 金融搜索基准也即将迎来开源。 在生态与开放计划方面，Ling-3.0-flash-Fin将在OpenRouter平台上提供为期一个月的免费 API 调用服务，其模型权</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30695</guid>
-      <pubDate>Fri, 28 Aug 2026 06:40:00 +0000</pubDate>
+      <title>丹麦紧急出手整治 AI 作弊：加口头答辩、监控考试电脑屏幕</title>
+      <link>https://news.aibase.com/zh/news/30704</link>
+      <description>丹麦多所高中今年夏天考试季的 AI 作弊案例明显增多，生成式 AI 进入校园后，学生用 AI 写作业乃至考试作弊，给传统教育与考试制度带来新挑战。为此丹麦政府近日推出紧急方案，通过增加口头答辩、监控考试电脑屏幕等方式遏制乱象。 不把 AI 赶出校园，而是规范使用 按方案，每年约 9000 名学生在完成专业书面作业外还将增加口头答辩；政府同时呼吁在笔试期间监控学生电脑屏幕，用网络过滤限制访问未经允许的内容，并鼓励学生在校内受控环境下完成书面作业。 尽管 AI 作弊带来挑战，学校、学生与家长普遍认为不能简单地把 AI"赶出学校"，而应找到更合理的利用方式。这股调整并非孤例：澳大利亚高校今年早些时候</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30704</guid>
+      <pubDate>Mon, 31 Aug 2026 01:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭</title>
-      <link>https://news.aibase.com/zh/news/30696</link>
-      <description>微博官方 8 月 28 日发布正式公告澄清，网传所谓孙宇晨与谷爱凌的聊天记录属完全捏造的不实谣言，相关恶意造谣内容已被平台全部处置。这起凭空虚构的 AI 造谣事件，由孙宇晨前女友曾颖公开出面戳破——她从未在任何平台发布过相关裸照内容，全套聊天记录本质都是 AI 自动生成的虚假产物。 买流量推热搜，黑产痕迹明显 曾颖爆料，发布造谣内容的博主账号全站仅关注一人、注册后只发过这一条谣言，却蹊跷地被推上微博热搜第八，背后疑似存在花钱买流量炒作的黑产操作。她呼吁谷爱凌经纪团队跟进维权、坚决起诉造假者，并号召网友共同抵制低俗造谣。 随后微博社区管理账号"围脖侠"发布处置通报：经后台核查，涉事用户通过 AI</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30696</guid>
-      <pubDate>Fri, 28 Aug 2026 06:41:00 +0000</pubDate>
+      <title>不到四百美元还能自己动手训练！Hugging Face 推出微型开源双足机器人Microduck</title>
+      <link>https://news.aibase.com/zh/news/30705</link>
+      <description>Hugging Face 旗下开源机器人公司 Pollen Robotics 近日正式开源了一台迷你双足机器人—— Microduck （微鸭）。这只身高仅25cm、重量约800g 的机器鸭，不仅外形呆萌，更将强化学习、Sim2Real、实时控制等多项前沿技术浓缩其中，成为一台极具参考价值的迷你具身智能开发平台。 迷你身材，技能满满 Microduck 搭载 Rockchip RK3566处理器，真机以50Hz 控制频率驱动15个舵机。它早已掌握多种实用技能:可通过游戏手柄控制双足行走;摔倒后能自主重新站起;低头用喙部捡起地面物品;完成坐下、起立、踢球、前滚翻等动作。更有趣的是，给脚底装上轮子</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30705</guid>
+      <pubDate>Mon, 31 Aug 2026 01:16:00 +0000</pubDate>
     </item>
     <item>
-      <title>腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队</title>
-      <link>https://news.aibase.com/zh/news/30697</link>
-      <description>腾讯混元团队今天正式发布全新一代旗舰模型预览版——Hy4preview。该模型总参数量达到770B，激活参数为49B，上下文长度支持到1M。凭借在模型尺寸、上下文长度及数据规模上的全面扩展，它在代码、办公、科学等真实生产力任务中展现出卓越性能，稳居开源模型 第一 梯队。在多项内部盲测中，其综合表现优于同类竞品。 在真实生产力场景的应用上，Hy4preview通过与腾讯内部多领域专家的深度合作实现了多维跃升。软件工程方面，它显著增强了长程开发理解、规划、调试与验证能力，并优化了前端视觉审美与交互质量;办公分析方面，大幅提升了复杂办公环境理解与金融分析水平，能顺畅完成从信息处理到文档、表格与演示文</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30697</guid>
-      <pubDate>Fri, 28 Aug 2026 07:19:00 +0000</pubDate>
+      <title>Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪</title>
+      <link>https://news.aibase.com/zh/news/30706</link>
+      <description>8月，全球知名职场评价平台 Glassdoor 发布的 最新 数据显示，美国员工对企业引入人工智能（AI）的满意度呈大幅下滑趋势。分析表明，从2019年初至2026年中期，Glassdoor上涉及“AI”、“大语言模型(LLM)”、“GPT”等关键词的评论占比增长了240%以上。 然而，员工对AI的积极评价比例却从2019年的81%骤降至2026年年中的43%，负面评价则升至53%，标志着职场内部对AI技术落地的态度已正式从早期追捧转向普遍怀疑。 数据揭示出不同层级与群体间巨大的认知裂痕。高管与管理层对AI的看法最为乐观，软件架构师等技术规划岗位对其积极评价居多。相反，直接承接AI落地压力的基</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30706</guid>
+      <pubDate>Mon, 31 Aug 2026 01:23:00 +0000</pubDate>
     </item>
     <item>
-      <title>腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队</title>
-      <link>https://news.aibase.com/zh/news/30698</link>
-      <description>腾讯今日发布混元 Hy4 preview 模型，总参数 770B、激活参数 49B，上下文长度达到 1M。官方称该模型在尺寸、上下文与数据规模上均显著扩展，预训练与后训练同步进步带来智能水平再次跃升，稳居开源模型 第一 梯队。目前模型已开源，在 HuggingFace、GitHub、ModelScope 与 Gitcode 同步上线，并接入腾讯云 TokenHub 与 OpenRouter。 生产力场景全线进阶，盲测力压 GLM-5.3 与 Kimi K3 依托与腾讯内部软件工程、游戏、金融、安全等领域专家的高质量数据共建，Hy4 preview 在真实任务上进步明显：软件工程侧强化长程开发的</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30698</guid>
-      <pubDate>Fri, 28 Aug 2026 07:20:00 +0000</pubDate>
+      <title>音乐巨头联手向AI开炮：索尼华纳正式起诉Anthropic涉嫌大规模版权盗窃</title>
+      <link>https://news.aibase.com/zh/news/30707</link>
+      <description>全球唱片业巨头索尼与华纳近期正式向人工智能独角兽 Anthropic 提起重磅诉讼，指控其犯下了科技发展史上规模 最大 、性质最恶劣的知识产权侵权行为之一。这场诉讼的核心直指 Anthropic 在开发和运营 Claude 系列 AI 模型时，未经授权非法利用了数万首受版权保护的音乐作品进行模型训练。 根据起诉书详细披露的内容，Anthropic 及其创始人 Dario Amodei 和 Benjamin Mann 被指控采取了极其激进且缺乏合规边界的手段来获取训练数据。诉讼指出，Mann 曾通过 BitTorrent 下载了超过 500 万本盗版图书，而 Anthropic 的其他员工也从诸</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30707</guid>
+      <pubDate>Mon, 31 Aug 2026 01:23:00 +0000</pubDate>
     </item>
     <item>
-      <title>腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免</title>
-      <link>https://news.aibase.com/zh/news/30699</link>
-      <description>腾讯WorkBuddy于8月28日宣布首发接入腾讯混元新一代开源大模型Hy4preview，国内版与国际版同步上线，并推出限时免费政策:Hy4preview开放为期两周的免费体验，上一代Hy3的免费使用期限同时延长一个月至9月30日。 Hy4preview为腾讯混元当日正式发布的开源旗舰模型，总参数770B、激活参数49B，上下文长度达1M，定位代码、办公、科学等真实生产力场景，已开源至HuggingFace等平台，并在腾讯云TokenHub、OpenRouter上线。 此次WorkBuddy国内版与国际版同步首发接入，使开发者可在编程与智能办公工作流中直接调用该模型，实现从模型发布到产品落地</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30699</guid>
-      <pubDate>Fri, 28 Aug 2026 08:09:00 +0000</pubDate>
+      <title>国内首部 AIGC 长剧《后西游记》今日开播，也是首部"边审边播"剧集</title>
+      <link>https://news.aibase.com/zh/news/30708</link>
+      <description>国内首部 AIGC 长剧《后西游记》于 8 月 31 日 18:00 正式开播，率先亮相的"花果山篇"共 5 集、每集 40 分钟。该剧不仅在芒果 TV 上线，还于当晚 20:00 登陆湖南卫视电视剧黄金档，其中 SVIP 会员可抢先看 3 集、VIP 会员抢先看 2 集。 四十回原著重构"西游后传" 这部神话题材季播剧改编自明末清初匿名作者所著的同名神魔小说， 第一 季共 30 集。作为《西游记》三大续书之一，原著讲述世人误解真经、"西游二代"再度集结取经的故事，剧集把四十回框架与原著伏笔深度融合，构建出完整的"西游后传"叙事体系。 故事始于孙悟空封圣一千零八十年之后：当年取回的真经逐渐缺损</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30708</guid>
+      <pubDate>Mon, 31 Aug 2026 01:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%</title>
+      <link>https://news.aibase.com/zh/news/30709</link>
+      <description>8月30日，人工智能初创公司Anthropic通过官方X账号证实，将对其旗下的AI代码助手 Claude Code 的使用限制进行调整。自同年9月14日起，Pro、Max、Team和Enterprise等付费套餐的基本每周使用量限制将在原有基础上 永久 性提高25%。 然而，由于目前生效的临时50%用量提升政策将于9月14日截止，本次规则更新实际上意味着用户未来可用的每周配额比当前临时额度减少了17%。Anthropic对此表示，正在持续推进体验改进，力求让用户获得更高的收益回报，同时提升使用状况的透明度与自主控制权。 在调整额度上限的同时，Anthropic近期针对 Claude Code </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30709</guid>
+      <pubDate>Mon, 31 Aug 2026 01:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院</title>
+      <link>https://news.aibase.com/zh/news/30710</link>
+      <description>华为近日联合上海交通大学医学院附属瑞金医院，正式对外发布了全新的瑞智病理大模型RuiPath 2.0，并在现场举办了盛大的授牌仪式，宣布该模型已正式落地全国 90 多家医院投入实际应用。 作为医疗AI领域的全新进展，RuiPath 2. 0 在核心诊断能力上实现了显著升级。其 最大 的亮点在于对常见癌症中那些隐蔽的少见及罕见亚型具备了更强的识别能力，有效攻克了传统病理诊断中容易出现漏诊、误诊的复杂痛点。 此外，研发团队正在该版本的基础上，进一步深入探索病理多模态生成式基础模型在淋巴瘤这一复杂临床诊断场景中的应用落地，力求为医生提供更加精准、高效的智能辅助决策工具。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30710</guid>
+      <pubDate>Mon, 31 Aug 2026 01:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群</title>
+      <link>https://news.aibase.com/zh/news/30711</link>
+      <description>腾讯混元于8月31日发布声明称，自8月28日旗舰模型Hy4preview在WorkBuddy平台首发接入以来，凭借其Agent能力的显著升级，迅速引发广大用户与开发者的体验热潮。由于上线首日即触发高并发需求，导致WorkBuddy任务队列出现排队等待现象。为此，腾讯已对Hy4preview推理集群紧急实施扩容，并将持续进行资源的动态调配，以全力保障服务响应效率。 随着大模型技术加速向复杂Agent应用落地演进，高性能推理算力的供需矛盾日益突出。腾讯方面指出，受限于高端算力总量规模以及高峰期并发调用的高度集中，在后续特定高峰时段仍不排除继续出现短时排队的情况。为平抑流量高峰并满足用户的连续业务需</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30711</guid>
+      <pubDate>Mon, 31 Aug 2026 02:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>国产黑马本地大模型StartLux-27B正面硬刚DeepSeek，开启端侧AI新时代</title>
+      <link>https://news.aibase.com/zh/news/30712</link>
+      <description>中国信通院人工智能研究所近日公布的检验报告显示，上海原点星辉科学技术有限公司（StartLux）研发的本地大模型 StartLux-V1.0-27B-Preview 在可信AI大模型基准测试(MCP专项测试)中表现亮眼。该模型以27B 的参数量取得了综合性能排名第二的成绩，超越了第三名的 DeepSeek-V4-Flash，其能力范围正式跨入 DeepSeek-V4-Pro 所代表的万亿参数模型能力区间。 此次 MCP专项测试共涵盖位置导航、网页搜索、浏览器自动化、金融分析、代码仓库管理、3D设计等6类专项任务及综合评估，重点考察大模型在多工具协同、复杂任务执行及真实环境交互等维度的综合表现。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30712</guid>
+      <pubDate>Mon, 31 Aug 2026 03:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>苹果新CEO特努斯9月1日上任，AI与新版Siri成首要任务</title>
+      <link>https://news.aibase.com/zh/news/30713</link>
+      <description>据报道，苹果硬件工程负责人约翰·特努斯将于9月1日正式接任CEO，人工智能将成为其任期内的首要任务。苹果此前已宣布，现任CEO蒂姆·库克将转任董事会执行主席，特努斯则接任CEO。 特努斯拥有25年硬件产品经验，曾参与Mac、iPad、AirPods和iPhone等产品研发。分析认为，他上任后将面对苹果AI发展相对滞后、服务业务增长放缓以及供应链成本上升等挑战。据科技记者马克·古尔曼透露，苹果计划于9月全面推出新版Siri AI，并继续推进一系列AI硬件产品，包括能够识别用户并提供个性化内容的智能家居设备、具备环境感知能力的摄像头版AirPods，以及智能眼镜等。 与此同时，特努斯也在推动AI用</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30713</guid>
+      <pubDate>Mon, 31 Aug 2026 03:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol</title>
+      <link>https://news.aibase.com/zh/news/30714</link>
+      <description>据外媒 Android Headlines 报道，微软已开始收紧 Token 使用管理，一方面设置 Token 用量监控，另一方面把内部默认工作负载逐步切换至 GPT-5.6 Sol 以降低 AI 成本。导火索是一份泄露的内部表格：近几个月部分员工为抬高数据排名大量调用 AI，其中一人在 28 天内产生了约 2.8 万美元（约合 18.9 万元人民币）的 Token 成本，引发高层担忧。 部门差异悬殊，CoreAI 最"烧钱" 参考数据显示，微软全球员工超过 22.3 万人，其中约 350 名美国员工自愿提交了月度 AI 使用数据，整体月度成本中位数约 300 美元（约 2024 元人民币）。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30714</guid>
+      <pubDate>Mon, 31 Aug 2026 03:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务</title>
+      <link>https://news.aibase.com/zh/news/30715</link>
+      <description>彭博社记者马克·古尔曼发文称，现任苹果硬件工程 高级 副总裁约翰·特努斯将于当地时间 9 月 1 日正式接任首席执行官，人工智能将成为其任期内的首要任务。 苹果已于 8 月 23 日在 Apple Park 为即将卸任的蒂姆·库克举办聚会，约 200 人出席、OneRepublic 乐队现场演出；按规划，库克将转任董事会执行主席，并继续负责与全球政策制定者沟通等事务。 硬件老将接棒，首场发布会即大考 特努斯出生于 1975 年，2001 年加入苹果产品设计团队，2013 年晋升硬件工程副总裁，2021 年进入高管团队出任硬件工程 高级 副总裁。在苹果任职期间，他负责了多个品类中众多突破性产品的</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30715</guid>
+      <pubDate>Mon, 31 Aug 2026 03:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
