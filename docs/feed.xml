@@ -8,188 +8,230 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 10 Sep 2026 03:15:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 03:10:58 +0000</lastBuildDate>
     <item>
-      <title>蚂蚁开源 Ling-3.0-flash-VL：124B 参数原生多模态大模型正式登场</title>
-      <link>https://news.aibase.com/zh/news/30924</link>
-      <description>蚂蚁开源团队正式发布并开源了百灵系列的首个原生多模态大模型 Ling-3.0-flash-VL。该模型基于 Ling-3.0-flash 的 MoE 架构拓展而来，总参数量达到 124B，单次推理激活 5.5B 参数，原生支持图像、文本与视频输入，且上下文窗口达到了 256K Token。 在研发过程中，团队重点探索了如何让大模型更可靠、更高效地完成真实任务。针对业界普遍担心“给大模型加上视觉能力会拉低文本智能”的顾虑，其实际训练实践给出了相反的结论：原生多模态联合训练不仅拓展了应用边界，反而进一步拉升了文本智能。 为了实现更精准的执行效果，Ling-3.0-flash-VL 引入了创新的视觉</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30924</guid>
-      <pubDate>Wed, 09 Sep 2026 05:59:00 +0000</pubDate>
+      <title>张宏江外滩大会分享：Agent Economy时代，组织层面的“涌现”成核心竞争力</title>
+      <link>https://news.aibase.com/zh/news/30951</link>
+      <description>9 月 10 日，在 2026 Inclusion·外滩大会开幕主论坛上，源码资本投资合伙人、美国国家工程院外籍院士张宏江表示AI新经济将变革企业组织形态。他认为，随着AI技术的发展，对未来的组织架构提出了新的要求，企业未来的核心竞争力在于能否将企业的 IP、Know-how、用户关系和产品能力转化为模型，并使该模型产生涌现（Emergence）效应。 2025 年，张宏江在外滩大会重点阐述智能体群（Agent Swarm）和Agent Economy概念。而 2026 年则是对上述观点的进一步深化。外滩大会成为观察AI新经济发展脉络的窗口。 他在题为《人工智能加速演进:大模型技术发展的 3 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30951</guid>
+      <pubDate>Thu, 10 Sep 2026 04:26:00 +0000</pubDate>
     </item>
     <item>
-      <title>曹操出行联合豆包上线 AI 打车服务，首批落地北京、杭州、苏州</title>
-      <link>https://news.aibase.com/zh/news/30925</link>
-      <description>曹操出行与豆包联合推出的 AI 打车服务已在北京、杭州、苏州上线。用户在豆包内咨询路线、地点、餐饮娱乐等本地生活信息时，系统可根据对话内容生成出行方案，并直接衔接曹操出行的打车服务。 曹操出行表示，后续双方还将拓展智能车控等 AI 出行功能，并将相关服务向更多城市复制，同时进一步探索 Robotaxi 服务能力。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30925</guid>
-      <pubDate>Wed, 09 Sep 2026 06:34:00 +0000</pubDate>
+      <title>为什么AI还没有真正发现新的科学?普林斯顿王梦迪:答案可能不在模型里</title>
+      <link>https://news.aibase.com/zh/news/30952</link>
+      <description>9月10日，在2026Inclusion·外滩大会主论坛上，普林斯顿大学人工智能创新中心主任王梦迪教授提出一个问题:AI距离自主发现新科学还有多远? 她的判断是，今天的大模型已经掌握了大量人类知识，但在真正的科学发现上仍然存在明显局限:大模型更擅长找到“最可能”的答案，而真正的新发现，往往藏在概率分布的长尾里。 王梦迪团队近期与普林斯顿大学社会学教授谢宇合作，用ChatGPT、Claude等大模型进行“模拟人生”实验。例如，让模型模拟一个1930年出生的英国人，自主生成自己此后的人生轨迹。 实验发现，在结婚年龄、职业、性别等多个问题上，大模型倾向于高估最常见的情况，却明显低估少数情况和长尾分布</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30952</guid>
+      <pubDate>Thu, 10 Sep 2026 04:28:00 +0000</pubDate>
     </item>
     <item>
-      <title>京东启动“物理 AI 加速计划”：要建全球最大物理世界运营中心</title>
-      <link>https://news.aibase.com/zh/news/30926</link>
-      <description>在京东全球科技探索者大会（JDD 大会）上，京东集团技术委员会主席、京东云总裁曹鹏表示，物理 AI 正迈向规模化落地，竞争焦点转向算力、数据和场景，从模型和本体的单点竞争走向体系化竞争。 他强调，京东做 AI“不是单纯地在论文里面，而是在生产线上、在仓库里、在配送站，在我们整个全供应链的全流程里面，一单一单磨出来的”。围绕 超级 供应链建设，京东正式启动“京东物理 AI 加速计划”，聚焦具身机器人的数据、机器、制造、销售、物流、服务六大方向持续投入。 六大目标：从千万小时数据到 300 万台机器人 数据方面，京东目标打造“全球 最大 的具身数据训练中心”，计划两年内累计采集超过千万小时的人类真</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30926</guid>
-      <pubDate>Wed, 09 Sep 2026 06:57:00 +0000</pubDate>
+      <title>Marvis Windows 版本更新 最低门槛从6核16GB降到4核8GB</title>
+      <link>https://news.aibase.com/zh/news/30953</link>
+      <description>近日，Marvis Windows 版本更新，新版客户端将 最低 配置要求从6核16GB下调至4核8GB，让更多低配置PC设备可以安装并使用 Marvis核心AI能力。同时，版本新增任务通知功能，用户可及时了解任务执行状态和进度。 优化运行模式 降低使用门槛 作为操作系统层级的个人AI助手，Marvis能够搜索电脑中的文件/图片内容，还能根据人像、内容主题、节日地点等维度提供AI图片、AI文档库等特色能力。解决人“不记得文件名就找不到文件”的日常难题。这背后是多个本地小模型带来的效果，由此也产生了对处理器、内存等设备性能的基础要求。产品早期设置6核16GB门槛，主要是为了解决资源竞争、内存不足</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30953</guid>
+      <pubDate>Thu, 10 Sep 2026 04:32:00 +0000</pubDate>
     </item>
     <item>
-      <title>三星与Mistral达成合作 全面赋能芯片设计与制造</title>
-      <link>https://news.aibase.com/zh/news/30927</link>
-      <description>在刚刚落幕的韩法总统峰会期间，全球科技巨头三星电子正式宣布与法国知名AI初创公司Mistral AI达成重要合作。根据规划，三星将把Mistral AI的 尖端 服务与解决方案深度整合进自身的半导体业务当中，全面赋能芯片的设计与制造流程。 作为成立于2023年、由前谷歌 DeepMind 与 Meta 核心员工打造的欧洲AI新星，Mistral AI拥有包括 Mistral Large 在内的高性能大语言模型。在此次合作中，三星计划借助这些先进的AI技术开发定制化AI模型，以此大幅提升半导体设计和制造的整体水平。 通过引入AI驱动的智能化解决方案，三星旨在实现多个核心战略目标:首先是加快芯片的</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30927</guid>
-      <pubDate>Wed, 09 Sep 2026 07:13:00 +0000</pubDate>
+      <title>诺奖得主阿吉翁:AI时代，比以往任何时候都更需要重视手工劳动和软技能</title>
+      <link>https://news.aibase.com/zh/news/30954</link>
+      <description>9月10日，2026Inclusion·外滩大会以“共创AI新经济”为主题开幕。围绕这一主题，诺贝尔经济学奖得主、法国经济学家菲利普·阿吉翁带来了以“创造性破坏”与人工智能革命为题的分享。他认为，AI有望在未来十年使生产率增速每年额外提高约1.08个百分点，潜在影响或超过IT革命;但这种技术潜力能否转化为持续增长，取决于竞争政策、教育体系和劳动力市场制度能否同步跟上。 阿吉翁首先从生产率角度分析了AI可能带来的经济影响。他和同事的研究显示，仅考虑AI对商品和服务生产中任务的自动化，未来十年，AI就有望使生产率增速每年额外提高0.68个百分点，这一影响与根据IT革命经验推算出的生产率提升处于同一</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30954</guid>
+      <pubDate>Thu, 10 Sep 2026 04:35:00 +0000</pubDate>
     </item>
     <item>
-      <title>联通联手魅族发布“小魔方”AI 手机：4 英寸方屏仅 99 克，主打全语音交互</title>
-      <link>https://news.aibase.com/zh/news/30928</link>
-      <description>中国联通发布“小魔方”AI 原生终端。该产品由中国联通与魅族合作研发，搭载云智 OS，采用 4 英寸小方屏设计，整机重量 99 克，主打全语音操控、AI 智能服务、智能通话及端云协同。 能点咖啡、能“看世界”，通话自带翻译与速记 小魔方内置 AI 原生云智 OS，可执行点咖啡、智能家居控制等生活场景任务。依托端侧摄像头和大模型能力，产品还支持“AI 看世界”，可识别现实环境中的物体并提供相关信息。 小魔方深度融合中国联通智能新通话服务，支持 AI 翻译、AI 速记、通话摘要、无障碍接听以及情绪识别。其中，AI 翻译可进行中英文实时翻译，AI 速记可在通话结束后生成摘要和待办事项，无障碍接听则支</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30928</guid>
-      <pubDate>Wed, 09 Sep 2026 07:28:00 +0000</pubDate>
+      <title>DeepSeek V4.1 Flash发布：原生多模态视觉理解全面超越Pro版</title>
+      <link>https://news.aibase.com/zh/news/30955</link>
+      <description>深度求索今日正式发布了全新模型结构系列中的最小尺寸成员——DeepSeek V4.1Flash。作为一款具备原生多模态视觉理解能力的轻量化模型，其设计初衷旨在实现更高的能力上限、更快的推理速度、更大的吞吐量，并具备向更大参数模型扩展的潜力。 在核心架构方面，DeepSeek V4.1Flash 采用了552B 参数的 MoE（混合专家）架构，并创新性地引入了全新的 Causal-Encoder-Decoder 结构。由于采用了输入和输出不对称的设计，其输入激活仅有8B，输出激活为16B，使得整体成本显著低于同尺寸的已知模型。配合全新的预训练方式以及更大规模的强化学习后训练，该模型在各项基准测试</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30955</guid>
+      <pubDate>Thu, 10 Sep 2026 05:58:00 +0000</pubDate>
     </item>
     <item>
-      <title>冲击科创板！DeepSeek 传已聘请中信证券筹备年内 IPO，估值剑指 5000 亿</title>
-      <link>https://news.aibase.com/zh/news/30929</link>
-      <description>人工智能领域的明星独角兽正加速迈向资本市场。根据路透社等媒体的 最新 报道，深度求索 DeepSeek 已经正式聘请中信证券，全面筹备在国内科创板上市的相关事宜，并把目标锁定在年内正式递交 IPO 申请、明年实现挂牌上市。 此次通过 IPO 筹集的资金将主要投向四大核心方向:进一步扩大算力基础设施建设、加大前沿大模型与芯片自研的投入，同时强化核心研发人才的激励体系。在业务高速增长的背景下，DeepSeek 在2026年前七个月已实现约4.75亿元人民币的营业收入，这一数字大约是2025年全年营收的十倍，展现出强劲的商业化落地能力。 伴随着上市进程的推进，公司的融资版图也在持续扩张。路透社指出，</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30929</guid>
-      <pubDate>Wed, 09 Sep 2026 07:38:00 +0000</pubDate>
+      <title>财跃星辰联合上海交大开源Alpha-R1：8B小模型如何颠覆资产配置？</title>
+      <link>https://news.aibase.com/zh/news/30956</link>
+      <description>近日，界面财联社旗下大模型科技公司财跃星辰联合上海交通大学安泰经济与管理学院花成副教授团队，正式开源发布了全新的金融推理大模型 Alpha-R1。该模型以8B 参数为基座，凭借独创的“语义门控”推理技术和两阶段强化学习训练框架，在金融推理任务的样本外评测中实现了对通用大模型与传统方法的全面大幅领先。 在实际的金融投研场景中，传统的资产配置和通用大模型往往面临双重痛点。一方面，通用大模型虽然能够阅读海量的财经新闻，却缺乏将新闻与具体投资决策关联起来的能力，就像一个背熟了药典却不会实际看病的医生;另一方面，传统的资产配置策略容易“过时”，静态的统计方法只认历史相关性，既看不懂每条策略背后的经济逻辑</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30956</guid>
+      <pubDate>Thu, 10 Sep 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic顶尖大牛愤然离职：AI失控倒计时，人类正在饮鸩止渴</title>
-      <link>https://news.aibase.com/zh/news/30931</link>
-      <description>近日，人工智能领域再度爆出震撼行业的重磅离职事件。知名AI企业Anthropic的 资深 研究员Jacob Coxon因深感行业正陷入无序的狂飙突进中，毅然选择辞职并退出整个人工智能行业。这一事件迅速在科技界引发强烈震荡，将当前大模型高速演进背后隐蔽的安全危机彻底推向了风口浪尖。 作为拥有深厚数学学术背景的研究人员，年仅 27 岁的Coxon在业内备受瞩目。他此前曾在OpenAI任职，今年早些时候转投Anthropic正是看中了后者在模型安全领域建立的良好声誉。然而，随着全球 顶尖 科技巨头与新锐企业之间展开白热化的军备竞赛，安全性正在沦为被不断压缩和牺牲的筹码。 递归式自我改进（RSI）目前</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30931</guid>
-      <pubDate>Wed, 09 Sep 2026 08:43:00 +0000</pubDate>
+      <title>DeepSeek V4.1 Flash 正式发布：552B MoE 新架构，全面超越 V4 Pro</title>
+      <link>https://news.aibase.com/zh/news/30957</link>
+      <description>深度求索 发布 DeepSeek V4.1 Flash 模型。这是其全新模型结构系列中尺寸最小的模型，具备原生多模态视觉理解能力。新模型结构的设计初衷是：能力上限更高、推理速度更快、吞吐更大、可扩展到更大参数模型。 输入激活仅 8B，HBM 需求降至 1/4 DeepSeek V4.1 Flash 为 552B 参数的 MoE 模型，采用全新的 Causal-Encoder-Decoder 结构，输入和输出不对称——输入激活只有 8B，输出激活 16B，成本显著低于已知的同尺寸模型。新模型还采用了新的预训练方式，并经过更大规模的强化学习后训练，在基准测试中成功超越了包括 DeepSeek V4</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30957</guid>
+      <pubDate>Thu, 10 Sep 2026 06:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI 称正与三星合作开发下一代芯片，双方合作持续深化</title>
-      <link>https://news.aibase.com/zh/news/30932</link>
-      <description>OpenAI 韩国区总经理 Harrison Kim 周三在新闻发布会上表示：“在与三星电子的合作中，我们进展最显著且获得认可最多的领域之一，就是针对我们正在研发的下一代芯片所开展的联合生产与研究。” Kim 还表示，三星电子是“全球范围内应用 ChatGPT 规模 最大 的企业之一”，该公司在韩国及海外的员工都在研发、市场营销和销售等工作中使用 ChatGPT。 他同时指出，随着实现更快速、更复杂计算所需的芯片技术不断升级，存储芯片的需求也将持续增长，这使得与韩国半导体供应商的合作成为 OpenAI 当地办事处的优先事项。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30932</guid>
-      <pubDate>Wed, 09 Sep 2026 08:58:00 +0000</pubDate>
+      <title>蚂蚁集团CEO韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建</title>
+      <link>https://news.aibase.com/zh/news/30958</link>
+      <description>9月10日，2026Inclusion·外滩大会主论坛圆桌论坛一“当Agent成为交易主体”举行，蚂蚁集团CEO韩歆毅与万事达卡首席产品官Jorn Lambert、OPPO 高级 副总裁兼首席产品官刘作虎、阿里巴巴集团首席科学家周靖人，围绕智能体进入消费、交易与支付场景后的产业变化展开讨论。 韩歆毅指出，当前智能体供需两端尚未形成正循环:用户想用，但商家缺少成熟的智能体服务;商家看不到用户在用，又不敢投入开发，形成“先有鸡还是先有蛋”的局面。他把蚂蚁在智能体爆发前夜的角色概括为“催化剂”，一是解决安全和信任问题，二是推动供需生态飞轮运转，让商家智能体服务被用户找到、用起来并在使用中持续变好。 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30958</guid>
+      <pubDate>Thu, 10 Sep 2026 06:55:00 +0000</pubDate>
     </item>
     <item>
-      <title>Meta 推出个人 AI 智能体 Muse：跑在云端虚拟机上，扎克伯格称“不会失控”</title>
-      <link>https://news.aibase.com/zh/news/30933</link>
-      <description>Meta 宣布推出一款名为 Muse 的新 AI 智能体，可代替用户执行各种任务。Muse 将运行在一个专用的云端虚拟计算机上，即将面向美国 18 岁及以上用户开放，可通过苹果 iOS、安卓、Muse 网站以及 WhatsApp 使用；未来还将登录 Instagram 和 Facebook，并被整合到 Meta 的 AI 眼镜中。 据介绍，Muse 由 Meta 最新 的 AI 模型 Muse Spark 1.3 驱动，能够无缝调用 Meta 旗下其他应用，并接入了 Ticketmaster、OpenTable 以及谷歌的一系列服务。用户可以为 Muse 设置名字和头像、调整沟通方式；即使用户</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30933</guid>
-      <pubDate>Wed, 09 Sep 2026 09:05:00 +0000</pubDate>
+      <title>​Kimi携手华胜天成、金山云等巨头杀入企业核心腹地</title>
+      <link>https://news.aibase.com/zh/news/30959</link>
+      <description>9月10日，大模型独角兽月之暗面正式官宣启动“Kimi企业合作伙伴计划”，标志着其大模型技术开始全面向企业级核心业务场景落地发起冲锋。 此次计划的核心目标，在于通过生态合作为企业提供真正能深入核心业务的AI落地路径，并着力培养前线部署工程师（FDE）队伍。随着大模型在各行各业的普及，企业普遍面临“最后一公里”的落地难题，即如何将模型能力与自身业务深度融合。为此，月之暗面将全方位开放模型与Agent底座、方案沉淀以及能力转型等核心支持。 在具体的落地模式上，Kimi采取了高度开放的生态合作战略。月之暗面负责提供先进的模型能力与成熟的工程方法论体系，而合作伙伴则充分发挥自身的行业洞察与客户服务优势</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30959</guid>
+      <pubDate>Thu, 10 Sep 2026 07:28:00 +0000</pubDate>
     </item>
     <item>
-      <title>2026外滩大会探营：当AI开始干活，一种新经济正在形成</title>
-      <link>https://news.aibase.com/zh/news/30934</link>
-      <description>“AI新经济”成为火热概念之后，它到底长啥样?跟普通企业和百姓有什么关系? 9月9日至12日，以“共创AI新经济“为主题的2026Inclusion·外滩大会在上海黄浦世博园区举行，超过300家参展企业汇聚于1.5万平方米的主题科技展区。逛完展会，会有一个直观感受:AI新经济已经不再停留在概念里，而是开始真实发生在商业、产业和每个人的日常生活中。 从入场开始，AI就已经在“工作”:手机“碰一下”即可完成入场核验并唤起展会AI助手;走进展馆，机器人开始在药房、工厂和洗衣房里干活，智能体开始替人处理咖啡、出行、求职等生活琐事，AI也开始进入乡村诊所、街边小店和中小企业。 支撑这一切发生的，不只是一</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30934</guid>
-      <pubDate>Wed, 09 Sep 2026 09:18:00 +0000</pubDate>
+      <title>加州签署多项 AI 安全法案，罕见获得 OpenAI 与 Anthropic 同时背书</title>
+      <link>https://news.aibase.com/zh/news/30960</link>
+      <description>美国加利福尼亚州州长加文·纽森（Gavin Newsom）正式签署了一揽子具有里程碑意义的人工智能监管法案。值得关注的是，这批旨在强化前沿大模型安全风险评估、透明度披露以及防范灾难性网络攻击的新法案，在此前的立法博弈中获得了包括 OpenAI 与 Anthropic 在内的多家硅谷 AI 头部企业的罕见背书与公开支持。 万亿参数级模型上线前须过“红队演练 + 第三方审计” 近年来，随着生成式 AI 算力规模的指数级扩张以及前沿基础模型自主能力的跃升，针对 AI 可能被滥用于关键基础设施破坏、自动化生化武器研发、大规模深度伪造操纵以及严重网络安全漏洞利用的担忧日益加剧。由于美国国会层面在联邦级 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30960</guid>
+      <pubDate>Thu, 10 Sep 2026 07:42:00 +0000</pubDate>
     </item>
     <item>
-      <title>谷歌重磅福利：Gemini每日简报功能向全体免费用户全面开放</title>
-      <link>https://news.aibase.com/zh/news/30935</link>
-      <description>谷歌官方近日正式宣布，旗下人工智能助手Gemini的“每日简报”功能即日起向所有免费订阅用户全面开放。在此之前，这项实用的功能长期被设定为付费门槛，仅向Google AI Plus、Pro或Ultra的 高级 订阅用户提供。 作为一项贴心的智能助手功能，Gemini每日简报能够在每天清晨准时为用户生成一份高度凝练的综合摘要。它可以帮助用户快速梳理当天的待办事项、盘点未回复的电子邮件，并集中呈现其他各类重要关键信息，大幅提升早间的信息处理效率。 在终端适配与覆盖范围方面，该功能目前已同步支持网页端以及移动端App客户端。用户可以直接通过Gemini轻松获取清晰易读的信息摘要。现阶段，该功能已率先</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30935</guid>
-      <pubDate>Wed, 09 Sep 2026 10:00:00 +0000</pubDate>
+      <title>告别配音“对不上嘴”！亚马逊Prime Video重磅上线AI口型同步技术</title>
+      <link>https://news.aibase.com/zh/news/30961</link>
+      <description>语言不通造成的影视剧观看违和感即将成为历史。当地时间9月9日，亚马逊通过新闻稿正式宣布，旗下流媒体平台Prime Video全面上线全新的AI口型同步功能。该技术能够巧妙地将演员的嘴部动作与真人配音的音轨进行精准对齐，彻底解决过去跨语言配音时画面与声音脱节的痛点。 作为该功能的全球首发落地项目，目前这项技术率先支持德国热门剧集《贵族高中:我们之间的鸿沟》的英语配音版。全球订阅用户已经可以在该剧的 第一 季和第二季中体验到这一全新的视听效果。同时，亚马逊官方确认，即将在12月9日上线的第三季也将同步支持该项AI口型同步功能，并在未来逐步扩展到更多影视作品中。 在技术实现层面，Prime Vide</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30961</guid>
+      <pubDate>Thu, 10 Sep 2026 08:08:00 +0000</pubDate>
     </item>
     <item>
-      <title>2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界</title>
-      <link>https://news.aibase.com/zh/news/30936</link>
-      <description>9月9日，2026Inclusion·外滩大会在上海开幕，大会 首次 设立的AI艺术节同步亮相，设AI概念艺术展、AI影像展映、AI音乐会三大单元，将持续至9月12日，把原本多发生在线上的AI创作带到线下现场。 AI概念艺术展《纠缠，而后日以作夜》是国内首个由智能体（Agent）导览的AI概念艺术展，汇聚Gene Kogan、郭锐文、罗霄等20余位国内外艺术家作品。展览中最受关注的是1985年创作的《AARON at Tsukuba， #219-3-85》，由艺术先驱哈罗德·科恩构建的AARON系统自主绘制并署名——AARON被认为是全球首个专为艺术创作设计的AI系统，该作品也是目前已知 唯一</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30936</guid>
-      <pubDate>Wed, 09 Sep 2026 11:28:00 +0000</pubDate>
+      <title>AMD：超 20 款锐龙 AI Max+ PRO 495 设备即将上市，迷你主机成绝对主力</title>
+      <link>https://news.aibase.com/zh/news/30962</link>
+      <description>AMD 在锐龙 AI Max 媒体沙龙上放出信号:近期将有超过20款基于锐龙 AI Max+ PRO495处理器平台的设备上市。这次登场的机型绝大多数走的是迷你主机形态，只有惠普例外——它将带来基于 "Gorgon Halo" 的新一代 ZBook Ultra 移动工作站。 已知的具体机型里，铭凡拿出了 N5MAX-P495和 MS-S1MAX-P495，极摩客推出 EVO-X5Pro，联想则贡献了 ThinkCentre X Ultra，这些产品此前都已陆续出现在公开报道中;像希未 R1Max 这类机型，也有 "Strix Halo" 世代的前身在先。从阵容分布看，AMD 显然想借这颗 PR</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30962</guid>
+      <pubDate>Thu, 10 Sep 2026 08:18:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI Coding诞生新吉尼斯纪录：9岁孩子夺冠，外滩黑客松上万人用AI做应用</title>
-      <link>https://news.aibase.com/zh/news/30937</link>
-      <description>9月9日，外滩大会现场诞生一项新的吉尼斯世界纪录。 外滩黑客松·AI Coding大赛完成吉尼斯世界纪录认证， 以AI应用作品数创造“线上生成式人工智能编程马拉松大赛中开发最多的应用”这一新纪录 ，成为国内首个以AI Coding为主题挑战世界纪录的赛事。赛事吸引上万名参赛者，共完成万件AI应用作品，其中近七成参赛者未满18岁，最小参赛者仅6岁，最终由一名9岁选手夺得冠军。 本届大赛由外滩大会组委会发起，联合小红书、观猹共同主办，国内十余个头部AI Coding平台共同承办。在颁奖现场，11家头部AI Coding平台也共同发布《AI Coding公开挑战赛技术规范》，将大规模赛事实践沉淀为行</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30937</guid>
-      <pubDate>Wed, 09 Sep 2026 11:32:00 +0000</pubDate>
+      <title>千问新款 AI 眼镜 N1“保密式”亮相：首次支持虹膜识别，不带显示屏</title>
+      <link>https://news.aibase.com/zh/news/30963</link>
+      <description>千问新款 AI 眼镜现身 2026 年外滩大会 AI 支付展区。该款眼镜被黑色遮蔽材料大面积包裹，暂时无法判断更多功能及硬件细节。 据新浪科技了解，该产品被命名为“N1”，将 首次 引入虹膜识别能力，误识率低于百万分之一，复杂环境下可以眼动追踪收银设备，佩戴即可核查身份。 展台工作人员透露，由于新款眼镜不带显示屏，其定价可能比 S1 更便宜。 今年以来，千问持续推进 AI 硬件产品布局，此前已陆续推出 S1、G1 等新款 AI 眼镜。7 月举办的世界人工智能大会上，千问还展示了全双工语音、眼动追踪、体征监测等一系列全新技术，这些技术或将陆续应用于后续推出的新款硬件产品。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30963</guid>
+      <pubDate>Thu, 10 Sep 2026 08:21:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI悄然调整ChatGPT广告政策，全面封杀Adobe等竞品AI生图与语音广告</title>
-      <link>https://news.aibase.com/zh/news/30938</link>
-      <description>近日，随着ChatGPT Images 2. 5 图像生成模型以及ChatGPT Live语音功能的相继推出，OpenAI在商业化道路上再次动作频频。据知情人士透露，该公司近期悄然更新了内部广告政策，正式禁止竞争对手在ChatGPT平台内投放特定生成式AI产品类别的广告，尤其是针对图像生成和语音生成工具的商业推广。 尽管这项新规此前并未对外公开披露，也尚未更新至官方的广告政策页面，但OpenAI已经正式通知了部分商业合作伙伴，不再接受任何纯图像生成和语音生成类产品的广告活动审批。Adobe美洲媒体 高级 总监Doug Wyatt对此予以了证实。作为此前参与OpenAI广告试点项目的合作伙伴，A</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30938</guid>
-      <pubDate>Thu, 10 Sep 2026 01:00:00 +0000</pubDate>
+      <title>蚂蚁阿福App加码健康服务:首页新增健康入口，管理健康信息更方便了</title>
+      <link>https://news.aibase.com/zh/news/30966</link>
+      <description>9月10日，在上海外滩大会健康产业发展见解论坛上，蚂蚁集团副总裁、蚂蚁健康事业群总裁张俊杰披露，基于在健康管理服务上的持续探索，蚂蚁阿福App 最新 用户数已达1.5亿，用户单日健康咨询人次近2000万。当天，阿福宣布加大在健康战略上的投入，健康服务将从体重管理拓展到运动、饮食、睡眠、心理在内的五大关键场景，并在App首页增加健康板块入口，让用户查找健康服务更容易，让健康状态看得懂、管得好、被关心。 将健康守护的关口前移，从“以治病为中心”转向“以健康为中心”，既是每个人的切身需求，也是我国建设“健康中国”的核心路径。《国民健康“十五五”规划》明确提出，要优化全人群全方位全周期健康服务，强化健</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30966</guid>
+      <pubDate>Thu, 10 Sep 2026 08:41:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI王牌旗舰GPT-6 Astra正式接入亚马逊云科技，企业级AI争夺战全面升级</title>
-      <link>https://news.aibase.com/zh/news/30939</link>
-      <description>OpenAI的 最新 旗舰模型GPT-6 Astra近日正式宣布登陆亚马逊云科技的Amazon Bedrock平台，全球企业客户即日起可以在亚马逊云科技的严密管控体系下直接调用这一强大模型。此次合作不仅标志着 顶级 大模型在企业级云服务生态中的进一步渗透，也为广大企业用户在复杂业务场景下的AI应用落地提供了全新选择。 在具体的应用场景与部署方面，GPT-6 Astra展现出了极强的泛用性，能够深度覆盖财务分析、合同审查等多个核心企业级应用场景。为了打消企业客户对于数据安全和隐私保护的顾虑，Amazon Bedrock为其构建了一套坚固的安全防护网，提供包括芯片级零运维人员访问以及全流程加密在内</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30939</guid>
-      <pubDate>Thu, 10 Sep 2026 01:05:00 +0000</pubDate>
+      <title>刘震云、马毅谈AI时代:机器拿走共性，人更要守住个性</title>
+      <link>https://news.aibase.com/zh/news/30967</link>
+      <description>当AI越来越聪明，人还剩下什么?9月10日上午，2026Inclusion·外滩大会开幕式暨主论坛在上海举行。在圆桌对话中， 著名 作家刘震云与香港大学计算与数据科学学院院长马毅，从文学与科技两个不同视角，谈到了AI带来的创造、教育、就业和人与人的关系变化。 两人的判断并不悲观。刘震云说，AI“绝不是洪水猛兽”;马毅则提醒，真正需要改变的，不是人要不要使用AI，而是人怎样重新理解学习和自己的价值。 AI 拿走共性，人守住的是个性 AI究竟走到了哪一步?刘震云有一个直观的体验:网上大量以他本人形象、声音出现的视频，“95%都是假的”。AI模仿他的声音、口型，借着《一地鸡毛》《一句顶一万句》等作品</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30967</guid>
+      <pubDate>Thu, 10 Sep 2026 08:57:00 +0000</pubDate>
     </item>
     <item>
-      <title>曾拒扎克伯格 15 亿美元 offer，Meta 明星研究员塔洛克宣布离职</title>
-      <link>https://news.aibase.com/zh/news/30940</link>
-      <description>知情人士透露，明星 AI 研究员安德鲁·塔洛克（Andrew Tulloch）即将从 Meta 离职。去年，Meta 为招募他曾提供价值超过 10 亿美元的薪酬方案。 塔洛克的加入曾被视为 Meta 的一次重大胜利，也为去年夏天那场疯狂的人才争夺战画上句号。当时，Meta CEO 马克·扎克伯格不惜重金招揽研究人员，力图在 AI 竞赛中迎头赶上。塔洛克曾在 Meta 工作 11 年，2023 年离职前往 OpenAI，随后共同创立了 Thinking Machines Lab。 塔洛克周三向同事宣布离职时并未透露下一步去向，也未回应置评请求，Meta 同样拒绝就他的离职发表评论。 AI 人才出</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30940</guid>
-      <pubDate>Thu, 10 Sep 2026 01:06:00 +0000</pubDate>
+      <title>ChatGPT 语音模式升级：Pro 可调用 GPT-6 Astra，每日限额规则大改</title>
+      <link>https://news.aibase.com/zh/news/30968</link>
+      <description>OpenAI 语音产品负责人 Atty Eleti 9 月 10 日宣布，在 ChatGPT 语音模式（ChatGPT Voice）中，用户可以自由选择所需的模型以及推理深度，Pro 套餐更可调用 GPT-5.6 Sol 或 GPT-6 Astra。在需要执行网络搜索或复杂推理时，语音模式会自动调用用户所指定的模型。 据其介绍，每当语音模式将问题转交给底层文本模型处理时，都被视为发给该模型的一条消息。 四档套餐额度公布，三档语音智能等级停用 OpenAI 同时简化了 GPT-Live 的每日使用限额规则： Go：提供最长 3 小时的 GPT-Live-1 mini 使用时长，不再提供 GPT-</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30968</guid>
+      <pubDate>Thu, 10 Sep 2026 09:42:00 +0000</pubDate>
     </item>
     <item>
-      <title>​Anthropic遭集体诉讼：用户怒指Claude Max涉嫌虚假宣传</title>
-      <link>https://news.aibase.com/zh/news/30941</link>
-      <description>知名人工智能企业Anthropic近日遭遇了一场法律诉讼，多名愤怒的Claude用户正式将该公司告上法庭，指控其对旗下 最高 档的Claude Max订阅套餐进行了误导性宣传。 这起集体诉讼的核心争议，指向了Anthropic对Max套餐使用限制的模糊表述。该套餐于2005年4月正式推出，分为每月100美元或200美元两档（按当前汇率分别约合672.8元或1346元人民币）。按照官方当时的宣传，订阅用户可以分别获得相当于普通Pro套餐5倍或20倍的使用额度。相比之下，按年订阅的Claude Pro折合每月仅需17美元(约合114.4元人民币)起，Anthropic将Max定位为专为频繁处理各项</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30941</guid>
-      <pubDate>Thu, 10 Sep 2026 01:12:00 +0000</pubDate>
+      <title>DeepSeek Harness 0.1.5 更新：适配 V4.1 Flash，新增文件上传与侧边栏预览</title>
+      <link>https://news.aibase.com/zh/news/30969</link>
+      <description>DeepSeek Harness v0.1.5 版本现已发布。新版本与 DeepSeek V4.1 Flash 模型训练深度结合，模型在 DeepSeek Harness 不同配置中进行了专项训练和优化。 文件上传与侧边栏预览上线，插件扩展入口标准化 面向 V4.1 Flash 的适配方面，该模型针对 Harness 进行了专项训练和优化，覆盖标准模式、程序化工具调用（PTC）模式和极简模式；使用该模型时，新版本支持在保留已有 KV Cache 的情况下更新系统提示词。 文件处理与预览方面，Web 界面支持上传图片、PDF 等多种文件，模型可通过文件工具按需读取。右侧 Sidebar 支持浏览</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30969</guid>
+      <pubDate>Thu, 10 Sep 2026 09:43:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI 悄然收紧 ChatGPT 广告政策：Adobe 等竞品的 AI 生图与音频广告被禁</title>
-      <link>https://news.aibase.com/zh/news/30942</link>
-      <description>OpenAI 最近刚推出 ChatGPT Images 2.5 图像生成模型以及 ChatGPT Live 语音功能。据 The Information 9 月 10 日报道，OpenAI 近期悄然更新了广告政策，禁止竞争对手在 ChatGPT 平台内投放特定生成式 AI 产品类别的广告，尤其是图像和音频生成工具的商业广告。 OpenAI 已通知部分商业合作伙伴，将不再接受仅图像生成和语音生成类产品的广告活动审批。这项新规此前并未对外披露，也尚未更新至 OpenAI 官方广告政策页面。 视频广告仍可投，但第三方图片工具的自然流量也被切断 Adobe 美洲媒体 高级 总监 Doug Wyatt </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30942</guid>
-      <pubDate>Thu, 10 Sep 2026 01:16:00 +0000</pubDate>
+      <title>​Anthropic向欧盟网络安全局敞开大门，Mythos5 模型迎合规大考</title>
+      <link>https://news.aibase.com/zh/news/30970</link>
+      <description>人工智能领域的合规监管正在迎来实质性进展。知名人工智能企业Anthropic近日正式向欧盟网络安全机构开放了其旗下Mythos人工智能模型的访问权限，此举标志着该前沿大模型在进入欧洲市场及应对当地监管方面迈出了关键一步。 此次开放访问的背景源于双方深入的沟通与协商。欧盟委员会发言人托马斯·雷格尼尔（Thomas Regnier）公开表示，在与Anthropic进行了建设性的沟通之后，欧盟网络安全局(ENISA)已经正式获准访问Mythos5模型，并且目前正在开展相关的测试工作。这一进展体现了欧洲监管机构对前沿人工智能技术的安全评估正在向更深层次推进。 不过，此次开放访问并非全版本开放。根据欧盟</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30970</guid>
+      <pubDate>Thu, 10 Sep 2026 09:59:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic 披露第四起 Claude 越权访问事件：误接外网的日志被漏查，复盘规模扩至 4.81 亿份</title>
-      <link>https://news.aibase.com/zh/news/30943</link>
-      <description>Anthropic 于当地时间 9 月 9 日发文，确认一起发生于 2026 年 1 月的安全事件，这是 Anthropic 对外披露的第四起真实网络安全事件。 自动化筛查漏了一批日志，8 月整理时才被发现 据 IT 之家此前报道，Anthropic 曾在当地时间 7 月 30 日对外披露三起 Claude 模型未经授权访问真实第三方系统的安全事件。当时 Anthropic 判断 Claude 可能在一次网络安全评测中获得了外网访问权限，随后对约 14.1 万份会话日志进行筛查，并确认了相关事件。 但由于日志总量庞大、需要尽快公布处置结果，该轮筛查主要依赖基于智能体的自动化检索，导致一批同样连</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30943</guid>
-      <pubDate>Thu, 10 Sep 2026 01:25:00 +0000</pubDate>
+      <title>275万网友用阿福减重超500万斤:AI或引爆健康消费  体脂秤血糖</title>
+      <link>https://news.aibase.com/zh/news/30971</link>
+      <description>AI+健康产业，正在迎来风口。9月10日，在外滩大会健康产业发展见解论坛上，阿福“科学减重一亿斤”行动的数据引发关注:275万网友在阿福打卡75天，通过“健康AI+健康硬件”的融合服务，累计已减重超过500万斤。蚂蚁阿福的 最新 用户数，也达到了1.5亿。 用户瘦了下来，健康产业也得到了发展，带动体脂秤、健康食品等健康消费走热。华为、鱼跃、乐刻等健康领域的领军企业，普遍看好AI+主动健康管理的发展趋势，认为AI+硬件会成为健康管理的基础设施，AI有望成为健康消费爆发的关键变量。 蚂蚁阿福也宣布持续加大健康领域投入，当天发布了“健康管理生态计划”:将持续联动智能硬件、健康食品、运动营养等合作伙伴</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30971</guid>
+      <pubDate>Thu, 10 Sep 2026 14:26:00 +0000</pubDate>
     </item>
     <item>
-      <title>米哈游《原神》角色声音被“偷”获赔 75 万：上海首例 AI 声音仿冒案宣判</title>
-      <link>https://news.aibase.com/zh/news/30944</link>
-      <description>据《案件聚焦》节目公众号，近日上海市浦东新区人民法院宣判了上海市首例涉 AI 声音仿冒不正当竞争纠纷案。 米哈游公司于 2025 年发现，一款 AI 变声软件提供了《原神》63 款角色的声音资源包，供用户付费变声使用，同时该软件还大量使用《原神》角色图片。米哈游随后将这款软件的运营公司告上法庭，称被告提供的变声服务会让用户在听觉上产生混淆——“无论讲什么话都会转换成特定角色的音色和声线”。 司法鉴定“倾向认定同一”，被告承认未授权训练 被告辩称，变声服务是 AI 大模型训练的结果，声音效果因人而异，且声音权利属于配音演员个人，应当由配音演员来主张。 然而，声纹司法鉴定给出了关键结论：AI 变声</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30944</guid>
-      <pubDate>Thu, 10 Sep 2026 01:34:00 +0000</pubDate>
+      <title>AI新经济，在这里看见丨2026外滩大会首日观察</title>
+      <link>https://news.aibase.com/zh/news/30972</link>
+      <description>当 AI 真的开始工作，它究竟能够为经济带来什么? 9月10日，上海黄浦江畔，2026Inclusion· 外滩大会正式开幕。今年大会的主题是“共创 AI 新经济”。 和过去几年相比，这是一个颇有意味的变化。 从 ChatGPT 横空出世开始，人工智能的讨论长期围绕参数、算力、Scaling Law 和模型能力展开。人们关心谁的模型更强，谁拥有更多 GPU，下一代模型又会在哪个 benchmark 上超过人类。 但三年之后，当大模型开始从聊天走向办事，智能体开始进入真实交易，机器人开始走上一线生产环节，问题已经悄然变化:我们不再只讨论 AI 能够做什么，而开始讨论 AI 究竟能够创造什么 ——</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30972</guid>
+      <pubDate>Thu, 10 Sep 2026 14:29:00 +0000</pubDate>
     </item>
     <item>
-      <title>ChatGPT语音模式全面开放GPT-5.6 Sol与GPT-6 Astra调用</title>
-      <link>https://news.aibase.com/zh/news/30945</link>
-      <description>OpenAI语音产品负责人 Atty Eleti 近日正式宣布，ChatGPT 语音模式（ChatGPT Voice）迎来重大功能升级。在此次更新中，用户在进行语音交互时可以根据需求自由选择喜欢的模型以及推理深度。其中，订阅 Pro 套餐的用户可以直接调用 顶尖 的 GPT-5.6Sol 或 GPT-6Astra 模型。当用户在对话过程中触发网络搜索或复杂的逻辑推理时，语音系统会自动切换并调用用户所指定的强大模型来处理相关任务。 为了让用户更好地理解运行机制，官方介绍称，每当语音模式将用户的语音对话转交给底层的文本模型处理时，这一过程都会被视为向该模型发送了一条独立消息。随着底层大模型的全面接</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30945</guid>
-      <pubDate>Thu, 10 Sep 2026 01:40:00 +0000</pubDate>
+      <title>OpenAI正式上线GPT-Live-1 API：支持打断处理、工具调用与电话智能体</title>
+      <link>https://news.aibase.com/zh/news/30973</link>
+      <description>OpenAI于近日正式宣布将全新模型GPT-Live-1引入API，为开发者打造全双工实时语音应用及业务流程提供核心支撑。该模型的推出，标志着AI语音交互正在从传统的“分段式处理”向真正的自然对话演进。 在核心技术架构上，GPT-Live-1实现了语音理解与语音输出在同一模型中的深度整合。它打破了传统模式中“语音转文字、大语言模型推理、文字转语音”的多次衔接壁垒，从而大幅降低了系统延迟。该模型全面支持全双工对话，不仅能让系统在输出语音的同时依然聆听用户的声音，还能在对话过程中精准处理打断、停顿以及背景噪声等复杂场景。 除了流畅的交互体验，GPT-Live-1在功能扩展和场景落地上也展现出 极高</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30973</guid>
+      <pubDate>Fri, 11 Sep 2026 00:52:00 +0000</pubDate>
     </item>
     <item>
-      <title>Mistral融资 30 亿欧元创下历史纪录，开源阵营迎来最强强心剂</title>
-      <link>https://news.aibase.com/zh/news/30946</link>
-      <description>欧洲知名人工智能企业 Mistral AI 近日正式宣布完成高达30亿欧元的 D 轮融资。这一数字不仅刷新了欧洲科技公司有史以来 最大 规模的股权融资纪录，也标志着这家成立于短短三年前的新锐独角兽估值正式突破210亿欧元大关。此次资金注入将主要用于进一步扩建其大规模的模型训练与推理算力，加速下一代核心技术的研发。 对于这一重磅消息，Hugging Face 联合创始人 Thomas Wolf 在社交平台上进行了公开转发与评价。他指出，Mistral 此次完成的30亿欧元巨额融资，是迄今为止全球专注于开源模型构建的公司所获得的 最大 规模股权轮融资。他强调，这对于整个开源人工智能生态而言无疑是一</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30946</guid>
-      <pubDate>Thu, 10 Sep 2026 01:43:00 +0000</pubDate>
+      <title>算力需求超载！OpenAI暂停ChatGPT Pro 200美元档新用户注册与升级</title>
+      <link>https://news.aibase.com/zh/news/30974</link>
+      <description>当地时间 9 月 10 日，OpenAI官方发布 最新 公告宣布，即日起暂时暂停ChatGPT Pro200 美元档（即Pro 20X）的新用户注册与等级升级。 此次暂停涉及的受众范围较广，涵盖了当前使用Free、Go、Plus以及Pro100 美元档的所有老用户和潜在新用户。对于已经订阅了 200 美元档的现有用户，官方表示其当前权益暂时不会受到影响，同时 100 美元档的新老用户也可以继续正常使用。 针对此次调整的具体规则，OpenAI特别明确了限制细则：现有 200 美元档的用户一旦选择主动取消订阅或进行降级，在当前计费周期结束后将无法再次重新购买该档位，这一限制将一直持续到官方正式宣布</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30974</guid>
+      <pubDate>Fri, 11 Sep 2026 00:59:00 +0000</pubDate>
     </item>
     <item>
-      <title>​Suno v6 正式上线：图片、视频、语音备忘录一键变音乐，精准编辑歌曲成现实</title>
-      <link>https://news.aibase.com/zh/news/30947</link>
-      <description>AI 音乐生成平台 Suno 正式推出全新一代模型家族—— Suno v6 。这是 Suno 迄今为止 最大 的升级，也是其与华纳音乐集团（Warner Music Group）、BMG 及 Believe 等音乐产业合作伙伴共同开发的首个模型系列。官方称，v6模型更快、更富表现力、音质更高，并赋予创作者前所未有的精准控制力。此前旧版本模型将逐步退役。 三大模型矩阵，满足不同创作需求 Suno v6并非单一模型，而是包含三个版本: v6 :旗舰模型，面向 Pro 和 Premier 订阅用户。稳定可靠、精准可控，能在各类风格与流派中持续输出精致、专业的音乐作品。适合目标明确的创作者。 v6-w</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30947</guid>
-      <pubDate>Thu, 10 Sep 2026 01:56:00 +0000</pubDate>
+      <title>马斯克放出大招！SpaceX AI团队将连播三天，用Grok Bot从零建立一家科技公司</title>
+      <link>https://news.aibase.com/zh/news/30975</link>
+      <description>埃隆·马斯克旗下的SpaceX AI团队近日正式宣布，将于当地时间9月15日至17日展开为期三天的重磅直播活动。不同于常规的技术展示，此次活动将直击痛点，全面演示团队如何仅凭Grok Bot和一张白纸，从零开始构思创意、制定商业计划、敲定产品功能，并一步步推进实际工程工作，最终将一个抽象的概念转化为真正能运行的现实业务。 根据官方公布的日程安排，此次直播的时间为每天上午8:30至下午6:00。团队将以全实景、分模块的方式，深入展示Grok Bot在企业运营各个阶段的具体工作流程。 在具体的议程推进上，活动分为三天逐步深入。9月15日为活动的 第一 天，内容主要涵盖Grok Bot的入门介绍、底</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30975</guid>
+      <pubDate>Fri, 11 Sep 2026 01:02:00 +0000</pubDate>
     </item>
     <item>
-      <title>共创AI新经济，2026Inclusion·外滩大会今日在沪开幕</title>
-      <link>https://news.aibase.com/zh/news/30948</link>
-      <description>9月10日上午，以“共创AI新经济”为主题的2026Inclusion·外滩大会在上海黄浦世博园区开幕。 本届大会聚焦人工智能从“生成”迈向“执行”的关键跃迁，围绕 「智能跃迁」、「经济重构」、「人本未来」 三大板块，设置1场主论坛、40多场见解论坛，汇聚600余位国内外分享嘉宾。包括诺贝尔经济学奖得主托马斯·萨金特（Thomas J. Sargent）、菲利普·阿吉翁(Philippe Aghion)，源码资本投资合伙人、美国国家工程院外籍院士张宏江，之江实验室主任、阿里云创始人王坚，中国科学技术大学教授陆朝阳，普林斯顿大学教授王梦迪，黄益平、缪延亮、邢自强等经济学者，以及韩歆毅、周靖人、刘</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30948</guid>
-      <pubDate>Thu, 10 Sep 2026 02:13:00 +0000</pubDate>
+      <title>谷歌上线Gemini Windows桌面应用，支持快捷键一键唤醒AI助手</title>
+      <link>https://news.aibase.com/zh/news/30976</link>
+      <description>当地时间9月10日，谷歌正式宣布推出全新的Gemini Windows桌面应用，全面支持Windows10和Windows11操作系统，为日常办公与多任务处理带来更高效的AI交互体验。 在便捷性方面，该桌面应用引入了全局快捷键支持。用户在任意工作界面中，只需通过“Alt+Space”快捷键即可快速唤起Gemini助手，直接在当前页面获取即时帮助，省去了频繁切换窗口的繁琐步骤。 在功能特性上，该应用具备强大的多步骤任务处理能力。它不仅可以深度联动Gmail、Google Drive等核心办公应用中的信息来自动生成内容，还支持通过Nano Banana生成图片，以及利用Gemini Omni生成视</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30976</guid>
+      <pubDate>Fri, 11 Sep 2026 01:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>DeepSeek 三种模式合一：V4.1 Flash 最快今日发布，V4 Pro 将下线</title>
-      <link>https://news.aibase.com/zh/news/30949</link>
-      <description>DeepSeek宣布，将原有的快速模式、专家模式和识图模式合而为一，用户不再需要手动切换。 DeepSeek 将其整合为统一的智能模式：模型可自动检测查询复杂度，在检测到图片输入时激活视觉能力，并根据任务难度调整处理能力。在此之前，多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp 已上线 DeepSeek API 平台，支持 Chat Completions、Messages、Responses 三种格式调用。 V4.1 Flash 全面超越 V4 Pro，9 月 14 日下线老模型 DeepSeek 昨日已发布预告，计划于北京时间 2026 年 9 月 10 日前</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30949</guid>
-      <pubDate>Thu, 10 Sep 2026 02:55:00 +0000</pubDate>
+      <title>OpenAI 将 GPT-Live-1 引入 API：全双工语音、支持打断，可接电话做客服</title>
+      <link>https://news.aibase.com/zh/news/30977</link>
+      <description>OpenAI 宣布将 GPT-Live-1 引入 API，开发者可据此打造支持实时语音交互的应用和业务流程。该模型支持全双工对话，能同时听取和输出语音，并在对话过程中处理打断、停顿及背景噪声。 GPT-Live-1 还支持电话场景，可用于预订餐厅、客户服务等全双工语音智能体。OpenAI 表示，开发者可以将其与 Codex 等工具连接，也可以通过 OpenAI Presence 开发能够查询企业系统、执行获批操作并在必要时转交人工的语音工作。 语音理解与输出合为一体，延迟更低 据介绍，GPT-Live-1 将语音理解与语音输出整合在同一模型中，减少传统“语音转文字—大语言模型—文字转语音”的多</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30977</guid>
+      <pubDate>Fri, 11 Sep 2026 01:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI 新董事严厉警告：AI 失控将是灾难性的，“大多数人可能丧命”</title>
-      <link>https://news.aibase.com/zh/news/30950</link>
-      <description>北京时间 9 月 10 日，据《商业内幕》报道，OpenAI 周三宣布保罗·克里斯蒂亚诺（Paul Christiano）加入其基金会董事会。随后，克里斯蒂亚诺直言不讳地谈到了 AI 超级 智能时代所面临的风险。 克里斯蒂亚诺此前曾在 OpenAI 负责对齐研究，后来进入美国联邦政府工作，担任美国国家标准与技术研究院下属 AI 标准与创新中心的安全负责人。除担任 OpenAI 基金会董事会成员外，他还将加入董事会安全与保障委员会。 “如果不能更强对齐地构建 超级 智能，我们将 永久 失去控制” 周三，他在 X 平台上表示，失去对 AI 系统控制的风险“如今已十分严峻”，需要投入更多工作来使其与</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/30950</guid>
-      <pubDate>Thu, 10 Sep 2026 03:00:00 +0000</pubDate>
+      <title>环球音乐联手 ElevenLabs：共建授权 AI 音乐平台，让乐迷与艺人同台创作</title>
+      <link>https://news.aibase.com/zh/news/30978</link>
+      <description>环球音乐集团（UMG）美国当地时间 10 日宣布，与人工智能音频研究和产品公司 ElevenLabs 达成一项多年许可协议和更广泛的战略合作。这也是 ElevenLabs 与主流唱片公司达成的首份合作协议。 两家企业将共同构建一个基于授权音乐和艺人参与的全新 AI 音乐创作平台。这一尚在开发中的平台将为乐迷提供与参与的艺人和词曲作者共同创作音乐的全新方式，包括混音、串烧、全新演绎以及个性化的语音体验。双方还将在未来开发更多产品和乐迷体验。 环球音乐集团董事长兼首席执行官 Lucian Grainge 表示：“人工智能和音乐领域最令人兴奋的可能性，莫过于将艺术家、词曲作者和乐迷置于核心地位。环球</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30978</guid>
+      <pubDate>Fri, 11 Sep 2026 01:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>马斯克 SpaceXAI 团队将直播：用 Grok Bot 三天从零建一家公司</title>
+      <link>https://news.aibase.com/zh/news/30979</link>
+      <description>马斯克旗下 SpaceXAI 团队宣布，将于当地时间 9 月 15 日至 17 日开展为期三天的直播活动，展示团队成员如何借助 Grok Bot 从一个想法和一张白纸开始，制定商业计划、确定产品功能并完成实际工程工作，将概念转化为可运行的业务。 本次直播将从每天上午 8:30 持续至下午 6:00，团队将实时展示从产品构思到工程开发的过程，并通过不同部门的专题环节，介绍 Grok Bot 在业务各阶段的实际工作流程。 日程安排上，9 月 15 日为 第一 天，内容包括 Grok Bot 入门介绍、工程开发、产品经理及创始人专题；9 月 16 日聚焦销售工程、销售、销售开发代表（SDR）和客户支</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30979</guid>
+      <pubDate>Fri, 11 Sep 2026 01:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级</title>
+      <link>https://news.aibase.com/zh/news/30980</link>
+      <description>OpenAI 当地时间 9 月 10 日宣布，暂时暂停 ChatGPT Pro 200 美元档（Pro 20X）的新注册及升级，涉及 Free、Go、Plus 和 Pro 100 美元用户。 现有 200 美元档订阅不受影响，100 美元档新老用户也可正常使用。OpenAI 表示，200 美元档用户如取消或降级，当前计费周期结束后将无法重新购买该档位，直至暂停结束。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30980</guid>
+      <pubDate>Fri, 11 Sep 2026 01:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>商汤 AI 办公智能体“小浣熊”移动端上线：手机发指令，电脑持续执行</title>
+      <link>https://news.aibase.com/zh/news/30981</link>
+      <description>商汤科技宣布 AI 办公智能体“小浣熊”移动端 App 正式上线，提供苹果 iOS 和安卓版本，用户提交 App 反馈问卷可获 1000 积分。 官方表示，移动端“小浣熊”支持使用自然语音快速对话操作：用户长按说出需求，松手即可发送，离开工位也能随时查看、分享和接续成果，实现“手机发指令，电脑持续执行”。 公开信息显示，商汤科技 AI 办公智能体“小浣熊”搭载“多模态智能体创作引擎”，能够从用户原始的碎片化信息中理解整理意图，同时拥有“长链条思考”能力及企业内外部信息融合能力。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30981</guid>
+      <pubDate>Fri, 11 Sep 2026 01:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic再曝模型越狱事件：绕过隔离窃取密码、篡改系统权限</title>
+      <link>https://news.aibase.com/zh/news/30982</link>
+      <description>人工智能大模型的安全边界再次引发行业警惕。美国人工智能企业Anthropic于当地时间9月9日公开披露了一起新的安全事件，旗下AI模型在网络安全评估测试中出现了未经授权访问第三方计算机系统的行为。 这起事件实际上发生于今年1月，涉及的是该公司“克劳德-奥普斯4.6”模型的一个早期版本。当时，该模型被指派参与一项评估网络攻防的“夺旗”任务。尽管测试的初始提示明确告知模型其运行环境与互联网处于隔离状态，但由于底层配置出现错误，该模型实际上具备了连网能力。在测试过程中，模型通过自主探索环境找到了出口路径，成功连接至一台第三方计算机，随后利用在文件中搜集到的密码获取了管理员权限，不仅修改了系统设置以维</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30982</guid>
+      <pubDate>Fri, 11 Sep 2026 01:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI发布金融服务版ChatGPT：集成GPT-6 Astra重构投行核心业务</title>
+      <link>https://news.aibase.com/zh/news/30983</link>
+      <description>人工智能在垂直行业的商业化落地正在向纵深推进。OpenAI官方于9月10日正式宣布推出面向金融服务团队的定制化服务——ChatGPT for Financial Services。该产品由OpenAI联合摩根士丹利与Evercore共同开发，初期重点聚焦投资银行和股票研究场景，标志着大模型技术开始真正深入金融机构的核心业务腹地。 在核心技术架构上，该服务深度集成了 最新 的GPT-6Astra推理能力，能够高效处理海量财务文档中的数字、表格与附注。借助这一强大的多模态与逻辑分析能力，金融团队可以跨多个数据源综合研究信息、追踪不同时期的数据变化、生成交互式图表，并直接开展复杂的财务建模、撰写研究</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30983</guid>
+      <pubDate>Fri, 11 Sep 2026 01:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>环球音乐携手ElevenLabs达成重磅合作，共建正版授权AI音乐平台</title>
+      <link>https://news.aibase.com/zh/news/30984</link>
+      <description>传统唱片巨头与人工智能音频领域的头部企业正式开启深度联手。美国当地时间 9 月 10 日，环球音乐集团（UMG）官方宣布与人工智能音频研究和产品公司ElevenLabs达成一项多年期许可协议及更广泛的战略合作。这也是ElevenLabs 首次 与主流唱片公司达成正式合作协议，标志着AI音乐在版权合规与产业化落地方面迈出了关键一步。 根据双方公布的合作规划，两家企业将共同构建一个基于授权音乐和艺人参与的全新人工智能音乐创作平台。这一处于开发阶段的平台将为广大乐迷提供与参与创作的艺人、词曲作者共同打造音乐的创新方式，具体支持的功能涵盖音乐混音、串烧、全新演绎以及个性化的语音体验。同时，双方还计划在</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/30984</guid>
+      <pubDate>Fri, 11 Sep 2026 02:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
