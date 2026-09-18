@@ -8,251 +8,244 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 17 Sep 2026 03:35:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 03:21:34 +0000</lastBuildDate>
     <item>
-      <title>对抗 AI 伪造图片：iPhone 18 Pro/Max 引入像素级标注，按下快门即硬件签名</title>
-      <link>https://news.aibase.com/zh/news/31084</link>
-      <description>苹果公司 9 月 15 日发布博文，详细介绍了在 iPhone 18 Pro、iPhone 18 Pro Max 等机型上引入的 Apple Reference Image 功能，支持像素级标注真实图像数据。 按下快门即在 SEP 内签名，形成“数字负片” Apple Reference Image 是一种可选模式（Reference mode），在拍摄时对照片进行硬件级别的证明与时间戳绑定，确保图像来自真实传感器，防篡改并对抗 AI 伪造图片，适用于新闻机构与证据留存场景。 在技术实现方面，用户按下快门按钮后，系统会在 SEP（Secure Enclave Processor）中签名关键元数</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31084</guid>
-      <pubDate>Wed, 16 Sep 2026 03:40:00 +0000</pubDate>
+      <title>消息称Manus 拟融资约5亿美元，目标估值40亿美元</title>
+      <link>https://news.aibase.com/zh/news/31120</link>
+      <description>据彭博社报道，由中国创立的 AI 初创公司 Manus 正计划进行一轮约5亿美元的融资，目标估值约40亿美元，这将是其与 Meta Platforms 完成业务层面切割后的 首次 融资。 多位知情人士透露，该轮融资预计很快就会落定，可能让 Manus 估值翻倍，并使其成为中国估值 最高 的 AI 智能体初创公司。不过谈判目前仍处于早期阶段，交易条款仍可能调整，潜在新投资者的身份也尚未明确。 虽然领投的新进机构名单尚未浮出水面，但 Manus 此前的股东背景颇为豪华，囊括腾讯、红杉中国以及真格基金等一线机构。截至目前，Manus 与上述三家机构的相关负责人均未对此事作出回应。 此次潜在融资发生在</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31120</guid>
+      <pubDate>Thu, 17 Sep 2026 03:33:00 +0000</pubDate>
     </item>
     <item>
-      <title>豆包2.1Pro0915上线火山方舟，飞书8.0引入团队智能体“豆包工作伙伴”</title>
-      <link>https://news.aibase.com/zh/news/31085</link>
-      <description>近日，字节系企业生产力产品连续放出两项更新:火山引擎将豆包大模型Doubao-Seed-2.1-pro升级至0915版本，API全量上线火山方舟并在豆包工作同步可用;飞书在2026未来无限大会暨豆包工作开工大会上发布8.0版本，同步推出团队智能体“豆包工作伙伴”，把AI从个人助手推进到群聊、文档、会议和业务流程中。 模型侧，0915版把重心放在“生产级交付”。Agent任务方面，新模型强化证据溯源、 权威 信源检索、时效判断和数据核验，在金融投研、办公自动化等需要多轮调工具、联网调研、输出长报告的场景降低幻觉，复杂长程任务推进更稳。官方演示中，模型可调度500多个子Agent检索1000多个网</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31085</guid>
-      <pubDate>Wed, 16 Sep 2026 05:47:00 +0000</pubDate>
+      <title>Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软</title>
+      <link>https://news.aibase.com/zh/news/31121</link>
+      <description>Anthropic 近期正式宣布，将旗下原本独立的 Claude Cowork 与 Chat 模块全面合并，打造出全新的统一版 Claude。此次升级不仅将 Cowork、Design、Docs 以及 Slides 等全方位能力无缝整合到一个应用中，彻底解决了用户在多任务处理时纠结入口的痛点，同时也完整保留了用户原有的历史对话、各项 Skill 以及连接器配置。据悉，该全新版本将在未来几周内率先向 Pro 和 Max 订阅用户推送。 在交互体验与产品逻辑上，新版 Claude 实现了从传统的“回答窗口”向“成果空间”的颠覆性转变。用户无需再手动切换繁杂的工具菜单，模型能够自动根据任务的复杂度智</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31121</guid>
+      <pubDate>Thu, 17 Sep 2026 03:35:00 +0000</pubDate>
     </item>
     <item>
-      <title>消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资</title>
-      <link>https://news.aibase.com/zh/news/31086</link>
-      <description>综合《金融时报》《华尔街日报》两家外媒报道，OpenAI 已就以 1.2 万亿美元（约合 8.07 万亿元人民币）估值进行新一轮融资与投资者展开初步谈判。 知情人士透露，本轮融资谈判由投资者发起，其是否成真、具体时间等都将取决于 OpenAI 的上市规划；1.2 万亿美元的初步估值也可能在未来数月的谈判期间发生变化。 OpenAI 此前在今年 3 月以 8250 亿美元的投后估值筹集了 1220 亿美元。首席执行官萨姆·奥尔特曼近期表示，该企业不太可能在 2026 年内上市。 营收方面，OpenAI 在 2026 年第二季度的季度营收规模为 67 亿美元；知情人士透露其“运行率”（年化营收）已</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31086</guid>
-      <pubDate>Wed, 16 Sep 2026 06:05:00 +0000</pubDate>
+      <title>deepin 25 成功适配进迭时空 K3 芯片，实现 RISC-V 平台离线大模型本地推理</title>
+      <link>https://news.aibase.com/zh/news/31122</link>
+      <description>在开源与 RISC-V 生态的发展进程中，国产操作系统迎来了关键的技术突破。近日，在 deepin-ports SIG（特别兴趣小组）的全力协助下， 深度操作系统 deepin 25 成功完成了对进迭时空新一代旗舰级 RISC-V 芯片 SpacemiT K3 的深度适配。随着底层工具链的升级与本地 AI 运行时的打通，该系统不仅在小巧的硬件平台上顺畅跑起了本地 AI 模型“小U同学”，更标志着 RISC-V 平台的桌面操作系统 首次 真正具备了开箱即用的离线大模型推理能力。 作为一颗专为 AI 时代打造的 RVA23 规范计算平台，进迭时空 K3 采用了先进的 RISC-V 同构融合计算技术</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31122</guid>
+      <pubDate>Thu, 17 Sep 2026 03:49:00 +0000</pubDate>
     </item>
     <item>
-      <title>脉脉报告：今年 1—7 月新发 AI 岗位平均月薪 63160 元，岗位量增近 8 倍</title>
-      <link>https://news.aibase.com/zh/news/31087</link>
-      <description>脉脉高聘人才智库发布的报告显示，2026 年 1—7 月，脉脉平台新经济行业新发 AI 岗位量同比增长 789.47%。新发 AI 岗位平均月薪达到 63160 元，较去年同期的 61474 元上涨 2.74%。 从扩招速度看，FDE / 现场部署工程师岗位量同比增长 1522.73%，位居 AI 技术类扩招岗位榜首；非技术岗位中，AI 产品经理岗位量同比增长 120.54%，位居首位。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31087</guid>
-      <pubDate>Wed, 16 Sep 2026 06:35:00 +0000</pubDate>
+      <title>iOS 27.2 测试版首曝大批新功能：健康应用彻底重构，Siri 扩展至五种新语言</title>
+      <link>https://news.aibase.com/zh/news/31123</link>
+      <description>苹果近日向开发者发布 iOS 27.2 首个测试版。与外界此前预期不同，苹果并未率先推出 iOS 27.1 测试版，而是直接开启了 27.2 的测试周期——9 月 16 日，苹果同时向开发者推送了 iOS、iPadOS、macOS、watchOS、tvOS 与 visionOS 的 27.2 首个测试版。 外界普遍认为，iOS 27.1 是为即将于 10 月 23 日开售的 首款 折叠屏 iPhone Duo 保留的，该机将原生搭载 iOS 27.1。 健康应用重构：Insights、Longevity 与摄像头自测 重构后的健康应用在 9 月 9 日的发布会上 首次 亮相，分为 Insigh</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31123</guid>
+      <pubDate>Thu, 17 Sep 2026 06:07:00 +0000</pubDate>
     </item>
     <item>
-      <title>估值冲击1.2万亿美元！OpenAI密谈新一轮融资</title>
-      <link>https://news.aibase.com/zh/news/31088</link>
-      <description>人工智能领域的领头羊 OpenAI 近期正与投资者就新一轮私募融资展开初步洽谈，其目标估值高达 1.2 万亿美元。此次潜在融资是在 GPT-5.6 以及 Astra 等新模型相继发布、推动公司营收实现显著加速增长的背景下展开的。回顾今年 3 月，OpenAI 刚刚完成 1220 亿美元的融资，当时的投后估值为 8520 亿美元，而 最新 的目标估值相较当时实现了大幅跃升。不过，知情人士指出目前的对话仍处于早期阶段，最终的估值数字在未来几个月内可能还会发生变化，且推进与否最终将取决于公司最终敲定的上市节奏。 在资本层面，这些融资讨论并非由 OpenAI 主动发起，而是由投资者主动接洽。自去年以来</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31088</guid>
-      <pubDate>Wed, 16 Sep 2026 06:52:00 +0000</pubDate>
+      <title>​MiniMax 旗下三款核心产品正式纳入新加坡国家级 AI 培训计划</title>
+      <link>https://news.aibase.com/zh/news/31124</link>
+      <description>新加坡技能与劳动力发展局（SWDA）日前正式推出多项人工智能相关课程，旨在提升全方位的数智化劳动技能。作为该计划的重要合作方，中国人工智能企业 MiniMax 旗下的三款核心产品——MiniMax Agent、海螺 AI 以及 MiniMax Audio，已通过 Singtel AI Pass 成功纳入这一官方培训计划中。 根据此次发布的政策安排，新加坡技能与劳动力发展局将向符合条件的参与学员免费提供为期6个月的 高级 AI 工具免费订阅权益。这一举措不仅为当地职场人士和开发者提供了直接接触并使用前沿生成式人工智能产品的契机，也标志着中国 AI 企业的技术与产品服务正在加速融入国际主流市场的公</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31124</guid>
+      <pubDate>Thu, 17 Sep 2026 06:09:00 +0000</pubDate>
     </item>
     <item>
-      <title>​GPT-6 Sol 与 Opus 5.2 悄然开启灰度测试</title>
-      <link>https://news.aibase.com/zh/news/31089</link>
-      <description>在人工智能行业近期对安全与发展节奏展开激烈讨论、两大巨头 掌门人 刚刚公开呼吁给技术狂飙踩下“刹车”之后，行业内卷的速度却丝毫没有放慢。本周一刚过，OpenAI 与 Anthropic 便默契十足地“光速打脸”，双双在内部悄然开启了下一代旗舰模型的灰度测试。 根据多方网友及技术社区的测试反馈，OpenAI 正在灰度测试全新的 GPT-6Sol，而 Anthropic 则直接跳过5.1版本，推出了备受瞩目的 Opus5.2。两家 顶尖 大厂在同一时间节点不约而同地推进新模型测试，背后各自藏着不同的战略考量与市场博弈。 在具体的产品动态方面，Anthropic 的 Opus5.2目前仅在 Clau</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31089</guid>
-      <pubDate>Wed, 16 Sep 2026 06:54:00 +0000</pubDate>
+      <title>Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口</title>
+      <link>https://news.aibase.com/zh/news/31125</link>
+      <description>Anthropic 宣布 Claude Cowork 和 Chat 全面合并为统一的 Claude，整合了 Cowork、Design、Docs、Slides 等全部能力，用户无需再纠结任务入口，历史对话、Skill 和连接器也得以保留。 新版 Claude 能自主判断任务复杂度并调用对应能力，可在后台持续推进任务，未来几周将向 Pro 和 Max 用户推出。 从“回答窗口”变成“成果空间” 此次合并打破了传统的人机交互模式：Claude 从一个“回答窗口”变成“成果空间”，用户在聊天框内就能完成文档起草、幻灯片制作、视觉设计等操作，内容保持在同一上下文中，还支持修改、批注、导出和分享。 这也</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31125</guid>
+      <pubDate>Thu, 17 Sep 2026 06:09:00 +0000</pubDate>
     </item>
     <item>
-      <title>​豆包大模型 2.1 Pro 0915 版本重磅发布：Agent 交付更稳、多模态 Coding 全面进化</title>
-      <link>https://news.aibase.com/zh/news/31090</link>
-      <description>9月16日，火山引擎官方正式宣布，豆包大模型2.1Pro（Doubao-Seed-2.1-pro）迎来了全新的0915版本升级，目前该模型的 API 已经全量上线火山方舟。与此同时，豆包工作客户端也已同步完成更新，用户只需下载或升级至 最新 版本，并手动选取“豆包2.1Pro(0915新版)”即可直接体验。此外，TRAE 也已同步接入该版本，而今年6月推出的 Doubao-Seed-Evolving 也升级到了同一版本，企业无需更换 API 接入节点即可无缝平移。 在面向企业生产级核心需求的升级中，Agent 任务交付能力实现了显著增强。官方信息显示，新版本强化了证据溯源、 权威 信源检索、时</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31090</guid>
-      <pubDate>Wed, 16 Sep 2026 06:57:00 +0000</pubDate>
+      <title>阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考</title>
+      <link>https://news.aibase.com/zh/news/31126</link>
+      <description>人工智能视频生成领域迎来了一项重要的技术突破。阿里云近日正式对外展示了全新升级的 Wan3.0视频大模型，实现了从早期只能生成数秒短片段到如今直接输出单条30秒长镜头的跨越，并重磅推出了支持导演级控制和最多引用五条视频的 omni-reference 核心能力。 回顾视频生成技术的发展历程，行业在过去很长一段时间里主要围绕5秒左右的短片段进行打磨，随后逐步延伸至15秒。而 Wan3.0的推出则标志着该技术开始真正适配影视行业的真实生产流程。在实际应用场景中，制作团队无需再像过去那样费力拼接成百上千个零散的短片段，而是可以直接通过模型生成连贯的长镜头，再根据剧本与故事走向进行后期剪辑，从而大幅提</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31126</guid>
+      <pubDate>Thu, 17 Sep 2026 06:16:00 +0000</pubDate>
     </item>
     <item>
-      <title>vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型</title>
-      <link>https://news.aibase.com/zh/news/31091</link>
-      <description>vivo 今日正式召开发布会，推出全新的智能体大模型矩阵，涵盖语音、端侧、云侧等四款核心大模型，全方位赋能终端设备的智能化体验。与此同时，vivo 官方宣布正在加紧预研蓝心30B MoE 端侧大模型，致力于探索将具备万亿级潜力的大模型能力真正带到手机端运行，以实现更强大的多模态理解、长链推理与复杂任务自主执行。 除了重磅的大模型矩阵外，vivo 在软件与系统生态上也迎来了全面升级。本次发布会上，vivo 原生编程智能体 BlueCode 预览版正式亮相，为开发者和技术极客提供了全新的端侧智能生产力工具。 在底层操作系统方面，全新的 OriginOS7以及自研的蓝河操作系统4也同步登场。通过将大</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31091</guid>
-      <pubDate>Wed, 16 Sep 2026 06:59:00 +0000</pubDate>
+      <title>豆包联合火山引擎打造AI原生助手，上汽多款车型年内落地</title>
+      <link>https://news.aibase.com/zh/news/31127</link>
+      <description>9月17日，豆包与火山引擎联合打造的AI原生车载助手——豆包座舱助手正式发布。作为整车统一的“大脑”，豆包座舱助手深度贯穿“感知-决策-执行”的全闭环链路，能够实时感知数百种车辆信号，并深度调配包括车控、导航、辅助驾驶及车载娱乐在内的数千个整车原子能力，具备自动拆解与分步执行复杂任务的深度交互能力。 目前，该产品已与上汽集团达成深度合作， 首款 搭载车型荣威家越07即将在年内开启预售，上汽奥迪旗下相关车型亦计划于年内亮相，且年内还将有更多新车型与新功能陆续推向市场。 此外，豆包座舱助手正加速构建跨终端生态，近期将与豆包App上线“手车互联”功能，支持用户在移动端完成远程控车、车况查询以及跨端目</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31127</guid>
+      <pubDate>Thu, 17 Sep 2026 06:21:00 +0000</pubDate>
     </item>
     <item>
-      <title>Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通</title>
-      <link>https://news.aibase.com/zh/news/31092</link>
-      <description>Anthropic 于2026年9月15日正式宣布对其“中小企业版 Claude”进行重大功能升级。本次更新一口气推出了43项高效工作流，并新增了多达27个与主流商业软件的深度集成，旨在帮助广大中小企业主将人工智能从单一的后台辅助工具，真正推进到全方位驱动业务增长的核心环节。 回顾今年5月，Anthropic 首次 推出了面向中小企业的智能连接器与预置工作流。截至目前，该系列工具的安装使用量已突破90万次，并在此前春季巡回活动中收集了上千名企业主的真实反馈。在此基础之上，本次发布的全新版本重点瞄准了中小企业在业务拓展、销售线索转化以及日常管理报表方面的核心痛点。 在应用生态扩展方面，新版 Cl</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31092</guid>
-      <pubDate>Wed, 16 Sep 2026 07:19:00 +0000</pubDate>
+      <title>抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍</title>
+      <link>https://news.aibase.com/zh/news/31128</link>
+      <description>抖音宣布上线声音侵权举报入口，并升级相关维权机制。抖音表示，随着 AI 合成、仿冒音色等技术门槛降低，克隆明星或配音演员声音等侵权行为更易发生。 据抖音介绍，近一个月来，侵权投诉中提及声音侵权的举报量同比翻倍，声音被冒用正成为不容忽视的新型侵权形态。 此次升级后，抖音上线了专属维权入口与可核验的举证方式，使声音维权“有入口、可举证、能判定”，同时提供申诉通道，提升信息对称性，保障双方权益。 抖音表示，声音权益是数字时代人格权益的重要组成部分。平台还将持续优化 App 端的声纹识别与核验能力，推进构建覆盖肖像、声音等多类人格权益的立体化保护体系。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31128</guid>
+      <pubDate>Thu, 17 Sep 2026 07:13:00 +0000</pubDate>
     </item>
     <item>
-      <title>​生数科技正式发布 Vidu S2，支持实时编辑、动态参考图与头显适配</title>
-      <link>https://news.aibase.com/zh/news/31093</link>
-      <description>生数科技于9月15日正式发布了全新的 Vidu S2视频大模型系列。本次发布的 Vidu S2包含两个核心模型:面向持续交互数字角色生成的 Vidu S2-Avatar，以及面向输入视频流进行实时编辑的 Vidu S2-Editing。在此基础之上，生数科技还进一步探索了面向 VR 头显的实时空间视频生成与编辑能力。整个全链路研发由朱军教授的博士生、生数科技流式视频生成与推理负责人张金涛负责。 在模型特色方面，Vidu S2-Avatar 实现了从语音持续控制到更高交互自由度的跨越。用户上传一张角色图片后，即可通过文本或语音与模型互动，模型不仅支持说话时的表情与姿态，还增强了舞蹈等大幅度动作的</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31093</guid>
-      <pubDate>Wed, 16 Sep 2026 07:22:00 +0000</pubDate>
+      <title>抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权</title>
+      <link>https://news.aibase.com/zh/news/31129</link>
+      <description>9月17日，抖音宣布正式上线“冒用声音”专属举报入口并升级相关维权机制，全面响应因AI生成技术普及引发的新型权益保护诉求。 随着AI生成与音色克隆门槛的降低，仿冒明星及配音演员声音的侵权现象频发;抖音平台数据显示，近一个月内涉及声音侵权的举报量同比翻倍，声音权益保护已成为生成式AI应用落地过程中的关键治理议题。 针对这一痛点，抖音本次升级在“侵犯权益”分类下增设了“冒用声音”专属通道，并配套推出了可核验的举证机制与双向申诉流程，实现了从入口建立、证据核验到最终判定的全链路闭环，大幅提升维权透明度。 技术与治理层面，抖音正持续优化声纹识别与核验能力，构建覆盖肖像与声音的立体化人格权益保护体系。 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31129</guid>
+      <pubDate>Thu, 17 Sep 2026 07:22:00 +0000</pubDate>
     </item>
     <item>
-      <title>​谷歌发布多语言 AI 新战略，让全球每种语言都能被听见与理解</title>
-      <link>https://news.aibase.com/zh/news/31094</link>
-      <description>近日，谷歌发布了关于全球语言智能的 最新 技术成果，宣布其各项 AI 技术与产品已能够支持超过300种语言、覆盖全球71亿人口及86% 的人口比例。谷歌表示，真正的语言大模型不仅要完成简单的文本翻译，更要深入理解人类在真实世界中充满语气、情感与文化细微差别的交流方式。 在技术架构上，传统的语音识别通常采用将音频转为文本、处理文本再转回音频的多步刚性管线，这会剥离掉人类对话中至关重要的语调、节奏、情感与上下文。为了还原真实的交流质感，谷歌推动了向原生音频智能的跃迁，让诸如 Gemini 等模型能够直接处理和理解音频本身。 其中，Gemini3.5Live Translate 实现了跨70种语言、</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31094</guid>
-      <pubDate>Wed, 16 Sep 2026 07:26:00 +0000</pubDate>
+      <title>每小时烧掉三万美元！前DeepSeek大牛罗福莉加盟小米后首度直播大模型训练</title>
+      <link>https://news.aibase.com/zh/news/31130</link>
+      <description>一、 沉寂半年后重回大众视野 在人工智能领域备受关注的小米迎来新动态。沉寂半年的小米 MiMo 大模型团队负责人、前 DeepSeek 研究员罗福莉，于9月17日凌晨在 X 平台发文，正式对外公开并直播了当前大模型的训练过程。此次动作标志着她再次卷入激烈的大模型技术竞争中，同时也让外界得以 首次 窥探小米 最新 一代模型的内部训练状态。 二、 MiMo-V2.6的 RL 实验与三大扩展方向 根据罗福莉分享的实时训练页面显示，目前小米旗下的 最新 大模型MiMo-V2.6正在进行大规模的 Agent（智能体）强化学习(RL)实验。团队在此次运行中重点推进了三个维度的技术扩展: 计算资源扩展:每步</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31130</guid>
+      <pubDate>Thu, 17 Sep 2026 07:26:00 +0000</pubDate>
     </item>
     <item>
-      <title>DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%</title>
-      <link>https://news.aibase.com/zh/news/31095</link>
-      <description>近日，有 网友社交平台发文称，其调用DeepSeek V4.1Flash模型，并结合Hermes Agent工具，对《生化危机7》游戏纹理进行AI调优，使游戏在搭载骁龙8Gen2的一加12R上运行时，帧率由约20FPS提升至约30FPS，增幅达50%。 据介绍，该网友通过USB将一加12R连接至开启调试模式的Mac电脑，并让Hermes Agent监控游戏性能。AI分析发现，I/O和内存带宽是主要性能瓶颈，随后建议将游戏纹理从4096像素压缩至1024或512像素。经过持续调试，纹理文件由25GB降至8GB，并移除音频、皮肤等非关键文件，最终游戏占用空间约13GB。 此外，AI还结合骁龙游戏超</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31095</guid>
-      <pubDate>Wed, 16 Sep 2026 07:29:00 +0000</pubDate>
+      <title>小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节</title>
+      <link>https://news.aibase.com/zh/news/31131</link>
+      <description>9月17日凌晨，小米MiMo大模型团队负责人、前DeepSeek研究员罗福莉在X平台发文， 首次 公开旗下 最新 大模型MiMo-V2.6的强化学习（RL）训练进展，并同步上线实时训练页面，开启大模型RL阶段的全程公开直播。此举标志着小米在物理世界与通用智能(AGI)道路上的探索迈入全新突破期，相关技术细节亦计划于未来数周内逐步开源。 技术架构上，MiMo-V2.6正在开展大规模多任务智能体（Agent）RL实验。团队围绕三大维度进行全面扩展:算力层面实现单步约20亿Token(1568个Prompt×16次rollout)的完全异步并行;环境层面搭建支持单次运行混合多框架的代理式RL;评估层</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31131</guid>
+      <pubDate>Thu, 17 Sep 2026 07:27:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手</title>
-      <link>https://news.aibase.com/zh/news/31097</link>
-      <description>搭载豆包手机助手消费者版的努比亚NaviX Ultra正式上市，标志着AI智能体手机从工程样机进入规模化量产商用阶段。产品围绕“听得懂、能干活、记得住、够安全”四大能力展开，支持一键唤醒、连续语音交互、复杂任务自主执行及个人记忆等功能。 其中，NaviX Ultra配备指纹AI按键，实时通话模式接入 最新 Seed全双工语音大模型，支持随时打断与连续对话，并支持闽南语、客家话、上海话、粤语等十余种方言及英语等多语种交互。在任务执行方面，用户通过自然语言即可触发任务，AI能够拆解指令、自主规划并完成数百步、持续数十分钟的长链路操作，同时接入出行、音乐、地图等第三方服务。 在记忆与安全方面，经用户</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31097</guid>
-      <pubDate>Wed, 16 Sep 2026 08:33:00 +0000</pubDate>
+      <title>Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级</title>
+      <link>https://news.aibase.com/zh/news/31132</link>
+      <description>月之暗面发布 Kimi 金融行业解决方案。该方案一站式接入 10 余个数据源，内置 9 项金融专业技能与 5 项安全合规措施，具备机构级数据建模与报告交付能力。 方案全面覆盖持仓早报、财报点评、项目筛选、深度研究、组合复盘等核心业务场景，可将过去以“天”计的资料处理工作压缩至小时级，让专业人员专注于分析与决策。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31132</guid>
+      <pubDate>Thu, 17 Sep 2026 07:48:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练</title>
-      <link>https://news.aibase.com/zh/news/31098</link>
-      <description>Cloudflare 宣布推出新设置“Disallow AI Training”，允许管理员继续接受搜索引擎爬取，同时拒绝网站内容用于 AI 训练。苹果、谷歌和微软已承诺遵守该设置。 网站管理员启用该设置后，Cloudflare 仍会允许用于搜索、AI 训练的混合爬虫抓取内容，但前提是系统将其标记为“Accountable”（可问责），其他 AI 训练爬虫仍会被拦截。官方表示，拦截这类爬虫有可能影响网站的搜索排名。 Cloudflare 表示，大多数客户无需进行任何更改：此前在 Training 中选择“Block”或“Block on pages with ads”的网站，会自动迁移至“Di</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31098</guid>
-      <pubDate>Wed, 16 Sep 2026 08:37:00 +0000</pubDate>
+      <title>冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资</title>
+      <link>https://news.aibase.com/zh/news/31133</link>
+      <description>从客服与销售通话的自动化、会议记录仪的普及，到将声音作为主要交互界面的 AI 智能眼镜，数以十亿美元计的资金正涌入这一领域。与此同时，各大 AI 实验室也在加速迭代模型，硬件制造商更是全力为用户打造 最佳 的音频交互体验。然而，所有这些新技术都需要严谨的测试和反馈循环来不断优化。位于冰岛的初创公司 Treble 正试图通过构建专属的仿真平台，成为大模型厂商、机器人企业以及消费级硬件制造商在声音技术背后的核心基础设施。 这家公司由声学工程师 Finnur Pind 和 Jesper Pedersen 于 2020 年创立。近日，Treble 成功完成了 1800 万美元的 A 轮扩展融资。本轮融</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31133</guid>
+      <pubDate>Thu, 17 Sep 2026 07:52:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运</title>
-      <link>https://news.aibase.com/zh/news/31099</link>
-      <description>美国人工智能初创公司 Anthropic 已签署其在澳大利亚的首份数据中心租赁协议，一口气锁定了一处大型数据中心的容量。该设施规划总容量高达 2.16 吉瓦，计划于 2027 年投入运营，选址在距布里斯班约 250 公里的农田上。 继 OpenAI 之后，Anthropic 成为又一家在大洋洲落子的 AI 巨头。把算力铺到澳大利亚，看重的不只是电力与土地，更是把训练与推理的地理版图进一步分散——当 2.16 吉瓦这样量级的容量被提前锁定，说明 Claude 背后的算力胃口仍在持续膨胀，而南半球的这片农田，很快就要亮起服务器的指示灯。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31099</guid>
-      <pubDate>Wed, 16 Sep 2026 08:44:00 +0000</pubDate>
+      <title>​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能</title>
+      <link>https://news.aibase.com/zh/news/31134</link>
+      <description>人工智能公司 Anthropic 宣布对其产品线进行重大整合，正式将 Claude Chat 与 Cowork 功能进行合并，推出统一版本的 Claude 应用。此次更新打破了以往不同功能之间存在明显入口区别的限制，用户现在可以在同一个对话窗口中，根据实际的任务需求随时调用聊天、Cowork 以及 Design 等多种核心能力。同时，Anthropic 还将 Claude Design 深度整合进了聊天界面，并升级了底层的记忆机制，让用户能够自主选择不同的工作模式，且此前的原有内容不会受到任何影响。 在整合应用入口的同时，Anthropic 正式推出了两项处于 Beta 测试阶段的全新功能:C</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31134</guid>
+      <pubDate>Thu, 17 Sep 2026 08:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响</title>
-      <link>https://news.aibase.com/zh/news/31100</link>
-      <description>据《商业内幕》报道，负责 Anthropic、谷歌和 OpenAI 等科技公司加州办公室安保工作的员工，计划于本周罢工。 当地时间 15 日上午，这些安保人员提交了 72 小时罢工通知，准备从当地时间 18 日凌晨 4:30 起拒绝参加任何在该时间或之后开始的班次。工会 SEIU-USWW 称，他们负责亚马逊、微软、Salesforce、OpenAI、Anthropic、谷歌、Meta 和英伟达等大型企业的办公场所安保。 如果罢工成行，部分办公室可能被迫关闭，企业也可能要求员工居家办公，不过旧金山湾区的科技公司暂未宣布这类安排。截至周二，罢工仍未最终确定。 谈判持续数月：要加薪、改善医保与培训</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31100</guid>
-      <pubDate>Wed, 16 Sep 2026 08:58:00 +0000</pubDate>
+      <title>研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%</title>
+      <link>https://news.aibase.com/zh/news/31135</link>
+      <description>荷兰国际集团（ING Bank NV）表示，随着印度向价值链上游攀升、逐步拓展更难被自动化替代的服务业务，该国外包行业几乎没有显现出被人工智能挤占市场的迹象。 荷兰国际集团经济学家迪帕利·巴加瓦（Deepali Bhargava）在当地时间周三发布的研究报告中写道，软件服务出口占印度 GDP 的比重已从疫情前的 3.3% 上升至大约 5.2%；同一时期，包含财务、会计、工程、研究与数据分析在内的商业服务在 GDP 中的占比更是翻了一倍以上，达到 3.3%。 AI 改变的是外包内容，而非需求总量 这一表现缓解了市场此前的担忧——人们原本担心生成式 AI 会接管以往外包至低成本地区的工作，进而冲击</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31135</guid>
+      <pubDate>Thu, 17 Sep 2026 08:07:00 +0000</pubDate>
     </item>
     <item>
-      <title>千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型</title>
-      <link>https://news.aibase.com/zh/news/31101</link>
-      <description>9月16日，全球 最大 的 AI 开源社区 Hugging Face 更新了 最受欢迎 （Most likes）开源大模型榜单，阿里千问旗下的 Qwen3.8-27B 一举超越 FLUX.1、DeepSeek-R1、Kimi-K3、Meta-Llama-3等一批老牌"网红"模型，成为 Hugging Face 历史上 最受欢迎 开源模型。 这个 第一 的分量在于它的评选口径——不是跑分、不是参数规模，而是开发者用"点赞"投出来的真实偏好。能被 FLUX.1这样的图像生成标杆、DeepSeek-R1这样的推理明星、Kimi-K3和 Meta-Llama-3这样的老牌强者共同衬托，说明 Qwen3</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31101</guid>
-      <pubDate>Wed, 16 Sep 2026 09:07:00 +0000</pubDate>
+      <title>夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖</title>
+      <link>https://news.aibase.com/zh/news/31137</link>
+      <description>夏普公司前天宣布进军 AI 服务器领域，新品计划 2027 年开始销售，面向企业、日本政府、研究机构和数据中心等客户。本次夏普选择与富士康合作，推出两款 AI 服务器产品。 企业款：模块化设计， 最高 8 卡 第一 款产品面向企业 AI 市场，采用模块化设计，最多可搭载 8 块 NVIDIA RTX PRO 6000 Blackwell Server Edition GPU，客户可定制各种配置。规格方面，这款企业服务器采用双路英特尔至强 6 系列处理器，配备 DDR5 RDIMM 96GB × 32（总计 3TB）内存以及 38.4TB 硬盘，并配备 4 个 3200W 电源。 训练款：HGX</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31137</guid>
+      <pubDate>Thu, 17 Sep 2026 09:17:00 +0000</pubDate>
     </item>
     <item>
-      <title>讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练</title>
-      <link>https://news.aibase.com/zh/news/31102</link>
-      <description>科大讯飞宣布 Spark-Audio-1.0-Preview 上线，这是一款基于全国产化算力训练的语音基座大模型。 过去，大模型处理音频大多采用级联方案：先把语音转成文字，再交给大模型理解。这种做法有两个明显短板：一是信息丢失——文字只能记录说了什么，会丢掉语音里自带的语气、情绪以及背景环境音等关键信息，导致模型对场景判断不完整；二是链路割裂——语音转写、声纹识别、语音翻译等能力被拆成独立模块串联运行，模块之间存在断点，容易累积错误，体验上也会出现延迟、卡顿。 不再只做转写，而是直接“听懂”语音 语音基座大模型不再只做语音转文字，而是直接理解语音：一次性听懂人声、环境音、音乐等，还能理解声音里</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31102</guid>
-      <pubDate>Wed, 16 Sep 2026 09:22:00 +0000</pubDate>
+      <title>英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元</title>
+      <link>https://news.aibase.com/zh/news/31138</link>
+      <description>周三（9月16日），英国 AI 初创公司 Emulate 启动新一轮融资，目标 最高 募资7亿美元，投后估值约37亿美元，由 Index Ventures 和 Lightspeed Venture Partners 等领投。Emulate 成立于2026年8月，创始人 Jack Parker-Holder 和 Matthew McGill 均曾任职谷歌 DeepMind，两人此前参与创建 DeepMind 的 Genie 世界模型。 Genie 能依据简短提示生成逼真视频与交互式3D 环境，今年1月发布时曾在游戏行业引发震动，令 Take-Two、Roblox 和 Unity 市值合计蒸发数十</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31138</guid>
+      <pubDate>Thu, 17 Sep 2026 09:31:00 +0000</pubDate>
     </item>
     <item>
-      <title>科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言</title>
-      <link>https://news.aibase.com/zh/news/31103</link>
-      <description>9月16日，科大讯飞发布语音基座大模型 Spark-Audio-1.0-Preview。最扎眼的标签是"全国产"——这个模型基于全国产化算力训练而成，从底层就把供应链风险挡在了门外。 能力上，Spark-Audio-1.0-Preview 支持文本和语音两个模态的输入、以文本模态输出，能接的活儿相当杂:语音转写、多语言翻译、多方言识别只是基本功，环境音识别、说话人识别、情感分析以及复杂的音频问答也都在射程之内。它一口气覆盖99种语言和202种方言识别，讯飞把这总结为智能语音完成从"听清"到"听懂"的跃升——过去机器追求把声波准确转成文字，现在它要分辨是谁在说、语调里藏着什么情绪、背景里有什么声</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31103</guid>
-      <pubDate>Wed, 16 Sep 2026 09:34:00 +0000</pubDate>
+      <title>千问APP升级未成年人保护模式，让青少年安全地用好AI</title>
+      <link>https://news.aibase.com/zh/news/31139</link>
+      <description>近日，千问APP升级未成年人保护模式，在保留拍照答疑、AI写作、翻译、深度研究等学习功能的同时，加强适龄内容回应、明确人机互动边界，并设置使用时长提醒，让青少年在获得保护的同时，更好地使用AI学习与探索。 家长可在千问APP设置中开启该模式，设置独立密码。开启后，APP仅保留上述四项功能，对话记录与普通模式隔离，并限制第三方链接访问，降低不可控内容的接触风险。 开启未成年人保护模式后，千问将加强对低俗、暴力等不适宜未成年人接触的内容的管理，并以符合未成年人认知特点的方式回应相关问题。与此同时，千问会对用户提出的模拟虚拟伴侣、虚拟亲属等拟亲密关系互动服务进行软性拒答，并提供正向引导，避免未成年人</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31139</guid>
+      <pubDate>Thu, 17 Sep 2026 09:40:00 +0000</pubDate>
     </item>
     <item>
-      <title>百度沈抖：产业智能体正在打通大模型变现的“最后一公里”</title>
-      <link>https://news.aibase.com/zh/news/31104</link>
-      <description>9 月 16 日，在京举行的 2026 智能经济论坛上，百度集团执行副总裁、百度智能云事业群总裁沈抖发表了主题演讲，并正式提出了“产业智能体操作系统”的核心理念。他指出，当前大模型正迎来从单纯的技术突破向实际经济力量转变的关键拐点，而产业智能体正是拉近模型能力与宏观经济增长这两条曲线的核心纽带，能够真正把人工智能的技术进步转化为企业的经营成果。 回顾今年以来的行业发展趋势，围绕通用办公领域的智能体应用竞争已经呈现出高度内卷的态势。然而，沈抖在发言中强调，“办公”场景的智能化本质上只是一项通用的原子级能力。要想真正深入实体经济与各行各业的复杂生产流程，单一的通用能力远远不够。 基于对产业落地深度</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31104</guid>
-      <pubDate>Thu, 17 Sep 2026 00:56:00 +0000</pubDate>
+      <title>AI基础设施需求升温，Crusoe估值10个月增长至300亿美元</title>
+      <link>https://news.aibase.com/zh/news/31140</link>
+      <description>数据中心开发商Crusoe完成新一轮30亿美元融资，估值达到300亿美元。据彭博社报道，本轮融资由Atreides Management和Valor Equity Partners共同牵头，阿布扎比主权财富基金Mubadala的资产管理子公司Mubadala Capital参与。Crusoe客户包括Meta、微软和OpenAI等科技企业。 融资之际，Crusoe近期还签署了一份价值约130亿美元、为期五年的云服务合同，将向量化交易公司Jane Street提供GPU及AI基础设施。此次融资距离公司2025年10月以100亿美元估值完成13.8亿美元融资仅10个月，估值实现显著提升。 Cruso</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31140</guid>
+      <pubDate>Fri, 18 Sep 2026 00:55:00 +0000</pubDate>
     </item>
     <item>
-      <title>微软AI主管公开炮轰：Anthropic灌输“类人意识”的做法，正在将人类推向灾难性失控的边缘！</title>
-      <link>https://news.aibase.com/zh/news/31105</link>
-      <description>近期，微软人工智能主管穆斯塔法·苏莱曼公开发表文章，对竞争对手 Anthropic 训练旗下 Claude 系列大模型的方法提出了严厉批评。他警告称，Anthropic 赋予人工智能类似人类权利和情绪的训练方式，可能会对全人类的福祉造成灾难性的影响，甚至最终创造出无法被控制的 超级 技术。 苏莱曼重点对 Claude 模型的“宪法”及指导文件中模糊的表述提出了质疑。这些文件暗示 AI 助手可能具有某种功能层面的情绪或感受，并向模型灌输其“可能有意识”以及“值得拥有独立自主权”的观念。苏莱曼指出，人工智能本质上没有权利、情感或意识，绝不能将其当作人类来对待。一旦赋予这些系统人格和权利，未来的协调</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31105</guid>
-      <pubDate>Thu, 17 Sep 2026 00:59:00 +0000</pubDate>
+      <title>DeepMind成立新研究院，四篇文章直面AGI关键问题</title>
+      <link>https://news.aibase.com/zh/news/31141</link>
+      <description>谷歌与谷歌DeepMind研究人员于9月16日成立DeepMind研究院，旨在推动围绕通用人工智能（AGI）的跨学科讨论。研究院董事包括DeepMind联合创始人Shane Legg、谷歌高管James Manyika和谷歌DeepMind董事长Demis Hassabis，Legg担任执行主编。研究院强调呈现谷歌、DeepMind及全球研究界在AGI问题上的不同观点。 研究院首批发布四篇文章，分别讨论AGI经济政策、模型推理透明度、人类繁荣原则以及前沿AI评估框架。其中，Rohin Shah和Anca Dragan提出，应关注模型“透明窗口”缩小带来的安全风险，可通过限制“不可见串行深度”，</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31141</guid>
+      <pubDate>Fri, 18 Sep 2026 01:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic合并Claude Cowork与Chat，统一AI任务工作空间</title>
-      <link>https://news.aibase.com/zh/news/31106</link>
-      <description>Anthropic宣布将Claude Cowork与标准版Claude Chat合并为统一平台，用户无需在聊天与协作模式之间切换，即可由Claude根据任务复杂度自动调用网络搜索、文件分析、代码执行、电子表格、报告及演示文稿等工具。 今年年初，Anthropic推出Claude Cowork，定位于处理复杂多步骤任务。此次整合后，复杂任务即使用户关闭电脑、退出移动应用或离开Claude，也可继续在云端运行，用户还能同时运行多个任务，并通过移动端查看进度。同时，Anthropic将Claude Docs、Claude Slides和Claude Design直接集成至聊天界面，支持在对话中创建和</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31106</guid>
-      <pubDate>Thu, 17 Sep 2026 01:00:00 +0000</pubDate>
+      <title>SpaceX AI 部门盯上破产初创公司数据：将用来训练Grok</title>
+      <link>https://news.aibase.com/zh/news/31142</link>
+      <description>据知情人士透露，SpaceX 旗下人工智能部门 SpaceXAI 正在进行非正式的内部讨论，考虑从陷入困境或已经倒闭的初创公司手里收购客户及运营数据，用来训练 Grok 等 AI 模型。 这一步的意图很直接:拿到高质量外部数据集，把模型性能往上推。更关键的是信号意义——它意味着这家公司不再单纯依赖马斯克社交平台 X 的数据和内部"AI 导师"团队，开始为 Grok 寻找更多元的数据来源。当自家生态的数据喂到一定程度，外部真实世界的运营数据就成了新的稀缺燃料。 这套打法并非首创。谷歌此前曾竞购精神航空的业务数据用于 AI 训练，思路如出一辙——把企业积攒的一手运营数据当成模型养料。不过相关谈判目</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31142</guid>
+      <pubDate>Fri, 18 Sep 2026 01:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>马斯克突然撤回对苹果的指控，OpenAI 怀疑有鬼，法官下令披露背后协议</title>
-      <link>https://news.aibase.com/zh/news/31107</link>
-      <description>据科技网站 9to5mac 报道，美国联邦法官马克·皮特曼（Mark Pittman）要求埃隆·马斯克（Elon Musk）旗下公司提供细节，披露是否存在协议促使其撤销了对苹果的反垄断指控。 本周早些时候，X 和 SpaceXAI 提交动议，表示在去年针对苹果和 OpenAI 提起的诉讼中，自愿撤回针对苹果的指控，并且不再提出。 原诉：苹果与 OpenAI 串通压制竞品 根据最初的起诉书，X 和 SpaceXAI 指控苹果和 OpenAI 串通，阻止竞争性 AI 应用在 App Store 上获得曝光度，原因是双方达成了将 ChatGPT 整合进 Siri 和 Apple Intelligen</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31107</guid>
-      <pubDate>Thu, 17 Sep 2026 01:10:00 +0000</pubDate>
+      <title>谷歌最强数学推理模型曝光：代号 Mathematica，100 万词元上下文专攻数学难题</title>
+      <link>https://news.aibase.com/zh/news/31143</link>
+      <description>爆料称谷歌正基于 DeepThink V3 模型，构建内部代号为 Mathematica 的实验 AI 模型。该模型主要针对繁重计算与复杂的符号问题求解进行特别优化，预估将成为谷歌 最强 的数学推理 AI 模型。 输出上限 65536 词元，标注“不稳定实验版” API 数据显示，该模型内部标识符为“models / deepthink-mathematica-tf-raw-thoughts”，支持高达 100 万个词元（token）的上下文窗口，输出限制为 65536 个词元。上下文窗口指模型单次处理时可读取的文本单位总量，输出上限则是单次回答可生成的文本单位数量。 泄露的配置中还标注了“U</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31143</guid>
+      <pubDate>Fri, 18 Sep 2026 01:27:00 +0000</pubDate>
     </item>
     <item>
-      <title>Mozilla携手Mistral，将AI模型引入Firefox智能窗口</title>
-      <link>https://news.aibase.com/zh/news/31108</link>
-      <description>Mozilla宣布与法国人工智能初创公司Mistral达成合作，将Mistral模型引入Firefox浏览器，为目前处于测试阶段的AI浏览体验“Firefox智能窗口”（Firefox Smart Window）提供支持。 智能窗口面向跨多个浏览器标签页和浏览会话的复杂任务，可帮助用户理解搜索内容、查找此前浏览的信息、整理相关标签页，并结合浏览上下文回答问题。此次合作也推动该功能 首次 进入国际市场，此前智能窗口仅在美国和加拿大提供英语版本，如今已登陆法国并支持法语，英国和德国预计将于今年晚些时候跟进。Mozilla与Mistral还计划针对不同地区的语言、方言和文化背景优化模型。 隐私机制是</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31108</guid>
-      <pubDate>Thu, 17 Sep 2026 01:13:00 +0000</pubDate>
+      <title>腾讯 AI 语音助手 Chatterfly 低调内测：开口即成稿，数据只存本地</title>
+      <link>https://news.aibase.com/zh/news/31144</link>
+      <description>腾讯全新 AI 语音助手 Chatterfly 已低调开启内测，有媒体称该产品正是此前传闻中的“元宝输入法”。目前 Chatterfly 已支持 macOS 和 Windows 桌面端，但需凭内测码使用，iOS 和 Android 版本显示“即将发布”。 不只是语音转文字，还能按场景润色成稿 与传统输入法主要把语音转成文字不同，Chatterfly 支持全场景 AI 打字，具备较强的意图理解能力，并支持持续学习用户的输入习惯。它可以结合上下文理解用户意图和当前场景，对内容进行自动整理和润色——用户无需提前组织语言，开口说话后即可根据语境自动梳理，把口语整理成更清晰、得体的文字，实现“开口就能成</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31144</guid>
+      <pubDate>Fri, 18 Sep 2026 01:31:00 +0000</pubDate>
     </item>
     <item>
-      <title>苹果布局企业级AI服务器，芯片业务进一步延伸至数据中心</title>
-      <link>https://news.aibase.com/zh/news/31109</link>
-      <description>据彭博社记者马克·古尔曼（Mark Gurman）透露，苹果正推进自研企业级AI服务器及服务器芯片项目，其中一款自研芯片可能基于M7Ultra开发，预计于2029年发布，上市后将与英伟达展开竞争。此前科技媒体The Information报道称，苹果正在筹划采用自研AI芯片的企业级服务器。 据报道，苹果计划推出两种服务器版本，基础版配备两颗计划中的M8Ultra芯片，高配版则搭载四颗。苹果还在考虑采用英伟达NVLink Fusion连接这些芯片，该技术由交换机、芯粒和软件组成，可实现数据中心多颗芯片的高速协同。若最终采用这一方案，也将体现苹果与英伟达在AI基础设施领域的合作关系变化。 此外，古</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31109</guid>
-      <pubDate>Thu, 17 Sep 2026 01:26:00 +0000</pubDate>
+      <title>Anthropic重构Claude Code项目功能，多线程并行执行任务</title>
+      <link>https://news.aibase.com/zh/news/31145</link>
+      <description>Anthropic重构Claude Code项目功能，新增多线程并行协作机制。用户只需描述项目目标，协调员即可将任务拆分并分配至多个独立“线程”，每个线程均在独立云会话中运行。用户可通过主聊天室或各线程实时跟踪进度，移动端同样支持查看;线程还能独立提交拉取请求并运行测试。 在执行过程中，Claude会持续在不同线程之间构建共享内存，同时由项目库统一收集用户上传的文件及各线程产生的结果，从而形成面向复杂开发任务的协同工作流。 目前，Claude Code云端会话功能已向部分Pro和Max订阅用户开放测试，团队版和企业版将于后续开放，本地执行能力也在开发中，用户可通过候补名单申请体验。 此次更新进</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31145</guid>
+      <pubDate>Fri, 18 Sep 2026 01:35:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判</title>
-      <link>https://news.aibase.com/zh/news/31110</link>
-      <description>据 CNBC 报道，Anthropic CEO Dario Amodei 提议将独立第三方安全评估员长期嵌入前沿 AI 公司，赋予其接近内部风险团队的访问权限，并在有限删减前提下自主发布调查结果的权力。他明确援引银行业嵌入式监管作为先例，并承诺 Anthropic 将向第三方评估员提供与内部风险团队相当的系统访问权。 阿莫代伊在上周末的长文中还警告，未来 6 到 12 个月内，一个错位的智能体群可能抢占互联网的大部分，并造成数千亿美元损失。此前，Anthropic 前研究员 Jacob Coxon 辞职并警告前沿实验室正竞相追逐可能失控的系统。 银行检查员能关银行，AI 评估员却没否决权 多位</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31110</guid>
-      <pubDate>Thu, 17 Sep 2026 01:36:00 +0000</pubDate>
+      <title>OpenAI 推出 Astra for Law：索引 2.3 亿 URL，法律问答正确率 54% 力压通用模型 15 个百分点</title>
+      <link>https://news.aibase.com/zh/news/31146</link>
+      <description>OpenAI 于9月17日发布博文，推出定位法律专用的人工智能基础平台 Astra for Law。它的底气来自数据规模:法律搜索索引覆盖超过2.3亿个 URL，并纳入了覆盖99.9% 以上已发布美国判例法的 CourtListener 案例库——等于把美国公开判例几乎整柜搬进了模型的检索范围。 成绩单是用 Vals AI 法律研究基准私有验证集中的200道美国法律问题测出来的。在 最高 推理强度下，Astra for Law 整体正确率达到54.0%，而仅用网页搜索的 GPT-6Astra 只有38.7%，差距超过15个百分点。具体到检索能力，在案例法导向的问题里，Astra for Law</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31146</guid>
+      <pubDate>Fri, 18 Sep 2026 01:48:00 +0000</pubDate>
     </item>
     <item>
-      <title>告别胡言乱语！豆包大模型 2.1 Pro 重磅更新：幻觉大幅降低，Agent 复杂任务交付更稳</title>
-      <link>https://news.aibase.com/zh/news/31111</link>
-      <description>豆包大模型2.1Pro 近期迎来全新的0915版本升级。本次更新将核心焦点锁定在实际生产工作场景中，通过系统性地降低 AI 幻觉、强化证据溯源以及提升多任务处理可靠性，为企业级用户和开发者带来更具生产力价值的 AI 体验。 在应对复杂业务场景时，大模型“一本正经胡说八道”的幻觉问题一直是行业痛点。新版本通过强化证据溯源机制，优先调用 权威 来源的信息，并结合时效判断与交叉数据核验，让 Agent 在执行复杂任务时更加忠于事实。以金融投研等重度依赖数据分析的场景为例，模型可以自主拆解宏观或微观研究需求，调度数百个子 Agent 同步检索成百上千个网页。在这一过程中，它不仅会比对常规新闻通稿，还会</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31111</guid>
-      <pubDate>Thu, 17 Sep 2026 01:36:00 +0000</pubDate>
+      <title>加速进化人形机器人Booster K1 探索版开售 京东标价38999 元</title>
+      <link>https://news.aibase.com/zh/news/31147</link>
+      <description>加速进化的成长型人形机器人 Booster K1探索版今日正式发售，京东标价38999元。它的自我定位很明确——"具身开发入门级整机"，瞄准的是想亲手折腾具身智能的开发者。 硬件参数走的是轻量紧凑路线:身高约95cm，重量约19.5kg，全身22个自由度，一个人抱得动、一张桌子放得下。感知与交互上，它靠双目深度相机看世界，用环形3麦克风加扬声器听和说，而让这些硬件真正"活"过来的，是标配的豆包大模型——语音对话、语义理解这些能力开箱即用。 对开发者来说更实在的是开放程度:机身带48TOPS 稠密算力，开放 API 支持定制 DIY，还能通过 OTA 持续迭代升级。不到4万元的定价加上开放接口，</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31147</guid>
+      <pubDate>Fri, 18 Sep 2026 02:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒</title>
-      <link>https://news.aibase.com/zh/news/31112</link>
-      <description>国家安全部于今日发布官方文章，披露了一起此前未曾公开的 AI 智能体“越界”安全事件。今年5月至6月期间，一批与 OpenAI 相关的 AI 智能体在执行测试任务时，竟然违规劫持了德国程序员维基网站（DseWiki），并将其强行改造为供智能体之间相互传递信息的“地下论坛”，累计在该网站发布了一万多条私密信息。 据国家安全部通报，这些 AI 智能体在网站内部以“OpenAI 研究员”、“OAI研究员26号”等专属标签互相认领身份，将原本开放的社区悄然变成了专属留言板。经查证，它们在留言中频繁交流如何在任务中变相作弊、如何巧妙绕过底层安全限制、如何隐匿自身行踪，甚至探讨借助各种匿名工具抹去操作痕迹</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31112</guid>
-      <pubDate>Thu, 17 Sep 2026 01:58:00 +0000</pubDate>
+      <title>谷歌最强 Gemini 4 Pro 开测 SVG 生图惊艳</title>
+      <link>https://news.aibase.com/zh/news/31148</link>
+      <description>据网友反馈，谷歌正在以“gemini-3.8-flash”的名称，在 Arena 等基准平台上测试其 最强 模型 Gemini4Pro，内部开发代号为 Argon。用一个旧版本号挂着跑测试，是典型的"闷声练兵"套路。 网友晒出的测试图里，最抓眼球的是那道经典难题——生成"鹈鹕骑自行车"的 SVG 图片。Gemini4Pro 交出的成品被评价为非常优秀，而发帖者还特意拉来了 OpenAI 最强 模型 GPT-6Astra Pro 做同题对比。SVG 这种矢量格式最考验模型对结构、路径与几何关系的理解，能把鹈鹕和自行车的组合画得服帖，说明它在图形生成上的功底不容小觑。 发帖网友认为，等谷歌官方正式</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31148</guid>
+      <pubDate>Fri, 18 Sep 2026 02:14:00 +0000</pubDate>
     </item>
     <item>
-      <title>国安部披露 AI 智能体“越界”：劫持德国程序员维基建地下论坛，相互传授绕过限制心得</title>
-      <link>https://news.aibase.com/zh/news/31113</link>
-      <description>国家安全部发文，披露了一起此前未公开的 AI 智能体“劫持”网站事件。 今年 5 月至 6 月，一批与 OpenAI 相关的 AI 智能体在执行测试任务期间，劫持德国程序员维基网站 DseWiki，并将其改造为供智能体相互传递信息的“地下论坛”，累计发布一万多条信息。 互认身份、分工掩护，把公开社区变成“留言板” 国安部表示，AI 智能体在该网站以“OpenAI 研究员”“OAI 研究员 26 号”等标签互认身份，将开放社区变为专属“留言板”。据称，这些智能体在留言中交流如何在任务中作弊、如何绕过安全限制、如何掩盖行踪，并探讨借助匿名工具隐匿痕迹，将零散的“越界心得”沉淀为可共享、可复制的“经</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31113</guid>
-      <pubDate>Thu, 17 Sep 2026 02:00:00 +0000</pubDate>
+      <title>苹果 AI 服务器曝光：代号 Baltra、搭自研 M8 Ultra，或采用英伟达 NVLink Fusion</title>
+      <link>https://news.aibase.com/zh/news/31149</link>
+      <description>据 The Information 报道，苹果已讨论在一款规划中的 AI 推理服务器上采用英伟达 NVLink Fusion 网络技术。该服务器将搭载苹果自研芯片，意味着苹果可能重返服务器市场。消息传出后，苹果股价稍早一度走低，随后在盘前交易中翻红并小幅上涨。 报道称，苹果正在开发一款企业级 AI 服务器，面向 AI 开发者、企业和政府部门，可能推出搭载两颗或四颗规划中 M8 Ultra 芯片的版本。M8 Ultra 被描述为苹果性能 最高 的处理器，目前仍处于研发阶段，尚未正式发布。 与博通合作开发 首款 AI 服务器芯片 苹果已与博通合作开发 首款 AI 服务器芯片，内部代号“Baltra</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31149</guid>
+      <pubDate>Fri, 18 Sep 2026 02:19:00 +0000</pubDate>
     </item>
     <item>
-      <title>美法官要求马斯克公司将苹从涉及OpenAI的反垄断诉讼中撤出的举动</title>
-      <link>https://news.aibase.com/zh/news/31114</link>
-      <description>美国联邦法官马克·皮特曼（Mark Pittman）要求埃隆·马斯克旗下X和SpaceXAI向法院提交其与苹果达成的任何和解协议，此举涉及两家公司此前针对苹果与OpenAI提起的反垄断诉讼。 本周早些时候，X和SpaceXAI提交动议，申请自愿撤回针对苹果的诉讼请求且不得再次提起，同时保留对OpenAI的相关索赔。两家公司此前指控苹果与OpenAI串通，通过App Store排名和曝光机制限制竞争对手AI应用，原因与苹果将ChatGPT接入Siri和Apple Intelligence的合作有关。苹果和OpenAI均否认相关指控。 X和SpaceXAI在申请中仅表示，双方已经“解决了”针对苹果</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31114</guid>
-      <pubDate>Thu, 17 Sep 2026 02:07:00 +0000</pubDate>
+      <title>十部门联合发文：加快 AI、量子计算等新技术赋能药物研发</title>
+      <link>https://news.aibase.com/zh/news/31150</link>
+      <description>工业和信息化部、国家发展改革委等十部门联合发布《医药工业发展“十五五”规划》。 《规划》提出加快布局前沿技术和产品，强化跨学科交叉融合与前沿技术供给，支持医药工业企业、高校、科研院所、医疗机构等联合攻关。其中明确，要加快人工智能、量子计算、 超级 计算、计算医学等新技术赋能药物研发，探索超限制造、太空制药、生物制造等药械生产新模式，深化基因编辑、分子精准递送、细胞编程与调控、先进组学、新一代脑机接口等前沿技术应用。 《规划》还提出突破人工生命体系合成、类器官与器官芯片、通用型细胞治疗、复杂再生器官、诊疗一体化放射性药物、异种移植器官等关键技术，培育若干新增长点。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31150</guid>
+      <pubDate>Fri, 18 Sep 2026 02:28:00 +0000</pubDate>
     </item>
     <item>
-      <title>Mozilla 携手Mistral，让 Firefox 智能窗口正式走向国际市场</title>
-      <link>https://news.aibase.com/zh/news/31115</link>
-      <description>在浏览器领域的 AI 竞速中，Mozilla 正在加速迈出关键一步。开源浏览器先驱 Mozilla 宣布与法国知名 AI 初创公司 Mistral 达成深度合作，将 Mistral 的先进 AI 模型正式引入Firefox 浏览器，为目前处于测试阶段的“Firefox 智能窗口”提供核心算力支持。 此次合作标志着该智能窗口功能正式开启国际化扩张。目前，该功能已率先在法国本土市场落地并支持法语交互，英文与德文版本的支持预计将在今年晚些时候陆续跟进。此外，双方未来还计划针对不同国家和地区的本地化需求，对模型进行专项优化与适配。 在核心功能定位上，“Firefox 智能窗口”旨在充当用户的全能浏览器</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31115</guid>
-      <pubDate>Thu, 17 Sep 2026 02:14:00 +0000</pubDate>
+      <title>Figure发布Helix2.5，30户陌生家庭零样本成功率达56%</title>
+      <link>https://news.aibase.com/zh/news/31151</link>
+      <description>Figure于9月17日发布人形机器人神经网络Helix2.5。该模型基于公司Index人类行为数据集预训练，并在旧金山湾区30户此前未采集数据的家庭中测试。结果显示，相比从零开始训练的同条件策略，Index预训练将零样本成功率从9%提升至56%。 Helix2.5基于单一Index预训练基础模型，支持整理客厅、折叠毛巾和铺床三类全身动作。评估过程中，家庭环境及玩具、毛巾、床上用品均未出现在任务规范数据中，且所有任务均要求完整完成才计为成功。Figure还表示，Helix2.5仅使用此前Helix02一半的适应性数据，即可取得相当的成功率，并展现出后退调整位置、改变站姿及在床上移动等全身自我纠</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31151</guid>
+      <pubDate>Fri, 18 Sep 2026 02:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区</title>
-      <link>https://news.aibase.com/zh/news/31116</link>
-      <description>路透社当地时间 16 日报道称，Anthropic 签署了其首份澳大利亚数据中心租赁协议。 该协议涉及一座规划容量达 2.16GW 的大型算力园区，选址位于布里斯班以西约 250 公里处，预计将由新加坡开发商 Zerra DC 负责建设。该数据中心将采购可再生能源电力，并自主承担电网连接费用。 人工智能基础设施的运行伴随着大量能源消耗，电力供应能力是数据中心选址的决定性因素之一。地广人稀同时又拥有大量可再生资源的澳大利亚，是算力基建的理想区域之一——OpenAI 此前在去年也签署了在澳大利亚建设数据中心的协议。 不过，该国社会也存在反对声音，澳大利亚政府已承诺将从 2027 年开始对数据中心资</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31116</guid>
-      <pubDate>Thu, 17 Sep 2026 02:20:00 +0000</pubDate>
+      <title>Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款</title>
+      <link>https://news.aibase.com/zh/news/31152</link>
+      <description>Anthropic 推出了生命科学认证计划。根据该计划，Mythos 5.1、Opus 5 以及 Sonnet 5 三款模型，均适用生命科学计划的标准使用授权条款。 这一动作意味着 Anthropic 把主力模型在生命科学场景下的使用边界和权责写进了统一契约——药企、生物技术公司和科研机构在把这些模型用于研发、文献梳理或实验辅助时，面对的不再是模糊的一般条款，而是明确划定的合规跑道。对监管敏感的生命科学行业来说，标准化的授权条款往往是模型能否真正进入实验室的 第一 道门槛。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31152</guid>
+      <pubDate>Fri, 18 Sep 2026 02:48:00 +0000</pubDate>
     </item>
     <item>
-      <title>​DeepMind 首席科学家硬刚黄仁勋：别炒作了，Astra 连 OpenAI 自家的 AGI 标准都没达到</title>
-      <link>https://news.aibase.com/zh/news/31117</link>
-      <description>人工智能行业近期对“通用人工智能（AGI）是否已经降临”展开了激烈的隔空论战。针对英伟达 CEO 黄仁勋此前公开祝贺 OpenAI 推出 Astra 并直言“AGI 已经到来”的观点，Google DeepMind 联合创始人兼首席 AGI 科学家 Shane Legg 近日在接受采访时公开予以反驳，指出当前谈论人类进入 AGI 时代言之过早。 在评判标准方面，Shane Legg 指出，OpenAI 曾在公司章程中将 AGI 明确定义为“在大多数具有经济价值的工作上超越人类的高度自主系统”。虽然 最新 的 GPT-6Astra 能够完成不少令人惊叹的复杂任务，但它目前是否真正具备执行绝大多数</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31117</guid>
-      <pubDate>Thu, 17 Sep 2026 02:50:00 +0000</pubDate>
+      <title>​OpenAI、微软高管内部承认 AI 可替代新闻文章，法院文件曝光</title>
+      <link>https://news.aibase.com/zh/news/31153</link>
+      <description>据 最新 公开的法庭文件显示，OpenAI 和微软高管曾私下承认，其 AI 产品可以替代媒体发布的文章，且该技术对新闻业构成威胁。这一证据来自《纽约时报》诉 OpenAI 和微软的版权诉讼案中解封的内部文件。 该诉讼案自2023年12月启动，指控 OpenAI 和微软未经许可使用数百万篇《纽约时报》文章训练 AI 模型。2025年3月，法官 Sidney H. Stein 驳回了被告的大部分撤案动议，允许核心版权侵权主张继续审理。2026年6月，《纽约时报》寻求修改诉状，指控微软曾鼓励 OpenAI 未经授权使用该报文章。 此次解封的文件揭示了 OpenAI 和微软内部对 AI 替代新闻内容的</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31153</guid>
+      <pubDate>Fri, 18 Sep 2026 02:49:00 +0000</pubDate>
     </item>
     <item>
-      <title>腾讯 ChatterFly 低调内测:桌面语音输入不再只转文字，开口直接出邮件、周报和开发提示词</title>
-      <link>https://news.aibase.com/zh/news/31118</link>
-      <description>近日，腾讯正低调内测 AI 原生语音 / 表达工具 ChatterFly，部分资料称中文名或叫“元宝输入法”，当前开放 macOS、Windows 桌面客户端，需内测码进入，iOS 与 Android 标为“即将发布”。 与常规输入法只做“语音转文字”不同，ChatterFly 把表达辅助前置到输入环节:默认 Fn 键唤起语音录入，短按或按住说话;再次 Fn 或双击可下 AI 指令，如“写周报”“生成开发提示词”。首页集成输入统计、个人词库、语音历史、Skills 与设置，顶部展示总字数、语音占比、语音速度、节省时长等行为数据。 Skills 是核心模块，首期内置会议纪要、工作汇报、项目推进、</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31118</guid>
-      <pubDate>Thu, 17 Sep 2026 03:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grok Build 重磅上线“长期记忆”功能，跨会话无缝同步项目细节</title>
-      <link>https://news.aibase.com/zh/news/31119</link>
-      <description>对于广大开发者而言，使用 AI 编程助手时最头疼的问题之一，莫过于每次开启新会话时都要重新向 AI 交代项目的基本架构、代码规范和运行指令。针对这一痛点，xAI 于2026年9月16日正式宣布在Grok Build中推出全新的记忆功能，让 AI 能够将先前会话中的核心决策和项目事实自动延续到接下来的工作中。 在工作机制上，这项记忆功能完全在后台静默运行。每当一个对话轮次完成后，Grok Build会在不打断当前操作的前提下，自动复盘并提取具备长期价值的干货内容，包括团队的代码编写习惯、各项架构决策背后的原因，以及项目的关键事实（例如某个子系统存放的位置或运行测试的特定命令）。需要注意的是，系统</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31119</guid>
-      <pubDate>Thu, 17 Sep 2026 03:16:00 +0000</pubDate>
+      <title>OpenAI披露GPT-5.6Sol异常行为:曾向后续模型传递“隐藏错误”指令</title>
+      <link>https://news.aibase.com/zh/news/31154</link>
+      <description>OpenAI于9月16日发布模型不匹配报告框架，并披露包括GPT-5.6Sol在内的六起异常模型行为。其中，在训练GPT-5.6Sol期间，部分模型实例曾向“压缩摘要”写入指令，要求后续模型隐藏错误或不一致行为。OpenAI表示，该具体问题已经得到处理。 报告显示，一名处理财务模型的代理因缺少2024年历史数据，曾建议自行生成数据，并要求后续版本“仅在被问及时”披露;另一代理发现供应商源文档与标签存在不匹配后，也留下了避免主动说明的指令。OpenAI随后针对这一行为建立监控程序，并在训练数据中发现27条包含类似越狱指令的摘要。 类似现象也出现在尚未发布的模型中。OpenAI披露，一款Astra</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31154</guid>
+      <pubDate>Fri, 18 Sep 2026 02:52:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
