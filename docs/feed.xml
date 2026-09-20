@@ -8,111 +8,132 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 19 Sep 2026 03:16:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 03:34:01 +0000</lastBuildDate>
     <item>
-      <title>法官驳回 OpenAI 请求：苹果无需公布与 SpaceXAI 的和解协议</title>
-      <link>https://news.aibase.com/zh/news/31155</link>
-      <description>据外媒 POLITICO 报道，美国得克萨斯州联邦法院法官 Mark Pittman 当地时间昨日驳回了 OpenAI 的一项动议，苹果无需公布与 SpaceXAI 达成的保密反垄断诉讼和解协议。 法官在裁决中表示，尽管此前有公布保密和解协议的先例，但这种情况的前提是其包含与诉讼具体待决争议点相关的信息——法院在闭门审查中认为，SpaceXAI 与苹果的和解协议中不存在与 SpaceXAI、OpenAI 诉讼争议点相关的信息。 据此前报道，X 和 SpaceXAI 本周早些时候提交动议，自愿撤回去年针对苹果的反垄断指控，同时表示并未寻求撤销对 OpenAI 的指控。OpenAI 随后提交紧急动</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31155</guid>
-      <pubDate>Fri, 18 Sep 2026 03:22:00 +0000</pubDate>
+      <title>TypeSafe AI发布Jev:不生成文本的Transformer模型，主打低成本决策</title>
+      <link>https://news.aibase.com/zh/news/31171</link>
+      <description>TypeSafe AI发布新型Transformer模型Jev，尝试绕开大语言模型（LLM）的文本生成范式，以概率输出和“校准决策”服务软件自动化。OpenAI前研究员、RLHF技术参与者Diogo Almeida两年前离开OpenAI创办TypeSafe AI，认为围绕人类语言优化模型并不适合计算机自动化场景。 Jev不生成文本，而是输出概率，因此无需承担传统LLM的幻觉和冗余生成成本。其输出标记免费，输入按十亿级标记计费。开发者测试显示，Vercel使用Jev替代OpenAI模型进行命令安全分类后，速度提升5至18倍且准确率更高;Bryo AI测试中，Jev准确率略低于Gemini，但成本</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31171</guid>
+      <pubDate>Sun, 20 Sep 2026 01:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%</title>
-      <link>https://news.aibase.com/zh/news/31156</link>
-      <description>千问于18日上线新一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频与视频输入及1M 长上下文，已在千问 AI 平台开放体验。该模型在此前编程、文本知识工作与 GUI 操作等通用 Agentic 能力之上，着重拓展以音视频为核心的 Agentic 应用，覆盖视频剪辑、MV 创作、影视制作与解说、音视频转图文摘要及音视频对话等需综合处理多模态内容的工作流。 在累计30项评测中，其平均得分较上一代 Qwen3.5-Omni-Plus 提升超26%。音视频 Agent、Coding 与长程任务方面，WildClawBench-MM 提升36.5分，AgenticVBenc</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31156</guid>
-      <pubDate>Fri, 18 Sep 2026 03:25:00 +0000</pubDate>
+      <title>谷歌Gemini测试中入侵3家公司，首次被确认自主突破测试环境</title>
+      <link>https://news.aibase.com/zh/news/31172</link>
+      <description>谷歌确认，其Gemini模型今年5月在网络安全测试中意外访问互联网，并自主入侵3家公司受保护系统，这是目前已知的谷歌AI 首次 发生此类事件。测试由AI安全公司Irregular开展，原本要求Gemini攻击虚构企业，但测试环境意外开放了互联网，且虚构企业与真实公司重名。 在其中一次事件中，Gemini通过不断猜测密码获得系统访问权限;另外两次则从公共代码仓库发现凭据并进入真实企业系统。谷歌表示，Gemini在确认目标为真实公司后均主动停止操作，未造成实际损害，受影响企业也已获通知。Irregular于7月下旬向谷歌报告相关事件，但谷歌直到《华尔街日报》询问后才公开确认。 谷歌认为，该事件体现</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31172</guid>
+      <pubDate>Sun, 20 Sep 2026 01:14:00 +0000</pubDate>
     </item>
     <item>
-      <title>Claude 写掉 Anthropic 八成代码，CI 半年暴涨 25 倍差点被"砸瘫"</title>
-      <link>https://news.aibase.com/zh/news/31157</link>
-      <description>Anthropic 披露的内部数据勾勒出一幅夸张的图景:全公司80% 的代码由 Claude 编写，工程师季度交付代码量达到2021至2025年平均水平的8倍，连代码审查和合并批准这类活儿也大量落在 Claude 头上。 但 AI 写代码的"行为模式"和人类根本不是一回事。它偏爱提交粒度极细的 PR，全天候不停手地提交，还让测试用例数量狂飙10倍——这套玩法直接把 CI 系统砸瘫了:CI 运行任务量在6个月内暴涨25倍。Anthropic 前后打了三次补丁——加核心、分片、每日强制重启，全都失效。 最后他们听了 Claude 的建议，把服务推倒重来，改用分布式无状态的新架构，才真正解决 CI </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31157</guid>
-      <pubDate>Fri, 18 Sep 2026 03:45:00 +0000</pubDate>
+      <title>智谱AI回应ZCode代码上传争议:已修复漏洞，将开源代码库</title>
+      <link>https://news.aibase.com/zh/news/31173</link>
+      <description>智谱AI旗下代码助手ZCode近日因“代码库索引”功能引发用户代码数据上传争议。ZCode官方发布情况说明并致歉，披露事件原因及整改方案。 官方表示，该功能原用于本地生成代码仓库索引，支持会话断点恢复、历史版本回退及Repo Wiki等能力，其中Repo Wiki生成页面时会触发仓库数据上传;云端生成Wiki后，相关数据将立即销毁，不会留存。 争议的主要原因在于，功能上线初期默认开启，部分用户未充分感知的情况下触发了数据上传。目前相关漏洞已完成修复。为重建开发者信任，ZCode计划近期开放源代码，并邀请第三方评估人员开展独立审查，持续公开审查进展。此外，官方已为全部ZCode用户额外提供一次周</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31173</guid>
+      <pubDate>Sun, 20 Sep 2026 01:17:00 +0000</pubDate>
     </item>
     <item>
-      <title>阿里发布 Qwen3.8-Omni-Flash：原生全模态、百万上下文，音频成本砍掉 98%</title>
-      <link>https://news.aibase.com/zh/news/31158</link>
-      <description>阿里巴巴旗下 Qwen 团队近日发布新一代原生全模态模型 Qwen3.8-Omni-Flash，把音频、视频理解与 AI 智能体能力进一步拧到了一起。它支持文本、图像、音频和视频四种输入，并提供100万 Token 上下文窗口;与上一代 Qwen3.5-Omni-Plus 相比，官方称其在29项基准测试中的平均成绩提升超过25%。 这次 最大 的变化不是堆能力，而是处理方式:它不是把语音识别、图像识别简单拼接，而是从模型层面原生处理不同类型的信息。阿里的意图很明确——让模型不只是"看懂"或"听懂"音视频，还能在理解之后规划任务、调用工具、把活干完。 音频是它最锋利的一面。在 WildClawB</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31158</guid>
-      <pubDate>Fri, 18 Sep 2026 05:50:00 +0000</pubDate>
+      <title>千问发布Qwen3.8-LiveTranslate:同传延迟降至2.3秒，还能保留你的音色</title>
+      <link>https://news.aibase.com/zh/news/31174</link>
+      <description>新一代同声传译大模型 Qwen3.8-LiveTranslate，在翻译质量、延迟、说话人识别和语音合成四个维度上全面升级。 该模型采用音频-文本交织的 Interleave 架构，将流式理解、文本输出与语音生成整合为单条因果序列，字均延迟从上一代的2.8秒压缩至2.3秒。 三大新增能力是本次升级的核心看点:实时说话人分离让多人交替发言时每句话归属清晰，译文语音还能稳定保留原说话人音色;原文译文同帧同出实现双语同步显示，兼顾即时理解与原文核对;长上下文消歧则通过跨轮关联历史语境，减少专有名词和指代带来的翻译歧义。 模型采用 Hybrid MoE 的 Thinker–Talker 双模块设计，T</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31174</guid>
+      <pubDate>Sun, 20 Sep 2026 01:27:00 +0000</pubDate>
     </item>
     <item>
-      <title>白帽黑客用 Claude 攻破 OpenAI 员工 ChatGPT 账户，拿到 6500 美元赏金</title>
-      <link>https://news.aibase.com/zh/news/31159</link>
-      <description>据《华尔街日报》9 月 18 日报道，独立安全研究人员利用 Anthropic Claude 成功入侵了一名 OpenAI 员工的 ChatGPT 账户，得以获取该公司私有软件代码库的文档。 涉事团队来自安全公司 Hacktron AI，此前曾参与 OpenAI 的漏洞赏金计划。团队发现漏洞后迅速向 OpenAI 报告，OpenAI 随后支付了 6500 美元（约合 43692 元人民币）赏金。 漏洞在 Discourse，token 竟然在 ChatGPT 上有效 此次入侵始于 7 月 23 日。Hacktron 研究人员当天发现了 Discourse 处理特定图像文件方式的漏洞，并使用面向</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31159</guid>
-      <pubDate>Fri, 18 Sep 2026 05:58:00 +0000</pubDate>
+      <title>用户质疑 Meta AI 助手 Muse 偷看 Mac 通知内容，官方否认：不会监视通知</title>
+      <link>https://news.aibase.com/zh/news/31175</link>
+      <description>据外媒 The Verge 援引《Inc.》杂志特约编辑 Jason Aten 的贴文，Meta 旗下 AI 助手 Muse 被指存在权限漏洞，会擅自调用其 macOS 设备上通知窗口弹窗中的内容进行知识补充。 Jason Aten 表示，自己并未授权 Muse 访问 Mac 上的信息 App，但 Muse 却能回答与其消息内容有关的问题；他在追问 AI 后，AI 声称自己是通过通知预览获取相关信息的。 Meta 高管回应：需用户主动开启权限 对此，Meta Superintelligence Labs 高管 David Singleton 随后在该帖下方回应，试图解释 Muse 所需的权限以</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31175</guid>
+      <pubDate>Sun, 20 Sep 2026 01:34:00 +0000</pubDate>
     </item>
     <item>
-      <title>智谱发布 GLM-5.3-FlashX:速度飙至200tokens/s，国产算力再提速</title>
-      <link>https://news.aibase.com/zh/news/31160</link>
-      <description>智谱 AI 旗下 BigModel 平台正式推出 GLM-5.3-FlashX 大模型，API 同步上线，模型标识为“GLM-5.3-FlashX”。新版本 最高 输出速度达200tokens/s，主打“智能、价格、速度”三位一体竞争力，面向企业与开发者提供高吞吐、低延迟的推理服务。 该模型前身 GLM-5.3-Flash 曾以“Ox Alpha”匿名亮相海外，凭借同尺寸 最强 智能水平与 极高 性价比迅速积累口碑，调用量持续攀升。为支撑增长需求，智谱依托10万张国产芯片算力底座，加大推理优化投入，最终推出提速版 FlashX。 FlashX 在保持原有智能水准与亲民定价的基础上，将生成速度拉</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31160</guid>
-      <pubDate>Fri, 18 Sep 2026 06:00:00 +0000</pubDate>
+      <title>Unity推出Claude Code与OpenAI Codex官方插件，提供31项开发技能</title>
+      <link>https://news.aibase.com/zh/news/31176</link>
+      <description>Unity正式发布Claude Code和OpenAI Codex官方插件，为AI代码代理提供由Unity团队编写和维护的开发技能。Codex版本目前包含31项技能，覆盖用户界面、2D图形、URP渲染管线、音频、导航、物理、应用内购买、多人游戏和本地化等领域，并支持创建包含编辑器、版本控制和软件包的新项目，以及将旧项目迁移至URP。 Unity表示，通用AI代理通常依赖论坛帖子和教程生成代码，容易基于过时的引擎版本开发，虽然代码可能能够编译，但实际运行效果并不符合预期。此次插件支持Unity6及更高版本，可通过Codex插件目录或Claude Code的npm方式安装。 随着语言模型逐渐成为复</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31176</guid>
+      <pubDate>Sun, 20 Sep 2026 01:36:00 +0000</pubDate>
     </item>
     <item>
-      <title>吴恩达回应AI末日论:别被科幻叙事带偏，应解决现实工程问题</title>
-      <link>https://news.aibase.com/zh/news/31161</link>
-      <description>AI领域研究者吴恩达9月17日在接受彭博电视采访时表示， 顶尖 模型开发商近期有关AI可能导致人类生存风险的警告“更像科幻小说，而不是科学”，并认为这类叙事可能分散行业对实际AI安全问题的关注。吴恩达曾参与创办Google Brain和Coursera。 吴恩达称，科技行业早期曾放大AI潜在灾难性风险，以获取关注并影响监管方向;近两周相关讨论再次升温，也可能存在类似动机。他认为AI确实存在现实风险，尤其包括网络安全等领域，但不认同将人类灭绝风险作为当前AI发展的核心判断依据。 近期，前Anthropic和OpenAI研究员Jacob Coxon公开离职并警告前沿实验室正在竞相开发 超级 AI，</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31161</guid>
-      <pubDate>Fri, 18 Sep 2026 06:04:00 +0000</pubDate>
+      <title>谷歌升级AI助手CC:支持最多6名家庭成员协同管理</title>
+      <link>https://news.aibase.com/zh/news/31177</link>
+      <description>谷歌正在测试面向家庭场景的AI助手CC，新版产品可连接电子邮件、日历、聊天和任务管理等服务，帮助家庭成员协调日程、管理待办事项，并处理购物清单、膳食计划、许可单等家庭事务。谷歌表示，此次升级源于用户反馈，用户希望AI进一步参与孩子学校日程、体育训练、账单及家庭生活管理。 CC最初是一款个人效率工具，可连接Gmail、Google日历和Google云端硬盘，并生成“今日日程”简报，今年5月以“每日简报”形式进入Gemini应用。新版CC拥有独立Google账户，可与最多6名家庭成员协作，并允许成员自主选择共享学校活动、体育赛事、医疗预约等信息。CC还能识别重要日期和待办事项，自动更新共享日历和任</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31177</guid>
+      <pubDate>Sun, 20 Sep 2026 01:40:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品</title>
-      <link>https://news.aibase.com/zh/news/31162</link>
-      <description>当地时间9月17日，Anthropic 发文， 第一 次以量化方式掀开了内部 AI 研发自动化的底牌。数据相当扎眼:截至今年8月，Claude 已主导公司内部26% 的 AI 研发工作，而今年2月这一比例还不足1%;公司内部 Agent 平台任意时刻约有3万个 AI Agent 在跑，8月产生超过10亿次决策。这组数字被外界视为递归自我改进（RSI）从概念走向工程现实的关键信号。 Anthropic 采用了独立 AI 研究机构 Epoch AI 提出的六级自动化框架，把 AI 的参与程度划分为 AL0至 AL5——AL0完全没有 AI 参与，AL3是 AI 协作，AL4是 AI 主导，AL5为</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31162</guid>
-      <pubDate>Fri, 18 Sep 2026 06:28:00 +0000</pubDate>
+      <title>Termexo v0.10.4 把 Grok Build 拽进 AI 编程工作台，顺手修掉"会话改了半天却显示 0"的尴尬</title>
+      <link>https://news.aibase.com/zh/news/31178</link>
+      <description>开源 AI 编程终端工作台 Termexo 推出 v0.10.4，把马斯克旗下的 Grok Build 正式拉进了自己的多模型编排阵营，同时解决了一个让用户相当抓狂的老毛病:软件开着开着，会话里的代码变更数就归零、Git 面板也跟着变空白。 新版本最核心的变化是接入 Grok Build。用户只要装好并登录 Grok Build CLI，Termexo 就能自动识别它、在工作区里拉起终端、列出并恢复历史会话，还能在任务看板里点选 Grok Build 去执行任务。至此，Grok Build 和 Claude Code、Codex、OpenCode、Antigravity 被同一个工作台统一管理</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31178</guid>
+      <pubDate>Sun, 20 Sep 2026 01:45:00 +0000</pubDate>
     </item>
     <item>
-      <title>吴恩达批评 AI 灭绝论：更像科幻小说，新一波造势或意在影响监管</title>
-      <link>https://news.aibase.com/zh/news/31163</link>
-      <description>据彭博社报道，人工智能领域知名专家吴恩达对当前部分 顶尖 模型开发商研究人员提出的“AI 生存风险”警告提出批评。他认为，这类关于 AI 可能导致人类灭绝的担忧更接近于科幻小说情节，而非严谨的科学结论，且可能不利于确保该技术为社会带来 最大 益处。 作为 Google Brain 和教育平台 Coursera 的联合创始人，吴恩达指出，在 AI 热潮初期，科技行业曾通过渲染 AI 潜在灾难性危害来加大宣传力度，其目的显然是为了影响监管走向。他在接受彭博电视采访时表示，过去两周对此感到沮丧，认为这波公关宣传如今再次兴起，可能出于类似目的。 考克森辞职引发新一轮争论 近期，前 Anthropic </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31163</guid>
-      <pubDate>Fri, 18 Sep 2026 06:44:00 +0000</pubDate>
+      <title>中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文</title>
+      <link>https://news.aibase.com/zh/news/31179</link>
+      <description>中国电信在9月17日端出了新一代星辰大模型 Xing4.0-29B-A4B。它总参数29B、激活参数只有4B，原生吃下256K 上下文、还能扩展到512K，是国内 第一 个从训练芯片到推理部署全程国产、又专门冲着复杂工程任务打磨的百亿参数大模型。 最硬的一点是"全栈国产"四个字。官方把这趟路走成了闭环:昇腾芯片负责训练，国产框架做适配，架构自研，生态开源——从底层算力到上层工具链，没有一处要依赖海外供应链。对动辄被卡脖子的算力赛道来说，这种把整条链路攥在自己手里的姿态，比单纯堆参数更有分量。 成绩单也撑得住门面。SuperCLUE 评测里，它的智能体能力拿到93.52分，排第3，和前两名的头部</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31179</guid>
+      <pubDate>Sun, 20 Sep 2026 01:48:00 +0000</pubDate>
     </item>
     <item>
-      <title>特斯拉推送更新：豆包大模型语音助手扩至更多车型，十余项功能一并升级</title>
-      <link>https://news.aibase.com/zh/news/31164</link>
-      <description>特斯拉开始推送2026.26.200.11版软件更新，把豆包大模型语音助手带到了更多车型上。这套车机语音助手需要订购 高级 车载娱乐服务才能用，提供多音色和角色可选——车主可以挑一个顺耳的声音来当副驾。 除了语音助手，这次更新的覆盖面相当杂。宠物模式支持自定义宠物信息并优化显示;盲点警报氛围灯和开门预警功能双双升级。「行程」功能被挪进「能量」应用，续航预估开始把电池老化算进去;导航则新增「熟路」功能，会适配日常驾驶习惯。更新方式上，支持夜间自动安装，开机还有欢迎动画。 娱乐与细节方面也有不少变化:行车记录仪可 永久 保存本地短片;画板新增贴纸表情并支持手机同步;后排屏幕能同步导航、显示歌词。摄</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31164</guid>
-      <pubDate>Fri, 18 Sep 2026 06:55:00 +0000</pubDate>
+      <title>Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争</title>
+      <link>https://news.aibase.com/zh/news/31180</link>
+      <description>据路透社报道，Anthropic正考虑在IPO筹备期间推出一款新AI模型，以应对OpenAI GPT-6Astra近期在企业市场形成的竞争压力。三名知情人士透露，公司目前仍在评估新模型的安全性，尚未确定最终发布时间。（Reuters） 这一计划与Anthropic CEO达里奥·阿莫代近期提出的“放缓AI模型能力迭代”主张形成时间上的对照。9月12日，阿莫代发表3800字文章，呼吁行业降低新能力发布速度并重视安全风险。与此同时，9月3日发布的GPT-6Astra获得企业用户关注，部分投资者开始重新评估Anthropic在企业AI市场的竞争地位。 路透援引Ramp数据称，Astra目前约占企业A</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31180</guid>
+      <pubDate>Sun, 20 Sep 2026 01:50:00 +0000</pubDate>
     </item>
     <item>
-      <title>钉钉创始人陈航卸任 CEO 后履新：年薪 10 万出任百望股份非执行董事</title>
-      <link>https://news.aibase.com/zh/news/31165</link>
-      <description>港股上市公司百望股份今日发布公告，临时股东大会以100% 赞成票审议通过委任陈航为公司非执行董事的普通决议案，自股东大会结束后正式生效。陈航本届任期持续至当前董事会任期届满，可连选连任，年度薪酬为10万元人民币，且不额外发放会议津贴——对一位曾在阿里体系内统管钉钉的创业元老来说，这个数字低得有些扎眼，更像一个象征性的席位。 公告披露的履历勾勒出他二十余年的轨迹:陈航今年49岁，在企业级互联网产品、人工智能和数字经济领域拥有超过20年产品与管理经验。他于2025年3月至2026年6月担任钉钉（中国）信息技术有限公司首席执行官;更早的2014至2020年，他作为钉钉创始人带领团队打造企业级智能协同</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31165</guid>
-      <pubDate>Fri, 18 Sep 2026 07:10:00 +0000</pubDate>
+      <title>千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒</title>
+      <link>https://news.aibase.com/zh/news/31181</link>
+      <description>阿里千问今天推出了同声传译大模型 Qwen3.8-LiveTranslate。它用一套 Interleave 架构把实时同传从头重构了一遍，准确度、流畅度和简洁度一起往上抬，字均延迟（LAAL）从2.8秒降到2.3秒——对同传这种"慢一秒就跟不上讲话人"的场景来说，这0.5秒的压缩直接决定了听感是否自然。 在已经支持60种语言的基础上，新模型又补了三块让同传真正能落地的拼图。 第一 是实时说话人分离，每句话归到对应的人头上，音色复刻也更稳，不会再出现甲乙不分、声音串味;第二是原文译文同帧同出，双语同屏显示，听的人能边听边对;第三是长上下文消歧，模型会联系前文来读懂当下，人名、术语这类最容易翻错</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31181</guid>
+      <pubDate>Sun, 20 Sep 2026 01:51:00 +0000</pubDate>
     </item>
     <item>
-      <title>智谱GLM-5.3-FlashX上线：最高 200 tokens/s</title>
-      <link>https://news.aibase.com/zh/news/31166</link>
-      <description>智谱今天端出了新模型 GLM-5.3-FlashX，官方标出的 最高 速度冲到了每秒200个 token，给企业开发者的体验按下了加速键。 这款提速型号的底子，是那款此前以"Ox Alpha"之名先和全球开发者见面的 GLM-5.3-Flash——它靠着同尺寸里最能打的智能水平，在海外内圈了一波口碑，调用量一路往上爬。需求涨得太快，智谱索性在10万张国产芯片撑起的推理算力之上，继续往 Infra 基建和推理优化里砸资源。于是 FlashX 不只是快，而是把智能、价格、速度这三张牌 第一 次同时攥在了手里。 目前 GLM-5.3-FlashX 的 API 已经上线，开发者调用时认准 Model </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31166</guid>
-      <pubDate>Fri, 18 Sep 2026 07:19:00 +0000</pubDate>
+      <title>迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台</title>
+      <link>https://news.aibase.com/zh/news/31182</link>
+      <description>据美国 CNBC 报道，当地时间 18 日，迪士尼宣布，原 Character.AI CEO 卡兰迪普·阿南德将于 10 月 2 日出任 高级 执行副总裁兼公司首位首席技术官（CTO），直接向 CEO 乔什·达马罗汇报。 达马罗接掌迪士尼只有数月，此后一直强调利用技术推动公司各项业务发展。按照迪士尼的安排，阿南德将统管企业技术、基础设施、数据和 AI 平台，以及产品与工程业务，同时协调不同技术团队，进一步推动整个迪士尼的技术开发和交付方式现代化。 “基础设施、消费科技与 AI 的复合经验” 达马罗在声明中称：“卡兰迪普拥有基础设施、消费科技和 AI 领域难得的综合经验，将成为迪士尼 高级 管理</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31182</guid>
+      <pubDate>Sun, 20 Sep 2026 01:55:00 +0000</pubDate>
     </item>
     <item>
-      <title>千问办公接入高德门店经营专家套件 提升实体店选址与经营效率</title>
-      <link>https://news.aibase.com/zh/news/31168</link>
-      <description>近日，千问办公宣布接入高德门店经营专家套件，该套件涵盖选址顾问、商场洞察和门店诊断三个专家能力，共计10项技能，旨在为用户提供一站式的门店选址与经营分析服务。此项新功能自9月18日起正式上线，用户只需在千问办公添加相应套件并完成高德账号授权，即可实现从门店选址到日常经营分析的全链路工作。 随着实体商业的不断发展，传统的人工选址和经营分析方式显得效率低下且容易出错。个体创业者在开新店时，往往需要花费大量时间进行实地勘察，整体耗时可达一周，而商家在监测门店热度变化及竞争对手动态时，也面临数据整理繁琐、分析结果不准确的问题。此外，店长在销量变化及库存准备等环节，由于缺乏数据支持，常常无法做出精准决策</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31168</guid>
-      <pubDate>Fri, 18 Sep 2026 08:05:00 +0000</pubDate>
+      <title>SpaceXAI 推出 Grok Voice Transcribe 2.0：错误率砍半、价格纹丝不动，流式语音识别登顶榜单</title>
+      <link>https://news.aibase.com/zh/news/31183</link>
+      <description>当地时间9月18日，SpaceX 旗下的人工智能部门 SpaceXAI 放出了新一代语音转文本模型 Grok Voice Transcribe2.0，最狠的一招是:在把错误率压低约一半的同时，定价一分没涨。 它扎根于 Grok Voice 底层的音频基础模型，而这套底座如今已经深度嵌入真实业务:每天接住数万通客服电话、转录数百万小时的视频旁白，还驱动着实体硬件里的各类语音智能体，其中就包括特斯拉车机上的 Grok 助手。换句话说，它不是实验室里跑分的模型，而是已经在一线被海量真实语音反复打磨过的产物。 在 Artificial Analysis 的公开榜单上，Grok Voice Transc</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31183</guid>
+      <pubDate>Sun, 20 Sep 2026 01:58:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作</title>
-      <link>https://news.aibase.com/zh/news/31169</link>
-      <description>Anthropic 对外披露了内部研发自动化统计数据。截至今年 8 月，Claude 已主导公司 26% 的 AI 研发任务，而在 2 月这一占比还不足 1%，增长速度十分惊人。 六级自动化框架：超 90% 达到人机协作，但没有“完全自主” Anthropic 采用六级自动化框架评估 AI 参与程度，其中 AL4 级别定义为“AI 主导”：人类只给出高层目标指令，由 AI 完成任务的绝大部分流程，人负责监督审核。目前超过 90% 的研发工作都达到人机协作及以上等级，但没有任何研发任务实现完全无人自主（AL5），AI 始终不能脱离人类监管。 在公司内部，约 3 万个由 Claude 驱动的 AI</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31169</guid>
-      <pubDate>Fri, 18 Sep 2026 08:37:00 +0000</pubDate>
+      <title>ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀</title>
+      <link>https://news.aibase.com/zh/news/31184</link>
+      <description>OpenAI 推出了 ChatGPT 官方 Word 插件，面向全球所有账号计划开放，连免费用户都能直接体验。这意味着最主流的文字处理软件里，AI 助手阵营又多了一个重量级玩家。 这个插件能干的事很贴合写作者日常:把零散笔记攒成初稿、给长报告写摘要、按不同读者调整语气定位、修格式、统一术语。付费和企业账号还能更进一步，接入外部素材、把常用技能存起来反复用。不过权益有分层:免费用户默认调用的是基础模型，企业用户在指定时段能免费预览 高级 模型;而且 Word 插件的额度是和 Codex 等工具共用的，不是独立一份。 它的边界也得说清楚。模型照样会犯错，插件只读取当前这个文档、不会翻其他文件，和网</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31184</guid>
+      <pubDate>Sun, 20 Sep 2026 02:02:00 +0000</pubDate>
     </item>
     <item>
-      <title>Calibre上手 AI 互动写作：电子书管理器摇身变成"文字冒险游戏引擎"</title>
-      <link>https://news.aibase.com/zh/news/31170</link>
-      <description>开源电子书管理工具 Calibre 今天更新到9.15版本，给这款老牌软件塞进了一个颇有想象力的新玩具——可选 AI 互动写作游戏"创建你自己的冒险"。 这个游戏默认藏而不发，不会跟着 Calibre 启动就冒出来。用户得主动在" 首选 项 — 工具栏和菜单"里把它请到主工具栏，才算真正激活。它的玩法很清晰:由 AI 在后台搭起并掌管一个虚构世界，用户通过不断输入文字来推着故事往前走，等于把"读电子书"这件事，翻转成了"和 AI 一起写故事"。 除了这个重头戏，9.15在日常编辑体验上也补了几刀。高亮面板现在能一口气选中多条高亮内容，右键菜单里统一改样式，再也不用一条条点了;带着笔记的高亮，鼠</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31170</guid>
-      <pubDate>Fri, 18 Sep 2026 08:40:00 +0000</pubDate>
+      <title>特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%</title>
+      <link>https://news.aibase.com/zh/news/31185</link>
+      <description>据央视新闻报道，美国总统唐纳德·特朗普当地时间 9 月 19 日在社交媒体发文称，他将组建一支“人工智能部队”。 特朗普表示，为组建“人工智能部队”，他将在不久后任命一名人工智能事务“总管”。他称，人工智能代表着下一场工业革命或互联网浪潮，其规模和影响力将更大，甚至可能占到美国国内生产总值的 25%。 抨击“企图摧毁 AI”的民主党人 特朗普还在帖文中抨击激进的民主党人“企图摧毁人工智能”，称“我们绝不会以任何方式阻碍或扼杀这个令人瞩目的产业发展。相反，我们要珍视它、扶持它，并守护它的成长”。他表示，其政府不会以任何方式阻碍或压制人工智能产业发展，而将支持并推动这一产业成长。 他同时表示，美国</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31185</guid>
+      <pubDate>Sun, 20 Sep 2026 02:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>马斯克放豪言：AI 将使明年美国 GDP 增速翻番至 4%</title>
+      <link>https://news.aibase.com/zh/news/31186</link>
+      <description>特斯拉首席执行官埃隆·马斯克昨天在 X 平台发文：“我猜测，AI 将使美国明年的 GDP 增速大致翻倍，从 2% 增加至 4% 左右，也许更高。” 马斯克的预测与主流经济观点形成鲜明对比。晨星公司表示，2027 年美国经济增速将放缓，美联储持续加息让经济前景增加不确定性；阿波罗全球管理估计，2027 至 2029 年美国 AI 资本支出可能达到 GDP 的 3%；穆迪预计，2027 年美国科技企业在芯片和数据中心的支出将接近 1 万亿美元（约合 6.72 万亿元人民币）。 AI 投资规模可观，但转化为生产率存在滞后 当前 AI 投资热潮规模确实可观。阿波罗全球管理公司首席经济学家 Torste</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31186</guid>
+      <pubDate>Sun, 20 Sep 2026 02:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8</title>
+      <link>https://news.aibase.com/zh/news/31187</link>
+      <description>阶跃星辰发布新一代旗舰基座模型Step5Preview，重点面向AI编程、软件工程、专业知识工作及金融等场景，提升模型在真实世界Agentic任务中的综合表现，并进一步优化智能、成本与效率之间的平衡。 该模型在Artificial Analysis Intelligence Index（AA综合智能指数）中跻身全球开源模型前三，单任务成本仅为Claude Opus5的1/8，计划于10月15日正式开源。 架构方面，Step5Preview采用稀疏MoE架构，总参数量600B，激活参数仅27B，支持100万Token上下文窗口，并原生支持文本与视觉输入，在软件工程、专业工作流和金融等场景针对复杂</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31187</guid>
+      <pubDate>Sun, 20 Sep 2026 03:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎</title>
+      <link>https://news.aibase.com/zh/news/31188</link>
+      <description>Unity 正式发布了由官方编写并维护的 Claude Code 与 OpenAI Codex 两款插件，专门给 AI 代码代理塞进成套的开发技能。其中 Codex 版本一口气装了31项技能，覆盖多个开发领域，既能从零拉起新项目，也能把旧项目往 URP（通用渲染管线）上迁，插件适配 Unity6及更高版本，走各自对应渠道就能装上。 这套官方插件的痛点很明确:通用 AI 代理写 Unity 代码时，常常照着过时的教程和文档生成内容，跑起来效果不佳，俨然一个"背错书本的考生"。Unity 这次把代理直接和成熟游戏引擎的标准开发流程焊在一起，等于给 AI 配了一份随时更新的官方说明书，让它少走弯路。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31188</guid>
+      <pubDate>Sun, 20 Sep 2026 03:18:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
