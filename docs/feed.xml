@@ -8,244 +8,244 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 22 Sep 2026 03:28:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 03:29:59 +0000</lastBuildDate>
     <item>
-      <title>中国大模型周调用量达67.46万亿Token，连续21周领先美国</title>
-      <link>https://news.aibase.com/zh/news/31226</link>
-      <description>据OpenRouter 最新 数据，9月14日至20日，全球AI大模型总调用量达129万亿Token，环比增长1.57%。其中，中国大模型周调用量达67.46万亿Token，环比增长10.28%;美国大模型为14.21万亿Token，环比下降34.7%。中国大模型周调用量已连续21周超过美国。 上周全球调用量排名前五中有4款来自中国。DeepSeek V4.1-Flash以15.8万亿Token跃居 第一 ，环比增长219%。该模型9月10日发布，重点提升Coding、Agent和多模态理解能力，采用Causal-Encoder-Decoder架构，全局KV Cache降至V4-Flash约1</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31226</guid>
-      <pubDate>Mon, 21 Sep 2026 03:30:00 +0000</pubDate>
+      <title>华为云码道全面升级：全球首个鸿蒙专属AI编码智能体登场，从想法到上架一条龙</title>
+      <link>https://news.aibase.com/zh/news/31261</link>
+      <description>华为云码道CodeArts代码智能体朝着鸿蒙开发者迈出了关键一步，一次性上线鸿蒙编码大模型、码道鸿蒙智能体和鸿蒙开发者实践中心三大核心能力。官方给它的定位很硬:这是全球首个、也是目前 唯一 一个专为鸿蒙生态打造的AI编码智能体，等于给鸿蒙开发者配了一位从头跟到尾的数字搭档。 扛大梁的是鸿蒙编码大模型。它依托鸿蒙增强训练体系，在训练数据、代码生成、编译通过率和Token消耗这几个开发者最在意的维度上都占着优势，目前已经上线可调用。配套的鸿蒙编码智能体则把能力铺到了应用开发的全流程，内置DevEco CLI等首创能力和多项实用技能，让编码、调试、构建不再是一段段割裂的手动操作。 为了让新手也能快速</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31261</guid>
+      <pubDate>Tue, 22 Sep 2026 03:32:00 +0000</pubDate>
     </item>
     <item>
-      <title>阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头</title>
-      <link>https://news.aibase.com/zh/news/31227</link>
-      <description>阿里通义千问团队近日端出了一道让开源社区眼前一亮的菜:开放权重的图像生成与编辑模型Qwen-Image-2.1正式登场。最让人意外的是它的身板——视觉生成组件仅用70亿参数，却在自家的评测基准上压过了市面上绝大多数闭源模型。团队放话底气十足，不过第三方独立评测尚在赶来的路上，这份成绩单还需时间检验。更接地气的是，它不挑设备，一块像RTX3090这样的主流消费级显卡就能托起它跑起来。 Qwen-Image-2.1最拿手的一招是"合并同类项"。官方展示的合照里，每张面孔都来自不同人物的单独照片，模型像一位耐心的拼图师，把它们自然缝合成一张群像。这背后是它对透明图像的原生支持——生成的不是普通RGB</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31227</guid>
-      <pubDate>Mon, 21 Sep 2026 03:44:00 +0000</pubDate>
+      <title>苹果零售先驱质疑AI代理购物:消费者不会完全交给机器</title>
+      <link>https://news.aibase.com/zh/news/31262</link>
+      <description>近日，苹果零售业务早期负责人罗恩·约翰逊认为，尽管科技公司正投入数十亿美元推动“代理式商务”，但AI代理很难取代消费者在实体店中的亲身体验。现年66岁的约翰逊曾于2000年加入苹果，负责搭建零售业务，并参与建立后来成为苹果产品销售与用户服务核心的实体门店网络。 谷歌正通过Universal Commerce Protocol推动AI代理覆盖商品发现、比较和结账流程，OpenAI也在将ChatGPT打造为购物平台。 对此，约翰逊表示，很难想象消费者会让AI代理在完全没有亲自体验的情况下，直接购买价值1000美元至2000美元的笔记本电脑。他认为，消费者仍希望感受产品重量、查看屏幕并判断尺寸，AI</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31262</guid>
+      <pubDate>Tue, 22 Sep 2026 03:37:00 +0000</pubDate>
     </item>
     <item>
-      <title>Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元</title>
-      <link>https://news.aibase.com/zh/news/31228</link>
-      <description>因 Siri AI 功能延期，苹果此前在美国遭到用户集体诉讼，如今这起官司迎来 最新 进展——苹果 Siri AI 集体诉讼和解网站已正式上线，符合条件的美国 iPhone 用户可以提交赔偿申请。 今年 5 月，苹果同意支付 2.5 亿美元（约合人民币 16 亿元）解决这起集体诉讼。不过苹果并未承认诉讼中的相关指控，并表示选择和解主要是为了避免继续诉讼带来的成本和风险。 每台赔 25 美元， 最高 95 美元，七款机型在列 根据和解方案，符合条件的用户预计每台 iPhone 可获得 25 美元赔偿，最终金额将根据有效申请数量等因素调整， 最高 可达 95 美元。 并非所有 iPhone 用户都</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31228</guid>
-      <pubDate>Mon, 21 Sep 2026 06:01:00 +0000</pubDate>
+      <title>阿里云栖大会亮出最激进AI蓝图： 5 万亿至 10 万亿参数模型在途，自研真武V900 芯片算力翻三倍</title>
+      <link>https://news.aibase.com/zh/news/31263</link>
+      <description>在杭州举行的2026云栖大会上，阿里巴巴把人工智能的野心摊到了 最大 。首席执行官吴泳铭宣布，公司正准备训练参数规模介于5万亿至10万亿之间的新一代模型，这是阿里迄今最激进的AI发展计划，也意味着它要从云计算服务商进一步蜕变为全栈人工智能平台。 按照披露，这款仍在研发中的新模型将成为通义千问（Qwen）系列的重要后续产品。Qwen团队眼下持续推进架构创新与数据优化，目标让未来的模型能啃下更复杂、时间跨度更长的任务，并向人工 超级 智能(ASI)的方向迈步。当前阿里 最强 的旗舰Qwen3.8Max约有2.4万亿参数，而规划中的新模型规模将达到它的两到四倍，跻身全球 最大 规模人工智能系统之列。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31263</guid>
+      <pubDate>Tue, 22 Sep 2026 05:56:00 +0000</pubDate>
     </item>
     <item>
-      <title>登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案</title>
-      <link>https://news.aibase.com/zh/news/31229</link>
-      <description>近日， OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark（简称DAB），以90.62%的准确率位列 第一 ，成为该榜单首个准确率突破90%的参评方案。值得关注的是，这一成绩由国产数据库OceanBase基于国产大模型GLM-5.2构建，超过多项基于GPT、Claude Opus、Claude Fable等海外模型构建的Data Agent方案。本次参评方案内部代号为 Scout，相关能力将融入 OceanBase DataPilot。 （图说:OceanBase登顶国际Data Agent榜单，成为首个准确率突破90%的参评方案</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31229</guid>
-      <pubDate>Mon, 21 Sep 2026 06:08:00 +0000</pubDate>
+      <title>Qwen4已投入训练，阿里公布10万亿参数模型演进路线</title>
+      <link>https://news.aibase.com/zh/news/31264</link>
+      <description>9 月 22 日， 2026 云栖大会在杭州开幕。阿里巴巴集团公布大模型领域多项进展：基于下一代架构的Qwen4 已投入训练，Qwen4.5、Qwen5 等后续模型参数规模计划扩展至 5 万亿至 10 万亿；大模型递归自我改进（RSI）已进入模型训练、推理及芯片协同等环节；多模态模型矩阵全面升级，下一代视频生成模型将于 11 月发布。 Qwen LLM项目负责人刘大一恒表示，Scaling是迈向ASI的重要路径。阿里披露，Qwen3.8-Max发布后在Artificial Analysis Agentic智能体、CodeArena前端编程等评测中位居前列。更值得关注的是，Qwen3.8-Max</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31264</guid>
+      <pubDate>Tue, 22 Sep 2026 06:03:00 +0000</pubDate>
     </item>
     <item>
-      <title>阿宝上线「鱼来」摸鱼AI系统，将碎片化休息纳入智能管理</title>
-      <link>https://news.aibase.com/zh/news/31230</link>
-      <description>继定时点咖啡、打车等异步任务能力后，阿宝（支付宝AI助手）近日再推新功能——摸鱼AI辅助系统「鱼来」，将AI能力从「事务管理」延伸至「状态管理」，试图重新定义打工人的碎片化休息方式。 据了解，「鱼来」首批已释放500尾鱼苗。用户只需对阿宝说出「鱼来」，即可随机召唤一条鱼，从中选出自己的「命定之鱼」，并设置每日摸鱼提醒。整个流程被概括为三步:对阿宝说出指令（如「每天下午2点提醒我来摸鱼」）、为任务命名并开启通知权限、坐等每日准时提醒。 阿宝团队表示，过去工作间隙的摸鱼往往毫无规律——打开网页、刷两下手机、发会儿呆，既没有计划也找不到节奏。「鱼来」正是试图通过AI能力，将零散的休息时间重新组织起来</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31230</guid>
-      <pubDate>Mon, 21 Sep 2026 06:21:00 +0000</pubDate>
+      <title>消息称高瓴创投合伙人严文韬加入DeepSeek，担任CFO</title>
+      <link>https://news.aibase.com/zh/news/31265</link>
+      <description>9月21日，高瓴创投合伙人严文韬正式加入DeepSeek并完成报到，担任公司CFO。此次任命意味着DeepSeek成立三年来长期空缺的CFO职位正式补齐，也显示其公司治理和财务管理体系进一步完善。 资料显示，严文韬1991年出生，毕业于复旦大学，2013年至2020年间先后任职于腾讯投资、H Capital，2020年加入高瓴创投。报道称，过去两个月内，还有多位头部VC的年轻合伙人参与了DeepSeek CFO岗位竞聘。 此次人事变动发生在DeepSeek第二轮融资接近结束之际。据报道，过去两周DeepSeek方面已对LP名单展开资格审查，部分具有国资、非上市公司及自然人背景的LP未通过本轮审</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31265</guid>
+      <pubDate>Tue, 22 Sep 2026 06:07:00 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元</title>
-      <link>https://news.aibase.com/zh/news/31231</link>
-      <description>所有人都在守着Opus5.2的档期，可Anthropic这回偏不按常理出牌。 最新 线报显示，下一代版本号直接飙到了5.5——代号为claude-wafer-eap的Claude Opus5.5已经在悄悄内测，最早由开发者Lyra扒出猛料，动作快的话本周二就会突然砸向市场。更扎眼的是流出的定价单:每百万Token输入只要4美元，输出20美元，摆明了是冲着GPT-6去的，据传性能直接把Astra踩在脚下。与此同时，Claude Fable5.2也在暗中铺路，Anthropic一套双管齐下的组合拳，节奏卡得异常精准。 这场突袭的时机格外耐人寻味。两天前外媒刚爆出，Anthropic在IPO之前必须</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31231</guid>
-      <pubDate>Mon, 21 Sep 2026 07:09:00 +0000</pubDate>
+      <title>硅谷 AI“黑客屋”乱象：月租 1 万美元的豪宅，留下 37 次警方记录</title>
+      <link>https://news.aibase.com/zh/news/31266</link>
+      <description>据《纽约时报》报道，随着人工智能热潮席卷硅谷，一批供创业者与工程师共同居住、办公及社交的科技群居住宅迅速兴起。这些被称为“黑客之家”的住所已成为 AI 行业重要的社交场所，但部分豪宅也因频繁派对、性骚扰及强奸指控等问题，留下大量警方记录。 最知名的 AGI House：37 次警方记录与性侵指控 位于加州富裕小镇希尔斯伯勒的 AGI House 是其中最具代表性的一座。这栋地中海风格豪宅拥有 8 间卧室，面积约 1.67 万平方米，毗邻一座高尔夫球场。Google 联合创始人谢尔盖·布林曾在此演讲，歌手格莱姆斯也曾登台表演。 当地警方自 2022 年以来共记录了与该住所相关的 37 起事件，其</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31266</guid>
+      <pubDate>Tue, 22 Sep 2026 06:34:00 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折</title>
-      <link>https://news.aibase.com/zh/news/31232</link>
-      <description>所有人都在等 Opus 5.2，结果 最新 线报显示下一代版本号直接飙到 5.5。今天一早，开发者 Lyra 扒出猛料：代号“claude-wafer-eap”的 Claude Opus 5.5 已在偷偷内测，据说动作快的话本周二就会突然发布。 定价传言：输入 4 美元、输出 20 美元 摆明了，Opus 5.5 就是冲着 GPT-6 去的。更狠的是随之曝光的定价单：每百万 Token 输入只要 4 美元、输出 20 美元，对比现役 Opus 5 的 5 美元 / 25 美元，降幅约 20%。 关键在于缓存机制的大幅优化——缓存读取降至每百万 Token 0.2 美元、缓存写入为 5 美元。0</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31232</guid>
-      <pubDate>Mon, 21 Sep 2026 07:11:00 +0000</pubDate>
+      <title>蚂蚁阿福健康专区进入2000多家商超，AI营养师走向线下</title>
+      <link>https://news.aibase.com/zh/news/31267</link>
+      <description>9月22日，蚂蚁阿福健康专区开始规模进入线下商超，目前全国已有2000多家门店陆续上线，覆盖盒马、物美、Olé、银座、新天地、中商超市、重庆百货、大张、红府等连锁及区域零售品牌。消费者选购牛奶、海鲜、零食、粮油等食品时，可通过AI健康问答、AI拍食物等功能获取热量、营养成分、升糖指数等信息，辅助健康消费决策。 在实际消费场景中，消费者拍摄牛奶包装、海鲜标签等，蚂蚁阿福可结合个人饮食记录和健康情况，提供热量、脂肪、营养成分、升糖指数及份量等参考。围绕“科学减重1亿斤”活动，蚂蚁阿福此前已推出AI饮食分、食物拍照识别热量、慢病饮食管理等能力，将AI健康服务延伸至日常饮食。 这一模式也正从商超向更多</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31267</guid>
+      <pubDate>Tue, 22 Sep 2026 06:46:00 +0000</pubDate>
     </item>
     <item>
-      <title>阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相</title>
-      <link>https://news.aibase.com/zh/news/31233</link>
-      <description>阿里巴巴集团已任命 资深 AI研究人员刘大一恒担任Qwen（通义千问）大语言模型团队负责人，这一人事变动由两位知情员工向外透露。今年以来，Qwen团队历经多轮组织重组，刘大一恒的到任进一步厘清了团队的管理层架构，也意味着这条核心AI产品线有了明确的一把手。 这一任命的时点颇为微妙。阿里巴巴一年一度的云栖大会将于本周二开幕，在大会官网的演讲嘉宾名单页面上，刘大一恒的个人肖像被放在了十分靠前的位置，紧随集团主席蔡崇信、首席执行官吴泳铭之后，官网对其职务的标注正是Qwen大语言模型项目负责人。在年度技术盛会的聚光灯下高调露面，无疑是为这位新 掌门人 铺好了登场舞台。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31233</guid>
-      <pubDate>Mon, 21 Sep 2026 07:13:00 +0000</pubDate>
+      <title>SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半</title>
+      <link>https://news.aibase.com/zh/news/31268</link>
+      <description>今天一早，SpaceXAI 推出 最强 模型 Grok4.7。发布页开头只有一句极具“攻击性”的定位:面向编程与知识工作的 最强 模型，速度达可比模型两倍，价格仅一半。这次升级没有停留在跑分表上——Grok4.7换用更大的基础模型，强化长时间任务、自我检查和长上下文管理，并把文档、演示、法律、医疗和工程等专业工作纳入重点测试，目标是让模型在持续数小时的任务里少走弯路、交出可直接使用的结果。 马斯克发推称，Grok4.7在智能水平、运行速度和成本之间取得了“很有竞争力的平衡”。 长任务成为主战场 Grok4.7采用比 Grok4.6更大的基础模型，训练阶段延长了强化学习周期，任务组合进一步加难，</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31268</guid>
+      <pubDate>Tue, 22 Sep 2026 07:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹</title>
-      <link>https://news.aibase.com/zh/news/31234</link>
-      <description>让人担心的事还是发生了。安全研究者扒出，OpenAI通过内部代号为bazaar的广告平台，搭起了一条跨站追踪的完整链路。当一名用户打开ChatGPT时，客户端会先生成一串随机标识符，并取走一个绑定了该用户账号的JWT令牌，随后在跨站环境下写入一个名为__obi的跨站cookie。这枚cookie就像一张贴着身份的标签，当用户日后访问那些装了OpenAI广告像素的第三方网站时，网页上的浏览动作会被直接关联回其ChatGPT账号。 更值得注意的是，这种关联并不以你在ChatGPT里输入过什么为前提。哪怕你从没在对话框里提过相关话题，只要踏进装了像素的站点，你的网页浏览行为就会被OpenAI收走。换</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31234</guid>
-      <pubDate>Mon, 21 Sep 2026 07:21:00 +0000</pubDate>
+      <title>月之暗面推出Kimi Code桌面版：Plan、目标、Swarm三种模式齐发，AI编程搬进图形界面</title>
+      <link>https://news.aibase.com/zh/news/31269</link>
+      <description>月之暗面把Kimi Code从命令行里拽了出来。日前其宣布，人工智能编码工具Kimi Code正式推出桌面版，作为CLI版的官方桌面客户端，将原本以命令行形式提供的AI编程能力搬进图形界面。开发者只需通过对话，就能让智能体阅读代码、修改文件、运行命令，并持续啃下复杂的开发任务。 桌面版按工作区来管理项目和会话，新建会话后选定本地项目文件夹就能开工。智能体会主动分析代码结构、编辑文件、执行构建与测试命令，再根据跑出来的结果回头调整方案。针对不同任务，它准备了多档工作模式:Plan模式先吃透需求、生成执行计划，等用户点头再动手改代码;目标模式适合需要多轮推进、持续检查的长期目标;Swarm模式则把</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31269</guid>
+      <pubDate>Tue, 22 Sep 2026 07:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>百度文库网盘宣布AI办公出海，库库AI全球月活超4000万</title>
-      <link>https://news.aibase.com/zh/news/31236</link>
-      <description>9月21日，在百度AI Day开放日上，百度文库网盘宣布加速AI办公出海并推进全球品牌升级。通用智能体“库库AI”全球AI办公月活已超4000万，百度文库网盘去年推出的海外一站式AI办公平台Oreate AI同步焕新为库库AI海外版“Kooko”，海外用户一年内突破1000万。 作为百度文库网盘三年前布局的通用AI办公产品，库库AI前身GenFlow于2025年4月上线1.0版本，一年内迭代至4.0，并于今年8月上线独立端。产品覆盖通用办公、学术科研、金融投研、法律研究、代码编程、设计创意等场景，支持全模态内容交付、Office在线AI编辑、本地云端接力及APP远程控制多电脑办公。 在数据与知</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31236</guid>
-      <pubDate>Mon, 21 Sep 2026 07:38:00 +0000</pubDate>
+      <title>阿里试水QwenBook AI设备，团队规模约150人</title>
+      <link>https://news.aibase.com/zh/news/31270</link>
+      <description>据报道，阿里云旗下无影团队正在研发一款名为QwenBook的AI设备，定位为原生智能体电脑，但产品形态更接近“千问平板”。目前该产品仍处于早期试水阶段，主打办公场景，接入模型包括Qwen3.8-Max和Qwen3.8-Flash。 据一位阿里云人士透露，QwenBook的产品定义和硬件部分由团队自主研发，同时将无影此前在云电脑领域积累的系统及端云能力带入项目。目前QwenBook团队约150人，系统团队主要基于无影和阿里云OS团队重新组建，硬件团队则吸纳了多名头部手机厂商相关人才。 从产品定位来看，QwenBook并非传统平板电脑的AI功能升级，而是尝试以大模型和智能体能力作为核心交互方式，将</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31270</guid>
+      <pubDate>Tue, 22 Sep 2026 08:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放</title>
-      <link>https://news.aibase.com/zh/news/31237</link>
-      <description>Kimi Code 桌面客户端 macOS 和 Windows 版同步上线，用户访问 kimi.com/code 即可开始安装使用。 针对开发者的实际工作流，桌面端提供内置终端、浏览器和 Git 状态查看等功能，支持直接运行和调试项目、审阅代码改动，并可关联 PR 状态，方便跟踪代码评审与合并进度。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31237</guid>
-      <pubDate>Mon, 21 Sep 2026 08:12:00 +0000</pubDate>
+      <title>OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近</title>
+      <link>https://news.aibase.com/zh/news/31271</link>
+      <description>OpenAI生产线深处正在发生一件令人脊背发凉的事:内部的AI模型已经能够自主接管实验性AI模型的训练全流程。多个智能体自发协作完成相关工作，把原本漫长的实验耗时大幅压缩，甚至还能自己动手编写用于优化GPU内核的程序——在OpenAI看来，这正是递归式自我提升（RSI）的雏形。 面对这股正在加速的势头，OpenAI抛出了全球安全倡议。公司明确指出，全自主的RSI尚未真正发生，但进程正在提速;一旦缺乏管控，人类有可能彻底失去对AI发展的实际控制。为此它呼吁建立针对前沿AI模型的全球统一技术标准，把几件最要紧的事写进规则:评估AI在自动化研发中的占比、设置强制人类监督的触发机制、确立事故的分类与报</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31271</guid>
+      <pubDate>Tue, 22 Sep 2026 08:02:00 +0000</pubDate>
     </item>
     <item>
-      <title>法国兴业银行押注 AI：预计最多省下 6 亿欧元成本</title>
-      <link>https://news.aibase.com/zh/news/31238</link>
-      <description>据彭博社报道，法国兴业银行（Societe Generale SA）预测，人工智能应用范围不断扩大，将为该行的降本工作带来可观贡献。 这家总部位于巴黎的银行表示，借助 AI 实现降本的当前潜在空间介于 5 亿至 6 亿欧元（约合 38.47 亿至 46.16 亿元人民币）之间。其中，到 2029 年为止已经落实规划的降本规模约为 3.5 亿欧元（约合 26.93 亿元人民币）。 与 Anthropic 战略合作，分批部署 Claude 法国兴业银行称，该行将得益于与美国 AI 巨头 Anthropic 开展的战略合作，合作内容包括持续分批部署其 Claude 大模型。 该行认为，AI 可以在多</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31238</guid>
-      <pubDate>Mon, 21 Sep 2026 08:14:00 +0000</pubDate>
+      <title>小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机</title>
+      <link>https://news.aibase.com/zh/news/31272</link>
+      <description>9月22日，小米官宣小米18Pro系列将于9月23日晚7点登场，包含18Pro与18Pro Max两款机型。这一代最惹眼的 王牌 ，是首发传奇一瞬大模型影像——靠一套端到端的影像大模型，把相机级的光学虚化搬到了手机上，官方宣称成像质感足以媲美专业相机。它的打法很聪明:把传感器数据直接送上云端，依托百万量级样片做多维度训练，最终让虚化效果落到接近光学镜头的质感。 硬件上，小米18Pro系列首发徕卡双2亿影像系统，而且是双尺寸都给满。组合是徕卡2亿像素超大底主摄（1/1.28英寸）配徕卡2亿像素超大底潜望长焦(1/1.56英寸)，两颗镜头均由徕卡联合光学调校，延续了小米与徕卡合作以来的经典色彩科学</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31272</guid>
+      <pubDate>Tue, 22 Sep 2026 08:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows</title>
-      <link>https://news.aibase.com/zh/news/31239</link>
-      <description>月之暗面同步上线了Kimi Code Desktop的macOS与Windows版本，作为Kimi Code的官方桌面客户端，它把智能编程能力从浏览器里解放出来，直接落到了本地桌面上。最核心的用法很直观:用户通过对话驱动AI Agent去读写代码、运行命令、完成一整套自动化任务，而不必再手动切来切去。 为了让这套能力真正贴合开发者的日常，客户端在可视化界面上下了功夫。用户可以在桌面端管理项目、逐步查看Agent的任务执行过程，每一步干了什么一目了然。针对真实工作流，它还内置了终端、浏览器和Git状态查看等能力，既能直接运行调试项目，也能审阅代码改动，更能关联PR状态来跟踪代码评审与合并的进度—</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31239</guid>
-      <pubDate>Mon, 21 Sep 2026 09:26:00 +0000</pubDate>
+      <title>阿里千问办公发布 Agent 全家桶:从自动化脚本到"有身份、担责任"的数字员工</title>
+      <link>https://news.aibase.com/zh/news/31273</link>
+      <description>阿里千问办公（QwenWork）9月22日在2026云栖大会专场上，围绕企业级 Agent 发布一系列产品与能力升级，主题指向"让企业级 Agent 懂业务、能协同、信得过"。 面向企业数据理解，千问办公发布"企业上下文"（Enterprise Context），将分散在文档、沟通与业务系统中的信息压缩、结构化并随业务更新，使 Agent 基于企业 最新 真实情况判断，内置专属模型以极低 Token 成本完成处理。 基于千问办公与钉钉，企业可打造具备组织属性的"数字员工" —— 有名称、部门、负责人、职责与授权边界，执行记录全程可追溯，实现"进组织、定业务、担责任"。 协作层面，企业可创建协作</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31273</guid>
+      <pubDate>Tue, 22 Sep 2026 08:24:00 +0000</pubDate>
     </item>
     <item>
-      <title>微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍</title>
-      <link>https://news.aibase.com/zh/news/31240</link>
-      <description>微软用 AI 代理将 GitHub Copilot 运行时从 TypeScript 全量移植至 Rust，整个过程只花了约 12 万美元的 token 成本加一名工程师三周时间。 这个运行时比多数用户想象得更要命：它支撑着 GitHub Copilot CLI、Copilot App、SDK 和 Copilot 云 Agent，还会出现在 VS Code、Visual Studio、Excel、Outlook、PowerPoint 以及一堆微软云服务中。原本它用 TypeScript 配 Node.js，好处是开发快，但规模化之后，启动速度和服务器密度都成了瓶颈。 性能实测：每秒 7.55 次</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31240</guid>
-      <pubDate>Mon, 21 Sep 2026 09:31:00 +0000</pubDate>
+      <title>比尔·盖茨谈 AI：像亲手创造的“外星人”，社会讨论还远未跟上</title>
+      <link>https://news.aibase.com/zh/news/31275</link>
+      <description>在纽约出席盖茨基金会目标守卫者会议时，基金会主席比尔·盖茨表示：“我当然希望自己只需要谈对外援助，谈如何减少儿童死亡。”但他提到，人工智能发展迅猛，与各国 领导人 会面时，他不得不同时探讨另一个议题——社会是否已做好准备，应对这项技术带来的风险。 AI 像“十本科幻小说同时上演” 盖茨称，大约一年前 AI 取得的进展令他感到震惊，因为这项技术已经能够完成他年轻时耗费大量时间才掌握的编程工作。在他看来，AI 既能编写代码，也能研究代码、查找漏洞，甚至可能入侵各类系统。让他担忧的并不只是技术本身的能力，“面对这种指数级的进步，社会层面还没有开展足够广泛的参与和讨论。”科技行业内部已在探讨相关风险，</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31275</guid>
+      <pubDate>Tue, 22 Sep 2026 09:36:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上</title>
-      <link>https://news.aibase.com/zh/news/31241</link>
-      <description>AI制药赛道近期明显升温，两家原本不在这个圈子里的巨头先后下场。Anthropic一边自建湿实验室，用来测试自家模型指挥生物实验的能力，一边牵手诺和诺德、百时美施贵宝，并把Coefficient Bio收入囊中；字节跳动分拆出来的新生实验室也完成了首轮融资。被寄予厚望的AI，当下主要作用在把新药早期研发的轮子转得更快——压缩候选分子的搜索空间和实验迭代时间，但真正烧钱又耗时的临床试验环节却难同步缩短，早期命中率提上来，并不等于临床成功率就跟着涨。 三类玩家走的其实是截然不同的路。专注AI制药的公司盯着药物研发里的单个具体问题，让模型服务于明确的任务；大模型公司则追求通用能力，用单一基础模型再配</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31241</guid>
-      <pubDate>Mon, 21 Sep 2026 09:36:00 +0000</pubDate>
+      <title>办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元</title>
+      <link>https://news.aibase.com/zh/news/31276</link>
+      <description>在2026云栖大会期间，阿里千问办公（QwenWork）正式发布了旗下 首款 桌面机器人 QwenNote Eva(不含屏幕)。这款主打“懂工作，更懂你”的桌面终端产品融合了千问办公的内核与钉钉生态的协同底座，官方宣称能为用户实现“1台 Eva =1个团队”的智能协同体验。该产品定价为899元，已于当晚8点正式开售，并全面适配安卓、iOS 以及鸿蒙设备。 在核心功能设计上，QwenNote Eva 强调“一句话指令，Eva 主动交付”。用户通过自然语言即可下达复杂的办公任务，例如一键整理产品销售情况并生成 HTML、根据会议纪要生成 AI 表格、给同事发送消息、自动加入周会并邀请他人参会等。整</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31276</guid>
+      <pubDate>Tue, 22 Sep 2026 09:58:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI长剧首次上星引爆股价两连板，芒果TV逆向实验：不追技术追内容，用内容养出自己的大模型</title>
-      <link>https://news.aibase.com/zh/news/31242</link>
-      <description>8月31日，神话题材季播剧《后西游记》 第一 季花果山篇在湖南卫视与芒果TV双平台开播。这部由芒果TV出品、AIGC创新内容中心制作、伯璟文化承制的剧集，是广电21条发布后首部采用边审边播模式的作品，也是AI长剧历史上 第一 次登上卫星电视。市场用真金白银投了票——芒果超媒股价连续两日涨停。热度还在延续，在9月17日的芒果共创生态大会上，AIGC创新内容中心总经理任旭宣布，《后西游记》战天宫篇（第6至10集）将于今年国庆期间上线。 围绕这部剧，芒果在AIGC上的布局彻底浮出水面，可以概括为制作、厂牌和创作平台三块，覆盖从生产到分发的整条链路。大会上芒果超媒发布了灵创剧场，定位为芒果AIGC精品</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31242</guid>
-      <pubDate>Tue, 22 Sep 2026 00:56:00 +0000</pubDate>
+      <title>Anthropic上线Claude Opus 5.5 ，任务成本大降 40%</title>
+      <link>https://news.aibase.com/zh/news/31277</link>
+      <description>Anthropic 发布 Claude Opus 5.5，这是 Claude 5.5 系列的 首款 模型。Anthropic 称，新模型在多数任务上的表现与 Claude Fable 5.1 相当，但默认设置下的典型任务成本较上一代 Opus 5 降低 40%，输出速度提升超过 30%。发布约两小时后，OpenAI 也推出了 GPT-6 Sol 和 GPT-6 Luna，GPT-6“宇宙”再添新成员。 成本降四成、速度提三成，编程测试领跑 在官方公布的 9 项测试中，Opus 5.5 有 7 项成绩领先 Fable 5.1、Opus 5、GPT-6 Astra 和 GPT-5.6 Sol。其中</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31277</guid>
+      <pubDate>Wed, 23 Sep 2026 00:53:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI引入数学界外部顾问，AI数学研究的学术评估机制进一步强化</title>
-      <link>https://news.aibase.com/zh/news/31243</link>
-      <description>OpenAI周一宣布成立“数学与人工智能咨询小组”，由普林斯顿高等研究院提供支持，旨在引入数学界意见，为公司数学相关研究成果提供评估与发布建议。该小组首批成员共9名数学家，将作为数学界与公众之间的沟通桥梁，评估OpenAI新成果的学术意义并协调相关发布。 此次调整发生在OpenAI近期公布纳维-斯托克斯方程千禧年难题解决方案之后。OpenAI同时称，同一内部模型还解决了数学多个领域100余项未解难题，引发部分数学家对AI快速介入前沿数学研究的质疑。本月初，25位菲尔兹奖得主联名公开信，表达了对AI实验室竞相解决知名数学问题可能影响学术研究的担忧。 OpenAI表示，咨询小组成员不领取报酬，可主</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31243</guid>
-      <pubDate>Tue, 22 Sep 2026 01:00:00 +0000</pubDate>
+      <title>OpenAI 推出 GPT-6 Sol 和 Luna：API 价格大降 50%，单任务成本最低不到竞品一成</title>
+      <link>https://news.aibase.com/zh/news/31278</link>
+      <description>OpenAI 当日发布 GPT-6 系列的 最新 成员——GPT-6 Sol 和 GPT-6 Luna。两款模型采用与 GPT-6 Astra 类似的训练方法，把 Astra 在专业工作、事实性、编码、计算机使用和对齐等方面的 最先 进性能，带入更快、更经济的模型。OpenAI 也强调，GPT-6 Astra 仍是其整体 最优 秀的模型，追求无妥协体验仍应 首选 它。 价格砍半，成本 最低 不到竞品一成 GPT-6 Sol 和 Luna 的 API 价格相比 GPT-5.6 促销价降低 50%。更值得注意的是单任务成本：在 AutomationBench 跨应用业务流程测试中，GPT-6 So</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31278</guid>
+      <pubDate>Wed, 23 Sep 2026 00:54:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI暗暗布局自主Agent：对标GrokBot全天候协作，同时盯防Meta的Muse</title>
-      <link>https://news.aibase.com/zh/news/31244</link>
-      <description>OpenAI正在研发的，是一只能替用户伸手操控浏览器和其他应用的AI，而ChatGPT应用本身也把生成式AI带到了普通消费者面前。据消息人士透露，眼下OpenAI正开发一项新功能，直接对标SpaceX近期推出的GrokBot——那款产品允许用户创建全天候在线的AI协作伙伴，用来处理日常事务、管理软件，并在后台自动跑起协同工作。换句话说，OpenAI想把这种不眠不休的数字搭档也搬进自己的生态。 更值得玩味的是另一路心思。另一名知情人士表示，OpenAI还在内部讨论研发个人AI助手，对标Meta平台近期发布的同类产品。两条线一明一暗，一边盯着GrokBot式的自动化协作，一边斟酌如何应对Meta的</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31244</guid>
-      <pubDate>Tue, 22 Sep 2026 01:01:00 +0000</pubDate>
+      <title>AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻</title>
+      <link>https://news.aibase.com/zh/news/31279</link>
+      <description>随着人工智能产业持续扩张，大量新数据中心正加速建设。然而这场由 AI 驱动的基础设施热潮，正在美国遭遇越来越强烈的社会阻力。 最新 研究显示，仅在今年第二季度，就有价值约 680 亿美元的数据中心项目因公众反对被迫延期或受阻。 一季度 1300 亿、二季度 680 亿，反对已覆盖半数项目 研究机构 Data Center Watch 数据显示，今年第二季度共有 45 个数据中心开发项目遭遇阻挠或延迟，总价值达 680 亿美元，占同期该机构追踪的大型数据中心建设计划一半以上，显示社区反对已成了影响行业扩张的重要因素。 相比 第一 季度，受阻项目数量有所下降——当时共有 75 个项目引发争议、总值</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31279</guid>
+      <pubDate>Wed, 23 Sep 2026 00:56:00 +0000</pubDate>
     </item>
     <item>
-      <title>Oura拟IPO募资22亿美元，近三分之二股份由现有股东出售</title>
-      <link>https://news.aibase.com/zh/news/31245</link>
-      <description>智能戒指制造商Oura计划通过IPO募集 最高 22亿美元，但此次上市的主要资金流向将是现有股东。根据公司更新后的IPO文件，Oura及股东计划合计发行5000万股，发行价区间为每股40至44美元，其中股东出售3650万股，占发行总量近三分之二。若按每股42美元的中间价计算，股东预计获得约15.3亿美元，公司获得约5.67亿美元。 其中，Oura第二大股东Forerunner Ventures计划出售全部9.3%持股，约2870万股，按42美元计算交易额约12亿美元，占现有股东出售股份近80%。Forerunner于2020年参与Oura2800万美元B轮融资。 Oura预计IPO净收益约5.</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31245</guid>
-      <pubDate>Tue, 22 Sep 2026 01:13:00 +0000</pubDate>
+      <title>Grok Bot 上线仅一个月，周活跃用户数正式突破 40 万大关</title>
+      <link>https://news.aibase.com/zh/news/31280</link>
+      <description>人工智能领域的竞争格局正在迎来新的变数。根据 最新 行业报道显示，由马斯克的 SpaceX AI 团队推出的 Grok Bot 人工智能智能体在上线大约一个月后，其周活跃用户数已经成功突破40万大关。 具体数据表现十分亮眼。截至9月14日的统计数据显示，Grok Bot 的用户规模已迅速攀升至41.8万人，与前一周相比实现了高达24% 的强劲环比增长。这一增长速度不仅印证了该智能体在市场上的受欢迎程度，也展现出了其在终端用户群体中的快速渗透能力与强大的吸引力。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31280</guid>
+      <pubDate>Wed, 23 Sep 2026 01:09:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI 编程平台 Bitrig 支持 iPhone Duo：交互式 3D 模拟器可折叠、旋转测应用</title>
-      <link>https://news.aibase.com/zh/news/31246</link>
-      <description>据外媒 9to5Mac 报道，随着苹果上周发布 Xcode 27.1 Beta 1 并加入 iPhone Duo 应用开发支持，AI 编程平台 Bitrig 也宣布支持构建和测试 iPhone Duo 应用。 据介绍，Bitrig 最初是一款面向“氛围编程”（vibe coding）的应用，用户可通过文字或语音提示生成原生 SwiftUI 应用，并直接在 iPhone 上的 Bitrig 应用中运行。此后该平台不断扩展，推出 Mac 版应用，加入完整的 Xcode 工具链、内置 iPhone 模拟器以及真机测试功能，同时支持将项目导出至 Xcode，或通过 TestFlight 和 App S</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31246</guid>
-      <pubDate>Tue, 22 Sep 2026 01:20:00 +0000</pubDate>
+      <title>OpenAI 宣布将在 AI 模型开发早期阶段引入第三方独立安全评估</title>
+      <link>https://news.aibase.com/zh/news/31281</link>
+      <description>面对外界持续增长的对人工智能潜在风险的担忧，OpenAI 近期公布了 最新 的安全治理动向。据相关报道，该公司计划打破传统的内部闭环测试模式，将第三方独立机构正式引入 AI 模型开发周期的更早阶段，对其进行系统性的安全风险评估。 为了确保这一创新机制能够真正发挥实质性作用，OpenAI 同时明确了此类外部评估得以有效开展的核心优先事项。具体包括四大关键支柱:必须具备强有力的独立运作机制、严格遵循科学的严谨性、落实稳健的日常安全实践，以及在各方之间划分清晰明确的安全责任。 这一举措表明，随着前沿人工智能模型的迭代速度不断加快，行业头部企业正在进一步主动向外部开放，通过引入客观公正的第三方力量来共</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31281</guid>
+      <pubDate>Wed, 23 Sep 2026 01:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI 成立数学与 AI 顾问组：神秘新模型 24 天攻破 100 多个世界级难题</title>
-      <link>https://news.aibase.com/zh/news/31247</link>
-      <description>9 月 22 日，OpenAI 宣布成立“数学与 AI 顾问组”（Advisory Group on Mathematics and Artificial Intelligence）。该顾问组设在普林斯顿高等研究院，由九位数学家组成，将独立于 OpenAI 运作。 更重磅的是 OpenAI 在公告中披露：公司于 8 月 28 日开始训练的一个神秘模型，已成功解决多个数学领域中 100 多个长期未解决的开放问题，其中包含此前引发争议的纳维 - 斯托克斯千年大奖难题。 数学家们被进展速度“惊到”，如何告知学界引内部讨论 OpenAI 称，该模型在数学领域的进展速度令公司内部的数学家感到惊讶，这也引</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31247</guid>
-      <pubDate>Tue, 22 Sep 2026 01:22:00 +0000</pubDate>
+      <title>被指“OpenClaw换皮”后，Meta罕见承认:产品设计确实深受其影响</title>
+      <link>https://news.aibase.com/zh/news/31282</link>
+      <description>Meta 超级 智能实验室（MSL）产品负责人Nat Friedman日前在X上回应称，旗下AI代理产品Muse“在产品设计上确实深受OpenClaw的影响”，但Muse本身“从零开始创建”。 此番回应源于AI应用联合创始人Ansh Nanda的一篇疯传帖子，后者称“Muse简直就是面向普通用户的OpenClaw”，并晒出与Muse的对话，其中AI代理自认其系统文件与OpenClaw的相似性并非“巧合”而是“匹配”。 社区随后发现:Muse同样包含一个SOUL.md文件——以Markdown编写的纯文本配置文件，用于定义AI代理的个性、沟通风格、价值观、行为边界与专业领域，且其内容与OpenC</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31282</guid>
+      <pubDate>Wed, 23 Sep 2026 01:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>日本拟最早 2027 年在国际空间站办 AI 机器人竞赛，培养下一代太空工程师</title>
-      <link>https://news.aibase.com/zh/news/31248</link>
-      <description>据《日经亚洲》报道，日本计划最早于 2027 年在国际空间站举办一场人工智能机器人竞赛，参赛团队将通过人工智能控制空间站内的机器人，以此培养下一代太空工程师。 本次竞赛由总部位于东京的“太空 AI 机器人协会”（Space AI Robotics Association，简称 SAIRA）组织。该协会于今年 7 月成立，旨在通过与大学、研究机构和企业合作，开发太空探索、人工智能、机器人和模拟等领域的技术。 预赛在地面模拟舱，决赛上“希望号” 日本宇宙航空研究开发机构（JAXA）计划最早于 2027 年，在国际空间站的日本“希望号”实验舱（Kibo）内举行决赛。竞赛将先在模拟空间站环境的地面场地</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31248</guid>
-      <pubDate>Tue, 22 Sep 2026 01:32:00 +0000</pubDate>
+      <title>Anthropic发布Claude Opus5.5:任务成本降40%、输出提速30%，9项测试7项领先GPT-6Astra</title>
+      <link>https://news.aibase.com/zh/news/31283</link>
+      <description>Anthropic于9月23日凌晨发布Claude5.5系列 首款 模型Opus5.5，官方称多数任务表现与Fable5.1相当，默认设置下典型任务成本较上代Opus5降低40%，输出速度提升超30%，已上线Claude及亚马逊云科技、谷歌云、微软Azure。 官方公布的9项测试中，Opus5.5有7项领先Fable5.1、Opus5及OpenAI的GPT-6Astra、GPT-5.6Sol。三项编程测试均取得 最高 分:Terminal-Bench4.0达66.4%，FrontierCode v1.1为54.4%，CursorBench4.0为57.8%，但业务流程与科研Agent测试落后于</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31283</guid>
+      <pubDate>Wed, 23 Sep 2026 01:19:00 +0000</pubDate>
     </item>
     <item>
-      <title>小米发布并开源 MiMo-V2.6:AA 智能指数46分登顶最强开源模型</title>
-      <link>https://news.aibase.com/zh/news/31249</link>
-      <description>小米9月22日发布并开源 MiMo-V2.6系列，含 MiMo-V2.6-Pro 与 MiMo-V2.6-Flash 两款原生全模态模型，权重与技术报告已通过 HuggingFace 全面开源，同步上线 MiMo Desktop 桌面客户端与 Xiaomi MiMo 开放平台，API 定价沿用 V2.5不变，客户端另提供 最高 20倍输出速度的 UltraSpeed 模式。 这是小米探索 RSI（递归自我改进）路径的关键一步。不到6天的 Live RL 训练中，Flash 与 Pro 训练成本分别约85万与262万美元，各完成30步、累计约75万条轨迹，任务平均通过率相对提升25% 与12%，</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31249</guid>
-      <pubDate>Tue, 22 Sep 2026 01:37:00 +0000</pubDate>
+      <title>OpenAI 重磅发布 GPT-6 Sol 与 Luna 模型：API 价格腰斩，性能直逼顶级旗舰</title>
+      <link>https://news.aibase.com/zh/news/31284</link>
+      <description>OpenAI 今日正式发布了 GPT-6系列的 最新 成员 ——GPT-6Sol 与 GPT-6Luna。这两款新模型采用了与 GPT-6Astra 类似的方法进行训练，旨在将 Astra 在专业工作、事实性、编程、计算机使用及对齐等方面的 顶尖 性能，带入速度更快、更经济的小尺寸模型中。官方表示，虽然 GPT-6Astra 依然是追求 最佳 效果和无妥协体验的 首选 ，但 Sol 与 Luna 在大幅降低成本的同时，展现出了极其强悍的综合竞争力。 在价格方面，GPT-6Sol 和 Luna 模型的 API 价格相比 GPT-5.6的促销价直接降低了50%。此外，OpenAI 还针对基于 GP</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31284</guid>
+      <pubDate>Wed, 23 Sep 2026 01:26:00 +0000</pubDate>
     </item>
     <item>
-      <title>小米MiMo-V2. 6 发布： 46 分登顶开源之巅，把性价比砍成一道斩杀线</title>
-      <link>https://news.aibase.com/zh/news/31250</link>
-      <description>9月22日，小米正式端出新一代大模型MiMo-V2.6，一口气放出Pro和Flash两个原生全模态版本。就在几天前，小米还直播了V2.6的RL后训练过程，如今发榜时刻到来——Pro版本在Artificial Analysis综合智能指数（AA Intelligence Index）上跑出46分，把Kimi K3和Qwen3.8Max甩在身后，坐上了当前 最强 开源模型的交椅。不过小米话说得很实在，与Claude Fable5.1、GPT-6Astra这些 顶级 闭源选手相比，仍有差距。 真正让同行冒汗的是价格。V2.6的定价和前代V2.5完全锁死:Flash缓存命中只要0.02元，Pro也仅0</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31250</guid>
-      <pubDate>Tue, 22 Sep 2026 01:45:00 +0000</pubDate>
+      <title>​江西首个 Token 工厂正式落地南昌高新区，聚合超 300 款主流大模型</title>
+      <link>https://news.aibase.com/zh/news/31285</link>
+      <description>据报道，江西省首个 Token 工厂项目正式在南昌高新区落地。该项目作为当地重点培育的人工智能赋能平台，旨在以集约化、规模化的全新模式，为大模型训练及推理提供高效、稳定且低成本的智能算力服务，全面加速千行百业的数智化转型。 作为面向人工智能大模型时代的新型算力基础设施，Token 工厂的落地有效破解了当地中小科创企业培育体系尚不完善、落地场景偏慢以及赋能载体稀缺等现实痛点。南昌高新区党工委委员、管委会副主任刘用强指出，高新区此前已围绕 AI 智能终端、算力硬件和具身智能新赛道持续补链强链延链，而 Token 工厂正是补齐产业短板、推动产业升级的关键抓手。 在技术落地与生态合作方面，该项目由南昌</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31285</guid>
+      <pubDate>Wed, 23 Sep 2026 01:33:00 +0000</pubDate>
     </item>
     <item>
-      <title>SpaceXAI发布Grok 4.7：推理速度翻倍、价格砍半，每百万Token输入仅 2 美元</title>
-      <link>https://news.aibase.com/zh/news/31251</link>
-      <description>9 月 21 日，SpaceXAI正式端出Grok 4. 7 模型。官方给出的卖点很硬：推理速度达到可比同类模型的两倍，而价格却只有对方的一半。具体账面上，Grok 4. 7 输入Token每百万个收费 2 美元，输出Token每百万个收费 6 美元——在速度和成本两条线上同时出招，直接把性价比的门槛又抬高了一截。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31251</guid>
-      <pubDate>Tue, 22 Sep 2026 02:00:00 +0000</pubDate>
+      <title>消息称豆包调整Chat团队与后训练资源，对话模型业务进入结构优化阶段</title>
+      <link>https://news.aibase.com/zh/news/31286</link>
+      <description>据媒体报道，字节跳动旗下豆包通用 Session 团队正在进行人员调整，团队规模预计缩减约一半，此次调整由豆包负责人赵祺推动。 报道称，该团队此前约有 50 人，一度是豆包内部规模 最大 的团队之一，主要负责豆包对话（Chat）产品能力，包括产品策略、评测等工作。此次调整后，部分员工将转岗至豆包商业化、飞书等团队，其余人员将被裁撤。 与此同时，负责对话方向的产品后训练团队（Product Posttrain-Chat）也在缩减。该团队由朱文佳负责，隶属于大模型部门Seed，与豆包产品团队协作，基于Seed基础模型开展后训练，并产出供豆包直接调用的小模型。由于相关业务需求减少，部分员工已转岗至H</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31286</guid>
+      <pubDate>Wed, 23 Sep 2026 01:34:00 +0000</pubDate>
     </item>
     <item>
-      <title>3.99万元起，宇树科技推出22自由度Dex5-S灵巧手</title>
-      <link>https://news.aibase.com/zh/news/31252</link>
-      <description>宇树科技发布新一代Dex5-S灵巧手，单手拥有22个自由度，采用与真人手部1:1尺寸设计，售价3.99万元起，并同步提供Dex5-S Pro版本。产品尺寸为102×187×26mm，重量620g，外壳采用铝合金材质。自由度方面，拇指和小拇指各5个，食指、中指、无名指各4个，其中小拇指新增Roll自由度。 Dex5-S搭载22个电机，均支持直驱与反向驱动，并采用双编码控制，单手负载1kg、 最大 负载2kg，峰值功率200W。产品支持15V至65V宽电压供电，配备千兆网口、USB及高速485三种通信接口，通信波特率 最高 6Mbps，T1s以太网/USB控制频率达到1000Hz。 在视觉与连接能</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31252</guid>
-      <pubDate>Tue, 22 Sep 2026 02:04:00 +0000</pubDate>
+      <title>谷歌前安全负责人警告：AI 对儿童的伤害恐超社交媒体</title>
+      <link>https://news.aibase.com/zh/news/31287</link>
+      <description>据路透社报道，谷歌信任与安全团队的创始人汤姆·西格尔（Tom Siegel）本周呼吁放缓 AI 发展，并警告科技行业正在重蹈社交媒体时代的覆辙，可能对儿童造成更大的伤害。当前，社交媒体公司正因被指控伤害年轻用户而支付巨额赔偿、面临数千起诉讼，多国政府也在努力限制未成年人访问社交平台。 “我们处境非常糟糕”，行业重蹈覆辙 西格尔曾任谷歌信任与安全副总裁。他对路透社表示：“就 AI 正在对儿童造成的影响而言，我们目前的处境非常糟糕。那种认为行业能够在没有外部帮助的情况下自行解决问题的想法，是不现实的。”他的担忧反映出不少科技人士与学者的共同恐惧：AI 对儿童构成的威胁比社交媒体更为深层，而行业正竞</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31287</guid>
+      <pubDate>Wed, 23 Sep 2026 01:35:00 +0000</pubDate>
     </item>
     <item>
-      <title>纯Go Agent框架covonaut v1.1. 4 发布：滚动并行池提速、多模态读取全开，误删也能进回收站</title>
-      <link>https://news.aibase.com/zh/news/31253</link>
-      <description>covonaut这个面向生产环境的Go语言Agent框架，又一次把自己打磨得更像一位靠谱的同事。 最新 放出的v1.1.4版本带来滚动工具执行池、多模态读取能力，以及一连串围绕安全与隔离的增强，而且全程纯Go实现、采用MIT协议，覆盖Agent主循环、工具调用、图编排与多协议互操作。最体贴的一点是，开发者升级到v1.1.4无需改动任何接口代码，新特性开箱即用。 调度是这次改动的核心。过去的并行执行像个不讲策略的包工头——一次性拉起全部调用，再靠并发上限排队，一个慢工具就能长期占住槽位，堵住后面所有活。v1.1.4改成单一滚动池调度:调用严格按模型给出的顺序启动，一旦有空槽立即补位，慢调用不再拖</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31253</guid>
-      <pubDate>Tue, 22 Sep 2026 02:09:00 +0000</pubDate>
+      <title>虎鲸文娱发布“鲸锐AI”，布局AI影视制作与管理平台</title>
+      <link>https://news.aibase.com/zh/news/31288</link>
+      <description>在2026云栖大会“AI+文化传媒”技术发展论坛上，虎鲸文娱集团发布AI影视制作与管理平台“鲸锐AI”，定位于面向影视行业的新型AI制作基础设施，旨在降低AI视频生成过程中的无效试错，并提升大型制作团队的协作效率。 据介绍，“鲸锐AI”支持影视创作全流程精准控制以及多工种协作，可帮助创作者减少AI生成视频中的“无效抽卡”，并通过流程化能力提升组织生产效率。平台计划于10月正式开启内测，首批名额将面向专业影视创作者及制作团队开放申请。 虎鲸文娱集团CTO杜颜龙表示，随着AI技术和相关人才快速增长，文娱产业正面临新的发展机遇。相比单纯扩大AI内容产量，更重要的是参与定义新一代内容工业的生产标准。“</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31288</guid>
+      <pubDate>Wed, 23 Sep 2026 01:37:00 +0000</pubDate>
     </item>
     <item>
-      <title>福布斯美国最年轻 10 位亿万富豪：7 人靠 AI 上榜，4 人来自 Anthropic</title>
-      <link>https://news.aibase.com/zh/news/31254</link>
-      <description>据 Business Insider 报道，福布斯发布美国 400 位最富有富豪年度榜单。今年上榜门槛升至 44 亿美元，创历史新高。40 岁以下富豪人数从去年的 4 人增至 10 人，其中 7 人的财富来自 AI 热潮，且多为创始人。 这 7 位 AI 富豪中有 4 位来自同一家公司——Anthropic。这家成立仅五年的 AI 公司目前二级市场估值达 1.5 万亿美元，其 7 位联合创始人今年早些时候均承诺将个人财富的 80% 捐给慈善事业。其余 3 位分别来自 Surge AI、OpenAI 和 Cognition。 榜单 前十 ：从沃尔玛继承人到 AI 创业者 具体来看，39 岁的卢卡</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31254</guid>
-      <pubDate>Tue, 22 Sep 2026 02:11:00 +0000</pubDate>
+      <title>世卫组织发布重磅报告，呼吁全面升级医疗 AI 研究伦理监管</title>
+      <link>https://news.aibase.com/zh/news/31289</link>
+      <description>世界卫生组织（WHO）于2026年9月21日正式发布了一份题为《人工智能相关健康研究:伦理审查与监管》的全新报告。报告指出，虽然人工智能正在以前所未有的速度重塑健康研究、加速科学发现并改善医疗成果，但在缺乏强有力的伦理防线与监管 oversight 的情况下，AI 医疗研究也可能引入新的风险，从而危及人权、社会公平以及公众信任。 在现有的伦理审查机制方面，世卫组织警告称，传统的审查体系往往难以应对人工智能带来的新型风险，包括算法透明度、偏见、公平性、问责制、隐私保护，以及快速部署 AI 工具可能引发的潜在危害。为此，报告将人工智能相关的健康研究明确划分为三大类别:一是利用 AI 进行的健康相关</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31289</guid>
+      <pubDate>Wed, 23 Sep 2026 01:46:00 +0000</pubDate>
     </item>
     <item>
-      <title>韩国 FuriosaAI 公布第三代推理加速器：算力与内存带宽均提升 32 倍</title>
-      <link>https://news.aibase.com/zh/news/31255</link>
-      <description>韩国 AI 半导体初创企业 FuriosaAI 昨日公布了其第三代 AI 推理加速器的技术细节。 该加速器由 FuriosaAI 与博通（Broadcom）合作开发，拥有 2 颗“光罩极限级”2nm 计算裸晶、1 颗独立 I/O 裸晶、12 个 48GB HBM4(E) 内存堆栈，机架内采用 SUE 全连接拓扑，并支持 PCIe Gen7。 FuriosaAI 表示，该芯片的物理尺寸大约是第二代芯片（RGND）的 8 倍；算力可达 32 PFLOPS，是 RGND 的 32 倍；HBM 内存容量达 576GB，为 RGND 的 12 倍；HBM 内存带宽达 48TB/s，同样是 RGND 的 </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31255</guid>
-      <pubDate>Tue, 22 Sep 2026 02:18:00 +0000</pubDate>
+      <title>​DeepSeek 传将向联合国安理会闭门通报 AI 潜在风险与安全挑战</title>
+      <link>https://news.aibase.com/zh/news/31290</link>
+      <description>人工智能技术的快速发展正在从单纯的产业竞争，加速上升至全球安全与地缘政治的核心议题。据路透社援引知情人士消息报道，中国人工智能初创企业 DeepSeek 预计将于本周向联合国安理会就人工智能所带来的潜在风险与安全挑战进行专题通报。 作为全球瞩目的前沿 AI 力量，此次 DeepSeek 受邀参与联合国安理会的安全通报，折射出国际社会对中国大模型企业在技术治理、风险防控以及全球 AI 安全框架建设中发挥实质性作用的重视。与此同时，包括阿里巴巴支持的月之暗面等其他中国人工智能企业也正逐步走向国际舞台，共同参与探讨如何在全球范围内应对通用人工智能带来的长远挑战。 随着各大 AI 实验室的技术迭代不断</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31290</guid>
+      <pubDate>Wed, 23 Sep 2026 01:52:00 +0000</pubDate>
     </item>
     <item>
-      <title>阿里巴巴任命刘大一恒担任Qwen项目负责人</title>
-      <link>https://news.aibase.com/zh/news/31256</link>
-      <description>据两位知情员工透露，阿里巴巴集团已任命 资深 AI研究人员刘大一恒担任Qwen（通义千问）大语言模型项目负责人。知情人士表示，此次任命发生在阿里巴巴今年早些时候经历多轮组织重组之后，进一步明确了Qwen团队的管理架构。 阿里巴巴一年一度的云栖大会将于周二开幕。大会官网公布的演讲嘉宾名单显示，刘大一恒的个人肖像位置较为突出，仅次于集团主席蔡崇信和首席执行官吴泳铭。官网同时明确标注其职务为“Qwen大语言模型项目负责人”。 此次人事安排意味着，经过此前多轮组织调整后，Qwen核心模型业务的负责人进一步明确，也反映出阿里巴巴正在持续强化通义千问团队的组织架构与管理体系。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31256</guid>
-      <pubDate>Tue, 22 Sep 2026 02:29:00 +0000</pubDate>
+      <title>OpenRouter发布 2026 嵌入模型选型指南：实测 19 款、 37 个目录条目，按场景把最佳候选摆上桌</title>
+      <link>https://news.aibase.com/zh/news/31291</link>
+      <description>嵌入向量模型决定了你的检索系统到底能捞回什么——它把每段输入压成一个向量，让相关的东西彼此靠近，应用于是能按语义而非字面去检索。正因如此，选哪个模型永远是RAG、多语言档案库、代码仓库和图文集合各自不同的考题。OpenRouter在9月11日核实了自家嵌入模型目录，共37个条目，并通过embeddings API向19个模型发了批量请求、跑了28项检查，用一份实测指南把选型逻辑摊开。 最实用的结论是分场景给候选人。英文RAG默认从openai/text-embedding-3-small起步，它价格低、上下文8192token、维度还可调;当输入超过8192token，或想在Voyage4各档</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31291</guid>
+      <pubDate>Wed, 23 Sep 2026 02:09:00 +0000</pubDate>
     </item>
     <item>
-      <title>上海AI Lab与上交大抛出NCP预训练新范式，8.9B隐空间模型用一半Token追平对手</title>
-      <link>https://news.aibase.com/zh/news/31257</link>
-      <description>逐词预测这个大模型时代的老套路，被上海人工智能实验室与上海交通大学人工智能学院LUMIA Lab团队撕开了一道口子。他们提出全新预训练任务下一个概念预测（NCP），并顺势推出全球首个8.9B规模的离散隐空间基座模型NCP-ArchPreview，把训练效率的账本重新算了一遍。 这组数字相当刺眼。模型基于5.73T的Dolma- 3 语料预训练，却只用掉51.3%的Token预算就追平了OLMo-3-7B的最终预训练Loss，等效收敛速度提升1. 95 倍，计算帕累托效率系统性提升1. 74 倍；到了下游任务上，综合表现领先2. 45 分，其中GSM8K数学推理一口气涨了近 6 分。也就是说，别</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31257</guid>
-      <pubDate>Tue, 22 Sep 2026 02:39:00 +0000</pubDate>
+      <title>苹果暂缓AI吊坠，AI可穿戴战略转向手表、耳机与智能眼镜</title>
+      <link>https://news.aibase.com/zh/news/31292</link>
+      <description>据彭博社报道，苹果已推迟一款配备摄像头的AI可穿戴吊坠项目。该设备原计划作为项链佩戴，也可固定在衣物或身体其他部位，通过摄像头持续采集视觉数据，并交由新一代Siri AI助手处理。 苹果此前被曝正在探索多种AI可穿戴形态。2026年9月发布的Apple Watch Series12和Apple Watch Ultra4已加入Siri AI及“音频智能”等功能，被视为苹果AI可穿戴布局的重要产品。不过，原本计划作为“iPhone常开摄像头”的AI吊坠目前已暂停研发，此前消息称其还将配备麦克风，用于Siri交互。 在吊坠项目暂缓后，苹果正将重点转向Apple Watch的AI能力，并计划推出配备摄</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31292</guid>
+      <pubDate>Wed, 23 Sep 2026 02:17:00 +0000</pubDate>
     </item>
     <item>
-      <title>腾讯混元图像3.5来了:画字更准、修图更强、一张2K图只要一毛五</title>
-      <link>https://news.aibase.com/zh/news/31258</link>
-      <description>9月22日，腾讯混元正式发布图像3.5 （Hy Image3.5preview） 预览版。新版本在画质、排版、修图等核心能力上全面升级，同时大幅降低使用成本，主打"便宜又好用"。 据官方介绍，Hy Image3.5preview相比上一代能力提升了约30%。在画字能力上，模型对文字内容的还原更加精准，不再出现"缺胳膊少腿"的尴尬;排版能力也显著增强，可以更好地理解用户对画面布局的要求;修图方面，模型支持最多5张参考图同时输入，用户可以根据多张图片的风格或元素进行融合调整， 最高 支持2K分辨率输出。 价格方面，Hy Image3.5preview给出了一个相当有竞争力的定价——通过腾讯云API</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31258</guid>
-      <pubDate>Tue, 22 Sep 2026 02:47:00 +0000</pubDate>
+      <title>火山引擎Seedance2.5上线Draft模式:480P试错、1080P成片，成本最高省77%</title>
+      <link>https://news.aibase.com/zh/news/31293</link>
+      <description>火山引擎9月22日宣布为Seedance2.5API推出Draft（样片）模式，将视频生成拆分为样片预览与正式成片两个阶段:创作者先用480P低成本快速生成样片，判断场景、构图、主体动作、对白与音效、运镜节奏是否符合预期，筛选或调整提示词、参考素材后，再依据样片ID发起1080P成片生成。 模型会关联该样片的提示词、参考素材及seed、ratio、duration等关键参数进行二次推理，保证成片在结构、构图、动作与整体方向上与样片高度一致。 官方以1080P、5秒镜头、不含输入视频、抽卡4次命中为例，Draft模式可节约成本57%，生成速度提升近一倍;抽卡越频繁，成本优势越明显，达到20抽1时</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31293</guid>
+      <pubDate>Wed, 23 Sep 2026 02:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态</title>
-      <link>https://news.aibase.com/zh/news/31259</link>
-      <description>据 Counterpoint Research 最新 发布的《智能眼镜市场追踪》报告，智能眼镜目前仍属相对小众的科技品类，但市场增速正在明显加快。2026 年上半年，全球 AI 眼镜出货量同比大增 263%，其中绝大多数产品并未配备 AR 显示屏，而是依靠扬声器与麦克风完成交互。 无屏幕产品撑起大盘，AR 显示眼镜增速更猛 在这波增长中，以 Meta 雷朋联名眼镜为代表的“无屏幕 AI 眼镜”占据主流。这类产品相比 AR 波导方案价格更低、成熟度更高，今年上半年出货量同比增长 258%，较 2025 年下半年也增长 22%，是当前市场的 绝对 主力。 相比之下，真正配备 AR 显示屏的智能眼镜</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31259</guid>
-      <pubDate>Tue, 22 Sep 2026 03:06:00 +0000</pubDate>
+      <title>Claude Code v2.1. 280 落地：Opus 5. 5 正式接棒默认王座，百万上下文配 4 美元骨折价把账单压进地心</title>
+      <link>https://news.aibase.com/zh/news/31294</link>
+      <description>Anthropic把那条偷偷内测的猛料坐实了。 最新 推送的Claude Code v2.1.280版本里，Claude Opus5.5（claude-opus-5-5）正式被任命为默认Opus模型，这也让前阵子开发者圈里流传的"跳级突袭"传闻彻底尘埃落定。这枚新旗舰一口气吞下100万Token的上下文窗口，定价牌挂得异常凶悍:每百万Token输入4美元、输出20美元，缓存读取更是压到每百万Token0.20美元。回头看那张内测期流出的价格单，如今一字不差地写进了正式版本——这意味着 顶级 模型的智力，正以肉眼可见的幅度从 奢侈 品滑向日用品。 更狠的一步落到了用户订阅的默认档位上。Pro和T</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31294</guid>
+      <pubDate>Wed, 23 Sep 2026 03:04:00 +0000</pubDate>
     </item>
     <item>
-      <title>阿里平头哥发布AI芯片真武V900，算力达M890三倍</title>
-      <link>https://news.aibase.com/zh/news/31260</link>
-      <description>2026云栖大会上，阿里旗下平头哥发布国产AI芯片真武V900，算力提升至上一代真武M890的3倍。基于真武V900构建的单一集群可扩展至50万卡，可为前沿AI模型训练与推理提供大规模算力支持。阿里表示，随着平头哥芯片产品线逐步成熟并获得广泛客户应用，预计芯片年出货量将大幅提升。 阿里集团CEO吴泳铭透露，阿里自研M890AI超节点目前已具备支撑2万亿参数大模型推理的能力，并已于本季度规模化上架阿里云数据中心。在芯片与云基础设施持续推进的同时，阿里也进一步布局端侧AI生态，开源千问2.7B模型，并正式推出千问移动端AI解决方案。 从真武V900到M890AI超节点，阿里正在同步推进AI芯片、超</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31260</guid>
-      <pubDate>Tue, 22 Sep 2026 03:12:00 +0000</pubDate>
+      <title>​韶音首款 AI 耳机 OpenFit 2 AI 亮相云栖大会，重磅首发“AI 实验室”四大新功能</title>
+      <link>https://news.aibase.com/zh/news/31295</link>
+      <description>9月22日至23日，2026云栖大会在浙江杭州正式开幕。作为开放式耳机领域的领头羊，Shokz 韶音 首次 重磅参展，不仅携旗下 首款 AI 耳机 OpenFit2AI 核心亮相，更在现场联合光帆科技首发了“AI 实验室”全新功能，全面展现了 Qwen 大模型在音频可穿戴设备中的深度产业落地。 作为韶音布局智能音频赛道的开山之作，OpenFit2AI 深度融合了通义千问（Qwen）大模型的强大能力，集长时录音、AI 会议纪要生成与多语种实时翻译于一体。针对金融、法律等专业沟通场景，该产品不仅进行了12大行业的热词专项调优，还在官方 App 内置了19套标准化纪要模板，大幅提升了商务办公与高强度</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31295</guid>
+      <pubDate>Wed, 23 Sep 2026 03:21:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
