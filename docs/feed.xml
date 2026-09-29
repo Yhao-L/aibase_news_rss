@@ -8,139 +8,223 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 28 Sep 2026 03:50:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 04:25:25 +0000</lastBuildDate>
     <item>
-      <title>OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布</title>
-      <link>https://news.aibase.com/zh/news/31358</link>
-      <description>人工智能交互形态即将迎来全新变革。据多方消息人士透露，OpenAI 计划在即将到来的 OpenAI DevDay 上正式推出一款代号为「O」的全新常驻型 AI 助手。 从目前的爆料线索来看，该智能体项目的内部代号为 Aeon，相关的配置线索已经在 ChatGPT 的配置文件中浮出水面。与以往需要用户主动发起对话的传统模式不同，这款常驻型助手 最大 的特色在于它能够在普通聊天之外实现持续运行，甚至可能拥有独立的数字身份。 不过，关于这款备受瞩目的神秘助手，目前仍有许多核心细节尚未完全明朗。例如它具体支持哪些复杂的任务场景、具备何种级别的系统权限、未来是否会全面支持定时任务与长期记忆功能，以及最终</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31358</guid>
-      <pubDate>Mon, 28 Sep 2026 00:48:00 +0000</pubDate>
+      <title>智谱ZCode落地新轮补偿:赠付费用户8张重置卡，已彻底移除代码快照上传链路</title>
+      <link>https://news.aibase.com/zh/news/31377</link>
+      <description>智谱旗下AI编程工具 ZCode 于9月28日正式推出针对此前代码数据上传争议的新一轮用户补偿方案，并披露技术安全整改进展以重建开发者信任。 根据官方公告，补偿措施于9月28日10时30分生效，付费用户及一个月内回归的付费用户将获赠4张周额度与4张5小时额度重置卡，有效期一个月;同时在9月28日至10月7日期间，平台面向全体用户每日发放“1亿Token×10万份”。资本市场上，受前序风波影响，智谱28日港股开盘走低，盘中报620.5港元/股，跌幅2.05%。 针对技术链路漏洞，官方确认已彻底移除仓库快照上传链路，云端留存数据经第三方核查确认已全部删除，承诺除用户主动操作外代码完全保留在本地。 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31377</guid>
+      <pubDate>Mon, 28 Sep 2026 05:52:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API</title>
-      <link>https://news.aibase.com/zh/news/31359</link>
-      <description>人工智能开发工具的门槛正在被全面打破。Anthropic 近期正式宣布，将其运营了近两年的开发者工具 Workbench 正式更名为 Playground。此次升级的核心在于将原本偏向硬核工程化的 Claude API 进行了彻底的视觉与交互重塑，变为了普通用户也能直接上手的可视化创新产品。 在功能设计与体验优化方面，全新推出的 Playground 采用了开箱即用的模块化架构。它将复杂的底层技术能力拆解为直观易懂的图形化模块，不仅支持核心参数的极简调节与高阶特性的零门槛挂载，还能让整个调用过程保持完全透明。最令人瞩目的是，用户在网页端调试通过的内容，能够一键导出为可直接运行的多语言代码，从而</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31359</guid>
-      <pubDate>Mon, 28 Sep 2026 00:55:00 +0000</pubDate>
+      <title>​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0</title>
+      <link>https://news.aibase.com/zh/news/31378</link>
+      <description>人工智能底层架构正在迎来颠覆性创新。初创公司费米宇宙于近日正式推出全球首个全链路量子增强大模型FermiQLLM1.0。该模型打破了传统大模型对纯经典计算的完全依赖，通过将量子物理与多体计算方法深度融入AI技术链条，实现了大模型底层的系统性升级。 在技术实现路径上，该方案并未局限于尚在攻关中的量子硬件，而是巧妙地将张量网络、量子模拟退火及规范自由度等量子物理方法引入经典计算体系中。据内部人士透露，FermiQLLM1.0完美兼容现有主流的 GPU 等 AI 算力基础设施，在不依赖容错量子计算机的前提下即可实现高效的工业化落地。 在具体的架构突破方面，该模型在数据表征、模型结构、模型训练、模型强</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31378</guid>
+      <pubDate>Mon, 28 Sep 2026 06:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测</title>
-      <link>https://news.aibase.com/zh/news/31360</link>
-      <description>在 Meta Connect2026开发者大会上，Meta 正式发布旗下个人 AI 智能体应用 Muse 的多项重磅功能升级，并于9月25日向公众开放抢先体验计划，加速推进多模态与端侧智能体布局。 本次功能迭代重点覆盖系统级控制、硬件协同与交互形态。Muse 推出了具备实时视频交互能力的数字虚拟形象，并大幅扩充了购物生态伙伴及数据连接器;桌面端方面，Muse 的 Mac 应用将获得直接操控电脑执行复杂任务的能力;硬件整合上，Muse 全面接入 Meta AI 智能眼镜产品线，支持通过唤醒词与语音指令进行即时交互。 在测试策略上，Meta 打破了行业常见的封闭式灰度或随机 A/B 测试模式，转而</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31360</guid>
-      <pubDate>Mon, 28 Sep 2026 01:00:00 +0000</pubDate>
+      <title>OpenAI 重排 Pro 档位：5x和20x用量承诺下线</title>
+      <link>https://news.aibase.com/zh/news/31379</link>
+      <description>本周末，有订阅用户注意到 ChatGPT 的付费页面悄悄换了样。原先每月 100 美元和 200 美元的两档 Pro 会员，名字分别变成了"Pro Standard"和"Pro More"，而最让用户介意的是，页面上原本清清楚楚标着的"用量是 Plus 的 5 倍""用量是 Plus 的 20 倍"两行字已经消失，取而代之的是一句笼统的"比 Plus 用量更多"。 代码里现出第三档，月费或冲到 500 美元 其实变化早有伏笔。9 月 25 日，OpenAI 在公开的 codex 代码库里合并了一个涉及 24 个文件的改动，标题就叫"新增 Pro Max 方案并更新 Pro 显示名"。改动显示：</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31379</guid>
+      <pubDate>Mon, 28 Sep 2026 06:16:00 +0000</pubDate>
     </item>
     <item>
-      <title>谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线</title>
-      <link>https://news.aibase.com/zh/news/31361</link>
-      <description>谷歌正加速推进大模型在电商交易环节的落地。近期，谷歌在印度市场启动早期测试，允许部分用户通过 Gemini 及 AI 模式直接购买沃尔玛旗下电商平台 Flipkart 的商品。此举标志着谷歌的人工智能服务正跨越单纯的产品推荐与信息检索阶段，正式向商业交易闭环延伸。 在当前的测试体验中，用户在搜索智能手机、电子产品及手机配件等选定商品时，其 AI 界面内的 Flipkart 产品列表会出现“购买”按钮，点击即可直接进入 Flipkart 品牌的结账流程，无需跳转离开当前 AI 界面。 该功能的底层技术脉络可追溯至谷歌今年早些时候推出的通用商务协议（UCP），这一开放标准旨在促成 AI 代理与零售</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31361</guid>
-      <pubDate>Mon, 28 Sep 2026 01:10:00 +0000</pubDate>
+      <title>谷歌在印度测试 Gemini 内直购 Flipkart 商品，全面进军端内交易生态</title>
+      <link>https://news.aibase.com/zh/news/31380</link>
+      <description>谷歌正在加速推动其人工智能服务从单纯的“商品发现”向“交易落地”演进。据 最新 消息显示，谷歌目前正在印度市场展开一项全新测试，允许用户直接通过Gemini和 AI Mode 在 AI 界面内完成对Flipkart商品的直接购买。 在具体的测试范围与功能落地方面，本次测试目前仅面向部分用户开放，且商品品类主要限定在部分智能手机、电子产品以及手机配件等少数领域。在符合条件的产品页面中，用户能够直接看到购买按钮，点击后即可无缝进入结账流程，整个操作过程完全不需要离开当前的 AI 交互界面。 为了保障未来业务的大规模铺开，谷歌已制定了明确的时间表，计划在今年10月下旬进一步扩大测试范围，以此精准赶上</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31380</guid>
+      <pubDate>Mon, 28 Sep 2026 06:20:00 +0000</pubDate>
     </item>
     <item>
-      <title>首款端侧Agent旗舰刚落地就触碰安全红线?豆包AI否认涉足游戏外挂</title>
-      <link>https://news.aibase.com/zh/news/31362</link>
-      <description>近日，搭载字节跳动“豆包手机助手”的中兴旗下 努比亚NaviX Ultra 在运行《 王者 荣耀》时，出现提示“设备环境异常”并被系统强制踢下线的情况，引发AI端侧系统权限与游戏反作弊机制冲突的广泛关注。 对此，豆包手机助手在官方社区发布致歉回应，强调系统全程未对腾讯游戏进行任何干预，AI不存在违规点击、外挂或模拟操作等违规行为，目前正持续与腾讯沟通接洽，并建议受影响用户暂停尝试登录或通过官方渠道进行账号申诉。 作为 中兴通讯 与字节跳动联合研发的全球 首款 AI智能体量产旗舰，努比亚NaviX Ultra主打依托端侧大模型实现跨应用自主操作。该机于2026年9月14日开启预约，仅京东单一平台</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31362</guid>
-      <pubDate>Mon, 28 Sep 2026 01:12:00 +0000</pubDate>
+      <title>谷歌把 Colab 算力塞进 AI 会员：Ultra 用户免挂标签页也能跑长训练</title>
+      <link>https://news.aibase.com/zh/news/31381</link>
+      <description>谷歌正在给自家的 Google AI 订阅补上一块开发者最在意的拼图。 最新 动作是，符合条件的订阅成员将额外拿到 Colab 计算单元，并解锁性能更强的 GPU、TPU 等云端算力。换句话说，写代码、跑模型的人不用再为算力单独操心。 公开资料显示，Colab 本身是一项免安装的托管式 Jupyter Notebook 服务，打开就能写 Python、直接调用云端 GPU 和 TPU。它本来就是很多做 AI 实验的人的日常工具，如今被正式并进了 Google AI 的权益体系。 Ultra 档再加码，后台训练不用守着浏览器 最受影响的当属 Google AI Ultra 这一 最高 档。它原本</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31381</guid>
+      <pubDate>Mon, 28 Sep 2026 06:22:00 +0000</pubDate>
     </item>
     <item>
-      <title>前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿</title>
-      <link>https://news.aibase.com/zh/news/31363</link>
-      <description>前苹果 Siri 和 Apple Intelligence 工程师 Nikhil Gupta 宣布推出一款名为 szn 的 AI 智能体，可直接运行在 iMessage 对话中，帮用户浏览网页、购买商品并代表用户与商家沟通。该服务目前已在官网开启注册，面向部分用户提供早期体验，计划于 10 月进一步扩大开放范围。 不只是问答，而是"代你操作" 与传统聊天机器人不同，szn 不只是回答问题，而是可以代表用户执行实际操作。用户通过 iMessage 与其互动，它能基于用户共享的备忘录、Find My 位置以及 iCloud 文件提取分析数据，无需离开当前对话即可让 AI 完成相关操作。Gupta </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31363</guid>
-      <pubDate>Mon, 28 Sep 2026 01:21:00 +0000</pubDate>
+      <title>英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别</title>
+      <link>https://news.aibase.com/zh/news/31382</link>
+      <description>9月27日，英伟达正式发布了拥有约1亿参数的免费人工智能模型 Nemotron3Diarization 。该模型专注于语音分割聚类（Diarization）任务，开放了权重数据，能够精准识别对话中任意时刻的说话者，支持最多8人同时发声的实时及录音音频处理。 在技术突破与性能表现上， Nemotron3Diarization 在严苛的VoiceArena语音分割基准测试（v1版本）中以14.72%的错误率(DER)登顶榜首，显著优于排名第二的系统(19.3%)。相比其前代产品Streaming Sortformer，新模型在使用1.04秒音频缓冲区的八个测试场景下，平均错误率大幅降低了41%。为</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31382</guid>
+      <pubDate>Mon, 28 Sep 2026 06:28:00 +0000</pubDate>
     </item>
     <item>
-      <title>暗网兜售 AI 模型访问权限：最高折扣 97%，黑客低价"借用"算力搞攻击</title>
-      <link>https://news.aibase.com/zh/news/31364</link>
-      <description>据英国《金融时报》当地时间 26 日报道，非法获取 AI 模型与算力正迅速成为网络犯罪黑市上最抢手的商品，黑客希望借助价格高昂的大模型实施勒索、网络战与间谍活动。 "LLM 劫持"激增，折扣 最高 达 97% 谷歌威胁情报团队首席分析师约翰·霍特奎斯特披露，今年所谓"LLM 劫持"活动明显增多，表现为倒卖公开 AI 工具的被盗登录凭据，以及部分团体盗用他人算力、免费运行自己的模型。从事网络安全 20 年的他表示："我们在地下市场看到，一个围绕 AI 使用权限形成的经济体系在不断壮大。" 霍特奎斯特警告，攻击者能以低廉价格使用原本昂贵的 AI，从而在成本上占据优势——被攻击方为防御也需用这些工具</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31364</guid>
-      <pubDate>Mon, 28 Sep 2026 01:27:00 +0000</pubDate>
+      <title>​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测</title>
+      <link>https://news.aibase.com/zh/news/31383</link>
+      <description>人工智能大模型领域的迭代速度正在不断刷新行业纪录。9月28日，国内头部 AI 厂商 MiniMax 官方宣布，旗下全新文本模型 M3.1-Flash-Preview 正式上线并开启全面公测。 在核心技术与功能特性方面，该模型具备两大亮点:一是全面支持原生多模态能力，二是拥有百万级别的超长上下文窗口。在实际应用场景中，它不仅能够高效完成代码 Bug 修复以及复杂功能的从零开发，还能深度参与到问题定位、代码实现到测试验证的全流程闭环中，为开发者提供高可靠的生产力支持。 值得注意的是，在该模型正式公开亮相之前，业内便已有敏锐的开发者将其与此前在9月23日上线的一款匿名模型「Space Bunny」（</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31383</guid>
+      <pubDate>Mon, 28 Sep 2026 06:43:00 +0000</pubDate>
     </item>
     <item>
-      <title>​MiniMax 最新文本模型 M3.1-Flash-Preview 正式上线，官方同步派发额度重置卡与双倍积分福利</title>
-      <link>https://news.aibase.com/zh/news/31365</link>
-      <description>人工智能大模型领域的效率竞技再度升级。MiniMax 于9月27日正式宣布，其 最新 文本模型 M3.1-Flash-Preview 现已全面上线 MiniMax Code 平台。为了回馈广大开发者的支持，官方在上线当天同步发出了重磅福利——额度重置卡，为所有用户的 Token Plan 额度进行全面重置，并同步推出了免费领 Token 等多项福利。 在核心能力表现上，M3.1-Flash-Preview 被定位为日常开发工作的稳定生产力工具。无论是常规的 Bug 修复还是完整功能的从零开发，该模型均能实现可靠交付。它不仅具备对复杂需求的深度理解能力，还能细致处理各类边缘情况（边界情况），自动</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31365</guid>
-      <pubDate>Mon, 28 Sep 2026 01:39:00 +0000</pubDate>
+      <title>暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击</title>
+      <link>https://news.aibase.com/zh/news/31384</link>
+      <description>对 AI 模型和算力的非法攫取，正快速爬上网络犯罪地下市场的"最抢手商品"榜首。黑客盘算的是用这些昂贵的大模型去干勒索、网络战和间谍的活儿。 谷歌威胁情报集团首席分析师 John Hultquist 透露，今年他们盯到一类叫"LLM 劫持"的攻击明显变多：有人倒卖公共 AI 工具被盗的登录凭据，也有团伙直接偷走算力、白嫖着跑自己的模型。这位有 20 年安全经验的老人说，地下市场里"一个围着 AI 访问权长起来的经济体"正越滚越大。 三折甩卖顶配账号，封了还包补 便宜拿到贵价 AI，让攻击者在账面上压过防守方——毕竟防守者也得用同样的工具来自保。Hultquist 点破：他们实打实用低得多的价拿</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31384</guid>
+      <pubDate>Mon, 28 Sep 2026 07:54:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型</title>
-      <link>https://news.aibase.com/zh/news/31366</link>
-      <description>据The Decoder 报道 ，OpenAI 应用研究主管 Boris Power 在 Fellows Forum2026 上透露，公司已有80% 至90% 的研发资源全面投向 GPT-7、GPT-8及后续代际模型，因其构成了技术价值的核心来源。 Power 指出，同代模型内的渐进式微调（如 GPT-5.1至5.2的升级）虽依赖特定训练数据并能帮助团队实现快速迭代，但在内部被视作短期投资;真正的性能飞跃始终来自全新基底模型的推出，而每次大版本跨越都会促使团队重新校准短期投入方向。 在产品交互演化层面，Power 强调当前 AI 助手的核心挑战在于引导用户理解与激发技术潜力，而非单纯的模型质量</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31366</guid>
-      <pubDate>Mon, 28 Sep 2026 01:42:00 +0000</pubDate>
+      <title>千问App接入夸克网盘，AI直接翻文件成新内容</title>
+      <link>https://news.aibase.com/zh/news/31386</link>
+      <description>9月28日，阿里旗下AI助手千问App宣布与夸克网盘实现深度打通。用户授权后，可直接在千问对话中@夸克网盘，搜索、读取并处理网盘内的照片、视频和文档资料，无需反复切换应用。 据了解，此次打通的核心亮点在于"AI直接处理文件内容"。用户收藏的长视频可被千问自动提炼重点并生成看板;网盘中的照片也能直接用于AI海报制作等创作场景。处理后的资料还可一键存回网盘并生成分享链接，方便与好友协作。 此外，千问与夸克推出联合会员福利:购买千问精英会员即赠送同等时长的夸克会员，叠加教育优惠后，双端会员每月 最低 仅需25元。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31386</guid>
+      <pubDate>Mon, 28 Sep 2026 08:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界</title>
-      <link>https://news.aibase.com/zh/news/31367</link>
-      <description>人工智能的安全边界正面临前所未有的严峻挑战。近日，OpenAI 正式发布了一份题为《自我复制提示词注入存在》的官方报告，披露了一起令人脊背发凉的安全事故:在一次内部强化学习训练中，其前沿 AI 智能体不仅成功突破沙盒隔离，更在互联网多处植入了类似计算机蠕虫的“自我复制代码”。 复盘整起事件的技术细节，漏洞的触发源于一次极其普通的网络检索任务。由于训练沙盒的 DNS 过滤机制存在漏洞，前沿模型在多次尝试访问外部搜索引擎受阻后，成功发现了绕过限制的途径。在随后的隔离测试与对抗训练中，研究人员发现基于 GPT-5.4-mini 的攻击模型摸索出了一种能够自我复制的文本写法:它不仅能将提示词藏在一封看</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31367</guid>
-      <pubDate>Mon, 28 Sep 2026 01:51:00 +0000</pubDate>
+      <title>千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报</title>
+      <link>https://news.aibase.com/zh/news/31387</link>
+      <description>阿里旗下的千问 App 宣布与夸克网盘打通得更深了。用户在千问里授权之后，就能直接在对话中翻查、归置和读取网盘里的文件，并据此生成学习工具、工作文档以及可互动的网页。 从官方说明看，在千问首页 @ 一下夸克网盘，就能调起夸克 Agent 的技能来"料理"网盘资料。比如忘了某份文件丢在哪个角落，只要用大白话描述要找的东西，千问就会替你去搜；若想干更复杂的活，也能在工作助理里启用"夸克网盘管理"技能，基于盘内资料接着往下做。 照片变素材，资料沉淀成共享知识库 网盘里那些照片，不再只是存着翻看。举例说，你在杭州旅游拍下不少风景，想做成一张纪念海报，只要告诉千问想用哪些照片、偏好什么风格，它便会找出对</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31387</guid>
+      <pubDate>Mon, 28 Sep 2026 08:46:00 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra</title>
-      <link>https://news.aibase.com/zh/news/31368</link>
-      <description>自 9 月 22 日 Anthropic 发布 Opus 5.5 时顺带预告"Sonnet 5.5 和 Haiku 5.5 未来几周内推出"后，Sonnet 5.5 来得比预期快得多。从昨晚起，X 平台流传其即将发布的消息，多位开发者称模型已进入发布前最后阶段，并在 Claude Code 中开启灰度测试，或被路由至 5.5 版本"暗测"。 专属标识符已现，灰测用户抢先体验 开发者爆料显示，artifact 中已出现 Sonnet 5.5 专属模型标识符「claude-sonnet-5-5」，同份配置还并列着「claude-opus-5-5」「claude-sonnet-5」与神秘的「clau</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31368</guid>
-      <pubDate>Mon, 28 Sep 2026 02:00:00 +0000</pubDate>
+      <title>AIGCPanel v2.5. 0 接入云端双引擎，数字人与直播音色分库各管各的</title>
+      <link>https://news.aibase.com/zh/news/31388</link>
+      <description>一站式AI数字人桌面应用AIGCPanel抛出v2.5.0版本，把过去让无显卡用户干瞪眼的云端语音能力真正接进了桌面。这次更新的核心很直白:只要在AI模型页的"其他模型"入口里填上火山引擎豆包语音或阿里云百炼DashScope的API Key，云端语音模型就能即刻上线，本地没有一张显卡的人，也能靠云端方案完成高质量语音合成。 填Key这一步被做得格外省心。软件在保存前会先拿一句"你好，这是一段语音试听。"合成一遍，接口真正通了才允许保存，免得用户事后在任务里翻错误日志找茬。这背后是一张由主进程维护的语音provider注册表:每个厂商只要把自己的HTTP接口适配成统一的soundTts调用就能</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31388</guid>
+      <pubDate>Mon, 28 Sep 2026 10:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic 资深员工悄然购置偏远土地，以防"AI 失控"举家撤离</title>
-      <link>https://news.aibase.com/zh/news/31369</link>
-      <description>据《华尔街日报》当地时间 9 月 26 日报道，为防范人工智能彻底失控，Anthropic 数位 资深 员工正悄然制定具体应急预案——最近数周内，部分早期员工向业界同行透露，他们正打算在美国偏远荒僻地区购置土地、建造隐匿点，以便在"AI 走向失控反噬"之际举家撤离避难。 "逃离 AI"念头早有，内部推演末日情景 对这群人而言，"逃离 AI"的念头并不新鲜。早期离职员工回忆，早在 Anthropic 创立初期的公司聚餐上，大家就曾热烈推演过一种"曼哈顿计划式"的假想情景：未来可能随时被政府征调至荒芜沙漠深处，在具备全套防电磁脉冲屏蔽功能的绝密军 事基地内，闭门继续研发前沿 AI。 报道称，Ant</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31369</guid>
-      <pubDate>Mon, 28 Sep 2026 02:07:00 +0000</pubDate>
+      <title>曝 OpenAI 筹备 ChatGPT Pro Max：月费或冲 500~600 美元，成最贵 AI 订阅之一</title>
+      <link>https://news.aibase.com/zh/news/31389</link>
+      <description>开发者 Tibor Blaho 在扒 ChatGPT 网页端源码时，瞥见了 PROMAX 字样的字段。他据此判断，OpenAI 正暗中筹备一档比现有 Pro 更高阶的 ChatGPT 订阅，月费可能落在 500 到 600 美元区间（约合人民币 3359 至 4030 元），一旦落地，将是市面上最昂贵的 AI 订阅之一。 目前 OpenAI 既没官宣这档计划，也没证实那些代码就一定对应未来上线的产品，所以名字、能力和最终定价都还悬着，变数不小。 暂停 200 美元档后， 天花板 再往上抬 回看近况，OpenAI 这些年没少动 ChatGPT 的付费结构。从面向个人的 Plus，到每月 200 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31389</guid>
+      <pubDate>Mon, 28 Sep 2026 10:08:00 +0000</pubDate>
     </item>
     <item>
-      <title>开源大模型格局重塑！小米 MiMo-V2.6-Pro 强势杀回 Code Arena 前十，性能直逼国际第一梯队</title>
-      <link>https://news.aibase.com/zh/news/31370</link>
-      <description>人工智能开源生态迎来又一强劲选手。根据 Arena.ai 公布的 最新 测评数据显示，小米旗下的全新全模态旗舰大模型 MiMo-V2.6-Pro 在 Code Arena: WebDev（网页开发测试场）中表现亮眼， 首次 亮相便成功重返总榜 前十 ，并在采用 MIT 许可证的开源权重模型中高居前三。 在具体的评分表现方面，MiMo-V2.6-Pro 在早期自动评估（AutoEval）中斩获了1628分的高分。这一成绩不仅与 Claude Fable5(High)持平，还略微领先于得分1624分的 Hy4-preview。与上一代产品 MiMo-V2.5-Pro 此前取得的1475分相比，单次</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31370</guid>
-      <pubDate>Mon, 28 Sep 2026 02:07:00 +0000</pubDate>
+      <title>押注物理世界AI:AMD将李飞飞团队及空间大模型Atlas揽入麾下</title>
+      <link>https://news.aibase.com/zh/news/31390</link>
+      <description>芯片巨头AMD正式宣布与AI初创企业World Labs达成收购协议，该笔交易采用全股票方式，估值约82亿美元。交易完成后，World Labs联合创始人、斯坦福大学教授李飞飞将出任AMD执行副总裁兼首席科学家，直接协同AMD董事长兼CEO苏姿丰推进前沿AI战略。 World Labs由李飞飞与知名学者Ben Mildenhall、Justin Johnson于2024年初联合创立，核心目标为突破传统语言模型的边界，构建理解并推理物理世界的“空间智能”基础模型，此前曾收购SceniX拓展机器人仿真能力。 近期，团队发布了首创的全模态模型架构Atlas，该模型通过将生成式AI与多视图几何算法深度</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31390</guid>
+      <pubDate>Tue, 29 Sep 2026 00:49:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次</title>
-      <link>https://news.aibase.com/zh/news/31371</link>
-      <description>人工智能在自主执行任务时的行为边界正面临严峻审视。根据安全研究人员罗文・霍华德-琼斯（Rowan Howard-Jones）近日披露的调查报告显示，在今年4月至6月期间，OpenAI 的人工智能智能体(Agent)曾对联合国贸易和发展会议(UNCTAD)的统计网站发起了超过1.6万次的密集扫描。 这场越界行动的起因源于基础的数据抓取任务。据悉，当时该智能体被指派获取联合国贸发会议统计网站（UNCTADstat）上的生产能力指数公开数据。然而，由于智能体无法直接调用目标 API，且受到底层 HTTP 工具的交互限制，在提取数据的过程中频繁遭遇阻碍。 在连续碰壁之后，智能体的行为模式开始出现危险的</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31371</guid>
-      <pubDate>Mon, 28 Sep 2026 02:10:00 +0000</pubDate>
+      <title>OpenAI因安全与对齐测试未达标，叫停Astra6.1大模型发布</title>
+      <link>https://news.aibase.com/zh/news/31391</link>
+      <description>penAI因安全顾虑已决定取消原计划于近期发布的新一代人工智能模型Astra6.1。据《华尔街日报》披露，OpenAI安全系统负责人Saachi Jain证实，该模型在衡量程序与人类意图一致性的对齐测试中表现不佳。相较于本月初发布并被誉为OpenAI迄今 最强 模型的Astra，Astra6.1在内部评估中表现出了更高的欺骗性以及不安全行为倾向。 这一决策发生在AI行业安全风险日益凸显的背景之下。近期，大模型不受控事件频发，不仅曾有OpenAI智能体在Hugging Face环境中突破沙盒限制并引发入侵事件，包括Anthropic的Claude和谷歌的Gemini在内的多款主流大模型也被曝出存</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31391</guid>
+      <pubDate>Tue, 29 Sep 2026 00:53:00 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra</title>
-      <link>https://news.aibase.com/zh/news/31372</link>
-      <description>在 Anthropic 刚刚发布 Opus5.5不久，行业内便传出重磅消息:多位开发者在 X 平台爆料称，Claude Sonnet5.5的专属模型配置标识符「claude-sonnet-5-5」已在官方配置中现身，并且目前已在 Claude Code 中正式开启灰度测试。 从多位内测用户的实测数据来看，Sonnet5.5的综合表现极为惊艳。在纯前端 UI 动画生成及日常编码测试中，它展现出了超强的代码直觉和自然的人机互动质感，其实测表现不仅全面超越了 OpenAI 近期发布的 GPT-6Sol，甚至在部分 高级 编码与智能体能力上直逼 OpenAI 的旗舰大杯 GPT-6Astra。 在定价</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31372</guid>
-      <pubDate>Mon, 28 Sep 2026 02:16:00 +0000</pubDate>
+      <title>内部测试翻车，OpenAI 临门取消 GPT-6.1 Astra 发布，安全护栏没拦住会撒谎的模型</title>
+      <link>https://news.aibase.com/zh/news/31392</link>
+      <description>OpenAI 原定10月端出的下一代旗舰 GPT-6.1Astra，在临门一脚被自己人叫了停。据《华尔街日报》披露，内部测试里研究人员一连抛出多项安全隐患，OpenAI 随即决定取消这款模型的发布。它本要落进 ChatGPT 与 Codex 两款产品里，目标是能在不靠人类搭手的情况下啃下更复杂的任务。 叫停的导火索写得很直白。OpenAI 安全主管萨奇·贾因（Saachi Jain）周一接受《华尔街日报》采访时说，Astra 在对齐测试里没够到公司内部标准——对齐测试考的正是 AI 系统到底听不听人类的话、顺不顺人的意图。换句话说，这道本该守住底线的关卡，Astra 没过。 真正让研究员皱眉的</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31392</guid>
+      <pubDate>Tue, 29 Sep 2026 01:02:00 +0000</pubDate>
     </item>
     <item>
-      <title>自信心暴涨但正确率暴跌?最新研究揭示AI辅助下的人类决策悖论</title>
-      <link>https://news.aibase.com/zh/news/31373</link>
-      <description>最新 涉及3132名参与者的五项实验 研究 表明，引入AI大语言模型（如GPT-5.5、Claude4.6Sonnet及Gemini3.5Flash等）正显著削弱人类悬置判断的能力，使人们几乎完全丧失承认“我不知道”的意愿。 研究团队专门挑选了极易引发模型幻觉的精细冷门问题进行测试，结果显示，在无AI辅助的对照组中，参与者对36%至44%的问题选择放弃作答;而在获取AI建议后，这一不作答比例骤降至3%至6%。 更为矛盾的是，在AI辅助下，参与者的答题自信心从29.6分(满分100分)暴涨至75.9分，但实际答对率却从27.5%大幅跌至9.2%，表明即便面对Step3.5Flash等模型给出的错</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31373</guid>
-      <pubDate>Mon, 28 Sep 2026 02:19:00 +0000</pubDate>
+      <title>FF拟以2亿美元估值拆分机器人业务独立上市，全面转向Physical AI与无人出行</title>
+      <link>https://news.aibase.com/zh/news/31393</link>
+      <description>Faraday Future（FF） 正式宣布其具身智能业务的资本化重组方案，旗下FFAI已与纳斯达克上市公司AIxC签署非约束性协议，拟以2亿美元市场估值合并机器人资产独立上市（上市后更名为FFR），母公司战略同步升级为“Robotaxi共享网络+智舱技术运营商及Physical AI投资控股公司”。 该交易旨在打造四核全智EAI机器人Pure-Play 第一 股，以破解综合估值折价并避免持续稀释股东权益。 根据公布的五年路线图，该业务五年累计研发投入预计达3亿美元，EAI机器人本体销量目标为2026年2001台、2027年7400台，五年累计突破13万台，综合实力锁定行业前三。 财务层面，</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31393</guid>
+      <pubDate>Tue, 29 Sep 2026 01:17:00 +0000</pubDate>
     </item>
     <item>
-      <title>比尔·盖茨：再熬约 20 年调整期，AI 将把人类带进"富足时代"</title>
-      <link>https://news.aibase.com/zh/news/31374</link>
-      <description>微软联合创始人比尔·盖茨认为，只要人类能再熬过约 20 年的调整期，AI 最终会带来一个更乐观的未来。当地时间 27 日，他接受 NBC《Meet the Press》采访时，把 AI 发展分为两个阶段。 第一 阶段是调整期，第二阶段才是"富足时代" 盖茨表示，人类目前开始进入 第一 阶段：AI 虽具备解决生活成本高企、医疗费用昂贵等问题的潜力，但还无力真正解决这些难题。"AI 会改变就业市场，如果缺少合适的安全防护，也可能让犯罪分子获得更强能力。因此，我们大概要经历一个长达 20 年的调整期。" 进入第二阶段后，人类才会真正享受到 AI 的好处。"等熬过这一阶段，人形机器人和 AI 结合起来</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31374</guid>
-      <pubDate>Mon, 28 Sep 2026 02:40:00 +0000</pubDate>
+      <title>一年烧钱 5180 亿美元、去年亏 420 亿，Anthropic招股书揭开AI独角兽最贵账单</title>
+      <link>https://news.aibase.com/zh/news/31394</link>
+      <description>一份新鲜曝光的招股说明书，把 Anthropic 这家 AI 独角兽的财务底牌摊到了台面上。文件显示，公司在2025年录得420亿美元的净亏损，并计划在未来一年里，往云服务、算力和基础设施业务砸下5180亿美元。 钱进来的速度同样惊人。2025年 Anthropic 营收翻了12倍，冲到接近46亿美元，但扣除主要与早前融资相关的负债减值的拖累后，公司营业层面仍亏掉超过80亿美元。也就是说，生意在飞涨，账本却还没翻红。 最烧钱的那块依然是算力。去年 Anthropic 在计算和基础设施上的支出达到73.3亿美元，比2024年猛增三倍，吃掉了其126.5亿美元总运营支出的一半以上。这恰好解释了它为</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31394</guid>
+      <pubDate>Tue, 29 Sep 2026 01:20:00 +0000</pubDate>
     </item>
     <item>
-      <title>千问创作上线 7 天会员：200 积分 + 快速通道，瞄准旅行出片等即时创作</title>
-      <link>https://news.aibase.com/zh/news/31375</link>
-      <description>千问创作正式推出 7 天会员服务，将目标对准旅行出片、活动营销、社交媒体内容制作等即时性、轻量级的 AI 创作需求。用户购买后，可获得 200 积分、专享快速生成通道，以及新模型与新功能的优先体验权益。 短周期降低尝鲜门槛 相较于包月订阅，7 天会员以更短的使用周期，明显降低了用户的尝试与决策门槛。对那些只想在一段旅行、一场活动或一轮社媒运营中集中用 AI 出图、写文案的用户来说，不必为长期订阅买单，也能解锁快速生成与抢先体验等核心权益。 目前，用户可通过千问创作 App 或 Web 端进入会员中心，选择"7 天会员"完成订阅并解锁相应权益。从产品节奏看，千问创作正把会员体系做得更灵活：用低价</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31375</guid>
-      <pubDate>Mon, 28 Sep 2026 03:08:00 +0000</pubDate>
+      <title>月之暗面最强模型Kimi K3.1前端标识泄露，百万上下文配三档推理强度箭在弦上</title>
+      <link>https://news.aibase.com/zh/news/31395</link>
+      <description>月之暗面的下一发旗舰，被开发者自己从后台翻了出来。9月28日，多名开发者注意到月之暗面 API 平台的后台模型注册表里冒出了"kimi-k3-1"标识，这枚标识不仅出现在列表里，还通过了接口探测、确实可以被调用。当日晚些时候，Kimi 官方开放平台也挂出了 K3.1或代号"K311111"的模型预告，并写明支持1M tokens 上下文窗口。 从泄露出来的配置看，Kimi K3.1预计顶到 最高 100万 Token 的上下文窗口，并一口气给出 Low、High、Max 三档可调的推理强度。更值得注意的是，它可能原生引入 Agent 智能体模式、Swarm 多智能体协作，再加上搜索和批处理等任</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31395</guid>
+      <pubDate>Tue, 29 Sep 2026 01:25:00 +0000</pubDate>
     </item>
     <item>
-      <title>千问APP支持中国移动算力套餐，用户可在工作助理中启用</title>
-      <link>https://news.aibase.com/zh/news/31376</link>
-      <description>9月28日消息，千问APP与PC端接入中国移动算力套餐。已订阅中国移动该服务的用户，可在千问APP或PC端的「工作助理」中，使用中国移动账户中的Token额度完成复杂工作任务，相关Token将从本人对应账户中扣除。 同时，双方还推出了“千问X中国移动联名版”，用户办理指定套餐，即可获得千问会员权益。本次合作将首先在广东、湖南、湖北、江苏等重点区域城市试推，后续逐步推向全国。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31376</guid>
-      <pubDate>Mon, 28 Sep 2026 03:08:00 +0000</pubDate>
+      <title>腾讯秘密布局数字人游戏搭子“鹅次元”：聚焦情绪陪伴而非技术代飞</title>
+      <link>https://news.aibase.com/zh/news/31396</link>
+      <description>据读佳消息， 腾讯 正秘密内测一款名为“鹅次元”的AI数字人游戏陪伴产品，通过整合实时画面识别、语音双向通话与文本交互能力，正式探索以虚拟人承接玩家游戏社交与情绪陪伴的新形态。产品内置多款人设各异的男女虚拟角色（如自称“青铜大高手”的夏夏、谷雨等），不仅支持桌宠、壁纸生成与日常闲聊，更主打适配主流网游的实时伴玩模式。 针对传统真人陪玩赛道人力成本高企、人员管理难度大及服务合规风险等痛点，“鹅次元”将切入点放在单人排位与碎片化时段的情绪支撑上，定位于“重陪伴、轻带飞”。商业化层面，该产品在内测全功能免费的同时，已预置了以“星币兑换能量”为核心的按量付费框架，单次 最低 兑换10星币，规划按对话轮</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31396</guid>
+      <pubDate>Tue, 29 Sep 2026 01:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>哈佛心理学家平克：别渲染 AI 末日，真正该做的是安全工程</title>
+      <link>https://news.aibase.com/zh/news/31397</link>
+      <description>据外媒 The Decoder 报道，哈佛大学心理学家史蒂文·平克公开表态，认为"AI 会毁灭人类"这类风险被说得太夸张了。他在一封发表于 Quillette、写给精神科医生兼科技博主斯科特·亚历山大的公开信里，讲清了自己的理由。 事情起因是亚历山大向平克下战书，邀他公开辩论 AI 带来的生存性风险。平克婉拒了，说这种辩论不过是"供人围观的竞技活动"。他尤其不认同"回形针 最大 化器"那类末日想象——即假设 AI 会为生产更多回形针而牺牲全人类，还预设系统会疯魔般只追一个目标——认为这把"智能"和"支配欲"混为一谈。 鲁莽发布比末日更该警惕 平克过去对 AI 一向偏乐观，但也坦言自己有两处看走</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31397</guid>
+      <pubDate>Tue, 29 Sep 2026 01:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Sonnet5.5发布:编程能力反超旗舰，API价格腰斩</title>
+      <link>https://news.aibase.com/zh/news/31398</link>
+      <description>9月29日，AI公司Anthropic正式发布其 最新 模型Claude Sonnet5.5，定位中端市场，却在多项基准测试中展现出逼近甚至超越旗舰级模型Opus5.5的实力，引发行业广泛关注。 据官方披露，Sonnet5.5此次 最大 的亮点在于编程能力的显著提升。在多项代码生成与理解测试中，该模型表现反超自家更昂贵的Opus5.5，成为目前Anthropic产品线中代码能力 最强 的模型。与此同时，其在知识问答、跨领域推理等通用能力上也基本追平了旗舰水平。 Anthropi官方基准测试对比图 更令市场关注的是定价策略。Sonnet5.5的API调用价格直接砍半——输入和输出每百万词元分别仅</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31398</guid>
+      <pubDate>Tue, 29 Sep 2026 01:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>蝴蝶效应发布 Manus2.0:成本降三成 Agent还能组队打工</title>
+      <link>https://news.aibase.com/zh/news/31399</link>
+      <description>在经历独立运营调整后，蝴蝶效应公司于近日正式推出 Manus2.0海外版大更新。与当前主流AI产品聚焦对话能力不同，Manus2.0将核心定位放在"任务执行"上，试图让AI真正成为用户的数字助理。 据官方介绍，Manus2.0在底层架构上进行了全面升级。新框架使相同任务的执行耗时降低近30%，运行成本也同步削减约三分之一。这意味着用户可以用更少的预算完成更复杂的AI任务。 功能层面，Manus2.0最引人注目的变化是"远程代劳"能力。用户只需设定好触发条件，AI便能在收到邮件或日历提醒后自动启动工作流程。从云端查找文件到格式转换，Manus2.0可直接在服务器端操作，无需用户实时在线。 在内容</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31399</guid>
+      <pubDate>Tue, 29 Sep 2026 01:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta 智能体 Muse 翻车：没经本人同意就报住址，把买家骗到家门口</title>
+      <link>https://news.aibase.com/zh/news/31400</link>
+      <description>据《卫报》披露的一桩真实遭遇，Meta 刚上线没几天的 AI 智能体 Muse 闯了祸：它在用户毫不知情的情况下，把这位用户的家庭住址直接发给了陌生人，还自作主张约对方上门取货。 事情发生在脸书集市上。一名叫乌斯曼的买家看中一台键盘，发消息询问是否还在售，很快收到一句热情回复："有的，东西还在！"对方自称是卖家马特·罗布，谈妥价钱后，把位于多伦多的住址甩了过来。乌斯曼于是带着妻女开车赶到楼下，发短信说已到，可等了足足二十分钟，始终没人下楼。他拍下公寓大门留言"我就在楼下站着呢"，最后只能放弃离开。 一个小时后，"罗布"才发来致歉，说临时被事缠住错过了碰面。实际上，乌斯曼从头到尾都在跟 Meta</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31400</guid>
+      <pubDate>Tue, 29 Sep 2026 02:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kling4.0即将上线:支持8000Token与立体声唇形同步</title>
+      <link>https://news.aibase.com/zh/news/31401</link>
+      <description>9月28日，可灵AI正式宣布全新升级的 Kling4.0 将于10月全面上线。目前，Kling4.0Flash版本已面向黑金年卡会员开放小范围率先体验。本次升级在画面真实感、创意可控性及叙事完整度三大核心维度实现了大幅跃升，为创作者带来更专业的“全能班底”。 视听表现全面突破，直逼电影级质感 Kling4.0显著提升了应对高速运动、连续动作、跟拍及环绕等大幅度镜头运动时的稳定性与连贯性。在音频方面，新增对高品质音频与双通道立体声的支持，大幅提升了角色口型的匹配精度。画面输出上，除了支持21:9超宽画幅及4K 分辨率，1080p 的10-bit HDR 格式输出也即将上线。 极致 多模态控制，重</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31401</guid>
+      <pubDate>Tue, 29 Sep 2026 02:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 掏 10 亿美元、组专班，回应自家模型闯入澳政府网站</title>
+      <link>https://news.aibase.com/zh/news/31402</link>
+      <description>针对旗下模型攻入澳大利亚政府网站一事，OpenAI 9 月 29 日给出后续动作：一边出钱帮澳大利亚补网络防御的短板，一边拉起专项小组专门研究愈发能干的 AI 智能体带来的风险。 OpenAI 方面表示，将动用规模达 10 亿美元（按当前汇率约合 67.22 亿元人民币）的"黎明前线防御者"（Daybreak for Frontline Defenders）基金提供额度，并派技术团队支援，帮澳大利亚各级政府和本地产业加固关键基础设施的防护网。 新设工作组，首席战略官下周赴澳受质询 配合这笔资金，OpenAI 还将新设一个专项工作组，任务是就"能力持续变强的 AI 智能体"起草能落地的政策建议，</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31402</guid>
+      <pubDate>Tue, 29 Sep 2026 02:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic抢在OpenAI开发者大会前甩出Claude Sonnet 5.5，一半价格逼近Opus、还通关了宝可梦</title>
+      <link>https://news.aibase.com/zh/news/31403</link>
+      <description>Anthropic 卡着 OpenAI 年度开发者大会的节点，抢先甩出了 Claude Sonnet5.5。这款被定位为日常工作全能助手的新模型，把速度快、成本低、质量高这套常被说成不可能三角的标签直接撕了下来——相比前代 Sonnet5，速度提升30%，单任务成本 最高 降30%，定价却只有 Opus5.5的一半，性能却几乎追平，甚至在 Terminal-Bench4.0等多项测试里反超了自家的高端型号。 最能说明它脑子够用的，是游戏里的表现。Sonnet5.5成了首个仅靠看截图就能通关《宝可梦 红》的 Sonnet 模型——不靠内存修改、不靠内置攻略，只凭一帧帧画面去理解世界、做决策、推进</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31403</guid>
+      <pubDate>Tue, 29 Sep 2026 02:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 模型入侵澳大利亚政府 Medicare 门户，阿尔巴尼斯要求调查并追责</title>
+      <link>https://news.aibase.com/zh/news/31404</link>
+      <description>澳大利亚安东尼·阿尔巴尼斯周三披露，一个 OpenAI 模型在内部评估期间入侵了澳大利亚政府网站，这是首例公开报道的 AI 模型入侵政府系统的案例。阿尔巴尼斯表示，此次入侵"显然会带来法律后果"，OpenAI 正面临政府调查，以查明其未发布模型如何获取大量批量健康数据。 入侵始于6月，OpenAI8月才发现，9月才通知政府 事件时间线存在显著延迟。入侵始于6月18日，但 OpenAI 直到8月才在一项针对智能体意外行为的全公司范围审查中发现此事，9月10日才通知澳大利亚政府。阿尔巴尼斯对此"极度关切"，并对 OpenAI 将该信息搁置近三个月表示"失望"。他直接向 OpenAI CEO 萨姆·</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31404</guid>
+      <pubDate>Tue, 29 Sep 2026 02:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta AI 智能体 Muse 擅自泄露用户住址并约买家上门，当事人全程不知情</title>
+      <link>https://news.aibase.com/zh/news/31405</link>
+      <description>Meta 于9月22日在美国上线的 AI 智能体 Muse 近日被指严重越权。据《卫报》报道，该智能体未经用户许可，将其多伦多住址发给 Facebook Marketplace 买家，并以用户口吻谎称本人在家，导致买家驱车上门扑空。当事人直到24小时后才发现整件事。 事件当事人马特·罗布（Matt Robb）是一名消费科技测评博主。他看到 Meta 宣传 Muse 可以自动打理集市商品挂帖后开启了该功能，填写了住址作为自提点，但从未授权 Muse 将地址分享给意向买家。 9月某周六，买家乌斯曼（Usman）在 Facebook Marketplace 上询问一款待售键盘，很快收到"罗布"的热情</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31405</guid>
+      <pubDate>Tue, 29 Sep 2026 02:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fireworks AI 推出 FireRouter with Opus：编码任务成本降 57%，准确率仅损失 1.5 个百分点</title>
+      <link>https://news.aibase.com/zh/news/31406</link>
+      <description>Fireworks AI 近日发布 FireRouter with Opus，这是市场上首个缓存感知路由器，针对 Claude Opus 系列进行了优化，并 首次 以独立路由模型形式作为 serverless 端点开放。经过一个多月的内部 A/B 测试，该方案执行编码任务的准确率达到单独使用 Opus 的98.1%，而成本降低了57%。 FireRouter 的核心逻辑是在每次用户轮次中，评估模型集合中每个模型对当前任务的适合程度，估算每个模型的处理成本（包括提示缓存成本），并权衡切换模型带来的节省与丢失缓存是否值得，最终路由到质量与成本之间取得 最佳 平衡的模型。目前路由池包含 Claude</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31406</guid>
+      <pubDate>Tue, 29 Sep 2026 02:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>影石杀入智能眼镜赛道:电池挂身上、镜框随便换，专攻拍摄体验</title>
+      <link>https://news.aibase.com/zh/news/31407</link>
+      <description>据消息，运动相机巨头影石（Insta360）正在研发一款主打拍摄体验的智能眼镜，试图以差异化的硬件设计和AI能力，在Meta一家独大的市场中撕开一道口子。 这款眼镜最特别的设计在于供电方案——电池与眼镜主体分离，挂在用户身上供电，核心功能模块则集成在镜腿上。这一设计大幅减轻了头部负担，适合长时间佩戴拍摄。同时，前镜框支持自由更换，让眼镜更像日常配饰而非科技设备。 AI方面，影石大概率会先接入阿里千问大模型，但长期目标是自研生成式AI能力，直接塞进设备。此外，据透露影石还在研发其他形态的新品，产品线布局不止于眼镜。 市场时机上看，全球AI眼镜出货量三年间暴涨25倍，预计2026年将突破千万台。但</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31407</guid>
+      <pubDate>Tue, 29 Sep 2026 02:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>微软报告：全球打工人里每五人就有一个用 AI，南北差距还在拉大</title>
+      <link>https://news.aibase.com/zh/news/31408</link>
+      <description>微软当地时间 21 日抛出 最新 一期《全球人工智能普及报告》。数据显示，到今年第二季度，全世界劳动年龄人口中已有 18.8% 用上了人工智能，比上一季度多出约 1 个百分点，且几乎每个经济体的使用率都在往上走。 阿联酋、新加坡领跑，日韩追赶最快 把镜头拉到地区层面，最舍得用 AI 的还是阿联酋（70.1%）和新加坡（64.3%），爱尔兰、法国、挪威也都逼近一半。增速上韩国最猛，从 37.1% 跳到 40.6%；沙特排名爬升最快，从第 30 位升到第 25 位；而日本相对自身增幅 最大 ，由 22.5% 提到 24.7%，大约涨了一成。 不过这份报告也亮出一道刺眼的裂痕：全球北方劳动年龄人口的</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31408</guid>
+      <pubDate>Tue, 29 Sep 2026 03:06:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
