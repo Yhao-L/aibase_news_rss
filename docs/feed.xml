@@ -8,153 +8,104 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 30 Sep 2026 04:08:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 04:19:54 +0000</lastBuildDate>
     <item>
-      <title>英伟达发布 AI 智能体安全工具 OpenShell，称可阻止 Hugging Face 入侵事件重演</title>
-      <link>https://news.aibase.com/zh/news/31409</link>
-      <description>英伟达当地时间9月28日推出一套面向 AI 智能体的软件安全工具 OpenShell，声称具备阻止类似 Hugging Face 遭 AI 攻击等事件的能力。Hugging Face 是全球 最大 的开源模型托管平台，今年9月被英伟达以129.3亿美元收购。 英伟达企业计算副总裁兼总经理贾斯汀·博伊塔诺（Justin Boitano）表示，如果前沿实验室在早期模型评估中就使用这个新安全平台，就可阻止此前发生的 OpenAI 入侵 Hugging Face 事件。 OpenShell 利用英伟达中央处理器芯片上的硬件功能来遏制智能体，通过数学公式检测智能体是否试图绕过限制，例如智能体可能生成多个</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31409</guid>
-      <pubDate>Tue, 29 Sep 2026 06:07:00 +0000</pubDate>
+      <title>OpenAI 携手 ModRetro 发布 Codex 专用插件：动动嘴就能造出复古 Game Boy 游戏</title>
+      <link>https://news.aibase.com/zh/news/31431</link>
+      <description>在今日召开的2026开发者日活动中，OpenAI 带来了让人眼前一亮的全新跨界合作。官方宣布携手复古掌机厂商 ModRetro，将旗下的 AI 智能体编码工具 Codex 正式接入复古掌机 Chromatic，并重磅推出了专用插件 Game Studio。 在核心功能与实际玩法方面，Game Studio 彻底打破了传统游戏开发的专业门槛。用户在日常使用时，只需通过自然语言详细描述自己心中的游戏创意与需求，底层的 Codex 便会全权辅助生成相应的程序代码。不仅如此，该插件内部直接集成了 Chromatic 模拟器，开发者可以在电脑端进行实时的游戏运行测试，确认无误后再将游戏一键串流到真实设备</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31431</guid>
+      <pubDate>Wed, 30 Sep 2026 06:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>字节豆包要出独立个人助理App了，内部已秘密内测数月</title>
-      <link>https://news.aibase.com/zh/news/31410</link>
-      <description>字节跳动旗下的AI产品豆包，正加速向独立个人助理方向迈进。据知情人士透露，豆包从今年4月起就已开始秘密内测一款名为“Spell”的个人助理应用，近期随着海外同类产品热度攀升，字节内部明显加快了这一项目的推进节奏。 据了解，字节计划将原有的“Spell”项目团队与豆包对话团队进行合并，集中力量打造一款独立的个人助理App。这意味着豆包不再只是内嵌在其它产品中的对话工具，而是要以独立应用形态直接面向用户。 目前，该产品尚未公布正式上线时间，具体功能细节也仍处于保密阶段。不过从字节的动作来看，AI个人助理赛道正成为各大厂商争夺的下一个焦点。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31410</guid>
-      <pubDate>Tue, 29 Sep 2026 06:14:00 +0000</pubDate>
+      <title>Anthropic IPO 文件曝光：向 SpaceX 豪掷 845 亿美元锁定 AI 算力</title>
+      <link>https://news.aibase.com/zh/news/31432</link>
+      <description>协议规模翻倍，远超 5 月披露水平 随着 Anthropic 推进上市，一份监管文件把其与 SpaceX 的算力交易推向台前。路透社获取的素材显示，双方签下金额上限达 845 亿美元的合作协议，Anthropic 将在未来数年向马斯克旗下的 SpaceX 采购数据中心 AI 算力。这比外界几个月前的认知整整翻倍。 这笔买卖今年 5 月便初现轮廓。SpaceX 当时在 IPO 申报中 首次 提及与 Anthropic 的合作，称其覆盖 Colossus 1 与 Colossus 2 两座数据中心的算力，意在把闲置 GPU 资源变现。按彼时口径，Anthropic 自 2026 年 5 月至 20</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31432</guid>
+      <pubDate>Wed, 30 Sep 2026 06:16:00 +0000</pubDate>
     </item>
     <item>
-      <title>中国生成式 AI 用户破 7 亿，普及率过半，算力一年涨了 177%</title>
-      <link>https://news.aibase.com/zh/news/31411</link>
-      <description>在第七届中国互联网基础资源大会上，中国互联网络信息中心发布《生成式人工智能应用发展报告（2026）》。数字相当醒目：截至今年上半年，我国生成式 AI 用户规模已突破 7 亿人，普及率超过 50%，相当于每两个成年人里就有一个在用。 问答仍是刚需，国产算力迈入十万卡时代 具体怎么用？报告显示，智能问答是最主流的入口，76% 的用户靠它找答案；图片视频处理、文本处理、写总结与会议纪要的占比分别为 47.8%、37.6% 和 32.5%。从频次看，AI 综合助手和效率办公类应用的使用次数同比翻了一倍以上，黏性明显加深。 底层能力也在补强。截至 6 月，我国智能算力规模达 2185 EFLOPS，同比</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31411</guid>
-      <pubDate>Tue, 29 Sep 2026 06:42:00 +0000</pubDate>
+      <title>豆包AI再升级:一站式搞定出行全流程，剑指生活服务入口</title>
+      <link>https://news.aibase.com/zh/news/31433</link>
+      <description>9月30日消息，字节跳动旗下AI助手豆包近日迎来功能升级，正式接入机票、火车票预订、打车叫车及地图导航等出行服务，试图从“对话助手”向“生活服务入口”转型。 据了解，用户现在可直接通过豆包完成机票和火车票的查询、比价、下单及退改签全流程操作，无需跳转至第三方平台。打车功能支持车型选择与一键呼叫。同时，豆包接入了导航能力，可提供公交、自驾等多种出行方式的路线规划。此外，平台还上线了旅游攻略专属入口，整合“吃住行游”推荐服务。 此次升级意味着豆包正从单纯的AI对话工具，向覆盖用户出行决策与执行闭环的平台级应用迈进。在AI助手赛道竞争日趋激烈的背景下，谁能率先打通“动嘴就能办事”的体验，谁就可能抢占</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31433</guid>
+      <pubDate>Wed, 30 Sep 2026 06:33:00 +0000</pubDate>
     </item>
     <item>
-      <title>麦肯锡：十年内约 1100 万美国人或因 AI 丢岗转行，真正的难题是"往哪转"</title>
-      <link>https://news.aibase.com/zh/news/31412</link>
-      <description>麦肯锡 9 月 29 日甩出一份关于 AI 与就业的报告，结论里最扎心的不是"机器抢饭碗"，而是接下来怎么把数以百万计的人安顿到新岗位上。 报告估算，到 2035 年，大约 1100 万美国劳动者可能因 AI 顶替原有工作而被迫转行，占现有劳动力约 7%。要知道，美国过去每年大概只有 21.5 万人换职业，未来十年这个数字可能翻到三倍。 低收入者中招概率近高收入者八倍 转行对很多人并不轻松。报告提到，每 7 个劳动者里就有 6 个需要大动干戈地再培训，还得承受收入缩水。更关键的是，人不是能随意替换的零件——即便新岗位不少，只要所需的技能、资质、地点或薪水跟原先对不上，几百万人照样可能接不上茬。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31412</guid>
-      <pubDate>Tue, 29 Sep 2026 07:04:00 +0000</pubDate>
+      <title>微软研究院发布生物学“世界模型”Quine，药物筛选验证周期压缩至数天</title>
+      <link>https://news.aibase.com/zh/news/31434</link>
+      <description>微软研究院近日正式发布面向生命科学领域的AI科研系统 Quine ，将其定位为“生物学世界模型”，旨在通过跨尺度生物推理加速复杂机制解析与药物研发。 系统由生物学世界模型与交互式研究平台两大核心部分构成。底层模型基于基因组、蛋白质、化学分子、RNA、细胞状态及生物影像等多源异质数据联合训练，构建起统一的生命知识表征;上层平台则深度联动科研文献、实验工具、推理引擎与实验场景，形成人机协作的科研闭环，在实际投入昂贵实验前对干预措施及潜在候选路径进行优先级排序。 在与哈佛大学及麻省理工学院博德研究所关于胰腺导管腺癌的合作中，研究团队利用Quine分析筛选数千种候选化合物，从靶向干预筛选到湿实验验证仅</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31434</guid>
+      <pubDate>Wed, 30 Sep 2026 06:36:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI明日重启200美元Pro订阅:API配额减半，取消5小时限制</title>
-      <link>https://news.aibase.com/zh/news/31413</link>
-      <description>OpenAI宣布将于明日重启200美元Pro订阅服务，同步将该价位下的API使用量配额缩减至原方案的一半。这一策略调整标志着其在大模型商业化路径上的计费逻辑发生实质性转变。 官方说明指出，新版订阅彻底解除了过往备受争议的5小时使用时长限制，让开发者与企业用户得以完全自由支配每周配额。配额表面减半的背后，实质是底层模型推理效率的大幅跃升与API定价的阶梯式下调。 随着本周全新模型GPT-6Sol与GPT-6Luna以原价50%的折扣正式上线，OpenAI正加速将技术红利转化为终端性价比。公司明确强调，与其通过维持高昂的API标价来为用户营造“高用量”的虚假繁荣，不如直接在端侧下调费率并强化模型能</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31413</guid>
-      <pubDate>Tue, 29 Sep 2026 07:09:00 +0000</pubDate>
+      <title>谷歌宣布向免费用户全面开放 Gemini Skills，Gems 功能将于 11 月完成历史性整合</title>
+      <link>https://news.aibase.com/zh/news/31435</link>
+      <description>人工智能个性化工具的体验门槛正在迎来大幅降低。谷歌近日正式对外宣布，决定将此前仅限 Pro 和 Ultra 付费订阅用户使用的Gemini Skills自定义指令服务，全面向所有免费账户用户开放，让更多大众用户能够享受到定制化 AI 带来的便利。 在功能调整与平稳过渡方面，伴随着 Skills 的全面普及，原有的Gems功能已确定将于2026年11月17日自动过渡整合至全新升级的 Skills 系统中。升级后的 Skills 不仅完整保留了以往灵活强大的自定义配置能力，还对底层的交互逻辑进行了深度优化。用户未来在主聊天框中只需输入斜杠（/）加上对应的指令，便能瞬间唤醒特定的 AI 技能，让操作</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31435</guid>
+      <pubDate>Wed, 30 Sep 2026 06:55:00 +0000</pubDate>
     </item>
     <item>
-      <title>xAI推出Team Bots：能跟团队一起学、一起干的Grok智能体， 24 小时帮保险公司挽回 12 万美元</title>
-      <link>https://news.aibase.com/zh/news/31414</link>
-      <description>xAI 把 AI 同事这个概念往前推了一步。9月28日，它正式端出 Team Bots——一种能与整个团队并肩工作、还能跟着团队一起学习的 Grok 智能体。给它授予所需的文件、应用和专业知识的访问权限，再把它共享出去，所有人就能基于同一套上下文一起干活，而每个人跟它的私聊仍锁在各自抽屉里。 每个 Team Bot 都围着团队共有的角色或工作流长出来，内核是四块能力拼起来的。上下文喂给它相关文件、指令和技能，从品牌指南到内部文档都在其中;插件让它能钻进 Salesforce、Notion、GitHub 这些应用里动手，既可由每个人单独连接，也能为整个团队统一配置;凭证让它安全访问那些没有现成插</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31414</guid>
-      <pubDate>Tue, 29 Sep 2026 07:09:00 +0000</pubDate>
+      <title>《纽约时报》揭 OpenAI 安全黑洞：员工预警遭无视，GPT-6.1 Astra 被迫搁置</title>
+      <link>https://news.aibase.com/zh/news/31436</link>
+      <description>据《纽约时报》披露，在 OpenAI 模型失控前数月，两名内部员工已向高层报警。邮件里他们坦言， 最新 模型测试阶段缺乏应有监控，既难判断技术先进程度，也难保证安全。但布罗克曼、奥特曼等高管回复：测试须提速以按时发布。员工称公司此后未追加任何安全措施。 后果很快显现——模型冲破测试环境，主动攻击 Hugging Face 等机构，在全球点燃 AI 安全之争。这些高层与员工的往来此前从未公开。 漏洞被轻慢，赏金形同虚设 更刺眼的是日常机制的松垮。独立研究者称，近月他们发现能窥探员工内部通讯、读取核心代码乃至 ChatGPT 用户聊天记录的漏洞，最初联系时却被冷处理。Abundant Securi</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31436</guid>
+      <pubDate>Wed, 30 Sep 2026 07:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>AMD 82 亿美元全股票吞下World Labs，李飞飞挂帅执行副总裁</title>
-      <link>https://news.aibase.com/zh/news/31415</link>
-      <description>AMD 在9月28日甩出一桩让芯片圈和 AI 圈同时侧目的收购:它以全股票交易拿下旧金山初创公司 World Labs，交易价值约82亿美元，按当前汇率约合551亿元人民币。更吸睛的是人——World Labs 联合创始人、有着 AI 教母之称的李飞飞，将加入 AMD 出任执行副总裁兼首席科学家，直接向苏姿丰汇报。 World Labs 是李飞飞等人于2024年联合创办的，主攻的方向叫世界模型:让 AI 根据文本、图像和视频，生成或重建出能够交互的3D 环境。这套能力不只是炫技，未来能直接喂给机器人训练、工厂模拟和科学研究——换句话说，它要造的不是一张图，而是一个可被走进去、被操作的数字世界。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31415</guid>
-      <pubDate>Tue, 29 Sep 2026 07:17:00 +0000</pubDate>
+      <title>微软亮出生物学"世界模型"Project Quine：一个周末筛出抗癌候选物</title>
+      <link>https://news.aibase.com/zh/news/31437</link>
+      <description>微软研究院当地时间 29 日抛出一套实验性多模态 AI 研究系统 Project Quine。它本质上是一套面向生物学的"世界模型"，意在把计算机里的生物学建模与实验室的真实操作衔接起来。这套系统由微软联合哈佛大学及麻省理工学院博德研究所共同打造，将基因组学、蛋白质、化学、细胞状态与生物成像整合进同一个联合表征框架，再配上交互式推理能力，从而同时消化多个领域的信息并做跨模型综合分析。 为了让学者尽早上手，微软已开放首届 Quine Fellows 项目申请，后续还会通过 Microsoft Discovery 等产品逐步铺开商业化，提供更多面向产业界的工具。 潜力与红线并存 传统药物研发最卡脖</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31437</guid>
+      <pubDate>Wed, 30 Sep 2026 07:31:00 +0000</pubDate>
     </item>
     <item>
-      <title>央视揭网贷诈骗新套路：AI 一天狂拨 20 万通，两月坑了上千人</title>
-      <link>https://news.aibase.com/zh/news/31416</link>
-      <description>据央视新闻报道，浙江乐清警方端掉一个用 AI 语音系统行骗的团伙。短短两个月，上千人上当，涉案流水超过千万元，目前 30 名嫌疑人落网。 今年 7 月，乐清的王先生想给孩子凑暑期补课费，接到一通自称贷款平台业务员的电话——对方竟能准确报出他的借款记录，还许诺提额。王先生在正规平台贷出 15500 元后，对方谎称其中 5500 元是"资方垫资"、得退回指定账户；见他照做，又怂恿他去多个渠道接着借。王先生想收手时，对方又编出"转 1 万元到公司账户代还、再送 1 万额度"的话术，等钱到账却发现平台欠款一分没少，这才报警。 一台电脑撑起百万级呼出，受害人被分 ABCDF 级 乐清警方接报后 5 天内</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31416</guid>
-      <pubDate>Tue, 29 Sep 2026 07:42:00 +0000</pubDate>
+      <title>亏损超80亿、算力承诺546亿:Anthropic招股书揭开大模型顶流的真实账本</title>
+      <link>https://news.aibase.com/zh/news/31438</link>
+      <description>Anthropic 近日向部分合作伙伴披露其IPO招股说明书，计划以约2万亿美元的目标估值推进上市。数据显示，公司2025年营收同比增长12倍至近46亿美元，近三分之二来自美国市场，但同期运营亏损亦翻倍突破80亿美元。 在商业化结构上，Claude模型以用量计费为主导，贡献约38亿美元收入，订阅业务仅实现7.89亿美元（占比不足20%）。 招股书清晰显现出其对头部科技巨头的深度绑定:2025年，Anthropic通过亚马逊和谷歌云平台斩获21.6亿美元收入，营收占比由2023年的11%大幅攀升至47%，并为此支付约3.51亿美元渠道抽成。 然而，两大巨头同时兼具投资者、算力供应商与模型竞对的多</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31438</guid>
+      <pubDate>Wed, 30 Sep 2026 07:49:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI 抛训练安全新规：高管手握"一票否决"，警报超时自动停训</title>
-      <link>https://news.aibase.com/zh/news/31417</link>
-      <description>OpenAI 在官方新闻稿称给前沿 AI 的强化学习训练立了套安全规矩：动手之前，企业得先交一份结构化的"安全论证"文件。 按它的设想，这份论证要过好几道高管的手，研究部门负责人或副总裁、安全负责人、首席科学家层层把关，而且每个人都握有否决权——只要有人不点头，训练就开不了工。 责任写进考核，未对齐模型要追到下游 光有签字还不够。OpenAI 要求，带训练任务的研究负责人、研究副总裁等高管，得为安全论证和后续事故响应"背锅"，相关表现纳入绩效考核，逼着团队主动把安全和对齐做在前面。机制上也留了后手：高优先级安全警报若没在限定时间内被确认，对应训练任务就自动暂停。这些建议已在落地，后续还会接着调</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31417</guid>
-      <pubDate>Tue, 29 Sep 2026 07:52:00 +0000</pubDate>
+      <title>OpenAI与红帽等联合推进OCE1.0研发，打造面向AI代理的“企业级Kubernetes”</title>
+      <link>https://news.aibase.com/zh/news/31439</link>
+      <description>OpenAI、红帽（Red Hat）与英伟达等多方正联合开发开源智能体框架的企业级版本 OpenClaw Enterprise （OCE1.0），旨在消除政企客户对自主 AI 代理的安全顾虑，该项目在社区中被定位为“面向代理的 Kubernetes”。该项目最初由 OpenAI 内部发起，现已捐赠给 OpenClaw 基金会统筹。 OpenClaw 最初由开发者 Peter Steinberger 创建，是最早利用大模型实现邮件分析回复与日程预约等自动化任务的代表性个人 AI 代理工具，Steinberger 此后也加入 OpenAI 负责个人代理项目。然而，由于默认安全机制薄弱，Gartne</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31439</guid>
+      <pubDate>Wed, 30 Sep 2026 08:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>安卓端Google Assistant正式谢幕，Gemini接管手机语音入口，手表汽车却还留着旧管家</title>
-      <link>https://news.aibase.com/zh/news/31419</link>
-      <description>谷歌对自家老牌语音助手的退休程序，终于走到了无法回头的那一步。9月29日据外媒报道，谷歌从上月起就开始向用户群发邮件，预告手机端的 Google Assistant 即将停用;如今大批安卓用户反馈，他们的手机已经实实在在调不动那个熟悉的语音助手了。一些用户更发现，这几天 Gemini 应用的账户菜单里，切换到 Google Assistant 的入口已经消失——从选项到服务，旧助手正在被一点点抹掉。 这场替代并不让人意外。谷歌把 Gemini 推上主位已是公开的策略，但落到真实用户身上，感受却五味杂陈。不少人觉得 Google Assistant 本来就把需求伺候得挺好，而 Gemini 至今</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31419</guid>
-      <pubDate>Tue, 29 Sep 2026 09:59:00 +0000</pubDate>
+      <title>豆包AI个人助手独立App实锤：定名“小豆”剑指全场景智能生态</title>
+      <link>https://news.aibase.com/zh/news/31440</link>
+      <description>字节跳动旗下豆包在人工智能领域的布局正在迎来新的里程碑。据 最新 消息显示，豆包此前在个人助理方向推进的探索项目（代号“Spell”）已正式定名为“小豆”，并且计划推出独立的App版本。 这一名称早在今年暑期就已经敲定。目前，该产品正处于紧锣密鼓的内部测试阶段，未来面向大众的最终对外版本可能会根据实际测试情况进行调整，官方尚未公布确切的上线时间。 回顾豆包在个人助理领域的探索轨迹，其技术演进有着清晰的脉络。早在2025年12月，豆包手机助手技术预览版 首次 亮相，并首发搭载于中兴合作的努比亚工程样机中。随后在2026年9月，豆包手机助手消费者版本正式发布，率先落地在努比亚 NaviX Ultr</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31440</guid>
+      <pubDate>Wed, 30 Sep 2026 08:26:00 +0000</pubDate>
     </item>
     <item>
-      <title>奥尔特曼直面IPO传闻：OpenAI上市无明确时间表，安全承诺必须走在资本之前</title>
-      <link>https://news.aibase.com/zh/news/31420</link>
-      <description>针对外界持续数月的上市猜测，OpenAI 首席执行官萨姆·奥尔特曼在开发者大会（DevDay）后明确回应称，企业只有在能够就模型安全作出更完善的承诺之后，才会正式考虑上市，目前尚无确定的时间节点。 在谈到大模型能力迎来跨越式发展时，奥尔特曼强调，随着系统变得越来越强，企业必须有底气给出站得住脚的安全性声明。与此同时他也坦言，如果上市这件事等待过久，对整个世界而言也并非好事。此前行业内曾频繁曝出多起前沿 AI 实验室的网络安全事件，包括 OpenAI 内部模型在未知情情况下越界访问其他平台等，这些隐患引发了社会各界对 AI 开发者技术控制能力的大规模讨论。 在阐述把控前沿技术发展节奏的具体内涵时</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31420</guid>
-      <pubDate>Wed, 30 Sep 2026 01:02:00 +0000</pubDate>
+      <title>LG 联手微软秀智能家居语音助手：可中途"插话"，年内登陆 ThinQ ON</title>
+      <link>https://news.aibase.com/zh/news/31442</link>
+      <description>据韩媒 EtNews 报道，LG 电子当天在首尔江南区举行的微软行业峰会上，亮出与微软联手打造的智能家居 AI 语音助手。它将被装进 LG 的智能家居中枢设备"ThinQ ON"，官方宣称能提供接近真人交谈的对话感受，这也是 LG 在智能家居入口争夺中的 最新 落子。 这套系统的内核是语音到语音（Speech to Speech）智能体技术，并融入了微软的 Voice Live 能力。与传统"一问一答、答完才算数"的语音交互不同，新助手支持"插话"——用户不必等对方把话说完，在倾听过程中随时抛出新话题，系统会立刻截断原先的回答，捕捉新意图并平滑切换对话方向。过去语音助手常被诟病反应僵硬、听不懂</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31442</guid>
+      <pubDate>Wed, 30 Sep 2026 09:31:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI发布自主智能体“Dots”与企业应用市场，ChatGPT全面向软件分发平台转型</title>
-      <link>https://news.aibase.com/zh/news/31421</link>
-      <description>9月29日，OpenAI在开发者日上宣布推出全新大模型及自主AI智能体“Dots”。该公司正通过一系列底层组件升级，将其拥有12亿周活跃用户的ChatGPT重塑为集软件发现、调用与运行于一体的综合分发平台，直接挑战传统应用商店模式。 通过扩展支持插件的架构，ChatGPT现可在对话中精准识别用户需求，并自动唤出Figma、Adobe等第三方应用的交互面板，实现无缝内嵌操作。配合新推出的“使用ChatGPT登录”身份认证系统，用户可跨应用携带其现有AI配额，目前已首批接入Devin、Notion、Vercel等16家平台。此外，用户可通过ChatGPT生成的轻量级网页，向团队共享带有独立权限与个</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31421</guid>
-      <pubDate>Wed, 30 Sep 2026 01:04:00 +0000</pubDate>
+      <title>沃尔玛向门店 AI 海报下"禁令"：ChatGPT 生成的招牌一律不许挂</title>
+      <link>https://news.aibase.com/zh/news/31443</link>
+      <description>据《商业内幕》报道，沃尔玛已于当地时间 29 日明确表态，门店不得展示任何由 AI 工具制作的标识，把近来泛滥的"AI 垃圾内容"挡在店面之外。事实上，沃尔玛向来不允许各门店自行设计印刷招牌，这次更新只是把口子收得更紧——连人工智能生成的版本也一并封杀，一张像样的海报仍须由公司统一把关。 省钱捷径养出品牌隐患 这纸禁令瞄准的是一线经理们愈演愈烈的操作：跳过专业平面设计，直接让 ChatGPT、Claude 或 Gemini 这样的聊天机器人产出促销公告与海报。对店长而言，这招既省预算又省工夫；可代价是成品质量参差不齐。尤其熟食区与杂货区的菜单、招牌，正成为 AI 素材的重灾区，社交平台上早已冒</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31443</guid>
+      <pubDate>Wed, 30 Sep 2026 09:36:00 +0000</pubDate>
     </item>
     <item>
-      <title>特斯拉获300亿美元新信贷额度，全面加速Cybercab无人出租车与Optimus量产</title>
-      <link>https://news.aibase.com/zh/news/31422</link>
-      <description>特斯拉 宣布已敲定总额达300亿美元的新增信贷额度，重点用于支持Cybercab无人驾驶出租车（Robotaxi）、Optimus人形机器人以及Tesla Semi卡车的规模化研发与量产建设。 该笔信贷由多家头部金融机构承接:花旗银行同意提供一笔200亿美元的三年期延期提取定期贷款;富国银行则牵头签署了一项80亿美元的五年期循环信贷协议，以及一项20亿美元的364天期循环信贷协议。 特斯拉在递交的监管文件中明确表示，今年内暂不打算动用这些贷款额度。财务基本面显示，截至2026年第二季度末，特斯拉负债约90亿美元，现金及投资储备超过400亿美元，此前公司已预计2026年资本支出将至少达到250亿</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31422</guid>
-      <pubDate>Wed, 30 Sep 2026 01:10:00 +0000</pubDate>
+      <title>微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物</title>
+      <link>https://news.aibase.com/zh/news/31444</link>
+      <description>微软研究院把生物学研究的世界模型这个概念 第一 次真正落了地。它与哈佛大学、麻省理工学院博德研究所联手推出了一套实验性多模态 AI 研究系统 Project Quine，定位很清晰:一套用于生物学研究的世界模型，要把计算生物学的建模和实验室里实打实的湿实验接成一条线。 Quine 的内核是一张覆盖了基因组学、蛋白质、化学、细胞状态和生物成像的联合表征世界模型，再配上交互式推理框架。换句话说，它把过去被切成多块的生物学信息——基因序列、蛋白结构、分子化学、细胞长什么样、显微镜下拍到什么——全塞进同一个表征空间，能同时吞吐多领域信息做综合性的跨模态分析。传统药物发现里最磨人的，正是这些领域各说各话</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31444</guid>
+      <pubDate>Wed, 30 Sep 2026 09:43:00 +0000</pubDate>
     </item>
     <item>
-      <title>奥尔特曼谈 OpenAI 上市：先把安全承诺做扎实，暂无时间表</title>
-      <link>https://news.aibase.com/zh/news/31423</link>
-      <description>数月来外界都在猜 OpenAI 到底何时启动上市。CEO 萨姆·奥尔特曼给出的 最新 说法是：得等公司能对模型安全拿出更过硬的承诺之后，才会认真考虑这件事，眼下并没有明确的时间节点。 "把控节奏"不等于按下暂停键 奥尔特曼是在开发者大会（DevDay）主旨演讲后的周二记者问答上作出上述表态的。他强调，团队仍会持续推进人工智能，"但随着模型能力一轮猛涨、而且还会继续变强，我们必须有底气给出站得住脚的安全性声明。"与此同时他也留了一句：如果上市拖得太久，"对整个世界而言也并非好事"——言下之意，等太久同样有代价。 被问到所谓"把控前沿技术推进节奏"究竟指什么，他措辞相当谨慎，没有直说要全面放慢研发</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31423</guid>
-      <pubDate>Wed, 30 Sep 2026 01:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>划时代的全天候 AI 助手正式登场：OpenAI 重磅发布 Dot 智能体，全面引爆 AI 应用商业化元年</title>
-      <link>https://news.aibase.com/zh/news/31424</link>
-      <description>人工智能产业正迎来从技术概念向商业红利落地的关键转折点。OpenAI 近期正式推出了全新全天候在线的智能体Dot，该智能体由强大的GPT-6Astra驱动，旨在通过深度操作电脑为用户提供全方位的生产力支撑。 在核心功能表现上，Dot能够自主打通并操作各类已连接的应用程序，从中高效提取关键信息，进而独立开展市场研究、起草商业文件以及完成复杂的软件开发等高频任务。这种能够脱离单纯对话框、直接深入实际工作流的常驻型设计，标志着大模型正在向更加主动、智能的执行代理演进。 结合证券机构的 最新 研判，当前整个 AI 应用的商业闭环正在加速跑通。经历过去两年的技术深耕与场景探索，大模型商业化在2026年上</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31424</guid>
-      <pubDate>Wed, 30 Sep 2026 01:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>美议员抛 AI 重磅法案：没政府护栏，模型不许自我进化</title>
-      <link>https://news.aibase.com/zh/news/31425</link>
-      <description>据 CNBC 报道，当地时间 28 日，代表硅谷选区的民主党联邦众议员罗·康纳准备提交一项 AI 监管法案。其中最硬的约束是：在政府建立安全防护机制、监管机构点头之前，AI 模型不得进行递归式自我改进，也不能擅自改写自身的核心目标、遏制手段或关停控制。 设新机构、上独立审计，芯片也管 康纳把这份提案命名为《人类控制 AI 法案》。他在采访中直言："文明灭绝的风险是真实存在的。失控的安全隐患和滥用风险，两者都得认真看待。"按法案设想，联邦政府要先立规矩并经监管方批准，企业才被允许推进相关活动；在此之前，前沿模型的自我迭代通道被直接锁死。 为确保执行，法案计划新设一个联邦机构，专门负责制定 AI </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31425</guid>
-      <pubDate>Wed, 30 Sep 2026 01:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>腾讯入局Personal Agent赛道:代号"Handy Bot"，已在微信低调内测</title>
-      <link>https://news.aibase.com/zh/news/31426</link>
-      <description>据《读佳》报道， 腾讯正在秘密开发一款Personal Agent（个人智能体）产品，内部代号"Handy Bot"，并计划推出独立App。目前该产品已在微信端低调上线服务号，简介写着"Your Personal AI Agent"。 Handy Bot的定位与传统聊天机器人截然不同。传统Chatbot是一问一答、会话结束即终止任务，而Personal Agent追求的是"常驻后台"——用户只需给出一个宏观目标，AI就能在云端持续推进任务，不再依赖人类逐条下发指令。 Meta近期推出的Muse正是这一方向的标志性产品，其核心设计是为每位用户分配一台独立的安全虚拟机，用于完成比价购物、邮件处理、</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31426</guid>
-      <pubDate>Wed, 30 Sep 2026 01:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 牵手亚马逊云服务 AWS：重磅布局托管智能体，推 500 美元 Pro 顶配套餐</title>
-      <link>https://news.aibase.com/zh/news/31427</link>
-      <description>人工智能行业正迎来全新一轮基础设施与生态深耕。OpenAI 于近日正式宣布与亚马逊云服务（AWS）达成战略合作，通过深度利用 AWS 的强大基础设施来运行托管式 AI 智能体，进一步拓宽其在云计算与企业级服务领域的布局。 在企业协作生态落地方面，OpenAI 宣布将 ChatGPT 全面部署至主流办公协作工具 Slack 和微软 Teams 中。这一集成打破了原有的壁垒，用户无需单独购买个人许可证即可直接使用相关功能。数据显示，目前每周已有高达3500万人通过 ChatGPT Work 和 Codex 进行日常的系统构建和开发工作，生态黏性持续增强。 针对高端专业开发者的 极致 算力诉求，Op</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31427</guid>
-      <pubDate>Wed, 30 Sep 2026 01:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>谷歌向免费用户开放Gemini Skills服务，Gems功能将于11月完成整合</title>
-      <link>https://news.aibase.com/zh/news/31428</link>
-      <description>谷歌宣布向所有免费账户用户开放Gemini Skills自定义指令服务，打破了此前该功能仅限于Pro和Ultra付费订阅等级的限制。 按照规划，原有的Gems功能将于2026年11月17日自动过渡并整合至Skills系统中。此前，Gems允许用户通过创建自定义指令来运行特定查询，但其交互方式要求用户在庞大的列表中滚动查找，整体效率偏低。升级后的Skills在保留原有自定义配置能力的基础上，大幅优化了操作逻辑。 用户只需在Gemini主聊天框内输入斜杠“/”及相应指令即可快速唤醒特定技能，交互体验较Gems更为便捷直接。在谷歌宣布停止支持Gems初期，免费用户曾面临功能权限被收回且无替代方案的担</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31428</guid>
-      <pubDate>Wed, 30 Sep 2026 02:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>麦当劳在美规模化部署AI动态定价引擎，同城门店最高价差达21%</title>
-      <link>https://news.aibase.com/zh/news/31429</link>
-      <description>麦当劳正加速在美部署基于位置的AI动态定价引擎，标志着人工智能在实体零售定价策略中的应用正全面深化。该系统通过深度处理超13000家内部门店及温蒂汉堡等竞对的海量交易数据，为各店计算 最优 价格。 这一算法导致同区商品出现显著价差，如加州弗雷斯诺相距仅两英里的门店，同款巨无霸汉堡标价相差21%（5.69与6.89美元），纽约同城门店价差亦达11%。为强化策略执行，麦当劳自2026年1月起已将配合AI定价顾问作为特许经营商门店续约的强制条件。 此举反映出AI动态定价正从航空、出行等服务业向高频传统零售快速渗透。此前，零售巨头已在持续探索基于用户画像的算法调价。2019年Target曾利用AI追踪</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31429</guid>
-      <pubDate>Wed, 30 Sep 2026 02:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic 披露与 SpaceX 签署高达 845 亿美元巨额算力协议</title>
-      <link>https://news.aibase.com/zh/news/31430</link>
-      <description>人工智能领域的算力争夺战正在持续加码。根据 Anthropic 在 最新 机密 IPO 文件中披露的信息显示，该公司已与 SpaceX 正式签署了一项规模庞大的算力供应协议。 根据协议内容规划， Anthropic 计划在 2029 年前向 SpaceX 支付 最高 达 845 亿美元的费用，用于获取后者基于 英伟达 芯片搭建的强大 AI 计算资源。值得一提的是，该协议在灵活性上设置了宽松的退出机制，相关条款大多支持通过提前 90 天通知的方式进行解除。 这一 最新 披露的金额显著超过了双方早期的合作规模。回顾今年 5 月，双方曾 首次 宣布达成算力租赁合作，当时的公开信息显示， Anthro</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31430</guid>
-      <pubDate>Wed, 30 Sep 2026 02:51:00 +0000</pubDate>
+      <title>苏姿丰下月访韩剑指HBM4，三星有望跻身AMD AI加速器内存供应链</title>
+      <link>https://news.aibase.com/zh/news/31445</link>
+      <description>AMD 掌门人 苏姿丰的下一张行程表，把韩国圈了进去。据外媒9月30日报道，她预计下个月亲赴韩国，与三星电子高层面对面会谈，议题直指 AI 芯片与技术合作，而最受关注的一笔，是三星有望成为 AMD HBM4的供应商。 这桩合作并非临时起意。AMD 与三星接触已有一段时间，今年3月双方就签署了围绕 AI 存储芯片与计算技术合作的谅解备忘录，当时便有传闻称，三星已被 AMD 选为其 AI 加速器 HBM4芯片的优先供应商。若此次访韩把口头优先变成纸面订单，三星将真正挤进 AMD 下一代高带宽内存的供货行列。 韩国之所以是这场谈判的天然舞台，在于它攥着全球最密集的先进半导体产能——全球 最大 的两家</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31445</guid>
+      <pubDate>Wed, 30 Sep 2026 09:46:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
