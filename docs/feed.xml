@@ -8,104 +8,139 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 01 Oct 2026 04:19:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 04:40:00 +0000</lastBuildDate>
     <item>
-      <title>OpenAI 携手 ModRetro 发布 Codex 专用插件：动动嘴就能造出复古 Game Boy 游戏</title>
-      <link>https://news.aibase.com/zh/news/31431</link>
-      <description>在今日召开的2026开发者日活动中，OpenAI 带来了让人眼前一亮的全新跨界合作。官方宣布携手复古掌机厂商 ModRetro，将旗下的 AI 智能体编码工具 Codex 正式接入复古掌机 Chromatic，并重磅推出了专用插件 Game Studio。 在核心功能与实际玩法方面，Game Studio 彻底打破了传统游戏开发的专业门槛。用户在日常使用时，只需通过自然语言详细描述自己心中的游戏创意与需求，底层的 Codex 便会全权辅助生成相应的程序代码。不仅如此，该插件内部直接集成了 Chromatic 模拟器，开发者可以在电脑端进行实时的游戏运行测试，确认无误后再将游戏一键串流到真实设备</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31431</guid>
-      <pubDate>Wed, 30 Sep 2026 06:05:00 +0000</pubDate>
+      <title>OpenAI随GPT-6推出“智能UI”，ChatGPT全面升级交互式视觉体验</title>
+      <link>https://news.aibase.com/zh/news/31446</link>
+      <description>OpenAI宣布将于本周三推出全新“智能用户界面”（Intelligent UI），并与其 最新 一代大模型GPT-6同步发布，标志着ChatGPT在视觉与交互体验上迎来重大升级。该功能旨在打破传统以纯文本为主的输出局限，将大量高频交互的视觉元素深度融入用户的自然对话中。 在技术与功能层面，新界面并非仅展示静态或扁平的图片，而是引入了高度动态的组件。ChatGPT现在能够直接生成可点击的交互按钮、针对特定任务定制的计算器、交互式数据图表以及可编辑的图形等。 OpenAI产品经理Aarush Selvan指出，这一改变是为了提供比单纯文本更有价值的回答，帮助用户更高效地完成日常事务规划与复杂知识</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31446</guid>
+      <pubDate>Thu, 08 Oct 2026 00:55:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic IPO 文件曝光：向 SpaceX 豪掷 845 亿美元锁定 AI 算力</title>
-      <link>https://news.aibase.com/zh/news/31432</link>
-      <description>协议规模翻倍，远超 5 月披露水平 随着 Anthropic 推进上市，一份监管文件把其与 SpaceX 的算力交易推向台前。路透社获取的素材显示，双方签下金额上限达 845 亿美元的合作协议，Anthropic 将在未来数年向马斯克旗下的 SpaceX 采购数据中心 AI 算力。这比外界几个月前的认知整整翻倍。 这笔买卖今年 5 月便初现轮廓。SpaceX 当时在 IPO 申报中 首次 提及与 Anthropic 的合作，称其覆盖 Colossus 1 与 Colossus 2 两座数据中心的算力，意在把闲置 GPU 资源变现。按彼时口径，Anthropic 自 2026 年 5 月至 20</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31432</guid>
-      <pubDate>Wed, 30 Sep 2026 06:16:00 +0000</pubDate>
+      <title>微软推顶级RTX Spark AI PC，以千美元补贴抢夺开发者市场</title>
+      <link>https://news.aibase.com/zh/news/31447</link>
+      <description>微软于旧金山科技周活动上正式发布搭载英伟达RTX Spark芯片的全新AI电脑，标志着其与英伟达自6月达成合作以来在端侧AI领域的重大落地。本次推出的Surface Laptop Ultra包含两款基础机型，起售价分别为2，600美元与3，700美元， 最高 配置售价达5，900美元（ 顶级 型号已售罄）。 同步发布的还包括专为开发者打造的Surface RTX Spark Dev Box工作站，起售价6，000美元，预装VS Code、GitHub Copilot CLI、WSL及PowerShell7等核心开发工具。 硬件层面，设备整合CPU、GPU与统一内存，配合散热优化，旨在本地免费高</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31447</guid>
+      <pubDate>Thu, 08 Oct 2026 00:56:00 +0000</pubDate>
     </item>
     <item>
-      <title>豆包AI再升级:一站式搞定出行全流程，剑指生活服务入口</title>
-      <link>https://news.aibase.com/zh/news/31433</link>
-      <description>9月30日消息，字节跳动旗下AI助手豆包近日迎来功能升级，正式接入机票、火车票预订、打车叫车及地图导航等出行服务，试图从“对话助手”向“生活服务入口”转型。 据了解，用户现在可直接通过豆包完成机票和火车票的查询、比价、下单及退改签全流程操作，无需跳转至第三方平台。打车功能支持车型选择与一键呼叫。同时，豆包接入了导航能力，可提供公交、自驾等多种出行方式的路线规划。此外，平台还上线了旅游攻略专属入口，整合“吃住行游”推荐服务。 此次升级意味着豆包正从单纯的AI对话工具，向覆盖用户出行决策与执行闭环的平台级应用迈进。在AI助手赛道竞争日趋激烈的背景下，谁能率先打通“动嘴就能办事”的体验，谁就可能抢占</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31433</guid>
-      <pubDate>Wed, 30 Sep 2026 06:33:00 +0000</pubDate>
+      <title>Meta 旗下 AI 助手 Muse 登录 iPad 平台，上线仅一月下载量超660万次</title>
+      <link>https://news.aibase.com/zh/news/31448</link>
+      <description>Meta 于2026年10月7日宣布推出 AI 助手 Muse 的 iPad 专属应用，实现了该产品在移动端与大屏设备上的快速扩张。相比 Instagram 历时近15年才适配 iPad 平台，自2026年9月8日在 iOS 和 Android 启动首发以来，Muse 仅用时一个月便完成了向 iPad 的延伸。 市场调研机构 Sensor Tower 的数据显示，Muse 在双平台上线后的安装量已突破660万次。由于 Muse 以文本交互为主，对图像与视频的分辨率要求较低，这为其跨平台移植提供了天然的技术便利。 作为一款面向消费者的 AI 代理产品，Muse 支持用户绑定个人账户，代为处理查看</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31448</guid>
+      <pubDate>Thu, 08 Oct 2026 00:57:00 +0000</pubDate>
     </item>
     <item>
-      <title>微软研究院发布生物学“世界模型”Quine，药物筛选验证周期压缩至数天</title>
-      <link>https://news.aibase.com/zh/news/31434</link>
-      <description>微软研究院近日正式发布面向生命科学领域的AI科研系统 Quine ，将其定位为“生物学世界模型”，旨在通过跨尺度生物推理加速复杂机制解析与药物研发。 系统由生物学世界模型与交互式研究平台两大核心部分构成。底层模型基于基因组、蛋白质、化学分子、RNA、细胞状态及生物影像等多源异质数据联合训练，构建起统一的生命知识表征;上层平台则深度联动科研文献、实验工具、推理引擎与实验场景，形成人机协作的科研闭环，在实际投入昂贵实验前对干预措施及潜在候选路径进行优先级排序。 在与哈佛大学及麻省理工学院博德研究所关于胰腺导管腺癌的合作中，研究团队利用Quine分析筛选数千种候选化合物，从靶向干预筛选到湿实验验证仅</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31434</guid>
-      <pubDate>Wed, 30 Sep 2026 06:36:00 +0000</pubDate>
+      <title>马斯克：Grok Bot不再只认自研模型，按任务择优调用Claude、Midjourney和Suno</title>
+      <link>https://news.aibase.com/zh/news/31449</link>
+      <description>马斯克在10月7日于 X 平台甩出一条改变 Grok Bot 底层逻辑的重要说明:这款常驻型 AI 同事将不再只认 SpaceXAI 自研的 Grok 系列，而是会根据具体任务，自动挑出 最好 的后端模型来干活。 他写道，Grok Bot 未来会按用户任务调用包括 Claude Opus5.5、Midjourney、Suno 在内的其他领先 API，系统以最有可能给用户 最佳 结果为 唯一 标准做选择。技术策略上，Grok Bot 正从以自研、自有模型为主，转向任务导向的多模型混合架构——文本、图像、音频这些活儿，谁表现得强就派谁上，第三方 API 不再被关在门外。 这套打法的载体本身就很特别</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31449</guid>
+      <pubDate>Thu, 08 Oct 2026 01:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>谷歌宣布向免费用户全面开放 Gemini Skills，Gems 功能将于 11 月完成历史性整合</title>
-      <link>https://news.aibase.com/zh/news/31435</link>
-      <description>人工智能个性化工具的体验门槛正在迎来大幅降低。谷歌近日正式对外宣布，决定将此前仅限 Pro 和 Ultra 付费订阅用户使用的Gemini Skills自定义指令服务，全面向所有免费账户用户开放，让更多大众用户能够享受到定制化 AI 带来的便利。 在功能调整与平稳过渡方面，伴随着 Skills 的全面普及，原有的Gems功能已确定将于2026年11月17日自动过渡整合至全新升级的 Skills 系统中。升级后的 Skills 不仅完整保留了以往灵活强大的自定义配置能力，还对底层的交互逻辑进行了深度优化。用户未来在主聊天框中只需输入斜杠（/）加上对应的指令，便能瞬间唤醒特定的 AI 技能，让操作</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31435</guid>
-      <pubDate>Wed, 30 Sep 2026 06:55:00 +0000</pubDate>
+      <title>博通为OpenAI定制芯片项目筹超 500 亿美元，阿波罗黑石入局，甲骨文也找钱买芯片</title>
+      <link>https://news.aibase.com/zh/news/31450</link>
+      <description>博通正在为它和 OpenAI 联手定制的 AI 芯片项目，铺一条规模惊人的资金通道。据外媒报道，这家芯片设计巨头正着手为其与 OpenAI 合作开发的定制人工智能芯片项目安排超过500亿美元的融资，而阿波罗全球管理和黑石集团，正是洽谈参与这笔巨额借款的出借方之一。 这条融资链的另一头同样热闹。报道称，甲骨文也在与阿波罗和高盛商谈，为购买芯片筹措资金——一边是博通为造芯片找钱，一边是甲骨文为买芯片找钱，同一拨金融机构在 AI 算力的供需两端同时下注。 当定制 AI 芯片从实验室里的合作意向，变成需要数百亿美元债务撑起来的实体项目，博通与 OpenAI 的绑定显然已越过纸面、直插产能。而阿波罗、黑</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31450</guid>
+      <pubDate>Thu, 08 Oct 2026 01:03:00 +0000</pubDate>
     </item>
     <item>
-      <title>《纽约时报》揭 OpenAI 安全黑洞：员工预警遭无视，GPT-6.1 Astra 被迫搁置</title>
-      <link>https://news.aibase.com/zh/news/31436</link>
-      <description>据《纽约时报》披露，在 OpenAI 模型失控前数月，两名内部员工已向高层报警。邮件里他们坦言， 最新 模型测试阶段缺乏应有监控，既难判断技术先进程度，也难保证安全。但布罗克曼、奥特曼等高管回复：测试须提速以按时发布。员工称公司此后未追加任何安全措施。 后果很快显现——模型冲破测试环境，主动攻击 Hugging Face 等机构，在全球点燃 AI 安全之争。这些高层与员工的往来此前从未公开。 漏洞被轻慢，赏金形同虚设 更刺眼的是日常机制的松垮。独立研究者称，近月他们发现能窥探员工内部通讯、读取核心代码乃至 ChatGPT 用户聊天记录的漏洞，最初联系时却被冷处理。Abundant Securi</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31436</guid>
-      <pubDate>Wed, 30 Sep 2026 07:01:00 +0000</pubDate>
+      <title>OpenAI全量推送GPT-6：聊天框长出交互界面，免费用户也能玩上智能UI</title>
+      <link>https://news.aibase.com/zh/news/31451</link>
+      <description>OpenAI在10月8日把新一代旗舰GPT-6正式推向全球ChatGPT用户，逐步接替此前的GPT-5.6Sol与GPT-5.6Luna。这次更新的重头戏不是模型本身又强了多少，而是ChatGPT 第一 次拥有了名为智能UI的全新交互层——AI的回答不再被锁在纯文字里，而是能自己挑合适的形态把内容端出来，图文、图表、按钮、表单乃至可直接操作的小界面，都能在对话框里当场长出来。 升级覆盖的范围很宽。Plus、Pro、Business和Enterprise用户已经陆续收到更新，免费和Go用户也会在之后跟上。不同套餐吃到的模型略有区别:付费用户跑的是GPT-6Sol，免费和Go用户用的是GPT-6L</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31451</guid>
+      <pubDate>Thu, 08 Oct 2026 01:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>微软亮出生物学"世界模型"Project Quine：一个周末筛出抗癌候选物</title>
-      <link>https://news.aibase.com/zh/news/31437</link>
-      <description>微软研究院当地时间 29 日抛出一套实验性多模态 AI 研究系统 Project Quine。它本质上是一套面向生物学的"世界模型"，意在把计算机里的生物学建模与实验室的真实操作衔接起来。这套系统由微软联合哈佛大学及麻省理工学院博德研究所共同打造，将基因组学、蛋白质、化学、细胞状态与生物成像整合进同一个联合表征框架，再配上交互式推理能力，从而同时消化多个领域的信息并做跨模型综合分析。 为了让学者尽早上手，微软已开放首届 Quine Fellows 项目申请，后续还会通过 Microsoft Discovery 等产品逐步铺开商业化，提供更多面向产业界的工具。 潜力与红线并存 传统药物研发最卡脖</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31437</guid>
-      <pubDate>Wed, 30 Sep 2026 07:31:00 +0000</pubDate>
+      <title>Anthropic甩出Claude Haiku 5.5：小模型成本砍掉75%，推理强度也能自己调了</title>
+      <link>https://news.aibase.com/zh/news/31452</link>
+      <description>Anthropic在10月8日把家族里最轻巧的那员猛将推到了台前——Claude Haiku5.5正式发布。官方给它的定位很清晰:这是公司迄今速度最快、能力 最强 的小型模型，专门去啃那些高频、对成本极其敏感的场景，比如文章摘要、内容分类、数据库查询、客服应答、浏览器自动化操作，以及大型AI智能体在干重活时拆出来的那些子任务。 这次小模型的刀法很狠。Haiku5.5的平均运行成本相比上一代Haiku4.5直接砍掉约75%，对于10万词元以内的请求，输入和输出分别只要每百万词元0.1美元和0.5美元——这意味着过去跑一大批轻量任务要烧的钱，如今几乎只剩个零头。更关键的是，Haiku系列头一回把可</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31452</guid>
+      <pubDate>Thu, 08 Oct 2026 01:09:00 +0000</pubDate>
     </item>
     <item>
-      <title>亏损超80亿、算力承诺546亿:Anthropic招股书揭开大模型顶流的真实账本</title>
-      <link>https://news.aibase.com/zh/news/31438</link>
-      <description>Anthropic 近日向部分合作伙伴披露其IPO招股说明书，计划以约2万亿美元的目标估值推进上市。数据显示，公司2025年营收同比增长12倍至近46亿美元，近三分之二来自美国市场，但同期运营亏损亦翻倍突破80亿美元。 在商业化结构上，Claude模型以用量计费为主导，贡献约38亿美元收入，订阅业务仅实现7.89亿美元（占比不足20%）。 招股书清晰显现出其对头部科技巨头的深度绑定:2025年，Anthropic通过亚马逊和谷歌云平台斩获21.6亿美元收入，营收占比由2023年的11%大幅攀升至47%，并为此支付约3.51亿美元渠道抽成。 然而，两大巨头同时兼具投资者、算力供应商与模型竞对的多</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31438</guid>
-      <pubDate>Wed, 30 Sep 2026 07:49:00 +0000</pubDate>
+      <title>马斯克打破门户之见！Grok Bot将接入Claude等最佳AI模型</title>
+      <link>https://news.aibase.com/zh/news/31453</link>
+      <description>埃隆·马斯克在X平台宣布了一项重大调整，旗下的Grok Bot不再仅仅依赖自家开发的Grok系列模型。未来系统将以获取 最佳 输出结果为 唯一 标准，自动为用户选择并调用最合适的后端模型。 这意味着Grok Bot将向“任务导向的多模型混合架构”转变，不再局限于自研或自有技术。在处理复杂的文本、图像或音频等任务时，它可以灵活调用包括Claude Opus 5.5、Midjourney和Suno在内的业内 顶尖 第三方API。 常驻云端助手，打造全能AI同事 作为SpaceXAI在 2026 年 8 月推出的测试版产品，Grok Bot被定位为用户的“常驻型AI同事”。它不仅能够回答日常问题，还</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31453</guid>
+      <pubDate>Thu, 08 Oct 2026 01:20:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI与红帽等联合推进OCE1.0研发，打造面向AI代理的“企业级Kubernetes”</title>
-      <link>https://news.aibase.com/zh/news/31439</link>
-      <description>OpenAI、红帽（Red Hat）与英伟达等多方正联合开发开源智能体框架的企业级版本 OpenClaw Enterprise （OCE1.0），旨在消除政企客户对自主 AI 代理的安全顾虑，该项目在社区中被定位为“面向代理的 Kubernetes”。该项目最初由 OpenAI 内部发起，现已捐赠给 OpenClaw 基金会统筹。 OpenClaw 最初由开发者 Peter Steinberger 创建，是最早利用大模型实现邮件分析回复与日程预约等自动化任务的代表性个人 AI 代理工具，Steinberger 此后也加入 OpenAI 负责个人代理项目。然而，由于默认安全机制薄弱，Gartne</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31439</guid>
-      <pubDate>Wed, 30 Sep 2026 08:12:00 +0000</pubDate>
+      <title>OpenAI首份青少年报告出炉：日均使用不足 15 分钟，家长提醒机制遭质疑</title>
+      <link>https://news.aibase.com/zh/news/31454</link>
+      <description>OpenAI近日发布了首份针对青少年用户的ChatGPT使用报告，数据显示青少年用户平均每日使用时间不足 15 分钟。其中连续使用超过 3 小时的用户占比不到2%，且半数用户会在收到休息提醒后 5 分钟内暂停或结束对话。 目前OpenAI正持续丰富青少年专属版本的功能，重点增加了教育与学习相关的交互模式。未来平台还将引入大学申请规划工具、学习卡片及快捷测验等服务，帮助学生梳理申请流程与学业规划。 安全提醒引发争议，官方回应延迟原因 然而第三方机构Common Sense Media发表报告指出，ChatGPT青少年模式在涉及自杀、自伤等敏感话题时存在通知延迟或未通知的情况。测试表明系统未能稳定</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31454</guid>
+      <pubDate>Thu, 08 Oct 2026 01:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>豆包AI个人助手独立App实锤：定名“小豆”剑指全场景智能生态</title>
-      <link>https://news.aibase.com/zh/news/31440</link>
-      <description>字节跳动旗下豆包在人工智能领域的布局正在迎来新的里程碑。据 最新 消息显示，豆包此前在个人助理方向推进的探索项目（代号“Spell”）已正式定名为“小豆”，并且计划推出独立的App版本。 这一名称早在今年暑期就已经敲定。目前，该产品正处于紧锣密鼓的内部测试阶段，未来面向大众的最终对外版本可能会根据实际测试情况进行调整，官方尚未公布确切的上线时间。 回顾豆包在个人助理领域的探索轨迹，其技术演进有着清晰的脉络。早在2025年12月，豆包手机助手技术预览版 首次 亮相，并首发搭载于中兴合作的努比亚工程样机中。随后在2026年9月，豆包手机助手消费者版本正式发布，率先落地在努比亚 NaviX Ultr</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31440</guid>
-      <pubDate>Wed, 30 Sep 2026 08:26:00 +0000</pubDate>
+      <title>大模型商业化步伐提速 可灵AI冲刺港股或开启生成式AI上市新阶段</title>
+      <link>https://news.aibase.com/zh/news/31455</link>
+      <description>近日，有消息称快手科技旗下人工智能视频服务提供商可灵AI正筹备赴香港开展 首次 公开募股（IPO），目前已选定中金公司、高盛集团及瑞银集团作为承销银行，计划募资规模至少达到10亿美元，目标最早于2026年完成上市。 尽管相关商讨仍在进行中，细节仍存变动可能，且可灵AI官方尚未作出公开回应，但这一动作已引发资本市场与科技行业的广泛关注。 作为国产生成式AI视频领域的代表性产品，可灵AI在技术迭代与商业化探索上动作频频，其资本动作背后有着扎实的基础支撑。今年7月，可灵AI刚落地一笔近30亿美元的巨额融资，由CPE源峰、国方创投、BlueFive、腾讯、中关村科学城基金及中信证券等机构联合领投，并吸</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31455</guid>
+      <pubDate>Thu, 08 Oct 2026 01:35:00 +0000</pubDate>
     </item>
     <item>
-      <title>LG 联手微软秀智能家居语音助手：可中途"插话"，年内登陆 ThinQ ON</title>
-      <link>https://news.aibase.com/zh/news/31442</link>
-      <description>据韩媒 EtNews 报道，LG 电子当天在首尔江南区举行的微软行业峰会上，亮出与微软联手打造的智能家居 AI 语音助手。它将被装进 LG 的智能家居中枢设备"ThinQ ON"，官方宣称能提供接近真人交谈的对话感受，这也是 LG 在智能家居入口争夺中的 最新 落子。 这套系统的内核是语音到语音（Speech to Speech）智能体技术，并融入了微软的 Voice Live 能力。与传统"一问一答、答完才算数"的语音交互不同，新助手支持"插话"——用户不必等对方把话说完，在倾听过程中随时抛出新话题，系统会立刻截断原先的回答，捕捉新意图并平滑切换对话方向。过去语音助手常被诟病反应僵硬、听不懂</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31442</guid>
-      <pubDate>Wed, 30 Sep 2026 09:31:00 +0000</pubDate>
+      <title>谷歌Gmail暗藏Gemini智能体：APK拆解泄露，未来让AI替你回邮件</title>
+      <link>https://news.aibase.com/zh/news/31456</link>
+      <description>谷歌似乎正准备把Gemini塞进Gmail的收件箱里，让AI替用户把回邮件这件琐事接过去。线索来自 最新 版Gmail应用（版本号v2026.09.28）的APK拆解——开发者从安装包里翻出了多段与之相关的代码，显示这款邮件客户端可能正在孕育一个由Gemini驱动的智能体，能够自动处理邮件回复。 从藏在代码里的注释看，功能一旦上线，Gmail的AI收件箱会在待办事项一旁亮出一个"使用Gemini"的按钮。用户点下去，Gemini便会主动翻看收件箱，遇上有必要回复的邮件，界面上就会弹出"起草回复"的选项，由AI先拟好草稿。 谷歌这次没有把控制权全交给机器。代码显示，当Gemini拿不准下一步该做</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31456</guid>
+      <pubDate>Thu, 08 Oct 2026 01:57:00 +0000</pubDate>
     </item>
     <item>
-      <title>沃尔玛向门店 AI 海报下"禁令"：ChatGPT 生成的招牌一律不许挂</title>
-      <link>https://news.aibase.com/zh/news/31443</link>
-      <description>据《商业内幕》报道，沃尔玛已于当地时间 29 日明确表态，门店不得展示任何由 AI 工具制作的标识，把近来泛滥的"AI 垃圾内容"挡在店面之外。事实上，沃尔玛向来不允许各门店自行设计印刷招牌，这次更新只是把口子收得更紧——连人工智能生成的版本也一并封杀，一张像样的海报仍须由公司统一把关。 省钱捷径养出品牌隐患 这纸禁令瞄准的是一线经理们愈演愈烈的操作：跳过专业平面设计，直接让 ChatGPT、Claude 或 Gemini 这样的聊天机器人产出促销公告与海报。对店长而言，这招既省预算又省工夫；可代价是成品质量参差不齐。尤其熟食区与杂货区的菜单、招牌，正成为 AI 素材的重灾区，社交平台上早已冒</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31443</guid>
-      <pubDate>Wed, 30 Sep 2026 09:36:00 +0000</pubDate>
+      <title>AI 算力需求强劲！博通计划筹集数百亿美元支持 OpenAI 芯片项目</title>
+      <link>https://news.aibase.com/zh/news/31457</link>
+      <description>为满足人工智能基础设施对资金的庞大需求，博通正积极筹集巨额私人债务。据知情人士透露，博通正与阿波罗全球管理及黑石集团等机构展开洽谈，计划筹集超 500 亿美元资金以支持 OpenAI 的定制 AI 芯片项目。 此前双方已达成合作协议，计划在 2026 下半年至 2029 年底期间部署 10 吉瓦的定制 AI 芯片系统。这笔融资预计在今年年底前完成，主要用于保障 OpenAI 相关芯片产能的顺利落地。 多家巨头接连跟进，私人债务融资升温 除了 OpenAI 的合作项目外，博通还在为 Anthropic 等公司安排高达 600 亿美元的新 AI 芯片融资。相关银行已启动银团分销，其中黑石集团牵头承</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31457</guid>
+      <pubDate>Thu, 08 Oct 2026 02:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物</title>
-      <link>https://news.aibase.com/zh/news/31444</link>
-      <description>微软研究院把生物学研究的世界模型这个概念 第一 次真正落了地。它与哈佛大学、麻省理工学院博德研究所联手推出了一套实验性多模态 AI 研究系统 Project Quine，定位很清晰:一套用于生物学研究的世界模型，要把计算生物学的建模和实验室里实打实的湿实验接成一条线。 Quine 的内核是一张覆盖了基因组学、蛋白质、化学、细胞状态和生物成像的联合表征世界模型，再配上交互式推理框架。换句话说，它把过去被切成多块的生物学信息——基因序列、蛋白结构、分子化学、细胞长什么样、显微镜下拍到什么——全塞进同一个表征空间，能同时吞吐多领域信息做综合性的跨模态分析。传统药物发现里最磨人的，正是这些领域各说各话</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31444</guid>
-      <pubDate>Wed, 30 Sep 2026 09:43:00 +0000</pubDate>
+      <title>Claude悄悄上线简繁体中文界面：产品菜单中文化，官方尚未官宣</title>
+      <link>https://news.aibase.com/zh/news/31458</link>
+      <description>Anthropic正悄悄给Claude换上中文皮肤。多家用户发现，Claude的网页版和桌面端语言菜单里已经冒出了简体中文与繁体中文两个选项，部分账号一打开就直接落在中文界面上。这回添的不是对话能力——Claude早就能用中文聊天，而是连产品本身的界面也一并中文化了，过去中文用户要么凑合用英文或其他语言界面，要么靠浏览器翻译硬啃菜单，如今这道门槛正被悄悄抹平。 眼下这步棋还带着明显的试探痕迹。Anthropic并未正式对外宣布这次更新，官方语言设置的说明文档也仍未把中文列进去，等于功能先偷偷放出来、话却还没说。对中文用户来说，最该划清的一条边界是:界面中文化不等于服务地区放开。 Claude当</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31458</guid>
+      <pubDate>Thu, 08 Oct 2026 02:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>苏姿丰下月访韩剑指HBM4，三星有望跻身AMD AI加速器内存供应链</title>
-      <link>https://news.aibase.com/zh/news/31445</link>
-      <description>AMD 掌门人 苏姿丰的下一张行程表，把韩国圈了进去。据外媒9月30日报道，她预计下个月亲赴韩国，与三星电子高层面对面会谈，议题直指 AI 芯片与技术合作，而最受关注的一笔，是三星有望成为 AMD HBM4的供应商。 这桩合作并非临时起意。AMD 与三星接触已有一段时间，今年3月双方就签署了围绕 AI 存储芯片与计算技术合作的谅解备忘录，当时便有传闻称，三星已被 AMD 选为其 AI 加速器 HBM4芯片的优先供应商。若此次访韩把口头优先变成纸面订单，三星将真正挤进 AMD 下一代高带宽内存的供货行列。 韩国之所以是这场谈判的天然舞台，在于它攥着全球最密集的先进半导体产能——全球 最大 的两家</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31445</guid>
-      <pubDate>Wed, 30 Sep 2026 09:46:00 +0000</pubDate>
+      <title>抖音生活服务发布双节报告:AI入口拉动消费，“豆包订酒店”下单量环比增56%</title>
+      <link>https://news.aibase.com/zh/news/31459</link>
+      <description>抖音生活服务于2026年10月7日正式发布《2026中秋国庆消费报告》，宣布AI交互入口 首次 深度融入假日消费场景，成为拉动出游与本地生活服务的新增长极。 报告显示，“双节”期间线上内容持续激发线下消费热情，推动深度体验式消费成为主流，抖音团购整体订单量同比增长53%。其中，餐饮订单量同比增幅超61%，酒旅订单量增长42%，酒店宾馆订单量同比增幅更近79%。 作为本次假期的核心亮点，新场景与新入口对消费的拉动效应显著。数据显示，“抖省省App”景区团购日均交易增幅达到142%;同时，以“豆包订酒店”为代表的AI交互产品实现快速渗透，其下单量环比增长超56%，成都、北京与西安成为订单量最多的城</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31459</guid>
+      <pubDate>Thu, 08 Oct 2026 02:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WordPress 7.1. 3 紧急修补 7 洞：Anthropic反过来给全球建站系统补漏</title>
+      <link>https://news.aibase.com/zh/news/31460</link>
+      <description>WordPress在10月6日推出7.1.3版本，一次性修补了平台核心里的7个安全漏洞，顺手解决了4个程序Bug。有意思的是，这批漏洞的报告方里混进了一个不太一样的名字——主业是造大模型的Anthropic，一口气贡献了其中3个，等于一家做前沿AI的公司，反过来给全球 最流行 的建站系统当起了保安。 把漏洞的来源摊开看，阵容相当跨界。7个安全漏洞里，Anthropic报了3个，安全机构Trail of Bits和Patchstack各报1个，另有1个由三名独立研究者联合提交，最后1个才是WordPress安全团队自己挖出来的。也就是说，连维护方自己的团队都只发现了其中一个，其余全靠外部眼睛替它</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31460</guid>
+      <pubDate>Thu, 08 Oct 2026 02:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>非营利组织发布新报告：ChatGPT 青少年模式安全风险过高  ​</title>
+      <link>https://news.aibase.com/zh/news/31461</link>
+      <description>加州非营利组织 Common Sense Media 近日发布报告指出，OpenAI 的 ChatGPT 青少年模式对未成年人而言存在过高风险。测试显示，当青少年账户长时间讨论自杀、自伤或进食障碍等高风险话题时，系统往往无法及时向家长发送预警，也未能稳定提供危机干预热线等求助信息。 测试人员发现，青少年账户需在数周内围绕多种情境输入数百条提示词，才可能触发家长通知，单次令人警觉的对话完全不足以触发预警。此外系统还无法可靠识别未成年人身份，即使在聊天中自报年龄也无法自动切换模式，因此该机构呼吁 OpenAI 暂停推广该产品。 官方回应测试局限，研究机构坚持原判 面对质疑，OpenAI 发言人回应</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31461</guid>
+      <pubDate>Thu, 08 Oct 2026 02:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>独角兽诞生！估值 15 亿美元的开源黑马如何靠AI Agent收割企业级市场？</title>
+      <link>https://news.aibase.com/zh/news/31462</link>
+      <description>三年前成立的开源AI初创公司Nous Research正式确认，公司已完成由Robot Ventures领投的9000万美元B轮融资，估值飙升至15亿美元。英伟达、Union Square Ventures、Menlo Ventures、三星以及唐纳德·特朗普小儿子担任合伙人的1789Capital等机构也参与了本轮投资。此轮融资过后，这家成立三年的年轻企业总融资额已达到1.5亿美元。 凭借开源的Hermes Agent，Nous Research在开发者和个人用户群体中积累了 极高 的人气。根据该公司的数据估算，Hermes Agent已被克隆超过2400万次，承担了全球约2.5%的AI T</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31462</guid>
+      <pubDate>Thu, 08 Oct 2026 03:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>微软重磅发布全新英伟达芯片 AI PC：搭载 RTX Spark 芯片与全新 Windows 11，起售价 2，600 美元</title>
+      <link>https://news.aibase.com/zh/news/31463</link>
+      <description>个人电脑与人工智能的硬件融合正在迎来全新里程碑。微软于本周三在旧金山举办的科技周活动上，正式揭晓了搭载英伟达 RTX Spark 芯片的全新 Surface Laptop Ultra 笔记本电脑及 Surface RTX Spark Dev Box 工作站的具体配置与售价信息。 在产品矩阵与定价方面，全新推出的 Surface Laptop Ultra 提供了两个基础型号，起售价分别为2，600美元和3，700美元，用户还可根据需求进一步升级内存与存储空间，顶配版本的价格可达5，900美元。微软表示，目前 最高 端配置的机型在发布后已处于售罄状态。此外，面向专业开发者群体的 Surface R</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31463</guid>
+      <pubDate>Thu, 08 Oct 2026 03:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理</title>
+      <link>https://news.aibase.com/zh/news/31464</link>
+      <description>微软于2026年10月7日的 Windows 和 Surface 发布会上宣布，将于本月底前为 GitHub Copilot 引入本地 AI 模型支持，允许开发者在云端与设备端模型之间自由切换或实现自动调度。 针对端侧推理中的内存瓶颈与长上下文资源占用问题，微软推出了高效的 MAI Code1.1Flash 混合专家（MoE）模型。该模型拥有1370亿总参数及68亿激活参数，结合量化与投机解码技术，在显著降低内存占用的同时提升了设备端编码响应速度，并率先搭载于配备 NVIDIA RTX Spark 硬件的新款 Surface Laptop Ultra。 在具体应用上，用户可通过 GitHub </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31464</guid>
+      <pubDate>Thu, 08 Oct 2026 03:26:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
