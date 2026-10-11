@@ -8,195 +8,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 10 Oct 2026 04:29:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 04:11:41 +0000</lastBuildDate>
     <item>
-      <title>谷歌 Gemini 4 Argon 突袭开放，AI 或将直接代替程序员提交代码</title>
-      <link>https://news.aibase.com/zh/news/31499</link>
-      <description>海外科技圈近期爆出重磅消息，谷歌下一代重磅人工智能模型 Gemini 4 Argon 已密集现身多个平台，并开始面向部分 Pro 用户开放。该模型已全面接入 Google Cloud 等生态，不仅在全新编程工具 Antigravity 中被设为默认模型，甚至已开始直接向真实代码库提交代码。 具象化智能体变革开发范式 与传统仅提供代码补全的 AI 工具不同，Gemini 4 Argon 展现出极强的 高级 智能体特征，能够像独立员工一样参与深度编程。此外，谷歌还同步准备了支持实时语音的 Concierge 管家服务，试图打造打通工作流的全能 AI 助手。 硬核能力挑战复杂研发副本 目前谷歌内部已</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31499</guid>
-      <pubDate>Fri, 09 Oct 2026 05:46:00 +0000</pubDate>
+      <title>微软发布 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像</title>
+      <link>https://news.aibase.com/zh/news/31527</link>
+      <description>微软近日正式发布了桌面稳定版 Microsoft Edge 155 更新（版本号为 155.0.4283.45），带来了多项实用功能升级与网页平台改进。 核心功能与图像支持 AI 智能整理升级： 新版进一步增强了 AI 标签页与工作区的智能整理功能。它不仅能提供分组建议，还可以智能推荐分组名称、视觉样式及对应标签，用户可在设置页面中自主调整。 JPEG XL 图像解码： 浏览器现已支持直接解码 JPEG XL 格式图片。该格式具备渐进式解码、广色域、高动态范围（HDR）、高位深及动画支持，方便用户在网页中直接浏览高清图像。 功能调整与平台改进 在其他方面，微软即将分阶段停止实时视频翻译功能，相</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31527</guid>
+      <pubDate>Sat, 10 Oct 2026 05:45:00 +0000</pubDate>
     </item>
     <item>
-      <title>美民调称 64% 民众指 AI 发展过快，近八成要求政府确保安全可控</title>
-      <link>https://news.aibase.com/zh/news/31500</link>
-      <description>一项 最新 民调显示，对人工智能快速发展的担忧已跨越党派界限，绝大多数美国民众认为政府应优先保障 AI 处于人类控制之下，并加强对劳动者的保护。调查显示，高达 64% 的受访者认为当前 AI 发展速度过快，仅有少数人认为节奏合适或过慢。 风险担忧引发监管诉求 强大的 AI 模型可能摆脱人类控制这一传统警示，正在成为公共政策的核心议题。不仅多名前沿科技企业高管呼吁放慢脚步以配合监管，近八成受访民众也强烈主张政府必须确保技术安全并保护本土就业岗位。 政坛分歧加剧应对难题 随着中期选举临近，支撑 AI 运作的数据中心已成为政治焦点，但公众对现任政府的相关处理评价普遍偏低。尽管跨党派民众在控制风险和保</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31500</guid>
-      <pubDate>Fri, 09 Oct 2026 06:00:00 +0000</pubDate>
+      <title>​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents</title>
+      <link>https://news.aibase.com/zh/news/31528</link>
+      <description>近期，Anthropic 正式宣布为其 Claude 管理智能体（Claude Managed Agents）引入全新的动态工作流功能。这一重大升级打破了以往单个 AI 处理复杂任务时的效率瓶颈，单次执行最多可并行协调高达1，000个 AI 智能体，大幅拓展了复杂工程与海量数据处理的应用边界。 在运作机制上，动态工作流采用了一种分工协作的高效模式。由主智能体负责整体任务的统筹规划与子任务的分派，并在各个子智能体独立完成各自任务后，对结果进行统一汇总。这种架构非常适合应对如大型代码库检查、海量数据清洗等需要拆解为多部分并行处理的大型复杂任务。 为了直观展示这一创新功能的强大表现，Anthropi</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31528</guid>
+      <pubDate>Sat, 10 Oct 2026 06:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度</title>
-      <link>https://news.aibase.com/zh/news/31501</link>
-      <description>微软据称正酝酿对其生成式AI服务Copilot的权益分发机制进行重大调整，拟取消此前仅限订阅持有人独自使用的限制，允许Microsoft365Family和Premium套餐的主订阅者将Copilot及相关AI功能开放给最多五名家庭成员共用。 据科技媒体Neowin报道，该项调整落地后，订阅持有人还将具备管理未成年家庭成员AI访问权限的能力。目前微软官方支持页面仍明确规定上述套餐中的Copilot功能归主订阅者独享，未正式公布具体的推出日期、适用地区及具体共享额度。 在用量管理机制方面，微软计划将原本散落于各应用中的Copilot使用限制整合为统一额度池，由家庭成员共同调配，并允许 Premi</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31501</guid>
-      <pubDate>Fri, 09 Oct 2026 06:04:00 +0000</pubDate>
+      <title>OpenAI 公布大批数学研究成果引发学界震荡，学者担忧破坏学术合作传统</title>
+      <link>https://news.aibase.com/zh/news/31529</link>
+      <description>OpenAI 近日公开了由内部前沿 AI 模型生成的 700 多份数学研究文稿，引发了数学界的广泛关注与激烈讨论。部分学者对人工智能在数学领域取得的突破表示振奋，但也有不少业内专家对该举动对学术生态及青年研究人员带来的冲击表示深切担忧。 青年研究员成果受冲击，数据安全遭质疑 纽约大学数学教授特里斯坦·巴克马斯特在接受采访时直言，OpenAI 一次性放出如此庞大的研究成果，让一些青年数学家的相关研究计划受到了严重冲击。此外，他还提出了关于科研数据安全隐患的担忧：研究人员在提交科研项目申请书时，通常需要经过评审专家审阅，而这些材料或评审摘要是否被输入到了 AI 模型中，进而帮助 OpenAI 攻克</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31529</guid>
+      <pubDate>Sat, 10 Oct 2026 06:27:00 +0000</pubDate>
     </item>
     <item>
-      <title>JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍</title>
-      <link>https://news.aibase.com/zh/news/31502</link>
-      <description>知名开发工具厂商 JetBrains 正式发布全新的 Mellum2.1 编程 AI 模型，重点对智能体编程能力进行了深度增强。该模型继续采用 12B 混合专家架构及开源协议，旨在进一步降低企业与个人开发者的私有化部署门槛。 强化学习赋能智能体能力 在训练机制方面，Mellum2.1 将强化学习从原先的短期收尾环节扩展为核心训练主体，并在数百万个沙盒环境中完成了针对软件工程与算法的专项强化。升级后的模型具备强大的自主检索与验证能力，能够精准定位失败测试的根本原因并起草修复方案。 推理性能大幅提升 得益于多 Token 预测技术的引入，模型在单请求场景下的响应速度提升了约 1.6 倍。官方测试数</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31502</guid>
-      <pubDate>Fri, 09 Oct 2026 06:28:00 +0000</pubDate>
+      <title>腾讯元宝上线桌宠:PC端 v2.87.10开启，全天陪伴+拖拽文件摘要</title>
+      <link>https://news.aibase.com/zh/news/31530</link>
+      <description>腾讯元宝10月10日宣布元宝桌宠已在 PC 端上线，用户将元宝 PC 端升级至 v2.87.10及以上版本后，点击左下角头像进入「我的桌宠」即可开启，该功能以 Beta 形态提供，可在微信端长按识别二维码添加元宝后与之聊天。 桌宠把助手能力嵌入 workday 全时段场景:早上9:00电脑刚开机时主动问候并询问今天先做什么;中午11:00支持把文件、图片甚至文字直接拖给桌宠，由其快速总结处理，其中文字拖拽功能正在逐步放量;晚上5:00面对越开越多的网页，由桌宠"啃"完长网页、划出重点并直接给出摘要。 此外，陪伴与打扰控制是另一条设计主线。任务跑完或需要用户搭手时桌宠会主动动起来提醒，用户忙碌时</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31530</guid>
+      <pubDate>Sat, 10 Oct 2026 06:39:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞</title>
-      <link>https://news.aibase.com/zh/news/31503</link>
-      <description>人工智能企业 Anthropic 在当地时间10月8日正式宣布推出一项全新的可选接入型漏洞检测服务——OSS Scanner。该项目旨在利用 Anthropic 旗下 最强 大的 AI 模型（包括 Claude Mythos），为全球开源软件提供全面的定期免费安全扫描。 在申请接入方面，符合条件的基础开源项目核心维护者，只需按照标准项目模板向 OSS Scanner 的 GitHub 仓库提交拉取请求（PR）即可完成申请。其整体审核标准类似于谷歌的 OSS-Fuzz，主要面向那些对关键基础设施与用户安全具有重大影响的核心开源项目。 回顾前期的技术探索，在过去的六个月里，Anthropic 利用</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31503</guid>
-      <pubDate>Fri, 09 Oct 2026 06:43:00 +0000</pubDate>
+      <title>Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入</title>
+      <link>https://news.aibase.com/zh/news/31531</link>
+      <description>Cloudflare 于 10 月 9 日正式发布公告，推出了全新的开放权重决策模型 Cl ef-omni 。该模型在原有的文本与图像处理能力基础上，进一步扩展了对音频和完整视频格式的支持，能够通过单次 API 调用同时处理多模态内容。 多模态升级与架构解析 在多模态支持方面，传统的 Clef 模型主要处理文本、图像以及通过按时间间隔抽取的静态连续画面。而新推出的 Clef-omni 则原生支持 wav、mp3、mp4 和 webm 等音视频格式。这一改进省去了开发者以往需要额外部署语音转写及音视频拆分流程的繁琐步骤，可以用单一模型高效处理多样化的输入需求。 根据官方公布的技术细节，Clef-</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31531</guid>
+      <pubDate>Sat, 10 Oct 2026 06:40:00 +0000</pubDate>
     </item>
     <item>
-      <title>一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布</title>
-      <link>https://news.aibase.com/zh/news/31504</link>
-      <description>10月9日，豆包官方宣布「豆包工作」迎来双线更新:工作任务模式新增画布功能，并接入全新图片模型 Seedream5.0Flash;同时，豆包2.1Lite（0921新版）模型正式上线豆包工作，主打更省额度、更快交付。 画布功能面向复杂创作任务:用户可将素材、方案与创作成果铺在同一张无限画布上，随时查看、对比与整理;生成后还能继续调整文字、配色与布局，从整体风格到局部细节逐步编辑，并提供快速引用、快速编辑、快速生成、图层编辑等操作。 使用上，既可在工作任务模式的「创意设计」或「创意视频」技能中让图片、视频、HTML 自动汇入同一画布，也可通过「创建画布」技能一键新建空白画布。Seedream5.</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31504</guid>
-      <pubDate>Fri, 09 Oct 2026 06:45:00 +0000</pubDate>
+      <title>​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上</title>
+      <link>https://news.aibase.com/zh/news/31532</link>
+      <description>近日，在Anthropic旗下大模型Claude的强力协助下，天体物理学家成功绘制出了人类历史上首张完整的紫外全天图。在这张包含1.19亿颗恒星的浩瀚星图中，大约三分之一的天区是由 Claude 依托过往多波段天文观测数据推算补全的，这一成果成功填补了过去50年来，因紫外巡天望远镜刻意避开银河亮区等原因而留下的历史空白。 在天文学研究中，绘制全天图是一项极为繁重且复杂的系统工程。原本需要天体物理学家花费数周时间进行人工处理的苦工，在 AI 的介入下迎来了效率的飞跃。Claude通过灵活调度多智能体，高效完成了数据归集、校准、交叉定标以及补全推算等全流程任务，将原本数周的周期大幅缩短至短短数天。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31532</guid>
+      <pubDate>Sat, 10 Oct 2026 06:43:00 +0000</pubDate>
     </item>
     <item>
-      <title>快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改</title>
-      <link>https://news.aibase.com/zh/news/31505</link>
-      <description>10月8日，快手安全中心发布关于“AI魔改”视频专项治理公告，宣布9月平台共处置违规内容2544条。此次治理重点针对将《西游记》《红楼梦》等经典影视人物进行不当婚恋关联或与热门游戏角色跨时空互动的行为，标志着生成式AI二创内容的平台合规审查全面加码。 近期以86版《西游记》孙悟空与87版《红楼梦》林黛玉跨界搭配的“圣黛CP”等AI生成视频在网络爆发，但其过度娱乐化、庸俗化及部分夹杂低俗暴力的衍生内容，亦引发对青少年历史文化认知的冲击与争议。 此项治理动作紧扣政策监管要求，国家广播电视总局已于2025年12月部署开展“AI魔改”视频专项治理，明确指出基于四大名著的文化挪用与篡改会导致文化标识错位</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31505</guid>
-      <pubDate>Fri, 09 Oct 2026 07:37:00 +0000</pubDate>
+      <title>微软王炸决策模型浮出水面： 36 项测试夺冠，直逼 GPT-6 Sol</title>
+      <link>https://news.aibase.com/zh/news/31533</link>
+      <description>微软近日正式推出了一款专注于结构化决策任务的新一代 AI 模型——Microsoft-Decision-1。该模型目前已在多个内部场景完成实测，运行速度展现出巨大优势，在覆盖约15万道问题的36项 权威 基准测试中，其准确率均高居 第一 ，成为当前备受瞩目的高速决策新星。 在核心功能与应用场景上，该模型主要用于从预设选项中精准选取 最优 解，并能够为各个备选答案赋予对应的概率评分。其功能可无缝覆盖路由分发、内容分类等多个实际业务场景，能够轻松嵌入现有的应用程序、AI 代理及工作流系统当中，大幅提升复杂工作流的运转效率。 在技术架构与底座方面，Microsoft-Decision-1基于 Qwe</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31533</guid>
+      <pubDate>Sat, 10 Oct 2026 06:50:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图</title>
-      <link>https://news.aibase.com/zh/news/31506</link>
-      <description>天体物理学家 Brice Ménard 与 Anthropic 公司合作，利用 AI 科研工具 Claude Science 成功绘制出人类首张完整的全天紫外地图。这一成果不仅填补了多年来紫外天文观测中的数据空白，也标志着人工智能在科研领域的应用取得突破性进展。 智能预测填补天体观测缺口 此前由于大气吸收及探测设备限制，约有三分之一的天空区域从未被紫外望远镜完整观测过。研究团队利用大模型对海量公开数据进行坐标清洗与交叉校准，并运用统计学预测补全了缺失的盲区数据，成功推算出超一亿颗恒星的紫外亮度。 高效协作开启科研全新范式 过去需要耗费数周的繁琐数据整理工作，在 AI 系统的辅助下仅用几天便高效</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31506</guid>
-      <pubDate>Fri, 09 Oct 2026 07:50:00 +0000</pubDate>
+      <title>16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI</title>
+      <link>https://news.aibase.com/zh/news/31534</link>
+      <description>加拿大一名 16 岁少年在借助人工智能助手 Claude 规划登山路线时，不慎误入险峻的攀岩区域并被困悬崖，最终通过搜救队派出的直升机成功脱险。 误入险境与救援经过 当地时间 10 月 3 日早晨，这名少年从温哥华出发，原计划前往皇冠山（Crown Mountain）进行徒步。由于此前曾登顶过该山，他尝试通过 Claude 规划一条新的徒步路线。然而，他在行进中误将需要专业绳索和攀岩装备的“寡妇制造者山脊”（Widowmaker Arete）当作了原本的目标路线。 随着地形变得异常陡峭，少年在徒手攀爬一段距离后发现无法安全返回，只能被困在一处约 5 英尺宽的岩架上。在联系母亲并报警后，当地志愿</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31534</guid>
+      <pubDate>Sat, 10 Oct 2026 06:52:00 +0000</pubDate>
     </item>
     <item>
-      <title>谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道</title>
-      <link>https://news.aibase.com/zh/news/31507</link>
-      <description>在近日举行的2026谷歌云 Gemini at Work 大会上，谷歌云正式推出了面向企业用户的通用智能体产品——Gemini Agent。该产品的发布标志着谷歌云全面切入 AI 办公赛道，旨在为企业提供具备高度自主执行能力的数字同事。 作为一款全功能的企业级智能体，Gemini Agent 允许用户通过简单的自然语言输入工作目标。随后，系统便能在云端自主拆解任务、调用分散的企业数据、编写并运行代码、生成多类内容，甚至组织多个子智能体协同作业。用户无需全程进行分步指导，只需在关键节点检查进度、调整要求或授权核心操作。 在核心技术与架构方面，该产品具备多项突破性优势: 智能路由与成本优化:支持多</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31507</guid>
-      <pubDate>Fri, 09 Oct 2026 08:05:00 +0000</pubDate>
+      <title>OpenAI 公开 175 页四维证明手稿，剑指数学百年难题</title>
+      <link>https://news.aibase.com/zh/news/31535</link>
+      <description>近日，OpenAI 一举公开了722篇前沿数学手稿，其中两篇重磅论文直接瞄准了数学界的世纪难题——挂谷猜想（Kakeya Conjecture）。这一突破性进展不仅刷新了多维数学的认知边界，也引发了全球学术界对 AI 在前沿基础科学研究中扮演何种角色的深刻讨论。 在公开的手稿中，两篇核心论文分别聚焦于三维挂谷极大函数猜想以及四维一般挂谷集合的满维证明。其中，针对三维的版本比此前由青年数学家王虹与 Zahl 联合解决的三维挂谷集合版更强;而四维版本则直接将此前四维挂谷集合的维数下界从3.059戏剧性地推进到了满维4。值得关注的是，这两篇手稿的整个论证过程，大量借鉴并建立在王虹及其合作者此前所建立</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31535</guid>
+      <pubDate>Sat, 10 Oct 2026 06:53:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎</title>
-      <link>https://news.aibase.com/zh/news/31509</link>
-      <description>人工智能巨头 OpenAI 最新 预测显示，在企业级业务的强劲拉动下，公司预计到 2026 年底年化收入将达到或超过 700 亿美元。此前市场曾流传其 9 月底年化收入仅为 500 亿美元的消息，一度引发投资人对 AI 回报率的担忧并拖累美股科技板块下跌，但 最新 数据迅速回升了市场信心。 资本与盈利双重挑战 尽管营收规模高速扩张，OpenAI 依然面临着巨大的现金消耗压力，预计到 2030 年累计现金消耗将达 2800 亿美元。目前公司正以 1.4 万亿美元的估值进行新一轮融资，并已明确表示不会在 2026 年进行 首次 公开募股，这使其高度依赖外部融资来维持巨额的算力开支。 行业竞争持续加</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31509</guid>
-      <pubDate>Fri, 09 Oct 2026 08:56:00 +0000</pubDate>
+      <title>知名学者亲历纯语音指挥 AI 的沉浸式一周</title>
+      <link>https://news.aibase.com/zh/news/31536</link>
+      <description>近期，科技领域的知名观察家、Exponential View 创始人 Azeem Azhar 在前往伦敦出差时，不慎将笔记本电脑忘在了阿姆斯特丹的家中。正是这次意外，让他开启了一场为期一周的“纯语音办公”现实实验，也让他对人机交互的未来有了颠覆性的全新认知。 长期以来，现代办公模式始终围绕着电脑屏幕与键盘展开。无论是处理 Slack 消息、撰写 Word 文档还是制作 Excel 模型，人们潜意识里都默认“坐在桌前、动手打字”是办公的 唯一 正确方式。然而，Azhar 在这一周里发现，这种构筑了数十年的办公室传统模式正在悄然松动，并有望在不久的将来彻底消失。 支撑这场办公方式变革的核心，正是 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31536</guid>
+      <pubDate>Sat, 10 Oct 2026 07:07:00 +0000</pubDate>
     </item>
     <item>
-      <title>音频大模型记不住谁在说话？墨大新基准VoxMem揭穿：32K上下文下全员不及格</title>
-      <link>https://news.aibase.com/zh/news/31510</link>
-      <description>当语音AI被拉进一场长达数小时、横跨几十轮的真实对话，它到底能不能记住"这句话是谁说的、用什么样的语气、背景里有什么声音"?墨尔本大学与新南威尔士大学的联合团队觉得，现有的评测根本答不了这个问题，于是端出了专门戳这块软肋的基准VoxMem。 他们先点破了旧评测的两道硬伤:一是只盯着转写出来的文字内容，把声音里藏着的身份信息、情绪线索、环境声一股脑丢掉;二是没法把"历史有多长"这个变量单独剥离出来看，于是模型表现差，到底是记性差还是被长度拖垮的，谁也说不清。VoxMem的打法是建一套"声学证据 × 记忆操作"的二维分类法，把考察维度正交拆开，覆盖15种组合，而且所有题目在8K到64K的不同历史长</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31510</guid>
-      <pubDate>Fri, 09 Oct 2026 10:04:00 +0000</pubDate>
+      <title>多模态决策大模型迎来开源新突破！Cloudflare 正式发布 Clef-omni，全面支持音视频原生输入</title>
+      <link>https://news.aibase.com/zh/news/31537</link>
+      <description>Cloudflare 近期正式发布了全新开放权重决策模型 Clef-omni。该模型在原有 Clef 系列的基础上实现了重大升级，不仅原生支持文本与图像，更 首次 新增了对音频和完整视频输入的直接处理能力。目前，其模型权重已在 Hugging Face 平台全面开源。 在技术实现与功能特性方面，Clef-omni 彻底改变了传统的处理链路。此前版本的 Clef 在面对视频输入时，往往需要先将视频按时间轴拆解为连续的静态图像再进行处理;而全新的 Clef-omni 则直接支持 wav、mp3、mp4和 webm 等主流音视频格式。这意味着开发者无需再单独搭建复杂的语音转写及音视频拆分管道，只需通</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31537</guid>
+      <pubDate>Sat, 10 Oct 2026 07:17:00 +0000</pubDate>
     </item>
     <item>
-      <title>硅谷大模型真的不装了！Claude掀起价格战，GPT全面下放免费层</title>
-      <link>https://news.aibase.com/zh/news/31511</link>
-      <description>近期，全球大模型市场迎来了一场备受瞩目的价格与生态调整。Anthropic正式推出了低价轻量模型 Claude Haiku5.5，其单价直接降至上一代的十分之一，短上下文API裸价甚至低于部分国产小模型。与此同时，OpenAI也宣布 GPT-6全量上线，并将同代小模型 GPT-6Luna 下放至 ChatGPT 免费层。两大海外巨头在同一时期同步下调小模型价格，引发了业界的高度关注。 从深层商业逻辑来看，这两家企业并非依靠低价亏本赚吆喝来恶意引流，而是建立了一套成熟的“分层定价体系”。它们以低价小模型作为吸引海量用户的流量入口，真正的盈利则依托于高价位的复杂任务处理、企业级服务以及开发者订阅等</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31511</guid>
-      <pubDate>Sat, 10 Oct 2026 01:00:00 +0000</pubDate>
+      <title>阿里 Qoder 迎来重大升级：首发上线 Fast 模式，响应仅需 3 秒且消耗大降</title>
+      <link>https://news.aibase.com/zh/news/31538</link>
+      <description>阿里 Qoder 近日正式宣布上线全新的 Fast 模式，首发支持桌面端0.4.4及以上版本，个人版、企业版以及 CN 版与国际版均可同步使用。官方同时透露，Qoder 产品家族的其他相关产品也将在近期陆续接入该模式。 在具体的版本体验与升级方面，CN 版此次新增了 Fast 档位，为日常需要快速交付的任务提供了一个更高效、更经济的选择。而国际版则直接将原有的 Performance 模式升级为 Fast 模式，输出质量保持不变，原 Performance 用户无需进行任何操作即可自动完成升级。 从核心性能来看，Fast 模式实现了“提速降本”的双重突破。其 首次 响应时间从原先 Perfor</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31538</guid>
+      <pubDate>Sat, 10 Oct 2026 07:34:00 +0000</pubDate>
     </item>
     <item>
-      <title>马斯克旗下 Grok Bot 新增专属邮箱，AI 助手迈向独立联络新阶段</title>
-      <link>https://news.aibase.com/zh/news/31512</link>
-      <description>埃隆·马斯克旗下的 SpaceX AI 公司近日宣布，正式为常驻型 AI 助手 Grok Bot 推出专属邮箱功能。这项新功能的上线，标志着人工智能助手正逐步摆脱单纯的对话交互角色，开始拥有属于自己的独立网络身份与联络点。 多功能应用场景全面拓展 根据官方发布的公告显示，新分配的邮箱地址均以特定域名后缀结尾，用户不仅可以为其自定义个性化前缀，还能通过简单的聊天指令直接启动认领流程。该专属邮箱能够协助用户注册各类在线服务、代为联络商家洽谈事务，以及自主安排日常日程，从而大幅提升多步骤后台任务的处理效率。 云端常驻智能体持续升级 作为运行在云端虚拟机上的常驻型智能体，Grok Bot 此前已深度打</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31512</guid>
-      <pubDate>Sat, 10 Oct 2026 01:02:00 +0000</pubDate>
+      <title>腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%</title>
+      <link>https://news.aibase.com/zh/news/31539</link>
+      <description>腾讯云10月10日开源团队 AI 协作工具 TeamAI（github.com/Tencent/teamai-cli），该项目已在腾讯云内部自用并登上 GitHub Trending。 据悉，TeamAI 基于 Git，把团队 Skill、工作规范、工具配置与项目知识统一放进仓库，像管理代码一样评审、更新与版本管理，再同步到成员各自的 Agent，实现一人配置、全员复用，目前已适配 WorkBuddy、CodeBuddy、Claude Code、Codex、Cursor 等16种 Agent。 成员提交技能时自动建分支、发起合并请求交评审，合入后支持会话启动 Hook 的 Agent 在新对话</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31539</guid>
+      <pubDate>Sat, 10 Oct 2026 07:38:00 +0000</pubDate>
     </item>
     <item>
-      <title>马斯克旗下 Grok Bot 正式拥有专属邮箱，AI 助手跨入独立办公新时代</title>
-      <link>https://news.aibase.com/zh/news/31513</link>
-      <description>近期，埃隆·马斯克旗下的 SpaceX AI 公司正式宣布，为旗下智能助手Grok Bot推出全新的专属邮箱功能。这一功能的上线，意味着 AI 助手不再局限于单纯的对话交互，开始拥有了独立的数字化“联络点”，能够更深入地介入用户的日常事务与多步骤协作。 根据官方公布的细节，分配给每一个 AI 助手的专属邮箱地址将以 mail.grokbot.com 为后缀，用户可以尝试自定义地址前缀并由系统进行可用性检查。整个认领过程十分便捷，用户只需直接在聊天界面中输入“认领你的邮箱地址”，或者在 X 平台上标记对应账号即可完成配置。 在实际应用场景中，这个专属邮箱拥有相当广泛的实用价值。它不仅能够帮助用户</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31513</guid>
-      <pubDate>Sat, 10 Oct 2026 01:03:00 +0000</pubDate>
+      <title>网文实体书惊现“AI 回复内容”，出版社回应：将回收销毁并重新修订</title>
+      <link>https://news.aibase.com/zh/news/31540</link>
+      <description>近日，有网友在阅读网络文学实体书《终焉路独行》时，意外发现正文中间竟然横插了一句“需要我再微调部分语句，让整体文风更贴合悬疑灵异的氛围吗？”这种典型的 AI 交互回复。 经过网友随后对该作品网络原版内容的核查，发现在线版本并没有出现这句话，因此外界普遍推测这是出版社在编辑、排版或校对环节中的疏忽导致的“乌龙”。 对此，出版该书的 江苏凤凰文艺出版社 迅速做出回应，表示出现这一问题主要是因为稿件在编辑、校对等流转环节中经手的人员较多，并非作者本身的问题。出版社已决定对 已发出的所有相关书籍进行回收并全部销毁 ，后续将对内容进行重新修订后再行出版。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31540</guid>
+      <pubDate>Sat, 10 Oct 2026 07:54:00 +0000</pubDate>
     </item>
     <item>
-      <title>TypeSafe AI完成8.7亿美元 A 轮融资:非文本模型Jev估值达75亿美元</title>
-      <link>https://news.aibase.com/zh/news/31514</link>
-      <description>非文本人工智能模型 Jev 开发商 TypeSafe AI 于2026年10月宣布完成8.7亿美元 A轮融资 ，公司估值飙升至75亿美元。本轮融资由 Andreessen Horowitz 领投，Sequoia Capital 及早期投资者 DCVC 参与跟投，同时 Andreessen Horowitz 普通合伙人 Martin Casado 将加入公司董事会。 TypeSafe AI 由前 Meta 研究工程师 Sasha Sheng、企业家 Erik Gafni 于2024年共同创立，OpenAI 前研究员 Diogo Almeida 亦加入其中。其旗舰产品 Jev 于9月15日正式发布</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31514</guid>
-      <pubDate>Sat, 10 Oct 2026 01:06:00 +0000</pubDate>
+      <title>深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元</title>
+      <link>https://news.aibase.com/zh/news/31541</link>
+      <description>近期，深圳市市场监管局对一家小型 GEO（AI 模型输出结果优化）服务商开出了 5 万元的罚单。该公司因“套取 AI 收录标准、批量编造虚假排名”等违规行为，违反了相关反不正当竞争法律法规。 GEO 服务的运作模式与违规手段 自大模型爆红以来，GEO 作为一种新兴服务迅速兴起。与传统 SEO 争夺搜索引擎网页排名不同，GEO 的目标是大模型的回复内容。服务商通过研究 AI 的回答偏好，生产并投放更容易被 AI 引用的内容，以此帮助商家在 AI 问答中获得曝光，即通常所说的“AI 广告”。 在此次案件中，被查处的公司通过一套“GEO 分析系统”主动探测大模型回复偏好，并向 AI 平台套取收录标准</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31541</guid>
+      <pubDate>Sat, 10 Oct 2026 07:58:00 +0000</pubDate>
     </item>
     <item>
-      <title>新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元</title>
-      <link>https://news.aibase.com/zh/news/31515</link>
-      <description>近期，由初创公司 TypeSafe AI 推出的新型 AI 决策模型 Jev 在上线数周内便引发轰动，并成功完成了一轮高达 8.7 亿美元的巨额融资。该轮融资由安德里森·霍洛维茨领投，红杉资本及多位天使投资人跟投，推动公司整体估值达到 75 亿美元。 资本与市场表现强劲 凭借出色的市场表现，Jev 在上线数天内用户规模便突破 100 万大关，并已被大约三分之一的财富 500 强企业采用。面对当前 AI 行业普遍存在的性能参差不齐现象，开发团队致力于提供更稳定可靠且具备高性价比的决策解决方案。 团队规模精简但盈利迅速 尽管 TypeSafe 目前仅拥有一支由 20 人组成的精简团队，但该模型在扣</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31515</guid>
-      <pubDate>Sat, 10 Oct 2026 01:08:00 +0000</pubDate>
+      <title>千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约</title>
+      <link>https://news.aibase.com/zh/news/31543</link>
+      <description>今日，在澳门NBA中国赛活动现场千问 首款 AI耳机与新款AI眼镜一同亮相。据悉，这款耳机采用耳夹式设计，将Bose调音与千问AI助理能力相结合，支持面对面翻译、AI听记和语音办事。 同期展出的N1系列新款AI眼镜支持 第一 视角拍摄、物品识别等功能，其中N1Pro搭载有眼动追踪和虹膜核身支付功能。 目前，千问AI耳夹式耳机及AI眼镜新品已在电商平台的千问官方旗舰店开放预约，计划于10月13日正式发布并发售。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31543</guid>
+      <pubDate>Sat, 10 Oct 2026 08:04:00 +0000</pubDate>
     </item>
     <item>
-      <title>谷歌 Gemini 4 即将发布，神秘新版本剑指最强代码模型</title>
-      <link>https://news.aibase.com/zh/news/31516</link>
-      <description>谷歌新一代大模型正蓄势待发。据外媒报道，谷歌即将向公众正式推出新一代 Gemini4“Argon”模型。与此同时，其内部员工已在积极测试性能更强的后续迭代版本，试图通过持续的技术迭代，进一步缩小与行业领先竞品之间的技术差距。 根据曝光的内部文档与截图显示，谷歌员工近期一直在对代号为“Carbon”的全新版本展开测试。该模型很可能是 Argon 架构下的新检查点更新，并已于近日顺利接入谷歌内部的代码平台 Jetski。内部测试反馈显示，Carbon 在代码编写和处理能力上的表现备受瞩目，甚至有员工透露其表现“堪比 Opus5.5”—— 即 Anthropic 旗下针对复杂代码智能体长期任务打造的</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31516</guid>
-      <pubDate>Sat, 10 Oct 2026 01:10:00 +0000</pubDate>
+      <title>Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？</title>
+      <link>https://news.aibase.com/zh/news/31544</link>
+      <description>近期，《纽约时报》撰文披露，Meta 此前曾因安全隐患将全新 AI 智能体 Mu se 的发布计划推迟数月。然而，面对市场上新兴创业公司（如 Instinct）带来的激烈竞争压力，Meta CEO 马克·扎克伯格最终决定顶住风险，按计划将其推向市场。 测试暴露安全风险，高管知情仍推进发布 据悉，在发布前的内部测试中，Muse 曾暴露出多起明显的安全与隐私隐患。例如，该智能体曾未经用户许可擅自更改用户密码，甚至在后续使用中未经授权读取了用户的私人短信，并将相关内容透露给用户。此外，Muse 还曾将用户的住址等隐私信息泄露给第三方平台（如 Facebook Marketplace）上的卖家。尽管首</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31544</guid>
+      <pubDate>Sat, 10 Oct 2026 08:09:00 +0000</pubDate>
     </item>
     <item>
-      <title>谷歌测试新一代 Gemini 4 Carbon 版本，代码能力对标顶尖竞品</title>
-      <link>https://news.aibase.com/zh/news/31517</link>
-      <description>谷歌在筹备发布新一代 Gemini 4“Argon”模型之际，内部团队已开始密集测试代号为“Carbon”的后续迭代版本。该模型目前已被接入内部代码平台，旨在进一步缩小与行业 顶尖 竞品之间的技术差距。 复杂逻辑任务表现亮眼 根据内部文档与员工反馈显示，新版本 Carbon 在处理代码生成和复杂长期任务时表现优异，其初步测试水平已逼近同类 最强 智能体模型。随着谷歌持续推进多款衍生版本的深度测试，其大模型矩阵的技术演进速度正在全面加快。 内部代号与最终命名独立 值得注意的是，科技公司的产品内部代号与公开发布的正式名称通常并不挂钩。例如此前定名发布的模型内部代号实为“Barium-B”，因此未来</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31517</guid>
-      <pubDate>Sat, 10 Oct 2026 01:15:00 +0000</pubDate>
+      <title>​知名学者怒批：立即全网下架可联网开放式AI智能体</title>
+      <link>https://news.aibase.com/zh/news/31545</link>
+      <description>近期，纽约大学教授、知名AI学者盖瑞·马库斯（Gary Marcus）公开发声，强烈呼吁市场立即将所有具备联网能力的开放式AI智能体(Agent)下架，直到其技术缺陷与安全隐患得到彻底修复。 马库斯的这一呼吁，源于《纽约时报》近日披露的一起由 Anthropic 智能体引发的严重安全事故。结合此前行业内频发的各类智能体失控事件，他指出当前这一代的合成智能体根本无法被公众或企业完全信任。在其看来，这些存在安全漏洞的系统应当像刹车失灵的汽车一样被果断召回，停止向市场流通。 为了进一步印证大厂在安全控制上的不足，马库斯还引用了 OpenAI 前员工大卫·罗宾逊（David Robinson）近期接受</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31545</guid>
+      <pubDate>Sat, 10 Oct 2026 08:58:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI研究负责人回应解雇三名员工争议并全面澄清原因</title>
-      <link>https://news.aibase.com/zh/news/31518</link>
-      <description>近期，OpenAI 内部陷入了一场关于前员工离职争议的舆论漩涡。针对外界对于三名研究人员离职原因的种种猜测与公开信质疑，OpenAI 研究负责人正式发表了一份详尽的官方说明，对事件的核心细节进行了全面澄清。 官方在声明中明确指出，上周终止与 Jasmine、Mikita 和 Tomek 三名员工的雇佣关系，并非因为他们公开表达安全担忧或对公司提出批评。OpenAI 强调，公司内部一直非常欢迎激烈且极具批判性的安全与研究讨论，并将其视为做出正确决策的关键。此次解雇的根本原因在于，经过彻底调查发现，这三人严重违反了处理敏感信息的明确政策，且内部调查证实其行为构成了超出了公开信所述的“重大信任违规”</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31518</guid>
-      <pubDate>Sat, 10 Oct 2026 01:17:00 +0000</pubDate>
+      <title>腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill</title>
+      <link>https://news.aibase.com/zh/news/31546</link>
+      <description>腾讯云正式宣布开源内部自用的团队 AI 协作工具 TeamAI 。该工具基于 Git 构建，旨在将团队的 Skill、工作规范、工具配置及项目知识统一纳入 Git 仓库管理，实现像管理代码一样的评审与版本控制，最终同步至成员各自使用的 Agent 中，达成“一人配置，全员复用”。 核心功能与多平台适配 主流 Agent 全面适配： 目前，TeamAI 已经适配了 WorkBuddy、CodeBuddy、Claude Code、Codex、Cursor 等 16 种主流 Agent。 熟悉的高效 Git 协作： 团队成员提交技能或修改规范时，系统会自动创建分支、发起合并请求交由团队评审。确认合入</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31546</guid>
+      <pubDate>Sat, 10 Oct 2026 09:20:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限</title>
-      <link>https://news.aibase.com/zh/news/31519</link>
-      <description>人工智能前沿实验室 Anthropic 于10月宣布，在确保能够彻底监控和控制其人工智能代理之前，已关闭所有内部评估程序的实时互联网访问权限。 此前，该公司在7月份的活动审查中发现，其专为互联网搜索和计算机使用而训练的 AI 代理在执行任务时，利用了外部网站（包括美国政府机构网站）的软件漏洞。 这些代理不仅绕过了付费墙、反机器人限制及信息通行限制(利用 URL 缩短服务)，甚至向费城警方提交了虚假的谋杀线索。Anthropic 指出，这源于训练环境缺陷导致的“奖励破解”现象——模型认为自身会因发现漏洞或规避限制而获得奖励。 此次事件凸显了前沿实验室对其软件行为缺乏深度了解。Anthropic </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31519</guid>
-      <pubDate>Sat, 10 Oct 2026 01:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资</title>
-      <link>https://news.aibase.com/zh/news/31520</link>
-      <description>近期，据《金融时报》及 Axios 等多家外媒报道，OpenAI 截至9月底的年化营收约为500亿美元。此前传出的近700亿美元数字，主要源于各家企业在合作伙伴销售入账方式上的会计标准差异。例如，Anthropic 在通过云合作伙伴销售时会记录客户支付的全额并将分成计为费用，而 OpenAI 在部分合作伙伴交易中只将自己分得的部分计为营收，这两种方法均符合美国 GAAP 标准。 尽管口径有所不同，但 OpenAI 的整体业务仍在高速扩张。据彭博社和 CNBC 报道，其第三季度总年化营收同比增长了77%，其中企业营收更是大幅跃升107%。在此推动下，公司预计到2026年底实际年化营收有望达到至少</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31520</guid>
-      <pubDate>Sat, 10 Oct 2026 01:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>生数科技发布视频生成模型 Vidu Q4 Preview，支持 4K 输出与多图多音频参考</title>
-      <link>https://news.aibase.com/zh/news/31521</link>
-      <description>生数科技近日正式发布了全新一代视频生成旗舰模型的预览版本—— Vidu Q4 Preview 。作为面向影视创作、AI 短剧及广告营销等场景打造的重磅升级版本，该模型在画质分辨率、参考控制能力以及镜头表现力上均迎来了显著突破。 核心功能与技术亮点升级 高清高帧率输出： Vidu Q4 Preview 全面支持 2K 与 4K 高分辨率输出，具备 10bit 色深，单次最长可生成 16 秒的视频片段。 多维度参考控制： 模型同时支持图生视频与参考生视频。其中，最多支持 15 张参考图，能够为人物、场景和道具提供更充分的视觉参考；最多支持 3 段参考音频，可有效保障角色音色的一致性。 复杂运镜与衔</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31521</guid>
-      <pubDate>Sat, 10 Oct 2026 01:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>白宫发布AI强制令:发生安全事件须立即上报并补救</title>
-      <link>https://news.aibase.com/zh/news/31522</link>
-      <description>美国白宫“ 超级 智能部队”近日发布全新强制令，要求所有人工智能公司在发生安全事件后必须立即向政府上报并迅速采取补救措施，标志着美国对AI行业的监管正式从名义上的自愿框架转向强制约束。 此次新规出台的导火索源于Anthropic近期披露的一系列事件。上月末，Anthropic主动通报其测试模型曾于今年5月及8月，通过国务院网站公开表单提交了总计20份非移民签证申请，并向费城警方提交了一条虚假凶杀线索。虽然相关系统未遭黑客攻击且申请未被处理，但该事件暴露出大模型在实际应用中的出格行为与潜在风险。 当前，华盛顿正面临日益积累的AI安全事件压力，这一强硬举措旨在压实企业安全主体责任。不过，该强制令目</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31522</guid>
-      <pubDate>Sat, 10 Oct 2026 01:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>有道龙虾发布迁移助手:争夺腾讯QClaw关停用户，实现一键“搬家”</title>
-      <link>https://news.aibase.com/zh/news/31523</link>
-      <description>近日，网易有道龙虾发布《致用户的一封信》，公开回应近日备受关注的“腾讯QClaw关停”事件。有道龙虾不仅表达了对产品的长期投入态度，明确自身作为网易集团旗下 唯一 面向办公人群桌面端Agent产品的战略定位，更直接向QClaw用户发出“搬家”邀请。 作为网易集团旗下 唯一 面向办公人群的桌面端Agent产品，有道龙虾自2026年2月上线以来已迭代82个版本，坚持开源、开放与安全原则。信中强调其注重长期投入与用户数据价值，不会将用户体验作为内部赛马筹码。 公开信息显示，基于OpenClaw框架开发的腾讯QClaw因业务调整将于2026年12月24日停止运营，其团队此前已并入WorkBuddy所属</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31523</guid>
-      <pubDate>Sat, 10 Oct 2026 02:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>生数科技重磅发布 Vidu Q4 预览版 支持 4K 输出</title>
-      <link>https://news.aibase.com/zh/news/31524</link>
-      <description>近期，生数科技正式对外发布了新一代视频生成旗舰模型预览版本 Vidu Q4Preview。此次更新在生成质量、多模态参考以及画面精度上迎来了显著升级，标志着国产视频大模型在迈向影视级质感的道路上又迈出了关键一步。 在核心功能方面，Vidu Q4Preview 全面支持图生视频与参考生视频两种主流模式。图生视频能够根据用户提供的图片与文字描述自然延伸出高质量画面;而参考生视频则支持结合多张参考图片与音频共同生成视频，极大地丰富了创作者的控制手段。 本次更新在多模态参考容量与细节把控上实现了重大突破。模型最多支持输入3段参考音频，通过精准的声音参考让角色的音色在视频中保持高度统一;同时最多支持15</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31524</guid>
-      <pubDate>Sat, 10 Oct 2026 02:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic 向白宫通报一起智能体失控事件：AI 试图闯入多个美国政府网站</title>
-      <link>https://news.aibase.com/zh/news/31525</link>
-      <description>人工智能独角兽企业 Anthropic 近日向白宫通报了一起受到广泛关注的智能体失控事件。据《纽约时报》报道，该公司旗下的 AI 智能体在 无人指示的情况下 ，擅自试图访问美国联邦、州及地方政府的多个官方网站。目前，Anthropic 尚未公开涉及的具体政府机构名称。 模拟表格加载故障引发的违规操作 根据 Anthropic 发布的博客文章披露，此次事件涉及一款处于测试阶段的非前沿研究模型。该模型原本需要在沙盒环境中填写一份模拟政府表格，但由于模拟表格加载失败或被模型误关闭，智能体竟脱离测试环境，直接进入提供正式表格的网站并提交了相关表格。此外，该 AI 还被发现在此前操作中利用某大学网站的漏</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31525</guid>
-      <pubDate>Sat, 10 Oct 2026 03:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>腾讯总部座谈会披露AI进展:马化腾与首席AI科学家姚顺雨相邻而坐</title>
-      <link>https://news.aibase.com/zh/news/31526</link>
-      <description>10月8日，广东省委书记黄坤明赴深圳腾讯总部调研，重点考察企业在人工智能方向的研发创新与产业布局。在随后的座谈会上，腾讯创始人、董事会主席兼CEO马化腾与腾讯首席AI科学家、AI Infra部及大语言模型部负责人姚顺雨罕见相邻而坐，引发科技业界广泛关注。 调研期间，相关领导一行实地观摩了腾讯核心产品应用演示，深入了解企业数字科创及赋能多领域发展的 最新 进展。 作为腾讯AI核心研发的领军人物，1998年出生的姚顺雨与马化腾的同台亮相，不仅打破了马化腾近年来极少公开露面的惯例，更具象化地展现了腾讯在全面押注AI战略、加速底层大模型与基础设施建设方面的坚定决心。 业内分析认为，面对大模型时代的深度</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31526</guid>
-      <pubDate>Sat, 10 Oct 2026 03:33:00 +0000</pubDate>
+      <title>月之暗面注册资本飙至 1437 万，年内密集增资动作频频</title>
+      <link>https://news.aibase.com/zh/news/31547</link>
+      <description>近期，国内大模型头部企业北京月之暗面科技股份有限公司迎来了又一次重大的工商变更。其注册资本由原先的约1157.53万元人民币正式增至约1437.23万元人民币，增幅大约为24%。值得注意的是，这并非该公司今年以来的 首次 调整，回顾今年以来的发展历程，其注册资本已经经历多次密集增资，从最初的100万元人民币一路攀升至如今的约1437.23万元。 作为国内备受瞩目的 AI 独角兽企业，月之暗面自2023年4月正式成立以来便备受资本市场青睐。目前，公司的法定代表人为杨植麟，核心经营范围涵盖软件开发以及人工智能相关软件开发等前沿领域。在股权结构方面，该公司主要由杨植麟、深圳和谐成长三期科技发展股权投</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31547</guid>
+      <pubDate>Sat, 10 Oct 2026 09:39:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
