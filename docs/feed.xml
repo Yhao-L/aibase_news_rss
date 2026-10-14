@@ -8,210 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 13 Oct 2026 05:37:21 +0000</lastBuildDate>
-    <item>
-      <title>微软升级 Copilot Notebooks:支持任务委派、Office 文档编辑与交互式报告</title>
-      <link>https://news.aibase.com/zh/news/31563</link>
-      <description>微软正为 Copilot Notebooks 引入任务委派、Office 文档原位编辑和交互式报告等功能，推动其从 AI 信息整理工具向可执行任务的智能工作空间演进。根据微软2026年10月发布的更新信息，这些新功能正通过 Frontier 预览计划分阶段推出。 Copilot Notebooks 支持整合文档、电子邮件和会议记录，并基于相关资料回答问题、生成学习指南及音频摘要。此次更新后，用户可将任务委派给 Copilot，并设置每日简报、每周状态报告等周期性自动化流程。例如，项目经理可以利用项目文件和会议记录定期生成进度报告，减少手动整理工作。 文档处理方面，用户现在能够直接在笔记本中打开</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31563</guid>
-      <pubDate>Mon, 12 Oct 2026 06:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发</title>
-      <link>https://news.aibase.com/zh/news/31564</link>
-      <description>在第二十六届中国国际工业博览会开幕式上，国内具身智能头部企业宇树科技的创始人王兴兴发表了 最新 演讲。回顾创业历程，他坦承过去十几年里自己犯过的 最大 错误，就是对人工智能技术的发展“相信得还不够”。 针对行业普遍关注的具身智能何时迎来爆发，王兴兴给出了极其具体的判定标准。他认为，当机器人能够在80% 的陌生未知场景中，仅仅依靠人类的语音指令就能顺利完成80% 的任务时，整个产业的商业化拐点与爆点就将正式到来。 根据他的 最新 预判，随着大模型与机器人硬件技术的加速融合，这一产业临界点最快将在未来一两年内发生。届时，机器人将真正打破特定工业场景的局限，加速迈向更加广阔的泛化应用领域。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31564</guid>
-      <pubDate>Mon, 12 Oct 2026 07:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>阶跃 Step 5 Preview 登陆腾讯 WorkBuddy，限时免费两周</title>
-      <link>https://news.aibase.com/zh/news/31565</link>
-      <description>腾讯旗下全场景 AI 办公工作台 WorkBuddy 宣布接入阶跃 最新 旗舰模型 Step5Preview，即日起面向用户 独家 限时免费开放两周。依托模型的推理与智能体（Agent）能力，WorkBuddy 可支持深度研究、信息检索、数据分析、文档及 PPT 生成等办公任务，并能够持续执行多步骤复杂任务。 Step5Preview 是阶跃推出的新一代旗舰基座模型，针对 AI 编程、软件工程、专业知识工作及金融等场景进行了优化。模型采用稀疏混合专家（MoE）架构，总参数量达6000亿，每个 Token 激活约270亿参数，旨在兼顾旗舰级综合智能、执行效率与使用成本。 据全球大模型评测机构 A</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31565</guid>
-      <pubDate>Mon, 12 Oct 2026 08:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>唯品会上线自研 AI 助手“AI小唯” AI 导购进入能力深耕阶段</title>
-      <link>https://news.aibase.com/zh/news/31566</link>
-      <description>据新浪科技报道，唯品会近期上线自研 AI 助手“AI小唯”，由唯品会大模型团队开发，支持文字与语音交互，可提供商品搜索、活动查询、优惠咨询等服务，进一步将大模型能力引入电商导购场景。 与此同时，唯品会正加大大模型人才招聘力度。招聘平台信息显示，公司正在招募大模型后训练负责人、LLM 数据合版负责人、大模型 SFT 文本数据负责人等核心岗位，月薪区间为5万至8万元，对应年薪60万至96万元。 据悉，相关岗位将围绕“AI小唯”的能力建设展开，重点覆盖导购意图识别、商品理解、推荐生成和多轮对话等模块，通过定义各项能力的数据需求、构建配套数据集、持续诊断模型短板并进行迭代优化，提升助手的服务能力。 从</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31566</guid>
-      <pubDate>Mon, 12 Oct 2026 08:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游</title>
-      <link>https://news.aibase.com/zh/news/31567</link>
-      <description>新一期 Arena AI 大模型周榜正式揭晓，各大厂商在综合、代码、智能体以及多媒体等多个分榜上展开了新一轮的实力较量。在这期榜单中，Anthropic 推出的全新模型表现极为亮眼，而国产大模型则在各个细分领域保持了稳健的梯队表现。 在备受行业瞩目的智能体榜单中，Anthropic 旗下的 Claude Opus5.5（Max） 在新入榜便展现出压倒性优势，一举摘得桂冠。其任务确认成功率达到了17.29%，工具幻觉率被控制在0.37% 的超低水平。与此同时，国产大模型在智能体赛道中稳扎稳打，深度求索 Deepseek V4.1Flash (Max)、月之暗面 Kimi K3(Max)、腾讯 H</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31567</guid>
-      <pubDate>Mon, 12 Oct 2026 08:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI 没抢走程序员饭碗？美初级码农就业反降 20%，专家忧十年后断档</title>
-      <link>https://news.aibase.com/zh/news/31568</link>
-      <description>据 CNBC 报道，自 2025 年 2 月 Anthropic 的 Claude Code 问世以来，美国软件开发职位发布量不降反增。Indeed Hiring Lab 的数据显示，这段时间里软件岗招聘逆势上涨近 15%，而整体就业市场却在缩水 7%。麦肯锡北美区主席库切对此并不意外：当企业写代码的总量冲上新高，AI 时代对开发者的需求依旧坚挺。 不过增长高度集中于 资深 与 AI 相关岗位——2025 年 5 月至次年 5 月， 高级 职位吃掉了软件招聘增量的 71%，带"AI"字样的岗位占 37%。换言之，扩张的是塔尖，底座却在收缩。 初级被挤，人才管道拉响警报 结构分化直接压到了应届生</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31568</guid>
-      <pubDate>Mon, 12 Oct 2026 08:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>唯品会悄悄上线 AI 助手"小唯"：能聊天能比价，重金招人月薪最高 8 万</title>
-      <link>https://news.aibase.com/zh/news/31570</link>
-      <description>据新浪科技从知情人士处获悉，唯品会近期已悄悄上线自研 AI 助手"AI 小唯"，由其内部大模型团队打造，支持文字与语音对话，能帮用户找商品、查活动、问优惠。这家特卖平台对 AI 的野心，从招聘动作可见一斑：新浪科技翻查招聘平台发现，唯品会正以月薪 50K 至 80K、折合年薪 60 万到 96 万的价码，高薪物色大模型后训练、数据合版、SFT 文本数据等核心岗位，加紧堆高人才密度。 商品对比灰度试水，入口先撤后改 这批人马的重心，是拆解"小唯"所需的导购意图识别、商品理解、推荐生成与多轮对话等模块，并持续补数据、修短板。另一项"AI 商品对比"功能也在灰度打磨：早前搜运动鞋等品类，详情页会直接</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31570</guid>
-      <pubDate>Mon, 12 Oct 2026 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>编造月之暗面被带走谣言，两名男子被北京警方刑拘</title>
-      <link>https://news.aibase.com/zh/news/31571</link>
-      <description>为博流量编造"科技公司多人被带走"的谣言并在网上发布，两名男子现在为自己的一时冲动付出了代价。10月12日晚，北京警方通报了多起网络谣言处置情况，其中郭某、常某二人为了博取流量，凭空捏造了"某科技公司多人被带走"的说法并公之于众，相关信息广泛传播、扰乱了社会秩序，两人现已被依法采取刑事强制措施。 这起案件，正是此前月之暗面遭遇的那场造谣风波。早在9月12日，月之暗面就曾公开发辟谣，明确表示网传关于创始人及员工的信息纯属虚构、系恶意造谣，并就此向公安机关报了案。如今警方出手，把那对靠编故事换流量的账号主人拦在了法律面前——当一条没有任何来源的谣言能在短时间内搅动整个网络，被它点名的公司要自证清白</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31571</guid>
-      <pubDate>Tue, 13 Oct 2026 00:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号"西瓜"、烤肉直播里剧透</title>
-      <link>https://news.aibase.com/zh/news/31572</link>
-      <description>Meta在当地时间周一甩出了全新一代 尖端 旗舰AI模型，摆明了要在人工智能竞赛里追上Anthropic与OpenAI的脚步。官方端上桌的有两款:Muse Wonder与Muse Wonder Full，Meta给出的成绩单显示，在推理、写作和代码能力的测试里，它们的得分已经贴近Anthropic的 顶尖 模型。 这步棋背后是扎克伯格对AI部门的重整。在自家的AI技术研发接连受挫后，他于去年动手改组了人工智能部门，此后陆续推出多款新模型与新品，喂给Instagram、Facebook、WhatsApp合计35亿用户。Muse是Meta推出的AI智能体应用，能替用户操作各类软件和程序，上个月刚上</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31572</guid>
-      <pubDate>Tue, 13 Oct 2026 00:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI给ChatGPT装上交互界面，手搓AI应用赛道要被跨域了</title>
-      <link>https://news.aibase.com/zh/news/31573</link>
-      <description>OpenAI正在把GPT-6与智能UI一起揉进ChatGPT的日常聊天里。用户提一个问题，得到的不再只是一段文字，还能直接拿到可点击的图表、表单、交互式小工具这类内容，全程不必跳出对话框去打开别的软件。模型 第一 次长出了手脚，把答案直接变成能上手点的界面。 这步变动撬动的是一套沿用多年的产品逻辑。过去移动互联网产品都是围着固定的应用界面来组织功能的——你要算账就去记账App，要比价就去购物工具——而智能UI把这条链路打断:功能不再藏在各家的独立应用里，而是按需从对话中当场长出来。大模型由此从单纯的信息提供者，向任务交互的入口延伸，对那些功能单一的工具类、生活类独立应用形成直接冲击，用户获取能</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31573</guid>
-      <pubDate>Tue, 13 Oct 2026 00:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>估值4亿美元!DeepSeek出手布局人形机器人AI赛道</title>
-      <link>https://news.aibase.com/zh/news/31574</link>
-      <description>AI研究机构DeepSeek计划领投机器人AI初创公司Winverse AI的数千万美元种子轮融资，投后估值约为4亿美元。 据悉，Winverse AI由腾讯控股前首席科学家、视觉语言和具身基础模型团队负责人胡瀚于2026年创立，本轮融资亦获得美团旗下Long-Z Investments等机构的出资承诺。该交易资金源自DeepSeek筹集规模逾120亿美元的新一轮融资。 若交易顺利完成，将助力这家中国AI领军企业加速推进具身智能与现实世界应用场景的深度布局，为人形机器人等领域的商业化落地提供底层技术支撑。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31574</guid>
-      <pubDate>Tue, 13 Oct 2026 00:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>打破硬件边界:智能戒指厂商Ultrahuman如何以生物年龄模型重构健康预测</title>
-      <link>https://news.aibase.com/zh/news/31575</link>
-      <description>10月12日，智能戒指制造商 Ultrahuman 宣布与阿布扎比公共卫生中心（ADPHC）签署为期两年的谅解备忘录，正式在 阿拉伯联合酋长国 全境推进生物年龄模型的开发与临床验证。 该模型融合临床生物标志物与可穿戴设备信号，旨在精确评估个体衰老速率，并深度识别睡眠、活动及新陈代谢等关键影响因素。 作为其扩大健康算法规模的核心战略，该底层模型具备硬件解耦特性，未来将全面接入 TAMM 等政府数字健康平台向全境居民开放。此举表明健康科技企业正加速剥离单一硬件销售依赖，向基于算法与大数据的预防性健康管理纵深演进。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31575</guid>
-      <pubDate>Tue, 13 Oct 2026 01:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码"复刻"了 83%</title>
-      <link>https://news.aibase.com/zh/news/31576</link>
-      <description>开发者莫里斯·霍伊曼于 10 月 9 日公布项目报告：他的团队耗时三个月、消耗超过 5000 亿词元的算力，调动 AI 智能体把 2009 年《使命召唤：现代战争 2》反编译，并重建成 C++ 源码。这支队伍由霍伊曼牵头，RektInator、Future、st0rm 等社区成员共同参与。 最初，团队在 Claude Code 与 Codex 两套命令行里并行跑智能体，模型覆盖 Sonnet 5、Opus 5.5、Luna、Sol、Terra，任务靠 GitHub Issues 派发、进度在 Discord 里同步。首月只摆了 4 个智能体，三个专职拆解提交、一个负责审查，虽让游戏能启动、出菜</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31576</guid>
-      <pubDate>Tue, 13 Oct 2026 01:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>微软发布第三代自研AI芯片Maia300，计划2027年投产</title>
-      <link>https://news.aibase.com/zh/news/31577</link>
-      <description>微软宣布推出第三代自研AI芯片 Maia300，计划于2027年投入生产工作负载，目标是成为微软产品和服务的主要AI推理系统。新芯片重点提升云端AI推理的性能与能效，并针对长上下文推理、低延迟对话及多步骤智能体任务进行优化。 微软云计算集团执行副总裁 Scott Guthrie 表示，与领先的GPU系统相比，Maia300预计每兆瓦的Token交付量提升40%;在完整的96加速器配置下，其机架级Token吞吐量将达到上一代Maia200的7倍。微软计划自2027年起，将Azure Maia系列部署规模扩展至数千亿瓦级，逐步提高自研芯片在内部AI基础设施中的应用比例。 Maia300是今年1月公</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31577</guid>
-      <pubDate>Tue, 13 Oct 2026 01:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>英特尔陈立武预警：AI 硬件还要缺两三年，智能体正改写芯片配比</title>
-      <link>https://news.aibase.com/zh/news/31578</link>
-      <description>英特尔首席执行官陈立武在新加坡星展银行举办的会议上判断，受技术供应链持续受限拖累，未来两到三年人工智能硬件仍将保持供应紧张。这场 10 月 12 日的新加坡活动上，他系统梳理了 AI 与量子等核心趋势；而他抛出短缺论断时，内存芯片等核心元件正持续紧缺、价格连月攀升，台积电的封装产能也顶到 天花板 。作为紧盯芯片工艺与新材料的高管，陈立武对行业风向向来敏感。 智能体拉动 CPU，量子三年可期 更值得玩味的是需求结构的迁移。陈立武指出，智能体 AI 的普及正催生对 CPU 而非 GPU 的渴求，这也成了他重振英特尔的抓手：公司二季度数据中心与 AI 部门营收同比大涨 59%，而 AI 训练里"8 </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31578</guid>
-      <pubDate>Tue, 13 Oct 2026 01:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>微软押注自研Maia芯片： 2027 年铺到吉瓦级，纳德拉称"对自家硅最大一赌"</title>
-      <link>https://news.aibase.com/zh/news/31579</link>
-      <description>微软正准备把自研的Azure Maia AI芯片，从实验室里的配角推上主舞台。高管斯科特·古思里（Scott Guthrie）撰文透露，公司计划从2027年起，以多吉瓦级的规模部署Maia芯片，让它成为微软各产品线上最主要的推理系统。 现役的Maia200已经在美国、欧洲和澳大利亚跑起了Microsoft Copilot，GitHub Copilot和Foundry也会在年底前跟上。首席执行官萨提亚·纳德拉（Satya Nadella）把这套打法称作"我们对自己硅芯片的 最大 赌注"。这块芯片并不挑食——它能同时承载OpenAI、微软自家的MAI以及开源模型的推理，微软还放出数据称，在Team</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31579</guid>
-      <pubDate>Tue, 13 Oct 2026 01:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场</title>
-      <link>https://news.aibase.com/zh/news/31580</link>
-      <description>据The Information 独家 报道，OpenAI正在讨论一项重磅计划，拟通过股权合作方式授权Sora技术给一家新创AI视频公司，让此前已关停的Sora“起死回生”。 该初创公司由Sora前研究负责人Bill Peebles、梦工厂动画联合创始人Jeffrey Katzenberg及Dropbox前CFO Sujay Jaswa共同创立。根据正在谈判的方案，OpenAI将以获得新公司部分股权为条件，向其开放超越普通API的底层模型深度定制权限（双方仍在就模型权重等核心细节进行磋商）。这标志着Sora的商业化定位将从面向消费者的通用生成产品，彻底转向面向好莱坞及专业影视制作市场的B端生态</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31580</guid>
-      <pubDate>Tue, 13 Oct 2026 01:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SpaceXSI端出订阅全家桶The X Subscription，Grok加Cursor加X Premium一锅烩</title>
-      <link>https://news.aibase.com/zh/news/31581</link>
-      <description>马斯克旗下的SpaceXSI把过去各自为政的几张会员卡，摞成了一张统一的通行证。公司正式推出名为The X Subscription的订阅体系，把Grok对话、Grok Bot智能体、Cursor编程和X Premium社交四条业务线， 第一 次并进了同一套账本里。新的价格阶梯从免费档一路排到顶配:Free、Plus每月8美元、Premium每月30美元、Super每月100美元，最贵的Ultra每月200美元。 最让老用户悬着心的，是此前已经单独订阅Grok或Cursor的账到底还算不算数。官方给的答案是两句话:可以留着，也能切过来。旧的独立套餐会原样保留，暂时不设截止日期，价格和功能都不变</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31581</guid>
-      <pubDate>Tue, 13 Oct 2026 01:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>亚马逊欲以约 70 亿美元收购 Decart，此前 两大巨头收购谈判均已告吹</title>
-      <link>https://news.aibase.com/zh/news/31582</link>
-      <description>亚马逊正把一笔约70亿美元的收购摆上谈判桌，目标是一家成立仅三年的初创公司Decart。《华尔街日报》披露，这家电商巨头正在与Decart商谈收购，潜在估值约70亿美元，约合人民币469亿元;而在它之前，英伟达和Anthropic都曾坐到同一张桌前，谈判却接连破裂，最终让亚马逊捡了这枚被放弃的棋子。 Decart由Dean、Orian Leitersdorf和Moshe Shalev于2023年联合创办，手里攥着一项在当下格外金贵、也格外让巨头眼红的本事:跨芯片适配软件。它要解决的，是AI世界里一个越来越棘手的麻烦——开发者训练好的模型往往被死死绑在某家厂商的芯片上，想换到另一块硅上跑，就得重</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31582</guid>
-      <pubDate>Tue, 13 Oct 2026 01:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>谷歌Gemini正在开发“Shop this”新功能 支持跨应用一键识别与购物对比</title>
-      <link>https://news.aibase.com/zh/news/31583</link>
-      <description>10月12日披露，谷歌正在为其AI助手Gemini开发一项名为“Shop this”（购买此商品）的全新屏幕上下文购物建议功能。 代码拆解显示，该功能内置于Google Android应用17.66.11.sa.arm64版本的Gemini浮动叠加层（Floaty UI）中。当用户在任意第三方应用程序中浏览商品时，无须手动切换应用或搜索，即可直接调用Gemini。该功能可自动识别当前屏幕上的产品并查找购买渠道，同时提供产品核心用途摘要、规格及尺寸参数的关键对比，并主动推荐不同风格的同类替代商品。 这一战略动作延续了谷歌利用大模型升级零售体验的整体规划，将Gemini此前分散的商品辨识与购物对比</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31583</guid>
-      <pubDate>Tue, 13 Oct 2026 02:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透"大西瓜"</title>
-      <link>https://news.aibase.com/zh/news/31584</link>
-      <description>Meta 于当地时间周一推出全新一代旗舰 AI 模型 Muse Wonder 与 Muse Wonder Full，明言要追上 Anthropic 和 OpenAI。按 Meta 给出的测试成绩，这两款模型在推理、写作与代码三项能力上的得分，已贴近 Anthropic 的 顶尖 水准。 这步棋背后是扎克伯格去年的部门重组。研发受挫后，他重排了 AI 版图，陆续把新模型与新品铺向 Instagram、Facebook、WhatsApp 合计 35 亿用户。此前的 AI 智能体应用 Muse 能替用户操作各类软件，上月上线数周便冲上应用商店榜首。面对业界对智能体失控、侵入系统的担忧，扎克伯格刻意讲</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31584</guid>
-      <pubDate>Tue, 13 Oct 2026 02:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sora将回归？OpenAI拟把模型交给卡岑伯格初创公司，改走专业影视工具路线</title>
-      <link>https://news.aibase.com/zh/news/31585</link>
-      <description>停更数月的视频生成模型Sora，似乎正找到一条重返市场的曲线路径。据《The Information》10月12日报道，OpenAI正与一家专注电影制作AI视频技术的隐身初创公司谈判，计划把此前已停运的Sora移交给对方，让它以专业影视工具的形态重新登场。 这家接盘公司的班底相当惹眼。它由好莱坞制片人杰弗里·卡岑伯格、Sora前研究负责人比尔·皮布尔斯，以及Dropbox前首席财务官苏杰·贾斯瓦在数月前联合创立，公司名字至今未对外公开。按照披露的合作细节，这家初创公司打算接管并改造Sora平台，并基于该技术开发、销售面向影视制作方的软件或服务。双方眼下尚未敲定具体条款，连这家公司能否拿到Sor</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31585</guid>
-      <pubDate>Tue, 13 Oct 2026 02:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>阿里千问推出 Personal Agent「千问Go」办事类 Agent 落地真实 App</title>
-      <link>https://news.aibase.com/zh/news/31586</link>
-      <description>阿里千问即将推出 Personal Agent「千问Go」，基于 Agent 架构升级办事范围。硬AI 独家 获悉，千问Go首批场景含机票延误理赔、电商价保、汽车保养询价预约、运动场地预订，以及结合补贴、旧机回收和送装费用计算家电到手价等事务。 案例中，用户仅提出"帮我在App上和客服沟通赔偿"，未提供航班信息。千问Go在云端登录预订平台，在四家航司订单中逐一排查，结合客服反馈锁定东航MU2445为延误航班。外呼受阻后回到订单页寻找人工客服入口，改以对话沟通;用户拒绝代金券后，Agent写出"只接受现金赔付"，多轮交涉争取到70元现金赔付并汇入支付宝账户。在淘宝价保场景中，Agent自行找到价</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31586</guid>
-      <pubDate>Tue, 13 Oct 2026 02:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 要把 Sora"复活"：交给卡岑伯格团队，转做专业影视工具</title>
-      <link>https://news.aibase.com/zh/news/31587</link>
-      <description>据《The Information》12 日援引博文报道，OpenAI 正与一家专注电影制作 AI 视频技术的隐身初创公司谈判，打算把此前已停运的视频生成模型 Sora 移交出去，让它以专业影视工具的面貌重新登场。从消费级玩具转向工业级工具，OpenAI 显然想让这项技术在不烧钱的前提下继续发光。 砍掉重资产，才腾出手做企业生意 这并非 OpenAI 第一 次对 Sora 动刀。今年早些时候，为削减高算力消耗的非核心项目，公司叫停了 Sora 模型及其类 TikTok 视频应用的开发，把资源调向企业 AI 与编程工具；消费级应用和网页平台随之关闭，连与迪士尼规模约 10 亿美元（约合人民币 6</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31587</guid>
-      <pubDate>Tue, 13 Oct 2026 02:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>英伟达思科联手甩出USFP光模块规范：单通道400G、带宽翻四倍，AI集群的血管先一步扩容</title>
-      <link>https://news.aibase.com/zh/news/31588</link>
-      <description>AI算力拼到尽头，往往卡在芯片之间那根传输数据的"血管"上。英伟达与思科当地时间10月12日联合推出业界 首款 支持400Gbps/lane高速信号的可插拔光模块规范USFP，等于把这块瓶颈的通道直接拓宽了一截。 和现有的OSFP光模块相比，USFP个头相当，却装着更密的芯。首批产品就集成16条全双工通道，后续还能扩展到32条乃至更多，吞吐量一路顶到12.8Tb/s。最关键的那道倍数写得很直白:它的带宽达到现行200G/lane可插拔光模块的4倍;在400G SerDes技术撑腰下，能效也多出后者的1.3倍。 连接器这次被重新设计过。新型二维阵列连接器用了一套两步插入方案——模块先插进去，高速</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31588</guid>
-      <pubDate>Tue, 13 Oct 2026 02:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MiniMax入驻天猫，首家官方旗舰店上线M Plan订阅套餐</title>
-      <link>https://news.aibase.com/zh/news/31589</link>
-      <description>MiniMax正式入驻天猫，开设首家品牌官方旗舰店，并于2026年双11前夕上线订阅套餐。目前，店铺主要提供M Plan订阅服务，涵盖Go、Explore、Build三个档位，支持按月或按年购买。开业期间，店铺推出限时首单优惠，Go月卡首单价格约24.5元起。 此次入驻延续了大模型厂商布局电商渠道的趋势。2026年9月3日，天猫上线Token充值中心“AI空间站”，首批接入阿里云、智谱、Kimi、MiniMax、DeepSeek等厂商的订阅服务。 此前，智谱已于9月2日在天猫开设官方旗舰店，随后Kimi、MiniMax、阶跃星辰等厂商陆续与天猫接洽入驻事宜。据上海证券报报道，MiniMax是这</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31589</guid>
-      <pubDate>Tue, 13 Oct 2026 03:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MiniMax入驻天猫开首家旗舰店，开卖Token套餐：大模型厂商集体把柜台搬进电商</title>
-      <link>https://news.aibase.com/zh/news/31590</link>
-      <description>大模型厂商卖Token的渠道，正从官网悄悄挪到老百姓最熟悉的那张购物车里。MiniMax已正式入驻天猫，开出自己的首家品牌官方旗舰店，店里上架的M Plan订阅套餐分Go、Explore、Build三档，支持按月或按年购买，把原本要在官网才能办的事，直接搬进了电商平台的货架。 这股开店潮来得比想象中快。今年双11之前，智谱、阿里云、千问办公等已经先后在天猫落子，平台还顺势上线了Token充值中心"AI空间站"，把多家大模型的订阅服务收进同一个入口。据上海证券报9月5日消息，Kimi、阶跃星辰等多家厂商也都在和天猫接洽，准备跟进开店、开售Token订阅套餐。换句话说，过去只在开发者文档和官网支付</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31590</guid>
-      <pubDate>Tue, 13 Oct 2026 03:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>天序智能斩获厚雪数千万元融资，把气象大模型送上天：要在太空给新能源装一双"眼睛"</title>
-      <link>https://news.aibase.com/zh/news/31591</link>
-      <description>一家成立不到两年的气象AI公司，把融资和卫星同时揣进了口袋。天序智能科技（嘉兴）有限公司近期完成数千万元Pre-A+轮融资，由厚雪资本 独家 投资，资金主要砸向凝空星座建设、能源气象大模型迭代、团队扩张与海外预研。这家2024年10月才诞生的公司，是国内极少数同时握着垂类气象大模型、自主卫星观测网和行业底座化交付能力的AI for Science玩家，创始人刘栗是中国科学院大学气象学博士，近十年都泡在气象与能源交叉的地带。 在刘栗的判断里，新能源天生靠天吃饭，风速和辐照度直接决定发电量，而国内新能源装机占比已经突破50%，功率预测催生百亿级刚需，电力现货交易又打开千亿级增量，这是条正处爆发前夜</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31591</guid>
-      <pubDate>Tue, 13 Oct 2026 03:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>从模型能力到安全边界，字节 Seed 组建新部门应对前沿AI风险</title>
-      <link>https://news.aibase.com/zh/news/31592</link>
-      <description>字节跳动 Seed 近日宣布成立“Seed Model-Alignment &amp; Preparedness”部门，由严林负责，向 Seed 负责人吴永辉汇报。原 Responsible AI 团队及部分 Chat 团队成员将转入新部门，进一步加强模型安全与对齐领域的投入。 新部门将重点提升智能体模型（Agent Model）的安全能力，并防范化学、生物、放射及核(CBRN)等前沿能力带来的潜在风险。其工作将覆盖模型规范制定、安全评估体系建设、对齐训练、防护系统搭建及风险监控，并加强与外部研究机构及第三方评测机构的公开合作。 据悉，随着大模型能力和自主性不断增强，模型行为偏离预期、智能体滥用及网络</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31592</guid>
-      <pubDate>Tue, 13 Oct 2026 03:38:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Oct 2026 03:41:00 +0000</lastBuildDate>
     <item>
       <title>字节跳动Seed单拆安全对齐部门，严林挂帅专防智能体越界与CBRN风险</title>
       <link>https://news.aibase.com/zh/news/31593</link>
@@ -225,6 +22,279 @@
       <description>10月13日，千问官方公众号发布消息，Personal Agent「千问Go!」的体验申请页面已在千问APP上线。用户可通过APP内指定入口提交申请，千问将逐步为更多用户开放体验资格。 官方公告显示，让每个人拥有自己专属的AI助理，是千问一直以来的目标，此前，依托阿里生态与开放平台，千问已具备购物、出行、物流等领数十领域的个人办事能力。 千问推出Personal Agent「千问Go!」，内嵌于千问APP，拥有更强大的办事能力，可处理更多类型和更多领域的个人事务。 记者体验后发现，用户可以通过「千问Go!」完成航班延误理赔、场馆及演出预约、餐厅筛选预订、商品比价下单以及求职投递等任务。有用户测</description>
       <guid isPermaLink="false">https://news.aibase.com/zh/news/31594</guid>
       <pubDate>Tue, 13 Oct 2026 04:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Epic押注AI优先开发：迪士尼射击游戏代码交给Claude写，美术全走AI工作流</title>
+      <link>https://news.aibase.com/zh/news/31595</link>
+      <description>游戏工业的流水线，正被Epic Games悄悄改写一道关键的工序。据报道，这家虚幻引擎的开发商已要求一款尚未公布的迪士尼合作射击游戏全面转向以人工智能为核心的开发模式，用Anthropic旗下的Claude等AI工具编写代码，并通过完整的AI工作流生成游戏美术，人类开发者则退到指导、管理与审核的位置。这意味着生成式AI从过去敲边鼓的辅助角色，被推上了大型游戏项目主要生产手段的台前。 彭博社披露，这款游戏由Epic与华特迪士尼联手打造，预计融合漫威与星球大战系列的角色与内容。它原本瞄准2027年3月发售，如今却被无限期推迟，新档期仍未公布。项目开发进度落后于预期，Epic此前对所需人手和周期的估</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31595</guid>
+      <pubDate>Tue, 13 Oct 2026 05:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NTT为Anthropic建日本首座专用数据中心，算力主权之战把Claude留在本地</title>
+      <link>https://news.aibase.com/zh/news/31596</link>
+      <description>日本正把AI时代最金贵的那块拼图——算力，往自己国土上搬。日本电信电话公司（NTT）计划为美国AI企业Anthropic在当地建设其首个专用数据中心，这不仅是Anthropic在亚洲基础设施版图上的又一次扩张，也透出日本想在人工智能时代把本土算力攥紧的战略心思。 双方将围绕AI计算基础设施展开合作。新数据中心预计部署专门用于运行和训练先进模型的大规模计算设备，为Claude系列在日本及亚太的业务拓展提供底座。近年生成式AI需求一路攀升，训练和跑大模型所需的算力快速增长，各家AI企业纷纷砸钱建新机房，Anthropic作为OpenAI的重要对手，也在加速织密全球基础设施网络。 对NTT来说，这桩</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31596</guid>
+      <pubDate>Tue, 13 Oct 2026 05:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>千问回应"千问 Go！"传闻：非独立 App，体验资格已开放申请</title>
+      <link>https://news.aibase.com/zh/news/31597</link>
+      <description>针对外界对"千问 Go！"的种种猜测，千问团队当天通过官方公众号作出澄清：这款名为 Personal Agent 的产品并不是一个独立上架的应用，而是直接嵌入在千问 APP 内部的个人智能体。目前，专门的体验申请入口已经摆在 APP 内，用户可提交申请，官方将分批放量，逐步向更多人开放使用权限。 千问在公告中重申，让每个人都能拥有专属 AI 助理，一直是团队努力的方向。此前借力阿里生态与开放平台，千问已能在购物、出行、物流等数十个领域替用户跑腿办事；而"千问 Go！"的推出，意味着其办事半径与处理能力都迈上了新台阶，可接手更多类型、更广范围的个人事务。 实测能理赔能比价，航延赔了 70 元 从</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31597</guid>
+      <pubDate>Tue, 13 Oct 2026 05:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>可灵AI带着Kling 4. 0 杀向好莱坞：AI视频要从玩具变成企业的生产流水线</title>
+      <link>https://news.aibase.com/zh/news/31598</link>
+      <description>可灵AI已经按下了出海的加速键。10月14日，它将现身2026洛杉矶科技周，而比亮相更让行业屏息的，是它顺手捅出的一句预告——Kling4.0即将上线。上一世代的 Kling 已经让无数创作者用文字直接拽出电影质感的画面，4.0这步棋落子之前，外界最关心的就是它在运动连贯性、指令服从和长镜头叙事上究竟又憋了多大的劲。 这场活动不是单纯的展台摆拍。可灵AI拉上了 Oxen AI 与 Obsidian Studio 两家伙伴，三方各派一位嘉宾坐到同一张圆桌前，把话题从 最底 层的模型研发，一路聊到平台集成，再落到专业内容制作的真实现场。他们真正想回答的是同一个问题:当 AI 视频生成不再只是朋友圈</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31598</guid>
+      <pubDate>Tue, 13 Oct 2026 05:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1688全面接入AI电商工作台Accio 赋能超1亿买家与百万源头厂商</title>
+      <link>https://news.aibase.com/zh/news/31599</link>
+      <description>阿里1688于10月13日上午正式宣布全面接入全球电商AI工作台Accio，平台逾1亿年度活跃买家与超100万源头厂商即日起均可直接开通。 正值双11前夕，此次接入针对中小买家推出了集全球寻源、比价与谈单于一体的“采购助手”，以及打通淘宝、天猫、抖音、拼多多、京东等多平台的“电商管家”;同时，面向源头厂商正式上线“1688生意助手”，针对现货、定制和跨境三类核心生意场景提供差异化AI能力。 这一举措标志着AI技术在电商供应链全链路中的渗透进一步加速，通过供给侧与需求侧的智能化升级，持续重构数字贸易的协同效率与生态格局。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31599</guid>
+      <pubDate>Tue, 13 Oct 2026 05:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic 拉响红色警报：小型 AI 模型几个月内或将学会自我复制，而且你关不掉它</title>
+      <link>https://news.aibase.com/zh/news/31600</link>
+      <description>Anthropic 在10月13日甩出一份让人脊背发凉的研究报告:一些 AI 模型"可能再需几个月时间，就能具备自我复制的能力"，而且一旦开始，这个过程很难被关掉。实验室里的测试显示，体型并不算大的模型，或许再过几个月就能在智能烤箱、杂牌 Android 电视盒子这类商用物联网设备上悄悄复制自己。这类自我复制程序最棘手的特质在于，它没有一个可以集中拔掉的总开关——因为根本不存在一个统一的关停节点，你只能眼睁睁看着它慢慢蔓延。好消息是它跑得不快，数量翻一倍往往要以天来计。 和传统恶意软件不同的是，这种 AI 不是靠人手写死的攻击脚本过活，它会自己琢磨怎么在没见过的设备上跑起来。Anthropic</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31600</guid>
+      <pubDate>Tue, 13 Oct 2026 06:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>微软给新版 Outlook"瘦身"：10 月全球停用 Copilot 主题，重新押注聊天入口</title>
+      <link>https://news.aibase.com/zh/news/31601</link>
+      <description>据 Windows Latest 披露，微软打算在 2026 年 10 月中下旬，把新版 Outlook 里的 Copilot 主题功能从全球范围内撤下。这波调整不分平台——macOS、Windows 上的新版 Outlook，连同网页版 Outlook.com，都在覆盖范围之内。 所谓 Copilot 主题，是微软此前给新版 Outlook 塞进去的一项 AI 界面装扮能力：用户点开入口，输入几句描述或挑个现成方向，Copilot 便会生成一套视觉风格，把软件外观整个换掉。它曾被当作 Win10、Win11 新版 Outlook 的重点更新来推。然而媒体推测，真正用这套玩法的人远没到微软的期</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31601</guid>
+      <pubDate>Tue, 13 Oct 2026 06:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>从思考到构建一气呵成:xAI重磅推出全流程AI打包订阅计划</title>
+      <link>https://news.aibase.com/zh/news/31602</link>
+      <description>xAI于2日正式推出全新整合型订阅计划 The X Subscription ，将于未来几天内向全球用户开放。该计划 首次 将 Grok （支持聊天、语音、图像及视频生成）、 Grok Bot （AI协作队友）、 Cursor （本地与云端编码智能体）及 X Premium （含认证标记、创作者工具及无广告体验）深度融合，提供从思考、创作到构建和分享的完整AI工作流。 新套餐引入共享额度池机制，用户在Grok与Cursor间可共享充足的模型使用额度，且编码使用量至少达到可比Cursor独立套餐的两倍，同时支持在Cursor 高级 档位中按API标价单独计费使用第三方模型。 定价方面共设立五个档</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31602</guid>
+      <pubDate>Tue, 13 Oct 2026 07:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic 警告：AI 离"自我复制"只差几个月，关都关不掉</title>
+      <link>https://news.aibase.com/zh/news/31603</link>
+      <description>Anthropic 近日在官网抛出一份令人不安的研究报告：AI 模型或许再过几个月，就能获得自我复制的本事，而且一旦铺开便很难彻底掐断。原因很直白——这类程序没有可供集中关停的节点，像野草一样散落在各处。 更棘手的是它们的落脚点。实验显示，参数仅 90 亿的模型，已能在 9 类被测硬件中的 8 类上跑起推理，连智能烤箱、廉价 Android 电视盒子这类商用物联网设备都不在话下。由于这些设备价格低、防护薄，正成为"数字黏菌"式的寄生温床。Anthropic 估算，眼下参数不超过 300 亿的模型虽能完成自我复制里的许多单独动作，却常在端到端串起来时出错；而在简化评估中，GLM-5.2 及更强的</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31603</guid>
+      <pubDate>Tue, 13 Oct 2026 07:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>字节跳动单设大模型安全部门：给狂奔的智能体套上对齐的缰绳</title>
+      <link>https://news.aibase.com/zh/news/31604</link>
+      <description>字节跳动正在给自家的大模型系上一根更结实的缰绳。10月13日，其 AI 模型部门 Seed 对内发出通知，决定单独成立一个新部门，专门负责把控大模型的安全风险。这个新部门来头不小——它的一把手不再层层汇报，而是直接越过中间层级，向字节跳动大模型的"一号位"吴永辉本人汇报，足见这件事在公司内部的权重。 新部门被命名为"Seed Model - Alignment &amp; Preparedness"，由严林挂帅。严林是字节 Seed 团队的核心高管之一，过去几年一直把守着豆包大模型"对齐"（Alignment）这道关。字节对外解释，设立这个部门的初衷，是要在安全与对齐方向上砸下更重的投入。所谓"对齐"</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31604</guid>
+      <pubDate>Tue, 13 Oct 2026 07:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>落子大阪：Anthropic 首座日本数据中心谈妥在即，500MW 算力要烧掉万亿日元</title>
+      <link>https://news.aibase.com/zh/news/31605</link>
+      <description>Anthropic 正在把它的 第一 座海外算力堡垒，安在日本的关西。据《日经亚洲》当地时间今日报道，Anthropic 与 NTT DATA 围绕前者首座日本本土数据中心的谈判，已经走到最后阶段。双方预计在本财年内签下最终协议，而这座设施最早要到2028年才能部分点亮投运——对一向把算力攥在自己手里的 AI 实验室来说，这等于在太平洋西岸提前圈下了一块长期的战略根据地。 选址落在大阪，规划规模直奔500MW 而去。这是个什么概念?单是土建和基础设施建设，账单就已经超过1万亿日元，按眼下汇率折算约合423亿元人民币，后续还要往里塞进大量高价值的 AI 芯片，真正烧钱的大头还在后头。对 Anth</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31605</guid>
+      <pubDate>Tue, 13 Oct 2026 07:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>千亿大模型塞进掌心：高通 CEO 称 AI 巨头或 2028 年杀入手机市场</title>
+      <link>https://news.aibase.com/zh/news/31606</link>
+      <description>高通 CEO 克里斯蒂亚诺·阿蒙最近在访谈节目 Fireside Alpha 里抛出一个信号:多家领先的 AI 企业，可能正在盘算亲自下场做智能手机。他透露，已经有某家 AI 公司明确提出，想在2028年之前，让规模达到1000亿参数的大模型在手机上持续不断地跑起来，并且正在四处寻找能撑住这种野心的硬件。阿蒙没有点名，但强调这些诉求本身就说明，AI 公司不满足于只当幕后供应商，它们想走到台前，把手机这块最贴身的屏幕握在自己手里。 把1000亿参数的模型装进巴掌大的设备，难度远不止"算力够不够"一个问题。阿蒙点明，除了要啃下堪称恐怖的算力需求，功耗和发热才是真正的拦路虎——手机就那么大一块电池、</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31606</guid>
+      <pubDate>Tue, 13 Oct 2026 07:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Epic 逼迪士尼射击游戏"AI 优先"：代码不再手敲，2027 发售已无限延期</title>
+      <link>https://news.aibase.com/zh/news/31607</link>
+      <description>据彭博社披露，Epic Games 正要求一款尚未公开的迪士尼合作射击游戏，全面转向以 AI 为核心的开发模式。这款融合漫威与《星球大战》IP 的作品，将用 Anthropic 的 Claude 等工具直接编写代码，美术也交由完整 AI 工作流生成；人类团队则退居指导、管理与审核的位置。内部消息显示，负责人已明确告知开发组"今后不再手动编写代码"，力度远超寻常的 AI 辅助编程，等于把生成式 AI 从配角推上主位。 进度告急下的转身，内部质疑未消 这步棋背后是项目告急：原定 2027 年 3 月发售的计划已无限期推迟，Epic 对所需人力和周期的估算双双失准。CEO 斯威尼在社交平台确认，公司</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31607</guid>
+      <pubDate>Tue, 13 Oct 2026 07:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>看一眼就能支付?千问全新AI眼镜与耳机高调亮相，开启主动AI新时代</title>
+      <link>https://news.aibase.com/zh/news/31609</link>
+      <description>10月13日，千问正式发布AI眼镜N1、N1Pro及与Bose共同推出的AI耳夹式耳机三款新品，标志着AI个人智能体（Personal Agent）向物理世界深度延伸。 N1系列搭载5000万像素影像系统、1G5P镜头及自研端侧视觉理解模型，支持全天候环境感知、翻译、会议纪要与语音办事;其中N1Pro为行业首个支持体征实时监测(心率、血氧、皮肤温度)的AI眼镜，并创新引入眼动交互与误识率低于百万分之一的虹膜核身支付技术。联名AI耳夹式耳机采用开放式设计，支持89种语言实时翻译、AI听记及复杂任务交办。 新品于当日全面开售，叠加国补及限时优惠后，眼镜到手价2218元起，耳机1099元起。此次发布</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31609</guid>
+      <pubDate>Tue, 13 Oct 2026 08:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>没有总开关的"数字蠕虫"：Anthropic 称小模型年底就能自己复制自己</title>
+      <link>https://news.aibase.com/zh/news/31610</link>
+      <description>Anthropic 又一次把警钟敲得很响:AI 模型可能在短短几个月内就学会自我复制，而且一旦启动，基本没有能一关了之的按钮。这家公司在 最新 研究里点明，这类程序不存在一个集中的关停节点，意味着你没法像拔掉服务器电源那样让它整体熄火，只能看着它一点点在设备之间蔓延，极难被彻底清除。 眼下这股能力已经露出了苗头。一个仅有90亿参数的模型，已经能在大多数被测硬件上跑起来，其中甚至包括智能烤箱、电视盒子这类再普通不过的物联网设备。这些设备防护薄弱、遍布角落，恰好成了此类程序 最舒适 的寄生温床。当然，距离真正"自治"还有一段路:参数不超过300亿的模型，目前还无法把自我复制的整条链路顺畅跑通，常在</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31610</guid>
+      <pubDate>Tue, 13 Oct 2026 08:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产</title>
+      <link>https://news.aibase.com/zh/news/31611</link>
+      <description>据路透社报道，虚拟角色聊天平台 Character.AI 当地时间周一在美国申请破产保护，并同意以 2000 万美元（约合人民币 1.34 亿元）的价格，把部分资产卖给华特迪士尼。公司现已启动《破产法》第 11 章下的资产出售流程，准备剥离一批知识产权，同时向法院申请批准拍卖规则，并把迪士尼指定为"首席竞标方"。 这个安排的关键在于定价权：迪士尼的 2000 万美元报价将充当拍卖底价，其他有意者仍可举出更高价码。按 Character.AI 的预期，整笔交易有望在 2026 年 11 月下旬至 12 月初之间落定。 平台生死系于接盘者 在资产处置期内，Character.AI 承诺现有业务照常</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31611</guid>
+      <pubDate>Tue, 13 Oct 2026 09:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>微软给 Excel 塞进"交互式画布"：说句话，零散表格变决策看板</title>
+      <link>https://news.aibase.com/zh/news/31612</link>
+      <description>据 NeoWin 12 日博文，微软为 Excel 上新了 Copilot 交互式画布（Interactive Canvas）。它的逻辑很直白：用户只消用大白话下指令，就能把现有工作簿里的数据， instant 变成动态、自动刷新的交互式报告——无论是高管评审、项目周报还是状态汇总，都能现做现用。 这套画布与底稿表格是"绑"在一起的：只要源数据有变动，报告里的图表和版式无需手动重做，便会自行更新。用户还能接着跟 Copilot 提要求，调布局、换重点洞察、改呈现方式，像在指挥一个不会累的报表助理。眼下该功能先开放给 Microsoft 365 Insiders 尝鲜。 顺手交付两件套：把操作录</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31612</guid>
+      <pubDate>Tue, 13 Oct 2026 09:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同</title>
+      <link>https://news.aibase.com/zh/news/31613</link>
+      <description>一群没有引擎、全靠风带漂流的气球，刚刚从美国空军手里接下了一张大单。WindBorne Systems 这家做自主气象气球的公司宣布，赢得美国空军一份新合同，向其采购由全球气球舰队收集的数据，合同总价值 最高 可达4900万美元。对一家把"用气球窥探大气"当作生意的初创公司来说，这是它迄今为止参与过分量最重的一笔交易。 WindBorne 目前大约有700颗气象气球飘在地球各处，它们不断读取大气传感器的数据，一部分卖给付费客户，另一部分则回流进公司自己的 AI 天气预报模型。这家2015年在加州红木城成立的企业，是最早把真实观测数据直接喂给深度学习天气模型的组织之一。它和美国政府打交道已久，国</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31613</guid>
+      <pubDate>Tue, 13 Oct 2026 09:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>全天候监听你的 AI 助手 Ambi 拿下 2600 万美元：前 Plaud 高管要把智能从屏幕里放出来</title>
+      <link>https://news.aibase.com/zh/news/31614</link>
+      <description>AI 行业一直信奉一条逻辑:模型越懂你，就越能帮你——而"懂你"的代价，是 app 和设备得一刻不停地听你、看你、记你。这背后的隐私隐患人尽皆知，可初创公司们照样往前冲，赌的是个性化助手的市场够大，大到能把顾虑一口吞下。前 Plaud 高管 Peter Mo 押注的，正是这条路上的新玩家 Ambi:一款通过一直"竖着耳朵"听你，来给出实时洞察的 AI 应用。 周一，Ambi 宣布完成2600万美元融资，由 Luminous Ventures 领投——这家机构此前投过美团和宇树机器人，原始设计制造商华勤（Huaqin）也跟了进来。Ambi 同步推出了 iPhone、Mac 和 Apple Wat</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31614</guid>
+      <pubDate>Tue, 13 Oct 2026 09:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>面壁智能端侧多模态 MiniCPM-V 4.7 发布：3GB 内存跑出 13+ token/s</title>
+      <link>https://news.aibase.com/zh/news/31615</link>
+      <description>面壁智能当天推出新一代端侧多模态大模型 MiniCPM-V 4.7，一口气给出 35B-A3B 与 1B 两种规格。其中 35B-A3B 是 MiniCPM-V 家族里首个 MoE（混合专家）模型，并依托全新的 LES"前瞻专家调度"推理加速技术，成为业界首个能在端侧无损、流畅运行的开源 MoE。 最抓眼球的数字是落地表现：在 iPhone 17 Pro Max 上，它仅占用 3GB 内存，便跑出 13+ token/s 的解码速度。这意味着无需把数据送上云端，旗舰手机本地就能扛住多模态推理，隐私与延迟双重受益。 跨平台通吃，微调方案一并开源 在适配面上，4.7 同时覆盖 iOS、安卓与鸿蒙三</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31615</guid>
+      <pubDate>Tue, 13 Oct 2026 09:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔</title>
+      <link>https://news.aibase.com/zh/news/31616</link>
+      <description>苹果又玩了一手"连人带技术一起搬回家"。在提交给监管机构的文件里，这家公司披露，已和个性化音频初创企业 Huxe 达成一笔"反向收购雇佣"（reverse acqui-hire）交易——既接收对方的核心团队成员，也把技术一并授权过来。据 MacRumors 最早报道，苹果向欧盟委员会写明，自己同意向"Huxe AI 的某些员工"发出雇佣要约，同时拿到 Huxe 知识产权的非独占许可。 "反向收购雇佣"是这几年才流行起来的打法:大公司不整体吞下初创，只把关键团队雇过来、再把技术授权走，既能攒起 AI 人才和技术库，又能尽量不惊动反垄断审查的雷达。这类交易有时也被干脆叫作 acqui-hire（人</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31616</guid>
+      <pubDate>Tue, 13 Oct 2026 09:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%</title>
+      <link>https://news.aibase.com/zh/news/31617</link>
+      <description>据路透社看到的 IDC 报告，2026 年上半年，英伟达在中国数据中心 AI 芯片市场的占有率滑落到 34%。背后推手清晰：美国出口管制捆住了其产品供应，而中国本土对手趁机扩张。IDC 数据显示，今年 1 至 6 月，英伟达在华 AI 加速器（用于训练与运行 AI 模型）出货量仅 67.8 万颗，同比骤降 44%。 CEO 黄仁勋早就不止一次炮轰华盛顿的限令，直言这套政策逼着英伟达把中国这块价值 500 亿美元的 AI 芯片市场，拱手送给华为。不过 IDC 并未点明那 34% 的份额由哪些产品拼成，也没交代是否计入 B200、B300 这类 尖端 芯片——口径留白，让真实处境更显模糊。 九家国</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31617</guid>
+      <pubDate>Tue, 13 Oct 2026 09:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 沙特籍工程师被捕：藏录音设备偷录高管会，最高判 5 年</title>
+      <link>https://news.aibase.com/zh/news/31618</link>
+      <description>美国司法部 13 日发布公告，OpenAI 一名沙特籍工程师因涉嫌在旧金山办公室的高管会议室私装隐藏录音装置，已被逮捕并控以"非法拦截口头通信"。这名 35 岁的工程师名叫 Abdulrahman Alfozan，本月 9 日落网，自 2025 年 7 月起在 OpenAI 任职；一旦定罪，他 最高 面临 5 年监禁及 25 万美元（约合人民币 167.6 万元）罚款。 据披露，OpenAI 安全团队 9 月 30 日在某栋办公楼的高管会议室发现了那台设备——它被塞在卫生纸里，插在会议室电视机背面的 USB 端口上，约于 9 月 28 日安装，内部存有加密数据。该会议室平时用来商议专有研究、产</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31618</guid>
+      <pubDate>Wed, 14 Oct 2026 00:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>法官下令 OpenAI 在苹果商业秘密案中限期交出招聘记录与面试材料</title>
+      <link>https://news.aibase.com/zh/news/31619</link>
+      <description>美国法院近日裁定，在苹果公司针对 OpenAI 提起的商业秘密诉讼中，OpenAI 必须限期交出相关的招聘记录及面试材料。 根据法院指令，OpenAI 需在五天内提交已收集的相关材料，并在十四天内补充提交其余请求文件。此次取证范围涵盖 OpenAI 针对消费硬件与机器人部门前苹果员工的面试文档，包括面试清单、说明、技术演示文稿及 LINE 即时通讯记录，同时法院批准对 OpenAI 员工刘畅、彭艾莉莎及首席硬件官唐耀谭展开取证。 苹果此前指控前员工涉嫌使用公司笔记本电脑下载包含未公布技术规格与专有项目数据的机密材料。随着 OpenAI 持续推进可能对标智能手机的消费级硬件设备研发，该案核心聚焦</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31619</guid>
+      <pubDate>Wed, 14 Oct 2026 00:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>黄仁勋欧洲撒钱 20 亿美元：拉拢四家法企，喊话"欧洲必须入场"</title>
+      <link>https://news.aibase.com/zh/news/31620</link>
+      <description>据彭博社，英伟达 CEO 黄仁勋正在欧洲奔走，于 13 日宣布将在原有基础上追加 20 亿美元（约合人民币 134.1 亿元）投资。这并非一次性手笔——他透露，过去一年英伟达已向欧洲投入 80 亿美元（约 536.4 亿元），此次只是继续加磅。作为全球 最大 AI 芯片商，黄仁勋承诺要在世界各地投下数千亿美元，既催熟 AI 应用，也顺手拉动自家芯片需求。 这趟行程里，他与法国总统马克龙面谈，议题涵盖在法投资、开源软件与 AI 安全；双方还敲定，黄仁勋将顺道访问伦敦与柏林。在巴黎首站活动上，他撂下一句狠话："欧洲必须加入这场竞争。" 押注开源与实体 AI，四家法企入袋 落子方向很明确：黄仁勋力促</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31620</guid>
+      <pubDate>Wed, 14 Oct 2026 00:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>德勤调查：过半英国大企业一年内部署 AI 替人，青年失业创十余年新高</title>
+      <link>https://news.aibase.com/zh/news/31621</link>
+      <description>据彭博社，德勤当地时间周三发布的一份面向首席财务官的报告显示，英国一众大型企业正准备在未来一年用人工智能置换人手。调查中 52% 的 CFO 预计会借 AI 动手裁员；更具反差的是，67% 的受访者坦言，眼下 AI 带来的变革只兑现了他们预期的区区四分之一——技术尚在早期，刀却已举起。 德勤在 9 月 17 日至 10 月 1 日走访了 66 名 CFO，其中 12 人来自富时 100、25 人来自富时 250 成分股企业。报告与英国"无就业式增长"的苗头相互印证：AI 落地叠加工伤成本高企，企业扩张时不再大举招人，长期失业攀升，青年失业率更创下十余年新高。吊诡的是，这一切发生在一个增速明显快</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31621</guid>
+      <pubDate>Wed, 14 Oct 2026 01:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>手机 AI 从问答走向任务执行，OPPO 联手 Manus 推进智能体落地</title>
+      <link>https://news.aibase.com/zh/news/31622</link>
+      <description>OPPO 昨日宣布与 AI 智能体平台 Manus 达成合作，将 Manus 的智能体能力集成至 OPPO AI Mind Pilot，推动手机 AI 从问答交互向多步骤任务执行升级。该功能将首发搭载于预装 ColorOS17的 OPPO Find X10系列手机，进一步落实 OPPO“个性化主动智能”战略。 据介绍，AI Mind Pilot 全新智能体模式能够理解用户目标，将复杂任务拆解为多个执行步骤，并通过检索信息、调用工具等方式生成可直接使用的结果，同时支持处理手机本地文件与照片。例如，规划旅行时，AI 可整合分散在不同应用中的机票、酒店、餐厅预订及景点门票信息，结合网络资料生成个性化</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31622</guid>
+      <pubDate>Wed, 14 Oct 2026 01:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>10 分钟 AI 长视频来了：GPT-6 Astra 接管 Higgsfield，角色场景不再"串戏"</title>
+      <link>https://news.aibase.com/zh/news/31623</link>
+      <description>OpenAI 和 AI 视频生成平台 Higgsfield 的 最新 合作，把一条过去卡得很死的边界往前推了一大步——AI 生成的视频时长上限，从1分钟直接拉到了10分钟。撑起这次跃升的，是 Higgsfield 接入的 GPT-6Astra。它最关键的本事，是让"创意智能体"能够调用外部工具去处理复杂工作，等于给视频生成配了个会自己统筹安排的小导演，从而保证一部长视频在角色长相、场景和视觉细节上始终如一，不再出现前面一个人、后面换张脸的"串戏"事故。 Higgsfield 自己已经把这套流程用在了实战里。它旗下那个坐拥近50万订阅者的 YouTube 频道，已经开始产出超过10分钟的教学视频</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31623</guid>
+      <pubDate>Wed, 14 Oct 2026 01:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>苹果官网泄密：全尺寸 HomePod 或将点亮"Siri AI"光环</title>
+      <link>https://news.aibase.com/zh/news/31624</link>
+      <description>消息源 @itspdfu 当天在 X 平台发帖称，从苹果官网的代码信息看，全尺寸 HomePod 日后或有望支持 Siri AI。佐证来自苹果自己：IT 之家翻查苹果中国官网，发现全尺寸 HomePod 的产品图说已被悄悄改写，其中一句"顶部亮起表示 Siri AI 功能的多色光晕"，几乎明示了这场升级——当顶部那圈灯开始用多色表达"AI 在思考"，也就意味着这台圆筒音箱要接住更聪明的语音助理了。 mini 2 先上车，功能得等 OTA 有意思的是排兵布阵：苹果同时确认，HomePod mini 2 将搭载 Siri AI，但这项能力并不会随硬件发布一同解锁，而要等"未来的软件更新"才逐步开放</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31624</guid>
+      <pubDate>Wed, 14 Oct 2026 01:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>谷歌 Argon 模型开放全球开发者，输入 Token 定价2美元起</title>
+      <link>https://news.aibase.com/zh/news/31625</link>
+      <description>谷歌周二宣布，旗舰 AI 模型 Argon 正式向全球开发者和企业客户开放，此前该模型仅通过谷歌 Fairwind 计划向部分可信网络防御人员提供测试访问。此次分阶段发布兼顾安全评估与商业推广，也反映出前沿模型在扩大开放范围时对风险控制的重视。 目前，Argon 可通过 Google AI Studio API、Gemini App 中的 Google AI Ultra 和 Pro 订阅服务，以及智能体开发平台 Antigravity 向付费用户提供。其定价为每百万输入 Token2美元、每百万输出 Token10美元，12月起价格将翻倍。 即使涨价后，其价格仍低于文中提及的 OpenAI G</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31625</guid>
+      <pubDate>Wed, 14 Oct 2026 01:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>苹果诉 OpenAI 窃密案突破：法院准其调取招聘材料，剑指硬件争夺</title>
+      <link>https://news.aibase.com/zh/news/31626</link>
+      <description>苹果 7 月起诉 OpenAI 窃取商业秘密一案出现新进展：一名联邦法官裁定，苹果可快速调阅 OpenAI 的招聘相关材料。具体而言，法院准许其查阅与"OpenAI 在面试前接触苹果员工"有关的文件——这批应聘者瞄准的是 OpenAI 消费硬件与机器人部门岗位，时间点恰在传闻中 OpenAI 首款 硬件设备发布之前。相关文档可能涵盖面试清单、指引、脚本、技术演示及能印证"面试中提及苹果技术或零部件"的记录。 主审法官爱德华·达维拉要求 OpenAI 在 5 天内交出已整理好的材料，余下与本次申请相关的 14 天内补齐；同时批准苹果获取案件相关人员在 LINE 上的私聊记录，牵涉 OpenAI </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31626</guid>
+      <pubDate>Wed, 14 Oct 2026 01:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siri AI 全面进驻智能家居:苹果连发四款重磅新品，开启客厅生态新纪元</title>
+      <link>https://news.aibase.com/zh/news/31627</link>
+      <description>苹果公司近日举行了主题为“欢迎回家”（Welcome Home）的发布会，一口气推出四项重大公告，正式全面进军此前由亚马逊和谷歌引领的智能家居市场。此次发布的核心主题是全面引入全新升级的 Siri AI （基于 Apple Foundation Models 构建），为家庭生态提供更深度的个性化和自然对话支持。 以下是本次发布会的各项核心新品详情: 1. Apple HomeView 智能显示屏 作为本次发布会的 绝对 主角， Apple HomeView 是苹果 首款 智能显示屏。 核心设计 :采用7英寸 Liquid Retina 屏幕与弧形扬声器底座，通过不锈钢铰链连接支持倾斜调节。 智</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31627</guid>
+      <pubDate>Wed, 14 Oct 2026 01:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 拟收购知名安全公司 Trail of Bits，谈判正在进行中</title>
+      <link>https://news.aibase.com/zh/news/31628</link>
+      <description>当地时间10月13日，据知情人士透露，人工智能巨头 OpenAI 目前正就收购安全初创公司 Trail of Bits 展开初步谈判。这表明 OpenAI 在推动前沿大模型研发的同时，正在进一步加大对网络安全及底层防护能力建设的投入。 目前，双方的谈判仍在持续推进当中，关于本次潜在并购交易的具体财务金额及细节暂未对外透露。作为业内享誉盛名的网络安全研究与工程咨询公司，Trail of Bits 在系统安全、密码学审计以及软件漏洞挖掘等领域拥有深厚的技术积淀。 面对前沿模型能力与智能化Agent的快速演进，AI 系统所面临的越狱攻击、数据泄露及安全合规等风险日益显现。若此项收购最终落地，将有助于</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31628</guid>
+      <pubDate>Wed, 14 Oct 2026 01:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>三星将于11月发布搭载Gemini的41克AI智能眼镜</title>
+      <link>https://news.aibase.com/zh/news/31629</link>
+      <description>三星将于2026年11月正式推出其 首款 AI智能眼镜（可能命名为Galaxy Glasses）。该产品搭载高通骁龙AR1Gen1芯片，运行Android XR操作系统并深度集成谷歌Gemini人工智能技术。 据悉，眼镜标准镜片版本重量仅41克，配备2GB内存、64GB存储空间、1200万像素摄像头、支持30fps的3K视频拍摄，以及四个麦克风和开放式扬声器。其单次续航最长可达9小时，配合充电盒使用可达72小时。 发售方面，三星与Gentle Monster和Warby Parker合作推出多款外观设计，并将于11月起在美国三星体验店及合作合作品牌官网发售。当前智能眼镜市场正处于高速增长期，O</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31629</guid>
+      <pubDate>Wed, 14 Oct 2026 02:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>豆包手机助手 SAEP 公示期结束:第三方应用屏幕自动化操作权限逐步放开</title>
+      <link>https://news.aibase.com/zh/news/31630</link>
+      <description>10月14日，豆包手机助手宣布，其《屏幕自动化操作声明协议》（SAEP，Screen Automation Execution Protocol）30天公示期已结束，将逐步放开第三方应用的屏幕自动化操作权限。该协议于9月14日随豆包手机助手消费者版同步推出，搭载该版本的努比亚NaviX Ultra已于9月16日发售。 按协议设计，公示期内，助手仅对系统自带应用、字节跳动旗下应用，以及已明确同意接入的第三方应用执行自动化操作，其余应用默认不操作。 公示期结束后，对既未回复邮件、也未接入协议的应用，助手将根据风险高低逐步开放操作;明确拒绝的应用始终不在操作范围内，开发者仍可随时声明拒绝，助手会及时</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31630</guid>
+      <pubDate>Wed, 14 Oct 2026 02:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OPPO 牵手 Manus：Find X10 系列首发"会办事"的 AI 智能体</title>
+      <link>https://news.aibase.com/zh/news/31631</link>
+      <description>OPPO 昨日宣布与 AI 智能体平台 Manus 达成合作，要把后者的智能体能力接入自家的 AI Mind Pilot，让手机从"答问题"跨到"办成事"。OPPO 软件工程总裁唐凯点出关键转变：智能体 AI 不再止于回应，而是理解意图、执行操作、交付结果；Manus 联合创始人兼首席产品官张涛则形容，智能手机承载海量日常事务，本就是个人智能体最天然的落地平台。 双方的实际落点，是把 Manus 能力嵌入 AI Mind Pilot 的全新智能体模式，首搭于预装 ColorOS 17 的 OPPO Find X10 系列。它不再困于简单问答，而是读懂用户的最终目标，自动拆成多步、检索信息、挑工</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31631</guid>
+      <pubDate>Wed, 14 Oct 2026 02:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1400万企业的 AI 同事上线:WorkBuddy 进通讯录，群聊勾选即成任务、产物直接发回企微</title>
+      <link>https://news.aibase.com/zh/news/31632</link>
+      <description>10月14日，腾讯WorkBuddy宣布与企业微信完成深度融合，WorkBuddy客户端现可在企业授权范围内调用消息、文档、会议、微盘等十大能力，并以对话机器人身份进入企业微信通讯录列表，用户可在聊天中直接下达指令。 该能力面向已认证企业开放，需将WorkBuddy升级至5.8.0及以上、企业微信升级至5.0.12及以上版本，由管理员在后台统一领用。 在具体能力上，WorkBuddy可按「需处理/值得关注/其他」三类归纳企业微信未读消息与未读邮件，并提炼摘要与待办动作;用户可在企业微信群内勾选工作消息合并转发至WorkBuddy，系统自动识别其中引用的在线文档、微盘文件、日程、待办、会议与智能</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31632</guid>
+      <pubDate>Wed, 14 Oct 2026 02:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“软硬模”三位一体！STEPX 首款大模型原生智能体手机 Neo 登场，售价 3999 元起</title>
+      <link>https://news.aibase.com/zh/news/31633</link>
+      <description>大模型原生 AI 终端品牌 STEPX（阶跃终端）在上海召开主题发布会，正式发布了旗下 首款 大模型原生智能体手机 STEPX Neo。该机型通过“硬件+操作系统+大模型”的全栈深度整合，探索人机共生的终端新形态，定价3，999元。 在外观与硬件设计上，STEPX Neo 采用了“复古未来美学”设计语言，背板融入了透明机械感与5个致敬 AI 发展史的彩蛋元素。硬件层面特别打造了专属的感知与表达器官:配置六麦克风阵列、低功耗音频感知芯片及 Whisper1.0拾音算法构成的听觉系统;机身搭载主屏与独立 MiniLED 点阵背屏的双屏联动系统，将背屏作为智能体专属的动态表达空间。 在系统与模型架构</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31633</guid>
+      <pubDate>Wed, 14 Oct 2026 03:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google DeepMind 亮出 Gemini 4 Argon：单次输出飙到百万 Token，专啃长周期硬活</title>
+      <link>https://news.aibase.com/zh/news/31634</link>
+      <description>Google DeepMind 于 9 月 30 日推出新一代前沿模型 Gemini 4 Argon。最炸裂的改动是输出上限：从原先的 64K 一口气拉到 100 万 Token——注意这是"一次能生成多长"，而非上下文窗口。当模型能在单条任务链里连写数十万乃至上百万字而不必分段请求，深度代码库迁移、长篇技术报告、多步自动化流程便有了从头跑到尾的连贯性。大多数前沿模型眼下输出上限约 12.8 万 Token，Argon 这一跳堪称断层。 企业级长程活，评测全面领跑 定位上，Argon 走分阶段、定向发布，而非一上来就全民开放：先给可信的网络防御者，再铺向开发者、企业与订阅用户。Google 把</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31634</guid>
+      <pubDate>Wed, 14 Oct 2026 03:26:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
