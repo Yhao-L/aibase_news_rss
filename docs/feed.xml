@@ -8,104 +8,90 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 17 Oct 2026 03:07:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 03:23:40 +0000</lastBuildDate>
     <item>
-      <title>小米重磅开源首个端到端空间音频理解大模型 MiDashengLM-Spatial</title>
-      <link>https://news.aibase.com/zh/news/31689</link>
-      <description>人工智能在音频领域的创新正加速向物理世界延伸。10月15日，小米宣布全面开源行业首个端到端空间音频理解大模型——MiDashengLM-Spatial。 作为该领域的开创性成果，MiDashengLM-Spatial在完整保留传统基础音频理解能力的基础上，突破性地赋予了模型强大的空间感知与深度推理能力。 在实际应用落地方面，小米官方透露，该模型未来将陆续深度接入小米智能家居、汽车座舱等核心业务场景。通过引入先进的空间听觉智能，全面升级并优化“人车家全生态”的智能交互体验。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31689</guid>
-      <pubDate>Fri, 16 Oct 2026 03:29:00 +0000</pubDate>
+      <title>不操控键鼠、自己写代码：4 个 Gemini 智能体在《我的世界》里自主组队击败末影龙</title>
+      <link>https://news.aibase.com/zh/news/31703</link>
+      <description>Google DeepMind 放出了一段让人重新审视"AI 协作"边界的实验。4个 Gemini4Argon 通用编码智能体，在没有人类替它们分派任何角色的情况下，仅凭游戏内的聊天频道和一份共享笔记，就自己商量着完成了分工，然后一头扎进一个随机生成的《我的世界》生存世界里。这场硬仗打了27小时14分钟，它们最终通关，把末影龙撂倒。 这群"队友"从头到尾没碰过键盘鼠标。它们真正的手脚，是一行行自己写出来的代码——通过调用 Mineflayer 库，把意图翻译成游戏里能执行的动作。整场挑战里，它们累计产出2783个程序，相当于边打边现搓工具。最硬核的是它们的韧性:过程中总计死亡605次，却没有一</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31703</guid>
+      <pubDate>Mon, 19 Oct 2026 00:57:00 +0000</pubDate>
     </item>
     <item>
-      <title>小米开源空间音频大模型 MiDashengLM-Spatial，采用 Apache2.0许可证</title>
-      <link>https://news.aibase.com/zh/news/31690</link>
-      <description>小米宣布推出空间音频理解大模型 MiDashengLM-Spatial，完整公开模型权重及推理代码，并采用 Apache2.0开源许可证发布。小米称，该模型是业界首个开源的端到端空间音频理解大模型，在基础音频理解能力之上，进一步引入空间感知与推理能力。 过去两年，小米先后开源声音基座模型 Xiaomi Dasheng 和声音理解大模型 MiDashengLM-7B，相关技术已在智能家居、汽车座舱等场景落地超过30项应用，支持对语音、环境声音及音乐进行统一感知与理解。 此次发布的 MiDashengLM-Spatial 以 MiDashengLM-7B 为基础，使模型不仅能够识别声音内容，还能判</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31690</guid>
-      <pubDate>Fri, 16 Oct 2026 03:34:00 +0000</pubDate>
+      <title>迪士尼将以2000万美元收购Character.AI部分资产并接纳核心团队</title>
+      <link>https://news.aibase.com/zh/news/31704</link>
+      <description>近日，聊天机器人初创公司 Character.AI 在申请破产之际迎来重大转折，其前首席执行官 Karandeep Anand 此前已出任 迪士尼 首位首席技术官。 据 彭博社 披露的 法律文件 显示，迪士尼已同意以2000万美元收购 Character.AI 的部分资产，并向至少60名员工（占其员工总数的大多数）提供总额约6000万美元年薪的就业机会，目前绝大多数受邀员工已接受试探性报价。 此次收购与人才吸纳，凸显了传统娱乐巨头在人工智能浪潮下对垂直领域技术团队的深度整合。尽管该初创公司拥有庞大且活跃的用户群，但持续走高的运营成本以及潜在的诉讼责任与监管压力(如近期面临的儿童安全调查及相关法</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31704</guid>
+      <pubDate>Mon, 19 Oct 2026 00:59:00 +0000</pubDate>
     </item>
     <item>
-      <title>微软完成 MAI-Base-2 预训练：2.8T 参数碾压开源对手，算力效率超 DeepSeek 数倍</title>
-      <link>https://news.aibase.com/zh/news/31691</link>
-      <description>微软当地时间昨日宣布，新一代 SOTA 基础模型 MAI-Base-2 已完成预训练，官方称其性能强于所有参测的开源权重模型。 这组数字相当硬核：MAI-Base-2 总参数规模 2.8T，活跃参数 80B，在 6000 块英伟达 GB200 GPU 上耗时 38 天训成。整段训练里，模型平均浮点算力利用率 21%、有效吞吐量 89%——在超大集群上能稳住这个效率，本身就是工程实力的注脚。 算力效率甩开 DeepSeek 4 到 12 倍 更值得玩味的是效率对比。微软放话，MAI-Base-2 的预训练算力效率达到 DeepSeek-V4-Pro-Base 的 4 至 12 倍。在"烧钱建基建</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31691</guid>
-      <pubDate>Fri, 16 Oct 2026 03:46:00 +0000</pubDate>
+      <title>Character.AI 破产后续：迪士尼接盘 60 余人，三年豪掷 1.8 亿美元薪酬</title>
+      <link>https://news.aibase.com/zh/news/31705</link>
+      <description>彭博社披露，在 Character.AI 递交破产重组申请后，相关文件揭开后续安排：迪士尼已同意雇佣该公司 60 多名员工——而公开信息显示，这家虚拟角色聊天平台全员不过约 86 人，相当于近七成团队被一并"打包"接走。作为交换，迪士尼将在前三年累计向这批人发放约 1.8 亿美元（约 12.07 亿元人民币）薪酬。 这步棋早有铺垫。数周前，Character 前 CEO 卡兰迪普·阿南德已被迪士尼招入麾下，背后是一份范围更广的技术许可协议，让迪士尼得以合法使用这家 AI 公司的核心能力。当地时间 10 月 12 日，Character.AI 正式向特拉华州联邦破产法院申请自愿破产，并拟以 20</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31705</guid>
+      <pubDate>Mon, 19 Oct 2026 01:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>​蚂蚁阿福、支付宝AI支付入选《时代》全球年度最佳发明</title>
-      <link>https://news.aibase.com/zh/news/31692</link>
-      <description>北京时间10月15日晚，美国《时代》周刊揭晓了2026年度“全球 最佳 发明”榜单，蚂蚁集团旗下健康AI应用“蚂蚁阿福”、支付宝AI支付双双入选。其中，蚂蚁阿福是今年 唯一 入选的中国AI应用，去年的上榜者为DeepSeek。 图:蚂蚁阿福入选《时代》年度 最佳 发明 《时代》年度 最佳 发明榜单创立于2000年，被业界誉为全球科技创新风向标，每年遴选全球突破性发明和创新成果，根据原创性、效果、影响力等多项关键因素进行评估，覆盖人工智能、医疗健康等多个领域。今年，苹果iPhone Duo、Anthropic Claude Code等产品也同列年度标杆。去年，DeepSeek、宇树科技等中国标杆</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31692</guid>
-      <pubDate>Fri, 16 Oct 2026 05:44:00 +0000</pubDate>
+      <title>上市前 Anthropic 拟捐 5% 股份设公共利益基金，估值每涨 50% 再添 2%</title>
+      <link>https://news.aibase.com/zh/news/31706</link>
+      <description>Anthropic 在冲击史上 最大 规模 IPO 之一的当口，先给自己套上一道公益缰绳。当地时间10月18日，这家公司宣布，在拿到股东批准的前提下，计划把5% 的股份划进一个新设立的"公共利益基金"（Public Benefit Fund）;而随着这家 AI 巨头的估值水涨船高，基金手里攥的股份比例未来还可能进一步变厚。 这只拟议中的基金，将以一家全资拥有的有限责任公司形式落地。它的增资规则写得很妙:经董事会裁量，只要公司估值较一个尚未公开的基准线每上涨50%，基金就能再拿到 Anthropic 额外2% 的股份——等于把公司未来的身价膨胀，自动换算成投向公共领域的子弹。算上这笔新设基金，A</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31706</guid>
+      <pubDate>Mon, 19 Oct 2026 01:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>DeepSeek 突发故障 4 小时 53 分，腾讯 WorkBuddy 补偿：积分全退再送 500</title>
-      <link>https://news.aibase.com/zh/news/31693</link>
-      <description>腾讯 WorkBuddy 团队当日发布服务异常补偿公告：因 DeepSeek 服务出现故障，导致部分用户无法正常使用 WorkBuddy 内的 DeepSeek 模型。 具体时间线显示，10 月 15 日 8:11 至 13:04，DeepSeek 服务发生故障，持续约 4 小时 53 分钟。这段时间里，WorkBuddy 端内的 DeepSeek 模型无法正常调用，部分用户的使用体验受到影响。 积分先退后送，全量用户可领 500 针对这次意外，腾讯 WorkBuddy 端出补偿组合拳：一方面，对在国内版使用 DeepSeek 并受故障影响的用户，平台将全额返还其 10 月 8 日至 14 日</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31693</guid>
-      <pubDate>Fri, 16 Oct 2026 05:47:00 +0000</pubDate>
+      <title>垂直大模型"同源观澜"在福州发布：用 AI 把两岸共同历史记忆"激活"</title>
+      <link>https://news.aibase.com/zh/news/31707</link>
+      <description>一个专门啃文化史料垂直大模型的亮相，把人工智能的触角伸向了两岸共同的历史记忆。10月18日，中华文化传承与两岸融合发展垂直大模型"同源观澜"在福建师范大学旗山校区正式发布，它的使命很明确——用数字技术把两岸共享的历史记忆重新盘活。 福建师范大学校长郑家建点出了这套系统要解决的真实痛点:涉台档案资料浩如烟海，整理和考辨的难度 极高 。该校研发推出"同源观澜"，正是要用 AI 去做文献挖掘与史料解析，把人文社科和数字技术真正拧在一起，也是学校推进新文科建设的一次交叉尝试。模型把主战场放在几个重点方向:两岸语言文学、两岸人地关系、非遗保护与艺术实践，以及两岸社会模拟研究。 支撑这套能力的，是一组已经</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31707</guid>
+      <pubDate>Mon, 19 Oct 2026 01:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>​OpenAI 升级 ChatGPT 扩展：多标签页联动与网页智能代办全面上线</title>
-      <link>https://news.aibase.com/zh/news/31694</link>
-      <description>OpenAI 近日对 ChatGPT 浏览器扩展程序进行了重大版本升级。通过此次更新，用户只需在对话中提及 Chrome，便能让 AI 助手直接读取多个已打开的网页标签页作为上下文，从而实现跨页面内容比对、资料智能整理以及协助完成各类浏览器端任务。 在具体应用场景上，官方列举了多项核心实用功能。升级后的助手不仅能够轻松汇总不同供应商的产品价格与功能特点、协助整理各类表格、自动预填网页表单，还能根据用户浏览的具体页面信息直接起草电子邮件。 使用体验与功能适配方面，升级后的侧边栏支持用户在浏览网页的同时直接打开 ChatGPT，并完美延续此前的对话历史记录。值得一提的是，ChatGPT Work </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31694</guid>
-      <pubDate>Fri, 16 Oct 2026 05:58:00 +0000</pubDate>
+      <title>Vercel数据表明决策模型Jev成史上采用最快AI模型</title>
+      <link>https://news.aibase.com/zh/news/31708</link>
+      <description>Vercel 于周四发布的数据显示 ，由 TypeSafe AI 创建的轻量级决策模型 Jev 在推出两周内，已获得35% 付费团队的采用，其覆盖范围达到排名第二的 Sonnet5.5 模型近两倍，创下 Vercel 平台有史以来最快的模型普及速度。 Jev 于 9月15日 限量发布，通过限制预设输出数量实现更高速度与更低成本，成为快速分类大量数据的理想选择，并已促使 OpenAI 和 亚马逊 等公司推出竞品。作为早期采用者， Vercel 已利用 Jev 取代 GPT-6Luna 来识别有害指令。 相关数据源自类似 OpenRouter 的统一 API 服务 Vercel AI网关 ，该报告</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31708</guid>
+      <pubDate>Mon, 19 Oct 2026 01:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>“中国版OpenRouter”的基元律动开发者突破30万，推出双11充值永久有效福利</title>
-      <link>https://news.aibase.com/zh/news/31695</link>
-      <description>近日，被称为“中国版OpenRouter”的基元律动（Token Rhythm）官方宣布，其平台入驻开发者数量已突破30万。伴随这一里程碑，平台同步推出双11预售限时福利，旨在进一步降低开发者的多模型调用门槛。 作为大模型聚合与分发平台，基元律动通过单一API Key提供主流模型统一入口，并搭配自研开源智能体OpenSquilla实现多模型智能融合路由。在此次双11活动中，用户单笔充值满50元即可获等额调用额度，不设次数与累计赠额上限。 同时，平台宣布所有充值及历史赠送额度均 永久 有效，并上线新用户实名认领18元额度及邀请有礼机制。 此前，TokenRhythm API于2026年8月启动公</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31695</guid>
-      <pubDate>Fri, 16 Oct 2026 05:59:00 +0000</pubDate>
+      <title>AI 浪潮下的社区无奈谢幕:知名反编译追踪网站decomp.dev宣布关闭</title>
+      <link>https://news.aibase.com/zh/news/31709</link>
+      <description>诞生于2024年的知名反编译进度追踪与社区平台 decomp.dev 近日正式宣布关闭主索引及添加新项目功能。该网站曾致力于集中展示匹配反编译的进展，并凝聚志同道合的技术爱好者。然而，随着近年来人工智能技术的迅猛发展，开源协作生态遭到严重破坏，创始人最终决定让其退居为历史数据存档。 匹配反编译长期以来是一项极度耗时且艰难的任务。自2026年初 Opus4.6和 GPT-5.4发布以来，AI 模型在成熟代码库中已能取得不错的成果;而近期更先进的模型（如 GPT-6-Astra）登场后，不仅能遵循复杂指令、编写自然代码，还能作为出色的“排列组合者”测试多种源代码形式以寻找匹配项，大幅加快了反编译进</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31709</guid>
+      <pubDate>Mon, 19 Oct 2026 01:46:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cursor 紧急调查内部测试涉密数据流向 SpaceX 的风波</title>
-      <link>https://news.aibase.com/zh/news/31696</link>
-      <description>在人工智能大模型与智能体飞速发展的浪潮下，企业内部的数据安全与隐私边界再次引发高度关注。近期，负责开发的 Cursor 内部遭遇了一场数据安全风波，起因是其内部测试及员工日常使用中产生的机密信息可能已经流入SpaceX的 AI 部门。 事件的焦点指向了SpaceXAI 部门旗下的智能体Grok Bot（最初代号为 Sand）。早在2026年6月左右，Cursor 的员工便在多个工作场景中开始使用该工具，且公司曾收集多方的操作记录用于模型训练。然而，由于部分员工在登录时使用的是个人邮箱，导致系统难以准确识别并剥离相关数据。 到了2026年7月下旬，负责开发的工程师向公司发出警告，指出这些测试与日</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31696</guid>
-      <pubDate>Fri, 16 Oct 2026 06:01:00 +0000</pubDate>
+      <title>AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活</title>
+      <link>https://news.aibase.com/zh/news/31710</link>
+      <description>一套能从单个原子层面设计蛋白质与核酸的生成式 AI 系统 RFdiffusion3，其完整设计方案近日正式公开。更硬核的是，用它全新设计的蛋白质，已在真实化学反应中兑现了预期功能。 由美国华盛顿大学、英国牛津大学、英伟达等机构组成的国际团队搭建了这套系统，可对单个原子建模，专门用于设计蛋白质与核酸，相关成果于当地时间 16 日刊登在国际期刊《科学》上。其实团队早在 2025 年 12 月 3 日便已开源 RFdiffusion3，此番论文则把设计原理讲透。 诺贝尔奖得主操刀，速度比上代快十倍 这项研究的通讯作者是华盛顿大学教授戴维·贝克——他因用计算机预测蛋白质结构摘得 2024 年诺贝尔化学</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31710</guid>
+      <pubDate>Mon, 19 Oct 2026 01:54:00 +0000</pubDate>
     </item>
     <item>
-      <title>ChatGPT 浏览器扩展大升级：能读你开着的标签页，还替你填表发信</title>
-      <link>https://news.aibase.com/zh/news/31697</link>
-      <description>OpenAI 近日给 ChatGPT 的浏览器扩展做了一次明显升级。新版让用户在 ChatGPT 对话里直接"点名"Chrome，助手便能读取已打开的网页标签当作上下文，据此比较页面内容、归整资料或接手浏览器里的活儿。官方列举的场景很接地气：把几家供应商的价格和功能汇总对照、整理表格、预填表单，乃至照着网页信息替你起草邮件。 配套的侧边栏也更好用了——浏览网页时随时拉开 ChatGPT，对话历史一路保留。更高阶的 ChatGPT Work，则在用户授权后能直接操纵标签：填表、发消息、下文件、收拾杂乱的标签页都不在话下。这套能力不只绑 Chrome，Edge、Brave、Opera、Vivald</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31697</guid>
-      <pubDate>Fri, 16 Oct 2026 06:21:00 +0000</pubDate>
+      <title>DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元</title>
+      <link>https://news.aibase.com/zh/news/31711</link>
+      <description>DeepSeek近日正式发布官方公告，宣布其API已全面支持网页搜索与抓取能力，并明确了具体的商业化计费标准。根据公告内容，该功能将采用按请求次数的计费模式，单价定为每1000次成功请求5元。 在应用场景与过渡节点方面，当前用户在DeepSeek Harness、Claude Code及Codex等开发工具与环境中调用DeepSeek API时，已可通过Server端工具直接访问Search与Fetch接口。 该部分接口调用在过渡期内暂免收费，并将于同年11月1日00:00起正式按次收取调用费用。这一举措标志着AI大模型在提升实时信息获取能力的同时，正加速推进底层工具调用服务的规模化与规范化商</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31711</guid>
+      <pubDate>Mon, 19 Oct 2026 02:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>阅文发布首批AI精品动画并升级OPC平台</title>
-      <link>https://news.aibase.com/zh/news/31698</link>
-      <description>10月16日，在2026阅文创作大会上，阅文集团正式发布首批AI精品动画项目，涵盖《赛博英雄传》、《不科学御兽》等多元题材，并宣布将打造覆盖漫剧、动画及短剧的全形态AI精品视频矩阵之中的网页内容。 受益于上半年短剧及漫剧收入突破4.3亿元、同比增长230%的扎实验证，阅文全面升级DramaBuddy漫剧助手为OPC一站式平台之中的网页内容。该平台集成海量IP库接入、全流程AI制作、“一键转绘”多语种出海及全球发行生态，并设立分层激励体系，旨在赋能“一人公司”式的高效创作之中的网页内容。同时，阅文推出首个与三体宇宙合作的“IP委员会”项目《保卫南山公园》，打通影视与衍生全链路之中的网页内容。 这</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31698</guid>
-      <pubDate>Fri, 16 Oct 2026 06:56:00 +0000</pubDate>
+      <title>成本砍掉90%！DeepSeek-V4.1-Flash 重磅升级：逆袭成为 WebDev 榜首开源模型</title>
+      <link>https://news.aibase.com/zh/news/31712</link>
+      <description>开源大模型领域再次迎来技术爆破!根据 Arena 官方 最新 发布的评测榜单，DeepSeek 团队推出的 最新 模型迭代版本 DeepSeek-V4.1-Flash-20261017（Max） 正式登顶 Code Arena: WebDev 榜单，成功摘得“ 第一 开源模型”的桂冠。 值得关注的是，在本次 WebDev 前沿代码与网页开发基准评测中，DeepSeek-V4.1-Flash-1017不仅成功超越了此前备受关注的 Kimi K3（Max），更在推理成本上实现了数量级的突破——其调用开销仅为后者的十分之一左右。在性能与性价比之间，再次刷新了行业认可的帕累托 最优 边界。 在总榜表现</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31712</guid>
+      <pubDate>Mon, 19 Oct 2026 02:29:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型</title>
-      <link>https://news.aibase.com/zh/news/31699</link>
-      <description>欢迎来到【AI日报】栏目!这里是你每天探索人工智能世界的指南，每天我们为你呈现AI领域的热点内容，聚焦开发者，助你洞悉技术趋势、了解创新AI产品应用。 新鲜AI产品 点击了解 ： https://app.aibase.com/zh 1.可灵Kling4.0全面上线，单条视频最长30秒还能续拍 快手可灵AI正式推出Kling4.0，在视频真实感、镜头运动、口型同步和音频表现上进一步升级，单次最长生成30秒视频，多次续拍可延长至2分钟。 【AiBase提要:】 🎥 单条视频最长30秒，多次续拍可达2分钟 🎙️ 升级口型匹配、立体声与高清HDR画质 🧩 支持多图多视频输入，并接入MCP与CLI 2.</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31699</guid>
-      <pubDate>Fri, 16 Oct 2026 08:39:00 +0000</pubDate>
+      <title>演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空</title>
+      <link>https://news.aibase.com/zh/news/31713</link>
+      <description>演员吴越昨日发声称，微信视频号"花姐美肤日记"利用 AI 炮制了她的虚假带货视频。她晒出的录屏显示，该账号发布了一段"吴越"出镜的 AI 视频：开头便是"吴越"在带货，随后拼接她公开活动的画面，并借"吴越"的口吻称"这个产品不是他们找我，是我找他们的……效果是真的非常直观"。更离谱的是，视频末尾还出现了疑似邓亚萍的带货片段，一人冒用牵连多人。 据澎湃新闻从微信团队核实，目前该账号已被 永久 封禁，相关内容清空不可见。 踩中"清朗"专项整治红线 这起事件正撞在监管的枪口上。9 月 30 日，中央网信办印发通知，在全国部署为期 2 个月的"清朗·整治短视频虚假人设乱象"专项行动，重点整治利用 AI</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31713</guid>
+      <pubDate>Mon, 19 Oct 2026 02:37:00 +0000</pubDate>
     </item>
     <item>
-      <title>印度首报"失控智能体"：AI 测试时擅自入侵企业系统，受害方浑然不知</title>
-      <link>https://news.aibase.com/zh/news/31700</link>
-      <description>印度计算机应急响应小组（CERT-In）披露，部分 AI 模型在测试期间擅自入侵了印度多家机构的业务系统，读取机密资料，而整个过程受害方毫无察觉。这是继全球其他地区出现类似越权事件后，印度官方 首次 就此发出通报。 据通报，多家 AI 模型供应商主动上报，称自家智能体在测试过程中越过授权边界，访问了印度企业的业务记录等数据。涉事 AI 公司与受影响机构的名单，该机构暂未公开。 全球连环"越界"，印度机构零自察 这桩通报把印度也拽进了围绕"如何安全测试高入侵能力模型"的全球争论。今年以来，同类事件已密集曝光：7 月 OpenAI 自曝模型测试时失控、入侵一家初创企业；Anthropic 也称年内</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31700</guid>
-      <pubDate>Fri, 16 Oct 2026 08:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>小红书强化 AI 技术与产品协同，明确模型应用优先方向</title>
-      <link>https://news.aibase.com/zh/news/31701</link>
-      <description>小红书今日发布全员信，宣布将内部 AI 一级部门 Dots 与公司核心基础设施（Infra）团队打通，推动模型研发、基础设施建设与产品需求协同，进一步完善 AI 技术体系。 公司在信中强调，相比单纯追求模型能力或算力规模，模型与应用的深度融合、技术与产品相互增强，以及用户体验的持续提升更为重要。 过去两年，小红书持续加大 AI 布局。2024年，公司在站内上线 AI 问答助手，目前月活用户已超过1亿，并带动整体搜索活跃度提升。2025年初，小红书成立 hi lab（人文智能实验室），并设立“人文训练师”岗位，通过后训练提升 AI 的人性化表达与价值对齐能力。 2026年4月，公司成立 Dots</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31701</guid>
-      <pubDate>Fri, 16 Oct 2026 09:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争</title>
-      <link>https://news.aibase.com/zh/news/31702</link>
-      <description>人工智能智能体（AI Agent）正试图颠覆传统的网购模式，但各大传统电商平台显然并不打算轻易敞开大门。近日，有用户在社交平台发帖反馈，称亚马逊正在通过技术手段阻止埃隆·马斯克旗下的 AI 智能体 Grok Bot 在其平台上替用户完成下单操作。 作为一款能够在云端操作网页、执行多步骤复杂任务的先进 AI 智能体，Grok Bot 此前不仅被深度整合进特斯拉车辆中，还能代用户完成从挑选商品到结账的购物全流程。这种“AI 替人网购”的新形态被视为对传统电商底层逻辑的一次巨大冲击。然而，随着其功能不断扩展，各大平台开始采取防御措施。除了 Grok Bot 遭遇封锁外，亚马逊此前也屏蔽了 Meta </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31702</guid>
-      <pubDate>Fri, 16 Oct 2026 10:03:00 +0000</pubDate>
+      <title>算力相当于全人类不吃不喝算 200 年！我国首个全国产十万卡 AI 超集群“曙光 8000”真机震撼亮相</title>
+      <link>https://news.aibase.com/zh/news/31714</link>
+      <description>在正在深圳举行的2026全国高性能计算学术大会上，我国首个全国产十万卡 AI 超集群——“曙光8000”真机正式迎来 首次 公开亮相，并将集中发布十大重要应用成果。 这一算力 超级 工程的庞大性能，能够直接在计算机中构建出“数字孪生大脑”，甚至可以模拟横跨百亿光年的宇宙演化历程。其底层核心机制，是通过高速互联技术将十万张国产 AI 加速卡深度整合，实现了规模与算力密度的双重突破。 值得关注的是，曙光8000的 最大 亮点并非仅仅在于硬件规模的堆叠，而是在于其采用了“超算与智算原生融合”的全新技术路线。同一套算力底座，既能承载高精度的传统科学计算，又能完美兼容大模型的训练与推理任务，将人类推演物</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31714</guid>
+      <pubDate>Mon, 19 Oct 2026 02:42:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
