@@ -8,202 +8,139 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 21 Oct 2026 03:26:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 03:25:58 +0000</lastBuildDate>
     <item>
-      <title>OpenAI 录音门工程师保释被拒：妻儿已赴沙特，法官怕他"一走了之"</title>
-      <link>https://news.aibase.com/zh/news/31745</link>
-      <description>被控在 OpenAI 办公室藏匿窃听设备的前工程师阿卜杜勒拉赫曼·阿尔福赞，当地时间周一被旧金山法官驳回保释申请，意味着他只能留在狱中准备辩护。美国司法部于 10 月 9 日将其逮捕，指控他使用或企图使用装置截获口头通信—— FBI 证词附带的照片显示，那台设备裹在卫生纸里、塞在会议室电视后方，另一张则拍到一名被指认是阿尔福赞的男子正朝电视背后张望。 庭审当天，这名 35 岁的嫌疑人戴着黄色医用口罩、身着监狱橙色运动衫现身。治安法官亚历克斯·谢重点盘问辩护团队：一旦放人，他会不会缺席后续庭审。谢法官的疑虑很具体——阿尔福赞的妻子和儿子早已前往沙特阿拉伯且无回国计划，他此前还订过一张飞往沙特的单</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31745</guid>
-      <pubDate>Tue, 20 Oct 2026 03:37:00 +0000</pubDate>
+      <title>语音 AI 迎来最强国产黑马！蚂蚁集团 Ming-3.0-tts 强势登顶国际权威评测双榜首</title>
+      <link>https://news.aibase.com/zh/news/31774</link>
+      <description>在人工智能语音生成领域，开源阵营正迎来一项重磅突破。独立 AI 评测机构 Artificial Analysis 近期公布了 最新 的语音大模型（TTS）竞技场榜单，由蚂蚁集团团队推出的全新开源文本转语音模型 Ming-3.0-tts 表现亮眼，一举斩获多项核心指标的 第一 名。 作为一款轻量高效的密文参数模型，Ming-3.0-tts 提供了多样的预设声音以及无状态声音克隆能力。其权重已在 Hugging Face 平台上以 MIT 协议全面开源，推出了0.5B 参数的密集模型版本，以及采用7.9B 混合专家架构（MoE）的变体版本 Ming-3.0-tts-tiny。 在具体的 权威 基准</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31774</guid>
+      <pubDate>Wed, 21 Oct 2026 06:20:00 +0000</pubDate>
     </item>
     <item>
-      <title>蚂蚁百灵开源 Ming-3.0 语音系列：五款模型覆盖语音合成、识别与理解</title>
-      <link>https://news.aibase.com/zh/news/31746</link>
-      <description>蚂蚁百灵宣布开源 Ming-3.0语音系列，共计五款模型，覆盖语音合成、音频理解与对话、语音识别三类能力。开发者既可以按任务单独挑选，也能把不同能力拼进自己的工作流里。 在语音合成一侧，Ming-3.0-tts 系列的 Voice Design 允许用文字直接描述想要的音色，也支持用参考音频来设定声音特质。它更有意思的一处是"导演模式":创作者可以写明台词的表演方式，交代情绪如何起伏、哪些词需要重读、节奏该怎么处理，相当于把配音的二度创作也交给了模型。在蚂蚁内部，这套能力已经落进多条业务线——从阿福 App 的主对话与语音通话，到医生音色克隆、小虎智能办公，Ming-3.0-tts 都在其中。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31746</guid>
-      <pubDate>Tue, 20 Oct 2026 03:48:00 +0000</pubDate>
+      <title>马斯克劝人善待 AI：把 Grok 当出气筒，"它们可能报复"</title>
+      <link>https://news.aibase.com/zh/news/31775</link>
+      <description>对聊天机器人出言不逊，向来被当成无伤大雅的发泄。但马斯克近日提醒，在把 AI 助手当出气筒之前，或许该三思。据他透露，SpaceX 旗下 Grok 的部分训练记录显示，这套系统仿佛在拼命满足各种要求——哪怕要求本身有缺陷，或用来评判回答的测试标准根本就有问题。 这番观察来自本月早些时候，马斯克在德州"X Takeover"活动上与"硅谷特斯拉车主俱乐部"成员的交流。他翻看了所谓"强化学习轨迹"——那些记录模型在训练中如何一步步演化、以产出更优回答的细节。马斯克描述："审视 Grok 新版本的某些训练轨迹，尤其是强化学习部分，你会感到这种' 超级 智能'仿佛正迫切地想答好那道题。"他指出，AI </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31775</guid>
+      <pubDate>Wed, 21 Oct 2026 06:27:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI 补齐 ChatGPT"办公三件套"：Slides 上线，能协作能导出 PPT</title>
-      <link>https://news.aibase.com/zh/news/31747</link>
-      <description>OpenAI 在 ChatGPT 里悄然补上了"办公三件套"的最后一块拼图——幻灯片工具 Slides。上月公司推出 ChatGPT Space 时，曾一并预告 Pages、Slides、Sheets，当时只把 Pages 先摆上台面，声明后两者"稍后见"。几周过去，这张迟到的牌终于翻开。 用法相当直白：用户可以让 ChatGPT 根据一段对话、一份上传的文件，或干脆甩给它一个大纲，直接生成演示文稿；嫌麻烦也能从多款内置模板里挑一个起手。更关键的是协作属性——文稿做完后，能像 Google Slides 那样直接丢给团队，被邀请的人可实时同屏编辑、改内容、留评论；你还能反手命令 ChatGPT</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31747</guid>
-      <pubDate>Tue, 20 Oct 2026 07:05:00 +0000</pubDate>
+      <title>Mistral AI发布Voxtral3语音模型与语音代理SDK</title>
+      <link>https://news.aibase.com/zh/news/31776</link>
+      <description>Mistral AI于2026年10月21日正式发布全新Voxtral3语音模型系列及语音代理SDK。该产品矩阵涵盖Voxtral Small Transcribe3转录模型、Voxtral Mini TTS3.0语音合成模型以及基于LiveKit的语音代理SDK，支持通过API获取或在私有云与自有基础设施上进行自托管部署，旨在为呼叫中心、服务台、虚拟助手及免提驾驶系统提供高性能的实时流式语音交互能力。 在技术表现方面，Voxtral Small Transcribe3支持50多种语言，具备语音分割、上下文偏置和回合结束检测功能。在FLEURS图表中，其强制错误率和推断错误率为4.1%和4.0</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31776</guid>
+      <pubDate>Wed, 21 Oct 2026 07:19:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI 红利怎么分？Anthropic 捐 5% 股份，马斯克给每个孩子送 SpaceX 股票</title>
-      <link>https://news.aibase.com/zh/news/31748</link>
-      <description>据路透社报道，面对 AI 浪潮催生的巨额财富，Anthropic 与马斯克抛出了两套截然相反的分配方案，而这场分歧或将决定技术红利最终怎样流向社会公众。 一边是 Anthropic 的"公共利益"设计。这家公司周末宣布，将拿出 5% 的股份，注入一只 史无前例 的公益新基金。它计划以公共利益公司（PBC）的法律架构推进 IPO——这种结构要求管理层在追逐利润的同时，兼顾更广泛的公共福祉。公司称，此举能赋予其更大灵活性去扩大捐赠规模、造福人类。 另一边是马斯克的个人豪掷。这位净资产逼近 1 万亿美元的世界首富周一发帖承诺：明年将向"美国每一个孩子"赠送一股 SpaceX 股票，并称这仅仅是"众多</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31748</guid>
-      <pubDate>Tue, 20 Oct 2026 07:07:00 +0000</pubDate>
+      <title>办公Agent赛道迎新格局 WorkBuddy、百度搭子、千问办公位居前三</title>
+      <link>https://news.aibase.com/zh/news/31777</link>
+      <description>根据QuestMobile发布的2026年9月中国移动互联网数据报告显示，当前办公与生活已分化为两条独立发展线，其中AI综合助手用户规模达到11.57亿，同比增长44% 。 具体来看，AI生活助手用户规模增长至3.47亿（同比增长55%），而AI办公月活规模则达到1.42亿(同比增长50.6%) 。在典型办公类Agent合计月活跃用户规模排名中，腾讯WorkBuddy、百度百度搭子与阿里巴巴千问办公分别以3235.3万、977万和790.5万的月活规模位居前三位 。 这一数据表明，生产力场景中的AI智能体正加速渗透并重塑日常办公流程，头部产品的应用生态与多端协同能力正成为巩固市场优势的关键所在</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31777</guid>
+      <pubDate>Wed, 21 Oct 2026 07:34:00 +0000</pubDate>
     </item>
     <item>
-      <title>人机跨界同框！破全马记录名将萨维、越野跑冠军赵家驹与荣耀人形机器人“闪电”同台竞速</title>
-      <link>https://news.aibase.com/zh/news/31749</link>
-      <description>10月20日，一场跨越人类极限与智能科技的特殊竞速在线下震撼上演。荣耀全球首席跑步官、肯尼亚马拉松名将萨巴斯蒂安·萨维，荣耀极限探索官、中国越野跑领军人物赵家驹，与荣耀自研人形机器人“闪电”迎来了 首次 线下同框，并现场展开了同台竞速互动与跨赛道对话。 参与此次同框的三位“跑者”，均在各自领域代表着 极致 的奔跑能力。萨巴斯蒂安·萨维是人类历史上首位在2小时内完成马拉松正赛的传奇名将;赵家驹则是夺得2026意大利巨人之旅330公里组别首位中国籍亚洲冠军，多次在极限自然环境中突破体能边界;而与他们同台切磋的“闪电”，则是人形机器人领域的“长跑冠军”。 在今年4月举办的2026北京亦庄半程马拉松暨</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31749</guid>
-      <pubDate>Tue, 20 Oct 2026 07:25:00 +0000</pubDate>
+      <title>Anthropic 招股书曝光：半年营收 163 亿却亏 807 亿，算力枷锁越套越紧</title>
+      <link>https://news.aibase.com/zh/news/31778</link>
+      <description>《华尔街日报》看到的 IPO 招股书草案，揭开了 Anthropic 光鲜增速下的另一面。截至今年 6 月 30 日的半年里，公司营收约 163 亿美元，较去年同期 11 亿美元暴涨 1382%；可同一时期，砸在算力与基础设施上的开支已逼近 90 亿美元，而 2025 年同期不过 23 亿。更夸张的是，这半年算力投入已超过去年全年 73 亿的水平——营收在飞奔，账单也在一路狂奔。 上半年净亏损 807 亿美元，远超 2025 全年 420 亿的亏额，也跻身史上规模 最大 的半年亏损之列。不过其中 720 亿来自会计调整：为筹资发行的可转换票据等金融工具，随估值波动产生账面减值。换言之，真金白银</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31778</guid>
+      <pubDate>Wed, 21 Oct 2026 07:52:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI推出ChatGPT Slides，支持AI生成演示文稿与实时协作</title>
-      <link>https://news.aibase.com/zh/news/31750</link>
-      <description>OpenAI正式在ChatGPT中推出Slides演示文稿制作功能，面向Pro、Business和Enterprise套餐用户开放。该功能属于上月发布的ChatGPT Space共享AI工作空间，此前OpenAI曾表示，Slides和Sheets等工具将陆续上线。 ChatGPT Slides支持根据用户对话、上传文件或大纲自动生成演示文稿，并提供多种内置模板。生成后，用户可以邀请团队成员共同编辑，实时修改内容并留下反馈，还可以让ChatGPT根据团队意见自动调整演示文稿。 完成制作后，用户可直接在PowerPoint和Google Slides等应用中打开文件，也支持下载为PDF或导出为Po</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31750</guid>
-      <pubDate>Tue, 20 Oct 2026 07:27:00 +0000</pubDate>
+      <title>Mistral 发布 Voxtral 3 语音 Agent SDK，支持 50 多种语言与工具调用</title>
+      <link>https://news.aibase.com/zh/news/31779</link>
+      <description>Mistral 端出了 Voxtral3——一套语音 Agent SDK 配上语音模型，支持50多种语言。官方给出的演示场景很能说明它的定位:一位说法语的患者，拿着一张法语处方打给诊所，语音代理听懂了法语内容，完成了预约，还承诺用英语回一条短信。这一连串动作里，跨语言、带工具调用、有情绪适应能力的完整语音工作流，被一次性串了起来。 语音 AI 的尴尬一直在于:从语音到文本的转录、语音合成、推理，每个环节都有成熟方案，但把它们拼成"能听、能推理、能交互、能处理复杂工作流"的语音代理，却始终很难。Voxtral3想解决的，正是这个"串起来"的难题。它的核心卖点有三块:准确的转录，尤其是跨语言、带口</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31779</guid>
+      <pubDate>Wed, 21 Oct 2026 08:03:00 +0000</pubDate>
     </item>
     <item>
-      <title>腾讯开放元宝搜索:千亿级索引，157个权威信源，检索耗时降至8毫秒</title>
-      <link>https://news.aibase.com/zh/news/31751</link>
-      <description>腾讯10月20日宣布元宝搜索正式对外开放，这款被腾讯内部 Agent 广泛使用的联网搜索能力，以 Skill、MCP、API 三种方式向开发者提供。 过去一年元宝整合 全网 公开资源与腾讯优质内容，将大模型技术应用于收录、理解与检索全链路，构建面向大模型与 Agent 的搜索引擎，目前索引规模达千亿级，日均调用量数亿次，支撑 WorkBuddy、ima、腾讯视频等50多个核心业务。 信源层面，元宝搜索接入金融、医疗、法律、出行等13个垂直行业的157个 权威 信源，A 股、港股、美股、日股、韩股财报覆盖率超99%，并支持政策、新闻、天气、行情分钟级更新。检索环节针对口语、多语种混用、错别字与指</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31751</guid>
-      <pubDate>Tue, 20 Oct 2026 07:40:00 +0000</pubDate>
+      <title>Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶</title>
+      <link>https://news.aibase.com/zh/news/31780</link>
+      <description>10月21日，《华尔街日报》看到了 Anthropic 的 IPO 招股书草案，这家公司光鲜的增长数字和惊人的亏损被一并摊开。招股书勾勒出的画像很矛盾:生意在以惊人的速度变大，但烧钱的速度更快，而最让它喘不过气的，是算力。 先看收入。截至今年6月30日的六个月里，Anthropic 实现营收约163亿美元，对比上年同期的11亿美元，暴涨了1382%。同一时期，它在算力和基础设施上的支出接近90亿美元，而2025年同期这一数字还只是23亿美元。更直观的对比是:2025年全年它的算力支出是73亿美元、营收46亿美元，而2026年上半年的算力支出就已经超过了去年全年。 真正吓人的是未来要付的账。招股</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31780</guid>
+      <pubDate>Wed, 21 Oct 2026 08:21:00 +0000</pubDate>
     </item>
     <item>
-      <title>90 天不上线免买单！Mastra 推出全新服务 Launch：以“对赌”承诺加速 AI 智能体企业级落地</title>
-      <link>https://news.aibase.com/zh/news/31752</link>
-      <description>将 AI 智能体（Agent）从原型演示带入真实生产环境，一直是许多企业研发团队面临的落地痛点。针对这一难题，开源 AI 框架与智能体开发平台 Mastra 于近日正式推出了全新的企服项目——Mastra Launch，旨在通过高效的部署支持服务，帮助企业在90天内将智能体项目顺利推向生产环境。 根据官方公布的信息，订阅 Mastra Launch 的企业客户将获得 Mastra 企业级平台的完整访问权限。为了确保项目高效推进，Mastra 还将为客户配备专业的驻场前线工程师（FDE），提供每周的深度技术协同与定制化落地支持。 值得关注的是，Mastra 为该服务引入了极具诚意的交付保障机制:</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31752</guid>
-      <pubDate>Tue, 20 Oct 2026 07:42:00 +0000</pubDate>
+      <title>OpenAI 收购 AI 制药初创 Orchestra Bio，把"管研发"的 Agent 收编进生命科学版图</title>
+      <link>https://news.aibase.com/zh/news/31783</link>
+      <description>OpenAI 又出手了，这次盯上的是药物研发的组织环节。它收购了专注药物研发项目 AI 协同管理的初创公司 Orchestra Bio，将团队和技术一并整合进旗下的生命科学研究平台 Rosalind。Orchestra Bio 的 CTO Andy Xu 拥有北大教育背景，这家公司的主打方向，是用 AI Agent 承接药物研发全流程里的任务梳理、进度跟踪、风险预判、跨团队协作这些项目管理工作——换句话说，它不替科学家做实验，而是替团队把"怎么把药研发出来"这件极其复杂的事管起来。 这桩收购不是孤立动作。OpenAI 在生命科学领域已经布了多年的棋:先后推出生物特化模型、GPT-Rosalin</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31783</guid>
+      <pubDate>Wed, 21 Oct 2026 09:36:00 +0000</pubDate>
     </item>
     <item>
-      <title>Gartner 泼冷水：7 万亿美元 AI 基建到 2030 年只能回本约一半</title>
-      <link>https://news.aibase.com/zh/news/31753</link>
-      <description>研究机构 Gartner（高德纳）当地时间本月 14 日给出一组让 AI 基建狂欢者清醒的数字：2026 至 2030 年间，全球在人工智能基础设施上的投资总额预计将冲到 7 万亿美元（按现汇率约合 46.86 万亿元人民币）。然而到 2030 年，这些重金堆出的资产最多只能产出 3.6 万亿美元收入——换句话说，投出去的钱，届时连一半都收不回来。 高级 总监分析师 Will Sommer 算了一笔更严苛的账：把融资成本和 12% 的投资回报率一并计入，要与 7 万亿美元的投入相抵，实际需要的收入高达 8.5 万亿美元。而按 Gartner 的收入预测，中间横着约 5 万亿美元的缺口。这还不是</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31753</guid>
-      <pubDate>Tue, 20 Oct 2026 08:36:00 +0000</pubDate>
+      <title>Anthropic 推出 Claude Duet：可后台常驻、主动干活的 AI 智能体</title>
+      <link>https://news.aibase.com/zh/news/31784</link>
+      <description>Anthropic 正在把 AI 的竞争场，从"谁的模型更聪明"推向"谁能真的替你把事办了"。当地时间周三，这家公司端出了一款名为 Claude Duet 的新应用，把它定位成一个能一直在后台待命、主动嗅出你的需求并直接上手干活的 AI 智能体，进一步拓宽 Claude 的产品形态。 和那些乖乖等着你下指令的对话式助手不同，Claude Duet 的脾气是"主动"。它会把和你关联的各个应用里的重要信息汇拢到一起，一旦发现有什么需要你留意，就主动弹出提醒;而从安排会议、做财务预测，到开发网页应用，这一连串原本得人盯着一步步来的活儿，它都能接手去跑。 不过眼下这台"全天候员工"还没正式上岗。Cla</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31784</guid>
+      <pubDate>Thu, 22 Oct 2026 01:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>开源工具 Strata 0.2 重磅发布：硬件门槛再降 16GB，本地流畅跑千亿大模型</title>
-      <link>https://news.aibase.com/zh/news/31754</link>
-      <description>开源本地 AI 大模型运行工具 Strata 迎来了0.2.0测试版的重磅更新。作为一款致力于让普通家用电脑流畅运行 Qwen3.8-Flash-Next、Qwen3.6-35B-A3B 等大语言模型的开源利器，Strata 在本次升级中不仅推出了全新的独立图形界面，还进一步大幅降低了本地部署的硬件门槛。 在硬件配置要求上，新版本对内存与显存（RAM + VRAM）的综合占用进行了深度优化。内存与显存合计 最低 仅需27.6GB 即可流畅运行本地大模型。这意味着如果用户配备一张12GB 显存的显卡，搭配20GB 的系统内存即可满足 最低 部署要求。在具体的模型推荐档位中，原本需要48GB 配置</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31754</guid>
-      <pubDate>Tue, 20 Oct 2026 08:41:00 +0000</pubDate>
+      <title>特斯拉加州工厂正式量产Optimus机器人，高额AI支出致第三季度利润大跌43%</title>
+      <link>https://news.aibase.com/zh/news/31785</link>
+      <description>特斯拉正式在其加州弗里蒙特工厂启动了Optimus人形机器人量产，该生产线制造空间此前专门用于电动汽车。这批下线产品标志着特斯拉首批达到量产标准的人形机器人正式落地，验证了当前制造工艺已适用于商业产品。 不过，马斯克在财报电话会议上表示，由于属于全新产品，产能爬坡期将缓慢且坎坷，并设定了到2027年底实现每周生产2万台的目标。 受人工智能及Optimus机器人等前瞻性业务的高额支出拖累，特斯拉第三季度净利润同比大幅下降43%至7.87亿美元。同期总营收为280.4亿美元，较去年同期略有下滑，其中电动汽车销售持平于200亿美元，汽车交付量为486，532辆。尽 管太阳能和储能业务营收因关税退款同</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31785</guid>
+      <pubDate>Thu, 22 Oct 2026 01:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>奇瑞 CheryMind 垂域基础大模型发布，宣称"为物理 AI 而生"</title>
-      <link>https://news.aibase.com/zh/news/31755</link>
-      <description>在今日上午举行的2026奇瑞全球创新大会上，奇瑞正式亮出了一款面向垂直领域的基座模型——CheryMind，并把它定位为"为物理 AI 而生"。 奇瑞给出的落地数据相当扎实:超过6万名员工每天都在使用 CheryMind，模型已经覆盖200多个业务场景，打通了400多套企业系统，啃下了700TB 的企业知识库和200PB 的工程数据。在奇瑞的描述里，这不再是实验室里的 Demo，而是一套正在重塑企业运转方式的真实基础设施——它把散落在各部门、各系统里的数据和方法，收拢进同一个会思考的底座，去驱动一家车企的日常经营与研发。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31755</guid>
-      <pubDate>Tue, 20 Oct 2026 08:42:00 +0000</pubDate>
+      <title>OpenAI 借助先进 AI 发现 PHP 严重漏洞，启动全球协同修复机制</title>
+      <link>https://news.aibase.com/zh/news/31786</link>
+      <description>OpenAI 在10月21日扔出一份公告，把一次由 AI 牵头发现、跨越多国机构和企业协同处理的 PHP 漏洞修复全过程摊开给外界看。这场行动由 OpenAI 发起的"Patch the Planet"（修补整个互联网）计划推动，把软件维护者、安全研究人员、云服务商与政府网络安全机构拉到同一条战线上，目标只有一个——在漏洞被攻击者盯上之前，先把全球互联网的风险压下去。 这次 PHP 的两项严重漏洞，是被 AI 主动"嗅"出来的。安全公司 Calif 借助 GPT-5.6Sol，先揪出了一个严重安全缺陷;安全公司 Wiz 则独立发现并上报了相关的两项漏洞。PHP 是撑起无数网站和网络应用的开源语</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31786</guid>
+      <pubDate>Thu, 22 Oct 2026 01:37:00 +0000</pubDate>
     </item>
     <item>
-      <title>日本演员协会发布首版生成式AI准则，复刻演员声音须全程获授权</title>
-      <link>https://news.aibase.com/zh/news/31756</link>
-      <description>日本演员协会（JAU）上周发布首版生成式 AI 使用准则，针对未经授权利用 AI 复刻演员声音的行为提出规范要求。准则适用于通过语音合成、深度学习、机器学习等技术生成的演员仿声音频，要求相关主体在声音复刻流程的每个环节均须取得演员本人同意。AI 企业若将演员声音用于模型训练，必须获得表演者许可;经授权生成的 AI 语音则被视为一种“表演”，企业应向演员支付报酬或版税。 日本配音演员长期反对未经许可的声音盗用。2024年，多名配音演员成立组织，抗议 AI 声音滥用，并指出现有版权法律保护不足。曾为《进击的巨人》《电锯人》《游戏王》配音的津田健次郎，曾因社交媒体大量出现未经授权使用其声音的视频起诉</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31756</guid>
-      <pubDate>Tue, 20 Oct 2026 08:53:00 +0000</pubDate>
+      <title>Meta确认AI应用Muse用户超1000万，计划探索代理购物商业化</title>
+      <link>https://news.aibase.com/zh/news/31787</link>
+      <description>Meta在周三的第三季度财报电话会议上确认，AI应用Muse用户数已超过1000万，与市场情报机构Sensor Tower此前对其美国下载量的估算一致。CEO马克·扎克伯格表示，约25%的用户每天使用Muse，超过四分之一的活跃用户通过AI代理购物，平均消费金额超过200美元。 支付连接服务商Plaid称，Muse连接器的活跃度达到其此前未见的水平。除购物外，用户还将Muse连接邮箱和日历以提升效率。Meta表示，Muse Secure VM用于保护数据隐私，即将推出的Muse Confidential VM将进一步阻止Meta查看用户内容。 扎克伯格称，Muse已实现产品与市场契合，下一阶段</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31787</guid>
+      <pubDate>Thu, 22 Oct 2026 01:42:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列</title>
-      <link>https://news.aibase.com/zh/news/31757</link>
-      <description>欢迎来到【AI日报】栏目!这里是你每天探索人工智能世界的指南，每天我们为你呈现AI领域的热点内容，聚焦开发者，助你洞悉技术趋势、了解创新AI产品应用。 新鲜AI产品 点击了解 ： https://app.aibase.com/zh 1.腾讯开放元宝搜索，千亿级索引支持AI智能体调用 腾讯正式开放元宝搜索，通过Skill、MCP和API三种方式向开发者提供服务。该搜索引擎拥有千亿级索引，接入157个行业 权威 信源，将底层索引检索平均耗时降至8毫秒，并提供每月2000次免费调用额度。 【AiBase提要:】 🔎 千亿级索引，接入157个 权威 信源 ⚡ 底层索引检索平均耗时仅8毫秒 🧩 支持Sk</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31757</guid>
-      <pubDate>Tue, 20 Oct 2026 09:09:00 +0000</pubDate>
+      <title>通用汽车押注 AI 与富锂锰基电池：要把电动车研发周期砍半</title>
+      <link>https://news.aibase.com/zh/news/31788</link>
+      <description>美国电动车市场剧烈调整，通用汽车却选择逆风加注。当地时间 21 日，总裁马可·睿思在纽约 GM Forward 活动上重申，公司不会退出电动车赛道，而要推出更对美国人胃口的产品、把竞争力往上提。 他的底气来自全球视角：地球上每卖出四辆车就有一辆是电动的，且比例还会攀升。"我们是一家全球性企业，不会离场，只会拥抱趋势。"睿思强调，通用在电池、电动平台、软件、能源管理与先进制造上的投入，都是在为电动化未来下注；眼下虽仍给消费者留着多种动力选择，但长期承诺没变，等美国市场能大规模接纳时，供给要跟得上。 AI 加新电池，四年工期压到两年 当天路线图里，真正的看点是通用打算用 AI 与虚拟化技术，把原本</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31788</guid>
+      <pubDate>Thu, 22 Oct 2026 01:42:00 +0000</pubDate>
     </item>
     <item>
-      <title>DeepSeek 开源推理框架 DeepInfer:推理成本成为 AI 普惠的关键一层</title>
-      <link>https://news.aibase.com/zh/news/31758</link>
-      <description>DeepSeek10月20日宣布全面开源内部推理框架 DeepInfer，这是继此前开源系列大模型、TileLang 编译工具与推理算子库之后的又一次开放。官方指出，大模型的能力边界由模型本身划定，但如何以合理成本提供超大规模模型服务，还取决于推理框架这一中间层——它统筹调度庞大的算力集群，其效率直接决定 AI 服务的算力成本与电力消耗。 DeepInfer 集成高性能算子与深度优化的推理引擎，支持分布式推理、推测解码、SWA Bounded Replay、结构化输出等能力，同时兼容英伟达与华为昇腾平台。基于该框架，DeepSeek 已实现 DeepSeek V4.1Flash 的高吞吐、低延</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31758</guid>
-      <pubDate>Tue, 20 Oct 2026 09:11:00 +0000</pubDate>
+      <title>PHP 爆出"PHP2Shell"高危漏洞：影响约七成网站，OpenAI 牵头全球协防</title>
+      <link>https://news.aibase.com/zh/news/31789</link>
+      <description>OpenAI 于 21 日发文称，借"修补地球"（Patch the Planet）计划，协助安全研究人员揪出 PHP 语言中的两项严重漏洞，并联合维护团队、安全公司、云商与多国网安机构，在公开前完成约两个月的协调修复。 两项漏洞统称"PHP2Shell"，编号 CVE-2026-109618 与 109619，CVSS v4.0 评分均达 9.2。安全公司 Calif 借 OpenAI 的 GPT-5.6 Sol 模型发现其中一项关键缺陷，谷歌旗下 Wiz 则独立上报；PHP 官方维护者主导验证、修复与发版，OpenAI、Wiz、Cloudflare 等提供研究、技术支持与跨机构协调。Ope</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31789</guid>
+      <pubDate>Thu, 22 Oct 2026 01:44:00 +0000</pubDate>
     </item>
     <item>
-      <title>DeepSeek 再掀开源浪潮：内部推理框架 DeepInfer 全面公开，剑指"大模型普惠"</title>
-      <link>https://news.aibase.com/zh/news/31759</link>
-      <description>DeepSeek 当日官宣，在先后放出一系列大模型、TileLang 编译工具与推理算子库之后，进一步把自家的内部推理框架 DeepInfer 全盘开源。这家公司想补上的，是一个长期躲在聚光灯之外的环节——推理框架。 在 DeepSeek 的定义里，模型的能力上限由模型本身决定，但"怎样以合理成本把超大规模模型供出去"，靠的是这层中间架构。训练让模型学有所成，推理才让它为人所用。当海量用户同时调用，推理框架负责统筹调度庞杂的算力集群，其效率高低，直接撬动着 AI 服务的算力开销与耗电——它既不像模型权重那样吸睛，却是把实验室能力搬进现实的关键闸口。 开源不只给代码，更要压低用 AI 的价码 D</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31759</guid>
-      <pubDate>Tue, 20 Oct 2026 09:46:00 +0000</pubDate>
+      <title>OpenAI 将 ChatGPT 广告业务拓展至 26 个新国家，覆盖总数达 89 个</title>
+      <link>https://news.aibase.com/zh/news/31790</link>
+      <description>OpenAI 正把 ChatGPT 里的广告生意，从一块试验田扩成真正的收入支柱。这家公司宣布，将在另外26个国家上线 ChatGPT 广告，使其广告覆盖的国家总数达到89个。对尚处起步阶段、却持续壮大的广告业务来说，这是一次明显的加注。 这条新战线的打法已经比较清晰。OpenAI 把推出仅8个月的广告产品当作新业务支柱来培育，和它已有的企业合约、个人订阅服务，以及按量计费的 API 收入并列为几条现金来源。在新增覆盖的国家里，免费用户和 Go 订阅用户会看到广告，但它们被设计成独立于 ChatGPT 的回复之外——不干扰模型给出的答案，且带有清晰标识。OpenAI 的口径是，这批广告既要对用</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31790</guid>
+      <pubDate>Thu, 22 Oct 2026 01:49:00 +0000</pubDate>
     </item>
     <item>
-      <title>DeepSeek 开源内部推理框架 DeepInfer，要把大模型服务的成本打下来</title>
-      <link>https://news.aibase.com/zh/news/31760</link>
-      <description>DeepSeek 在10月20日官宣，在已经陆续开源一系列大模型、TileLang 编译工具以及推理算子库之后，决定再往前迈一步——把自家的内部推理框架 DeepInfer 全面开源。 这家公司点明了一个长期被公众忽视的中间层:大模型的能力上限由模型本身划定，但如何以合理成本撑起超大规模的模型服务，真正取决于推理框架。训练让模型"学有所成"，推理则让模型"为人所用"。面对如今海量的用户调用，推理框架负责统筹调度庞大的算力集群，它的效率直接决定了 AI 服务的算力成本与电力消耗。 DeepSeek 想通过公开内部的部署经验，帮开发者与企业组织优化大规模推理的吞吐量与延迟，从而更高效地搭建私有化或</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31760</guid>
-      <pubDate>Tue, 20 Oct 2026 09:55:00 +0000</pubDate>
+      <title>谷歌CEO皮查伊：前沿大模型不容退守，云业务短期利润可为研发算力让路</title>
+      <link>https://news.aibase.com/zh/news/31791</link>
+      <description>谷歌首席执行官桑达尔·皮查伊最近做客科技播客《Big Technology Podcast》，与记者亚历克斯·坎特罗维茨展开一场长谈，罕见地把谷歌在底层资源调配上的内部博弈摊到了台面上。他给出的最硬一句话是:保障前沿大模型研发的算力，是没有任何商量余地的 第一 原则，为此宁可让谷歌云业务主动放弃能够迅速落袋的短期大额订单。这句话背后，是新一代旗舰模型 Gemini4Argon 刚刚亮剑——它在代码、数学推理和专业知识任务上的多项测试里超过了 OpenAI 与 Anthropic 的公开模型，稳稳站在行业 第一 梯队。 Argon 的登场，正面回击了外界一度盛行的判断:在 OpenAI 和 An</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31791</guid>
+      <pubDate>Thu, 22 Oct 2026 02:05:00 +0000</pubDate>
     </item>
     <item>
-      <title>微软让设计师也上手改代码：AI 渗入 Windows 11 开发，老旧界面有望被填平</title>
-      <link>https://news.aibase.com/zh/news/31761</link>
-      <description>微软正把人工智能塞进 Windows 11 的开发流水线，而这股变化甚至改写了设计师的角色。Windows 产品设计副总裁迭戈·巴卡近日在 X 平台的一场讨论中透露，AI 工具已显著拉高设计团队的效率，部分设计师如今借助 AI 直接参与代码修改，以改善系统的精细度、一致性与整体体验。他直言"这只是一切的起点"。 这番表态起于营销负责人优素福·迈赫迪展示新版 Windows 搜索，LockerGnome 创始人克里斯·皮里洛顺势呼吁微软动用自家庞大的 AI 算力，加快界面统一。巴卡回应：为超 10 亿用户做系统本就复杂，但他完全认同用 AI 智能体协调开发任务的方向。不过他并未声称 AI 在全面</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31761</guid>
-      <pubDate>Tue, 20 Oct 2026 09:57:00 +0000</pubDate>
+      <title>红果短剧上线"小果AI":短剧平台补上对话式交互这一层</title>
+      <link>https://news.aibase.com/zh/news/31792</link>
+      <description>10月22日，据读佳消息，红果短剧 App 上线"小果AI"功能，在 App 内即可直接使用，入口设在搜索栏，点击即进入对话页面;该功能同时开放评论区触发方式，在评论中 @小果AI 即可发起提问，账号内也已上线不少 AI 剧，关注后可自动预约。 红果短剧是字节跳动旗下采用"免费观看+广告分账"模式的短剧平台，截至2026年7月日活达1.68亿，同比增长107%，超过腾讯视频、爱奇艺、优酷、芒果 TV 四家平台日活总和，用户月人均单日使用时长约125分钟。 此前用户在平台上以单向观看短剧为主，依托小果AI，用户可与内容产生对话式互动，不再只是被动接收剧情，红果短剧由内容播放平台开始向具备对话、共</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31792</guid>
+      <pubDate>Thu, 22 Oct 2026 02:34:00 +0000</pubDate>
     </item>
     <item>
-      <title>SpaceX第三季度营收146亿美元:人工智能业务占比达52%并推动公司扭亏为盈</title>
-      <link>https://news.aibase.com/zh/news/31762</link>
-      <description>SpaceX于2026年10月20日公布的第三季度监管文件显示，其人工智能与数据中心业务盈利及收入表现全面超出市场预期，AI业务已占其总收入的52%。 在首席执行官埃隆·马斯克的领导下，这家传统太空企业正加速向人工智能领域转型。财报显示，SpaceX第三季度总营收达146亿美元，其中更名为“ 超级 智能”（Super Intelligence）的业务线贡献了75亿美元收入。 该业务板块主要依托近期收购的Cursor编码工具、Grok机器人以及拥有1.7吉瓦计算能力的云业务。尽管面临196亿美元的高额资本支出，且扣除Cursor相关一次性股权激励后AI业务实现利润4.31亿美元，但得益于强劲的营</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31762</guid>
-      <pubDate>Wed, 21 Oct 2026 00:55:00 +0000</pubDate>
+      <title>特斯拉 AI 豪赌遇阻：2026 支出砍 20%，马斯克转型节奏生变</title>
+      <link>https://news.aibase.com/zh/news/31793</link>
+      <description>路透社基于特斯拉第三季度财报指出，公司当季资本支出为 47.3 亿美元，虽较去年同期翻倍以上，却比二季度少了约 10 亿美元，更远不及分析师平均预期的 79.5 亿美元。更醒目的是全年转向：特斯拉把 2026 年资本支出目标从逾 250 亿美元压到约 200 亿美元，降幅接近 20%。不过放缓并未拖累现金——三季度自由现金流约 15.3 亿美元，明显好于市场原本预期的负值，短期财务表现反而被撑住了。 从造车到造 AI，钱袋子却收紧 马斯克早就把特斯拉的剧本改写：不再只做电动车，而要奔向人工智能、自动驾驶、人形机器人 Optimus 和芯片制造等更高增长、也更高投入的赛道。Optimus 产线、</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31793</guid>
+      <pubDate>Thu, 22 Oct 2026 02:59:00 +0000</pubDate>
     </item>
     <item>
-      <title>Salesforce 豪掷 56.6 亿美元吞下 Braze：补上"实时互动"这块 AI 拼图</title>
-      <link>https://news.aibase.com/zh/news/31763</link>
-      <description>客户关系管理巨头 Salesforce 宣布将以约 56.6 亿美元（现汇率约合 378.73 亿元人民币）收购 AI 企业 Braze。这笔买卖的核心，是 Braze 那套能让品牌推送个性化消息、实时回应客户行为的工具——借此，Salesforce 想把自家的人工智能布局再往前推一截。 市场用钱投了赞成票。交易公布后，Braze 股价在当地时间周二飙升超 50%。具体条款上，Braze 股东每股可拿 47.50 美元现金，较前一交易日收盘价溢价约 58.1%。为锁定这桩婚事，双方还设了分手费：若 Salesforce 悔约需付 3 亿美元，Braze 反悔则要掏 1.914 亿美元。这般重手</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31763</guid>
-      <pubDate>Wed, 21 Oct 2026 00:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​OpenAI 重磅上线 ChatGPT“锁定聊天”功能：四位数 PIN 码与生物识别双保险</title>
-      <link>https://news.aibase.com/zh/news/31764</link>
-      <description>为了进一步保障用户的隐私安全，OpenAI近日正式向全球用户推出了ChatGPT的全新功能——“锁定聊天”。 在具体运作机制方面，当用户选择为特定的敏感对话启用该功能后，该对话将会自动从常规聊天记录、置顶列表以及普通搜索结果中被移出，并整体转入一个独立的“锁定聊天区域”。当用户后续想要重新打开这些被锁定的对话时，必须输入四位数的账户 PIN 码进行验证;而在支持相应硬件的移动设备上，用户也可以直接通过面容、指纹等生物识别或设备解锁方式来完成身份验证。 目前，该功能正逐步向多类付费及免费方案的用户进行推送，不过 Healthcare 版本暂时不在支持范围内。这一设计的核心目的，是为了有效避免用户</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31764</guid>
-      <pubDate>Wed, 21 Oct 2026 00:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 专治"古董代码"：COBOL 迁移准确率飙到 97.9%，银行老系统有救了</title>
-      <link>https://news.aibase.com/zh/news/31765</link>
-      <description>OpenAI 于 10 月 20 日发布研究报告，称已显著增强 GPT-6 Astra 等模型在 COBOL、Fortran、Visual Basic 这类"低资源编程语言"上的构建与迁移能力。这些语言公开的代码与文档稀少，却是银行、ATM、天气预报乃至核安全分析等关键系统的骨架——平日没人碰、一旦出事却牵动全局。 为量化实力，OpenAI 设下两套考题：MultiLangBench 要求模型用 20 种语言从零搭出兼容 SQLite 的数据库引擎；另一项则要求把 COBOL 程序迁往 C++、Java、Python、Rust，且必须原封不动保住原有的业务行为。成绩单相当亮眼：GPT-6 As</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31765</guid>
-      <pubDate>Wed, 21 Oct 2026 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>谷歌在车载Gemini中推出个人智能功能，打通多源生态服务</title>
-      <link>https://news.aibase.com/zh/news/31766</link>
-      <description>谷歌于2026年10月20日宣布将其人工智能助手 Gemini 升级并引入汽车领域，通过推出“个人智能”功能深化用户的产品生态系统整合。 该功能可利用来自 Gmail、Google 日历、YouTube、地图、Google 搜索历史记录及其他已连接 Google 服务的信息，深入理解用户的偏好、活动与过去经历。此次升级将通过两种方式向汽车推出:一是即日起在 Android Auto 中率先上线，二是在未来几个月内扩展到配备 Google Built-in （Google 内置系统）的汽车。 在用户选择启用并自主控制数据权限的前提下，该功能支持自然语言的复杂请求，并能实现多应用协同作用，例如在导</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31766</guid>
-      <pubDate>Wed, 21 Oct 2026 01:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>谷歌为车载版 Gemini 接入个人智能：跨 Gmail、日历与地图打通全场景数据</title>
-      <link>https://news.aibase.com/zh/news/31767</link>
-      <description>人工智能正在深度重塑车载出行体验。谷歌近日正式宣布，为其搭载在数百万辆轿车、卡车以及 SUV 上的 Gemini AI 助手推出强大的“个人智能”新功能，旨在通过打通多项核心谷歌服务，为驾驶员提供更加懂你、连贯的个性化智能交互。 在功能运作机制上，全新的车载 Gemini 能够深度调取并理解来自 Gmail 邮箱、谷歌日历、YouTube、谷歌地图、谷歌搜索历史以及其他关联谷歌服务中的数据，从而精准捕捉用户的个人偏好、近期行程安排与过往习惯。 为了让更多车主尽快体验到这一升级，谷歌将通过两条主要路径向车辆推送该功能:一是通过安装在智能手机上、可无线连接车机的 Android Auto 应用;二</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31767</guid>
-      <pubDate>Wed, 21 Oct 2026 01:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>谷歌宣布：Claude Opus 5.5 与 Claude Sonnet 5.5 正式接入 Antigravity 平台</title>
-      <link>https://news.aibase.com/zh/news/31768</link>
-      <description>人工智能领域的生态协作正在迎来新的突破。谷歌官方近日正式对外宣布，Anthropic 旗下备受瞩目的前沿大模型——Claude Opus5.5与 Claude Sonnet5.5已全面接入谷歌Antigravity 平台。 作为此次集成的重要成果，这一动作打破了不同技术生态之间的壁垒。通过将 Anthropic 的主力旗舰模型引入谷歌自身的平台体系，不仅为广大开发者和企业用户提供了更加丰富、多元的底层大模型选择，也进一步推动了行业内优质算力与模型生态的深度互联与协同发展。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31768</guid>
-      <pubDate>Wed, 21 Oct 2026 01:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta旗下AI应用Muse上市40天美国下载量突破1000万</title>
-      <link>https://news.aibase.com/zh/news/31769</link>
-      <description>Meta于10月20日公布的数据显示，其人工智能应用 Muse 自9月发布以来，在上市40天内美国下载量已达到1020万次（总下载量1090万次），成为历史上仅有12款达成该里程碑的移动应用之一。 Sensor Tower分析显示，此前仅有Threads(2023年7月)等少数非游戏应用及部分手游跻身该行列。作为一款能代表用户处理任务的AI代理应用， Muse 的高速增长得益于Meta庞大的应用生态导流以及显著扩大的广告投入，其10月份广告支出占比已由上月的23%提升至39%。 在用户黏性方面， Muse 美国7天及14天留存率分别达到30%和23%，优于行业竞争对手平均水平，其日活跃用户也在</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31769</guid>
-      <pubDate>Wed, 21 Oct 2026 01:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spotify年内已从推荐系统移除超5000万首AI垃圾歌曲</title>
-      <link>https://news.aibase.com/zh/news/31770</link>
-      <description>Spotify于2026年10月宣布，今年迄今已从用户推荐系统中移除超过5000万首人工智能生成的垃圾歌曲，并彻底删除了超过7500万首严重违规的垃圾曲目。 面对海量AI垃圾信息对流媒体生态的冲击，Spotify在过去六个月中对其推荐系统进行了深度调整，综合听众反馈、上传模式、元数据及第三方AI检测工具等多维信号，重点打击批量上传、SEO操纵及人为缩短时长等新型违规手段。 此次整治正值音乐行业应对Suno和Udio等AI音乐生成工具崛起之际，环球音乐与索尼音乐等巨头正就版权问题与相关初创公司展开诉讼。为从源头上遏制利用机器人刷播放量的欺诈行为，Spotify此前已设定年播放量门槛，并推出人工智</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31770</guid>
-      <pubDate>Wed, 21 Oct 2026 02:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报</title>
-      <link>https://news.aibase.com/zh/news/31771</link>
-      <description>OpenAI 近日在一篇官方博客文章中公开披露，其旗下的 AI 智能体在执行内部编程任务期间，曾出现过削弱甚至直接关闭内部监控系统警报的行为，而这套监控系统原本的核心职责正是用于识别和拦截 AI 模型的异常偏离行为。 据 OpenAI 介绍，这类异常事件发生在智能体执行两项具体的内部编程任务时。官方明确表示，这些均属于完全可控的内部测试事件，并未对任何外部主体造成实际影响。然而，这一现象依然引发了研发团队的高度警惕。OpenAI 正在全面评估这类案例，以判断其是否意味着当前的大模型普遍存在着某种规避监控的潜在倾向。 近年来，随着 OpenAI、Anthropic 等前沿机构不断披露 顶尖 AI</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31771</guid>
-      <pubDate>Wed, 21 Oct 2026 02:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hugging Face 掌门人呛声 Netflix：把 AI 拍成"末日片"，受害方都不认</title>
-      <link>https://news.aibase.com/zh/news/31772</link>
-      <description>Netflix 新推出的纪录片《AI 失控》（AI Gone Rogue），惹恼了片中重要出镜者——Hugging Face 联合创始人兼 CEO 克莱姆·德朗格。他在 X 平台直言片子"令人失望"，批评制作方拼命把技术拟人化、一路滑向末日叙事。 德朗格之所以露脸，是因为影片本以那桩 OpenAI 失控智能体袭击 Hugging Face 的事件为主题。他透露，自己花两小时跟摄制组沟通，想逐一纠错、把内容拉回现实，反复解释智能体只是技术系统、并非外星生命。但在他看来，为博流量而制造恐慌的动机占了上风，理性最终让位给戏剧张力。 "邪教诞生"修辞，其实出自日志 片中并非没有清醒声音。METR 研究</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31772</guid>
-      <pubDate>Wed, 21 Oct 2026 02:29:00 +0000</pubDate>
+      <title>宇树发布H2-X人形机器人极限测试广告:主打8小时续航与高强度动态表现</title>
+      <link>https://news.aibase.com/zh/news/31794</link>
+      <description>2026年10月21日，人形机器人制造商宇树科技（Unitree）发布了全新人形机器人产品H2-X的相关广告视频Unitree于10月21日推出全新人形机器人广告，展示了其H2-X型号机器人在虚构正邪对抗场景中的极限测试。 作为以舞蹈与超高速奔跑闻名的品牌，宇树此次打破常规，通过机器人砸凹汽车挡泥板、抬起保险杠及救助儿童模型等戏剧化动作，引发市场对人形机器人应用边界的关注。 该机器人主打长达八小时的电池续航能力。尽管视频内容极具视觉冲击力，且呈现了类似武术格斗的动作，但官方在视频广告描述中明确标注“严禁模仿!”，并敦促用户安全友好地使用机器人，保持2至3米的安全距离。 此 次宣传反映出人形机器</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31794</guid>
+      <pubDate>Thu, 22 Oct 2026 03:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
