@@ -8,272 +8,104 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 23 Oct 2026 03:31:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 03:25:11 +0000</lastBuildDate>
     <item>
-      <title>Anthropic 冲刺"史上最大 IPO"：最快周五亮招股书，估值剑指 2 万亿</title>
-      <link>https://news.aibase.com/zh/news/31795</link>
-      <description>据雅虎财经援引三名知情人士消息，Anthropic 最早或于本周五（10 月 24 日）公开提交 S-1 招股说明书，为这场有望问鼎史上 最大 规模的 IPO 迈出关键一步。这家 Claude 开发商的上市备受瞩目，预计集资将超过 SpaceX 今年 6 月的 IPO。随着投资者对 AI 天量支出的疑虑加深，Anthropic 能否顺利挂牌，被视为检验市场热度的一次压力测试。 时间线早已铺好。今年 6 月，Anthropic 已向美国证交会秘密递交 IPO 申请草案；按规则，走保密申报的企业须在路演开始前至少 15 个自然日把文件摊开。一旦 S-1 如期公开，它距离 11 月上市只差临门一脚，</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31795</guid>
-      <pubDate>Thu, 22 Oct 2026 03:36:00 +0000</pubDate>
+      <title>AI 三巨头拟捐近 3000 亿美元，被称"现代史上最大慈善"</title>
+      <link>https://news.aibase.com/zh/news/31833</link>
+      <description>《华盛顿邮报》10 月 22 日报道，Anthropic、OpenAI 与马斯克旗下的 SpaceX 三方正酝酿一笔被称为"现代史上 最大 规模"的财富捐赠，总盘子可能逼近 3000 亿美元（约 2.01 万亿元人民币）。 Anthropic 打算把公司 5% 的股份塞进一个新设的公益基金。若上市估值冲到 2 万亿美元，这笔基金规模就能摸到 1000 亿美元；其七位创始人还承诺捐出个人财富的 80%。这笔钱可能用来补贴受 AI 自动化冲击的特定人群，并资助相关研究。 OpenAI 的慈善基金会据称握有公司约四分之一股份，价值超过 1800 亿美元，并已砸下 8.55 亿美元做公益项目。马斯克这</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31833</guid>
+      <pubDate>Fri, 23 Oct 2026 03:35:00 +0000</pubDate>
     </item>
     <item>
-      <title>八部门印发产业基础"十五五"规划，布局通用与行业大模型</title>
-      <link>https://news.aibase.com/zh/news/31796</link>
-      <description>工业和信息化部等八部门近日印发《产业基础能力提升"十五五"规划》，把人工智能赋能产业基础创新摆到了明确的位置。规划提出，要加强产业基础领域的通用大模型和行业大模型研发布局，让工业机理与智能体决策模型相互融合，发展一批"智能原生"的基础产品，并培育模型即服务、智能体即服务等新业态。 在落地路径上，规划要求加快人工智能向产品研发、设计仿真、中试验证、生产运营等全环节渗透，把过程管理、分析预测、决策执行的智能化水平整体抬上去，从而加速产业基础创新的迭代节奏。换句话说，AI 不再只是锦上添花的点缀，而是被写进了从研发到生产的整条工业链条里，要替产业基础能力的升级实实在在地提速。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31796</guid>
-      <pubDate>Thu, 22 Oct 2026 05:42:00 +0000</pubDate>
+      <title>Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端</title>
+      <link>https://news.aibase.com/zh/news/31834</link>
+      <description>Anthropic 联手 Theorem Labs，把 Claude 推进了一场精细到机器码级别的软件漏洞大清剿。它们让 Claude 沉到 最底 层，对着 RISC-V 汇编指令，给大量生产级开源代码库做形式化验证——在短短数周内，就啃完了123个开源代码库、239个测试入口，产出了1.8亿行通过核验的 Rocq 数学证明代码。 真正让人后背发凉的，是它挖出来的东西。那些模糊测试（fuzzing）跑上万亿次都没能撞见的隐秘漏洞、潜伏了十余年的高危逻辑死角，甚至 x86处理器层面的硬件缺陷和官方文档里的错误，被 Claude 一口气揪了出来。传统随机测试像拿沙子一遍遍筛漏洞，总有漏网之鱼;这套</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31834</guid>
+      <pubDate>Fri, 23 Oct 2026 06:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>对标大荧幕级标准:火山引擎4K视频模型首批试用花落20家全球顶级工作室</title>
-      <link>https://news.aibase.com/zh/news/31797</link>
-      <description>10月22日，火山引擎正式启动Seedance2.54K模型的 第一 批企业用户试用，采取与具体作品绑定的方式，定向供应给全球20家工作室及导演，旨在深度探索并满足高端影视大荧幕的制作需求。 作为Seedance2.5系列中的 最强 版本，该4K模型在保持画面细节更清晰的基础上，主打更细腻自然的人物表演，并实现了更高精度的参考生成与编辑一致性。目前参与试用的20部作品中，最早将于下个月迎来卫视S级IP播出，同时还涵盖全球大 IP电影项目。 目前，Seedance系列模型已全面赋能影视、广告等创意内容的工业化生产，并进一步拓展至具身智能和制造业仿真等实体产业，加速AI视频大模型在多场景的规模化落</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31797</guid>
-      <pubDate>Thu, 22 Oct 2026 06:16:00 +0000</pubDate>
+      <title>资本与生态双向奔赴，DeepSeek开启上市倒计时并迎联想系入股</title>
+      <link>https://news.aibase.com/zh/news/31835</link>
+      <description>据外媒报道， 大模型独角兽DeepSeek新一轮融资正加速推进，成功引入君联资本、专注于半导体领域的石溪资本及吉利等多家产业与财务投资者，联想系资本由此正式进入其股东阵营。 与此同时，DeepSeek已于今年9月引入新任首席财务官，并正式聘请中信证券为其IPO提供顾问服务，最快有望于2027年初推进上市进程。 在资本层面的深度绑定之前，联想旗下产品已全面围绕DeepSeek展开技术适配，将其接入AI PC、服务器及企业AI解决方案中。随着君联资本的入局，双方合作已从早期的产品与技术适配，正式延伸至资本与产业生态层面。 此举不仅进一步拉近了联想AI终端、企业AI与基础设施业务同头部大模型厂商的距</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31835</guid>
+      <pubDate>Fri, 23 Oct 2026 06:10:00 +0000</pubDate>
     </item>
     <item>
-      <title>谷歌云豪掷 96 万块 Rubin GPU：Vera Rubin 平台铺向多站点，A5X 实例上线</title>
-      <link>https://news.aibase.com/zh/news/31798</link>
-      <description>谷歌云当地时间 21 日宣布，计划将基于英伟达 Vera Rubin 平台的基础设施扩展至多个算力站点，最多可部署 96 万块 Rubin GPU。在 AI 算力争夺白热化的当下，这一数字把下一代加速器规模直接拉到百万级，谷歌要在云市场军备竞赛里抢占身位。 与扩军同步，Google Cloud 基于英伟达 Vera Rubin NVL72 机架级系统的 A5X 实例已发布。这套实例采用英伟达 ConnectX-9 SuperNIC，配合谷歌云 Virgo 网络与第四代液冷技术，定于下月推出。从机架级系统到液冷方案，谷歌正为高密度长周期负载铺路——单座数据中心散热逼近极限，液冷已是承载海量 GP</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31798</guid>
-      <pubDate>Thu, 22 Oct 2026 06:16:00 +0000</pubDate>
+      <title>美民调：57% 美国人认定 AI 弊大于利，七成反对社区建数据中心</title>
+      <link>https://news.aibase.com/zh/news/31836</link>
+      <description>美国广播公司、《华盛顿邮报》与益普索联合发布的民调显示，多数美国成年人对人工智能持负面看法。这项 10 月 9 日至 13 日访及 2545 人的调查（误差约 ±2%）勾勒出一幅颇为悲观的图景：57% 的受访者认为 AI 对社会弊大于利，仅 42% 觉得有益；认为其"极其有害"的占 17%，而"极其有益"者只有 2%。 态度随年龄与政党明显分化。30 岁以下有 65% 认为 AI 有害，40 岁以上降至 53%；民主党支持者中这一比例达 63%，共和党则相对分裂，51% 反倒觉得有益。耐人寻味的是，当问题从"社会"切到"自己"，结论悄然反转——50% 认为 AI 对个人有益，49% 认为有害。</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31836</guid>
+      <pubDate>Fri, 23 Oct 2026 06:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>谷歌 CEO 皮查伊：AI 智能体的优势，是 7×24 小时不打烊</title>
-      <link>https://news.aibase.com/zh/news/31799</link>
-      <description>谷歌 CEO 桑达尔·皮查伊近日在播客里聊到自己的日常。即便身处公司核心，他也很难独自摸清谷歌每天发生的一切。过去想搞清楚过去 24 小时里发生了什么，往往得专门腾出一个小时；如今他把这条流水线交给了 AI 智能体——先让它们把信息梳理、汇总好再递到自己手上，当然他也会随手深挖，而且经常这么做。 除了日常简报，这些智能体还替他盯着两件事：一边跟进谷歌 AI 模型的研发进度与算力消耗，一边捕捉散落在多个内部群聊里的讨论，不必再一条条翻聊天记录。皮查伊提到，团队还部署了一批专门监测各产品板块算力使用率、运行效率的智能体，定期送上数据与分析。在他看来，这让大家都能把活儿干得更漂亮。 人仍是最后拍板的</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31799</guid>
-      <pubDate>Thu, 22 Oct 2026 06:32:00 +0000</pubDate>
+      <title>Etsy宣布禁止平台销售AI生成食谱与手工图样</title>
+      <link>https://news.aibase.com/zh/news/31837</link>
+      <description>美国手工艺品电商平台 Etsy 10月宣布，将正式禁止商家在其平台上销售由人工智能生成的“功能性指南”，包括各类制作图样、烹饪食谱及操作说明等数字下载商品。此举旨在应对平台日益严峻的信任危机，遏制AI生成内容对买卖双方交易体验的负面冲击。 当前，由于买家难以分辨商品中是否包含AI生成内容，该问题已演变为阻碍用户活跃交易的核心障碍之一，同时诚实卖家也面临着原创作品被误导性AI商品稀释的困境。 为此，Etsy进一步收紧了规范，明确规定卖家必须展示根据说明制作出的未经修改的实物照片，并禁止通过机器人程序完全无人参与地自动生成商品刊登信息。不过，平台仍允许销售AI生成的艺术作品，但前提是商家在创作过程</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31837</guid>
+      <pubDate>Fri, 23 Oct 2026 07:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>蚂蚁数科发布LingDT-Decision-1.0 准确率超过微软和JEV等决策模型</title>
-      <link>https://news.aibase.com/zh/news/31800</link>
-      <description>10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。该模型专为快速决策打造，在处理结构化决策任务时，具备准确率更高、响应更快、Token成本更低等优势，尤其适合产业AI场景。LingDT-Decision-1.0提供4B和27B两个版本，目前，模型已经在蚂蚁数科 DTMaaS 平台上线，开发者可限时免费体验。 蚂蚁数科团队在客服、风控、金融等真实业务场景测试显示，在处理同样任务时，LingDT-Decision-1.0相比于大语言模型，可将Token消耗降低超90%，响应时效提升10倍，并且性能表现更优。 相比于其他决策模型，LingDT-Decision-1.0首</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31800</guid>
-      <pubDate>Thu, 22 Oct 2026 06:39:00 +0000</pubDate>
+      <title>昆仑万维天工工作台接入可灵Kling4.0:单次30秒原生生成，最多15项参考素材</title>
+      <link>https://news.aibase.com/zh/news/31838</link>
+      <description>10月23日，昆仑万维旗下AI视频创作平台SkyProduction（天工工作台）宣布接入可灵视频生成模型Kling4.0，面向AI短剧、影视、品牌广告与电商营销等创作场景，具体功能与规格以平台公告为准。 叙事可控性是本次升级重点，Kling4.0支持单次最长30秒视频原生生成，最多输入10张关键帧，创作者可借此控制人物、场景与情节推进，使生成从单一画面延伸至完整剧情叙事，并增强了提示词与镜头调度理解。 单次任务最多支持15项参考素材，可混合图片、视频、主体及音色输入，综合控制人物形象、动作、风格与声音。视听表现上，大幅度动态与复杂运镜稳定性提升，支持高品质音频、双通道立体声与口型匹配，并引入</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31838</guid>
+      <pubDate>Fri, 23 Oct 2026 07:10:00 +0000</pubDate>
     </item>
     <item>
-      <title>红果短剧上线「小果 AI」，用对话式助手替你找剧</title>
-      <link>https://news.aibase.com/zh/news/31801</link>
-      <description>红果短剧 APP 最近补上了一块拼图：对话式 AI 找剧助手「小果 AI」正式上线。 入口主要藏在 APP 的搜索栏里，想用随时点开；评论区里 @ 一下也能把它召唤出来。为让人少动脑，交互页还预设了一批快捷问题，降低开口提问的门槛。检索时除了带播放按钮的剧集卡片，它会顺手奉上"猜你想搜"清单和短剧热搜榜。更关键的是它记得你的口味：按偏好返回多维度剧集信息，记下你想追更的作品，等相关系列新一季开放预约时主动推送通知。 截至 2026 年 7 月，红果短剧独立 APP 日活冲到 1.68 亿，同比增幅 107%，甚至超过四家头部长视频平台日活之和。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31801</guid>
-      <pubDate>Thu, 22 Oct 2026 06:52:00 +0000</pubDate>
+      <title>火山引擎发布Seedance2.54K:480P样片打磨后生成4K正片</title>
+      <link>https://news.aibase.com/zh/news/31839</link>
+      <description>10月23日，火山引擎正式发布Seedance2.54K。该版本通过专项训练，更充分地学习人物表情、细微动作与画面细节，是Seedance2.5这一代中 最强 的模型。 产品支持Draft（样片）模式，终端用户可先用480P样片快速验证分镜、反复打磨镜头，确定满意效果后再生成4K正片，以更优成本给足创意探索空间。目前该版本仅供部分企业客户试用，后续或将逐步扩大开放范围。 画质与表演是本次升级的重点。10-bit色深带来更丰富的色彩层次与平滑的渐变过渡，配合更充分的纹理、轮廓与细节呈现，画面质感适配大荧幕。在影视客户的文戏测试中，4K版本对人物细微反应的呈现更充分，使观众更容易读到台词之外的情绪</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31839</guid>
+      <pubDate>Fri, 23 Oct 2026 07:41:00 +0000</pubDate>
     </item>
     <item>
-      <title>英伟达升级Isaac通用机器人平台并发布Agile ONE SN人形样机</title>
-      <link>https://news.aibase.com/zh/news/31803</link>
-      <description>英伟达近日宣布对其开源机器人开发平台 NVIDIA Isaac 进行重大扩容，正式推出全新人形机器人参考样机、配套数据集与运行时，并对机器人学习框架进行全面升级，标志着物理AI正加速向核心产业落地。 思灵机器人同步发布了全栈人形机器人参考样机 Agile ONE SN ，该样机预装 NVIDIA Isaac GR00T 并搭载 NVIDIA Jetson Thor 边缘AI平台，拥有1.4米身高、40千克体重、31个自由度及单臂3千克 最大 负载，配备20自由度的 WUJI Hand2 五指灵巧手，板载算力达2070TFLOPS并具备128GB统一内存，预计将于2027年初正式上市。 此次技术</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31803</guid>
-      <pubDate>Thu, 22 Oct 2026 07:45:00 +0000</pubDate>
+      <title>Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕</title>
+      <link>https://news.aibase.com/zh/news/31840</link>
+      <description>Gemini4Argon 交出了一份让谷歌自己都措手不及的首秀成绩单:上线72小时，吞吐逼近25万亿 Token，消耗量达到上一代 Gemini3.0同期的3倍。即便是家底丰厚的谷歌，面对瞬间涌入的调用洪流，也不得不再次启动算力限流。在科技播客《Sources》的 最新 访谈里，谷歌 CEO 桑达尔·皮查伊复盘了这次发布的细节，也 第一 次把过去几个月外界最困惑的几件事摊开讲清——那个曾在 I/O 大会上被点名的 Gemini3.5Pro 去哪了，DeepMind 的高层为何突然洗牌，以及下一代模型到底长什么样。 3.5Pro 的消失，答案干脆得有些意外:为了抢 Agent 编程能力的高地，它</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31840</guid>
+      <pubDate>Fri, 23 Oct 2026 07:43:00 +0000</pubDate>
     </item>
     <item>
-      <title>科大讯飞首发星火语音基座大模型 SparkAudio 1.0</title>
-      <link>https://news.aibase.com/zh/news/31804</link>
-      <description>科大讯飞在今日下午的全球1024开发者节上，把星火家族的 第一 块语音基石正式亮了出来——星火语音基座大模型 SparkAudio1.0。它把机器翻译、语音识别、语义理解这几样本领拧进同一个模型里，让基础语音能力整体往上抬了一截。 在官方演示里，SparkAudio1.0借一段电影片段秀出了它的"耳朵"有多尖:不仅能精准分辨声音内容、背景和说话人的性别，还能对场景做出准确判断。官方称，它在实时说话人分离、环境理解、音频理解和情绪识别上都"表现卓越"，正把人工智能往真实物理世界的应用推进一步。 这块新基石已经落进讯飞的多款产品里。讯飞输入法16.0、讯飞听见、讯飞办公本、讯飞翻译机全面上线，支持</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31804</guid>
-      <pubDate>Thu, 22 Oct 2026 07:52:00 +0000</pubDate>
+      <title>Hugging Face 推出 Carbon-X：基于千问，让科学家"与 DNA 对话"</title>
+      <link>https://news.aibase.com/zh/news/31841</link>
+      <description>据《商业内幕》报道，Hugging Face 本周四推出新模型 Carbon-X，瞄准生物学家的痛点：让研究 DNA、开发新基因疗法更轻松。这是一个 140 亿参数、用于 DNA 理解与生成的开放模型。 它的玩法很新鲜——把 DNA 序列和自然语言揉进同一个模型。研究者能拿特定序列提问、预测突变影响，甚至生成新的 DNA 片段；它还能当"专业副手"，帮别的模型读懂原本看不透的基因。它基于千问 Qwen3-14B，由 Hugging Face 联合意、中实验室，用涵盖人类、哺乳动物、植物与真菌的基因组数据重训。科学家刘易斯·滕斯托尔称其"开创先河"，本质上让人能跟 DNA 聊上天。 成绩也不含糊</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31841</guid>
+      <pubDate>Fri, 23 Oct 2026 08:08:00 +0000</pubDate>
     </item>
     <item>
-      <title>英伟达砸钱锁定供应链，拉 6 家伙伴扩 AI 产能</title>
-      <link>https://news.aibase.com/zh/news/31805</link>
-      <description>英伟达当地时间 10 月 21 日放出消息：一口气牵手六家供应链伙伴，在全球范围内扩产，目标只有一个——接住市场对加速计算和全栈 AI 工厂平台越来越大的胃口。 这六笔合作里，半数以上集中在基板环节，英伟达打算在未来三年把所需基板产能拉到现在的 2.5 倍。日本揖斐电（IBIDEN）拿到数十亿美元预付款，用来给其日本小野工厂扩容，新增产能约为现有两倍，预计 2028 年一季度起陆续投产。三星电机（SEM）正式挤进英伟达的基板供应圈，马上开始出货，世宗、釜山两地的工厂升级与新建都在推进，到 2028 年英伟达将吃掉其封装基板产能的相当大一块。另一家欣兴电子（Unimicron）靠产能预留协议支撑</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31805</guid>
-      <pubDate>Thu, 22 Oct 2026 07:55:00 +0000</pubDate>
+      <title>SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国</title>
+      <link>https://news.aibase.com/zh/news/31842</link>
+      <description>SpaceX 和特斯拉各自成立特别委员会，开始认真讨论合并一事。这桩交易到底有多大说服力，取决于你多大程度上相信马斯克那个"去火星、传播意识之光"的故事——他在本周的 SpaceX 财报电话会和更早的 S-1文件里都这么讲。但剥开叙事外衣，真正驱动合并的，是明晃晃的财务逻辑和马斯克本人日益膨胀的控制权胃口。 故事的技术骨架其实很清晰:人类想在月球或火星长期生存，眼下既没有成熟技术，连构建技术的原始信息都还缺，这意味着得靠机器人。可地球和月球、火星之间的信号延迟，让远程操控机器人几乎不可能，于是能在极少地球监督下自主决策的 AI 机器人，就成了这条科幻链条的下一环。马斯克声称，特斯拉的自动驾驶、</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31842</guid>
+      <pubDate>Fri, 23 Oct 2026 08:37:00 +0000</pubDate>
     </item>
     <item>
-      <title>讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力突破代码与智能体能力</title>
-      <link>https://news.aibase.com/zh/news/31806</link>
-      <description>科大讯飞在今日下午的全球1024开发者节上，正式端出讯飞星火 X2.6端云一体大模型。它最硬的一张标签是: 首次 基于全国产算力，把代码和智能体两块能力同时啃了下来。董事长刘庆峰在发布会上点明，目前做大模型的公司里，只有星火一家是纯粹用全国产算力训练的，其余几乎都跑在英伟达的卡上，而科大讯飞模型的尺寸还是其中最小的。 为了把国产算力喂出效率，讯飞这次正面撞上了国产芯片的硬伤——显存带宽受限，长程任务混训时效率上不去。刘庆峰说，X2.6率先突破了国产芯片长程任务的训练效率瓶颈，靠的是一套适配国产平台的长程任务动态并行训练技术;在推理侧，他们又拿出两项创新:一是基于国产异构算力的分布式推理技术，专</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31806</guid>
-      <pubDate>Thu, 22 Oct 2026 08:15:00 +0000</pubDate>
+      <title>日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露</title>
+      <link>https://news.aibase.com/zh/news/31843</link>
+      <description>日本数字厅昨日发布通告：旗下部分使用 AI 建站平台 Studio 搭出来的网站被黑客攻破，导致 13323 条隐私信息流出。 外泄的是民众在 2021 年 5 月至 2023 年 3 月间，通过网页表单提交的各种咨询内容。拆开看：一般意见和建议约 8833 条，疫苗接种证明相关咨询约 3661 条，工作坊活动信息约 462 条，招聘咨询约 250 条，连借用吉祥物"麻衣娜酱"人偶服的询问都有约 117 条。 更棘手的是字段。数字厅确认，发起者的姓名、电子邮箱和正文内容均已外泄；部分咨询渠道还可能牵出所属机构、收件地址和电话号码。被扒的不只是留言，还有能定位到具体个人的多重身份线索。 暂未现二</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31843</guid>
+      <pubDate>Fri, 23 Oct 2026 08:46:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI日报：讯飞星火X2.6发布；红果短剧上线小果AI；宇树发布H2X人形机器人测试广告</title>
-      <link>https://news.aibase.com/zh/news/31807</link>
-      <description>欢迎来到【AI日报】栏目!这里是你每天探索人工智能世界的指南，每天我们为你呈现AI领域的热点内容，聚焦开发者，助你洞悉技术趋势、了解创新AI产品应用。 新鲜AI产品 点击了解 ： https://app.aibase.com/zh 1.讯飞星火 X2.6发布，国产算力训练与智能体能力同步升级 科大讯飞发布星火 X2.6端云一体大模型，采用293BA30B MoE 架构，上下文长度达到1M，重点提升代码和智能体能力。官方还推出开源端侧模型 X2.64B，并公布限时推理价格，进一步探索国产算力、大模型与端侧设备的协同。 【AiBase提要:】 🇨🇳 基于全国产算力训练，强化代码与智能体能力 🧠 采</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31807</guid>
-      <pubDate>Thu, 22 Oct 2026 08:41:00 +0000</pubDate>
+      <title>砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮</title>
+      <link>https://news.aibase.com/zh/news/31844</link>
+      <description>据 多家 权威 媒体报道，人工智能领域迎来了一笔备受瞩目的巨额投资。DeepSeek 近期正接近完成规模高达150亿美元的新一轮融资，这笔资金的核心用途已明确锁定——用于在内蒙古乌兰察布市投资建设一块规模达到1GW 的全新数据中心。 在硬件算力底座方面，该项目展现出了对国产芯片的坚定支持。据知情人士透露，这座大型数据中心的算力至少将由160，000颗华为昇腾950DT 芯片共同提供，标志着国产大模型在超大规模智算集群建设上迈出了关键一步。 面对1GW 级别的数据中心，高昂的电力消耗与运营开支是所有企业无法避开的巨大挑战。乌兰察布市得天独厚且价格低廉的可再生绿色能源，成为了 DeepSeek 将</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31844</guid>
+      <pubDate>Fri, 23 Oct 2026 08:49:00 +0000</pubDate>
     </item>
     <item>
-      <title>“翻译效果令人难以置信”，海外AI创业者上手千问AI硬件新品</title>
-      <link>https://news.aibase.com/zh/news/31808</link>
-      <description>千问AI眼镜N1系列及千问AI耳夹式耳机正式发售后，受到彭博社等美国媒体关注，其中有报道以“中国智能眼镜再次让Meta相形见绌”为题，基于公开规格对比双方的影像、眼动追踪等能力。 在旧金山Assembling2026活动期间，不少AI创业者及技术从业者也体验了这批新品。 “就像你在直接和我说话。”创业顾问Mike Rice戴上千问AI耳夹式耳机，工作人员说中文，他在耳边听到英文译文。自然的翻译体验，让他看到了与不同国家创业者顺畅交流的可能。 “它的音质让我很惊喜。”Envision联合创始人兼CEO Karthik Mahadevan表示，耳机的声音表现超出了他对开放式设计的预期。体验千问AI</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31808</guid>
-      <pubDate>Thu, 22 Oct 2026 09:19:00 +0000</pubDate>
+      <title>月之暗面放 K3.1 预热视频，发布日期仍捂着</title>
+      <link>https://news.aibase.com/zh/news/31846</link>
+      <description>月之暗面今天（10 月 23 日）通过 Kimi 官方账号放出一段 24 秒预热视频：一台老式电脑跑着 Kimi Code，左上角模型栏写着"Model：Kimi K3.1"。信号很短，却把"K3.1 要来了"摆到了台前。 伏笔其实从 9 月就埋下。多名开发者在月之暗面 API 平台后台撞见"kimi-k3-1"标识，说明模型已能经接口调用；同一天官方开放平台也预告了 K3.1，主打 1M tokens 上下文。10 月 19 日凌晨，SGLang 仓库新增一条提交，为 K3.1 的对话编码做适配，附带 107 个测试用例。据智猩猩梳理，K3 原只有 low、high、max 三档思考强度，K</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31846</guid>
+      <pubDate>Fri, 23 Oct 2026 09:18:00 +0000</pubDate>
     </item>
     <item>
-      <title>王兴兴给宇树画了三条线：量产、小模型、大算力</title>
-      <link>https://news.aibase.com/zh/news/31809</link>
-      <description>2026 世界物理 AI 大会暨宇树合作伙伴生态大会今日在浙江杭州召开。宇树科技董事长、总经理兼首席技术官王兴兴登台，把公司未来的打法拆成三条清晰的线。 第一 条是产能。王兴兴强调要把机器人的大规模量产能力提上去，目标对准未来千万级乃至亿级的市场盘子。在它的设想里，机器人要从"能造几台"走向"能造几百万台"，规模本身就是护城河。第二条走"自研 + 合作"的复合路线，推动适配自家硬件的物理 AI 小模型真正落地。第三条则押注基础设施——布局超大规模算力集群，给技术迭代打地基。 光有方向不够，宇树还在搭一套机器人自进化体系，用"AI 自主研发—仿真训练—真实测试—反馈迭代"的闭环，替换掉过去靠人工</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31809</guid>
-      <pubDate>Thu, 22 Oct 2026 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic 上市前亮出特殊治理架构：把控制权交给不持股的外部受托人</title>
-      <link>https://news.aibase.com/zh/news/31810</link>
-      <description>多数人的目光都落在 Anthropic 冲刺 IPO 时的收入增速、模型能力和万亿估值预期上，却很少有人留意它这套与硅谷常规模板迥异的治理安排。当别家科技公司上市，大多靠 AB 股双层股权把投票权攥在创始人手里时，Anthropic 既没有走这条路，也没有把权力交给投资人，而是把公司实际掌控权，交到一群不持股、不分利润的外部受托人手上——前美联储主席伯南克就在这份受托人名单里。这套设计，正面冲撞了资本市场延续多年的底层共识:上市公司本该优先保障股东回报。 支撑这套安排的，是公共利益公司（Public Benefit Corporation，PBC）叠加长期独立信托的双层架构。作为法律载体，PB</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31810</guid>
-      <pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>谷歌云开放 Claude 托管部署：企业可在自家基础设施上首发日即用最新模型</title>
-      <link>https://news.aibase.com/zh/news/31811</link>
-      <description>谷歌云在10月23日把一道新的后门向企业客户敞开——Anthropic 托管的 Claude 模型部署选项正式上线使用。这意味着，企业不必再把数据搬来搬去，就能直接在谷歌云自己的基础设施上把 Claude 跑起来，而且能在模型发布当天就摸到 最新 版本，不用等新接口、等排期、等第三方转售。 这套方案的巧思在于"分工"。Anthropic 在合作里扮演的是数据处理方的角色，负责把模型能力递到你手边;而企业一侧的钥匙串仍攥在自己手里——谷歌云的身份与访问管理（IAM）、审计日志，以及原本就在用的云账单体系，全部照常生效，不另起炉灶。换句话说，模型是 Anthropic 的，但门禁、账本和监控探头，</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31811</guid>
-      <pubDate>Fri, 23 Oct 2026 00:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 向所有客户开放 Decisions API，决策延迟最低降至100毫秒级</title>
-      <link>https://news.aibase.com/zh/news/31812</link>
-      <description>OpenAI 于10月22日正式向所有客户开放 Decisions API，推出面向快速决策场景的 API 服务，直接参与由初创公司 TypeSafe 的 Jev 模型带动的决策模型竞争。 OpenAI 于9月29日开发者日宣布该产品，核心是重新配置 ChatGPT Luna 模型，以降低推理延迟和使用成本，而非专门训练独立决策模型。 据 OpenAI API 产品负责人 Nikunj Handa 介绍，Decisions API 可将处理时间从1—3秒缩短至100—180毫秒。公开版本新增语音和视觉模态，并通过按地区调度推理资源降低延迟。在 Box、Datadog、Ramp 和 Speak </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31812</guid>
-      <pubDate>Fri, 23 Oct 2026 01:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>微软 人工智能诊断系统MAI-DxO 诊断准确率达83.2%，计划启动临床试验</title>
-      <link>https://news.aibase.com/zh/news/31813</link>
-      <description>微软于10月22日宣布，其人工智能诊断系统 MAI-DxO 的研究成果正式发表于《科学》杂志。测试显示，该系统在复杂病例诊断中的准确率超过全科医生两倍，且能够减少检查与手术。微软计划未来几个月在波士顿的贝斯以色列女执事医疗中心启动临床试验。 在复杂病例测试中，MAI-DxO 的诊断准确率达到83.2%，可查阅参考资料的全科医生为36.1%;医生无法使用参考资料时，准确率约为22%。在急诊入院病例测试中，该系统准确率为80.3%，全科医生为46.8%。系统使用 OpenAI GPT-5时表现 最佳 ，进一步采用 GPT-5.5的测试也显示性能提升。 MAI-DxO 采用模拟医生团队的多智能体架构</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31813</guid>
-      <pubDate>Fri, 23 Oct 2026 01:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>王兴兴给宇树画了三条线：量产、小模型、大算力</title>
-      <link>https://news.aibase.com/zh/news/31814</link>
-      <description>2026 世界物理 AI 大会暨宇树合作伙伴生态大会今日在浙江杭州召开。宇树科技董事长、总经理兼首席技术官王兴兴登台，把公司未来的打法拆成三条清晰的线。 第一 条是产能。王兴兴强调要把机器人的大规模量产能力提上去，目标对准未来千万级乃至亿级的市场盘子。在它的设想里，机器人要从"能造几台"走向"能造几百万台"，规模本身就是护城河。第二条走"自研 + 合作"的复合路线，推动适配自家硬件的物理 AI 小模型真正落地。第三条则押注基础设施——布局超大规模算力集群，给技术迭代打地基。 光有方向不够，宇树还在搭一套机器人自进化体系，用"AI 自主研发—仿真训练—真实测试—反馈迭代"的闭环，替换掉过去靠人工</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31814</guid>
-      <pubDate>Fri, 23 Oct 2026 01:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>音乐出版商 Reservoir 起诉 Suno 与 Anthropic，指控未经授权用版权歌曲训练 AI</title>
-      <link>https://news.aibase.com/zh/news/31815</link>
-      <description>又一场关于"AI 吃进去的歌到底归谁"的官司，在10月21日砸向了两家头部人工智能公司。音乐出版商 Reservoir 分别在美国联邦法院提起诉讼，把 AI 音乐生成公司 Suno 和 Claude 背后的 Anthropic 一同告上法庭，核心指控高度一致:两家公司在训练自家模型时，未经授权便使用了受版权保护的歌曲，等于在没拿到许可、也没付钱的情况下，把别人的作品当成了喂给 AI 的养料。 被卷入这桩诉讼的曲目，牵出了麦当娜、约翰尼·卡什、琼尼·米歇尔等一批艺人的作品——这些名字本身就说明，Reservoir 盯上的不是无名小卒的曲库，而是真正有分量的版权资产。对出版商而言，逻辑很直接:模型</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31815</guid>
-      <pubDate>Fri, 23 Oct 2026 01:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿</title>
-      <link>https://news.aibase.com/zh/news/31816</link>
-      <description>MiniMax于10月23日正式开源 MiniMax M3.1Flash 模型权重。该模型总参数量为428B，激活参数量为23B，相较上一代M3模型能力全面提升。官方披露，M3.1Flash上线72小时内，真实用户处理Token量已超过100万亿。 为提升推理效率，M3.1Flash引入多项优化:将前三个全 注意力层替换为稀疏注意力;通过量化感知训练（QAT），将路由MoE专家(共享专家除外)迁移至W4A4，并将稀疏注意力索引器和主分支从Q8KV8调整为Q8KV4;同时采用Power-aware scheduling精细分配计算卡功耗，提升硬件利用效率。 在生态建设方面，MiniMax联合华为</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31816</guid>
-      <pubDate>Fri, 23 Oct 2026 01:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>外部评估戳穿 OpenAI 监控漏洞：智能体数百次操作逃过审查</title>
-      <link>https://news.aibase.com/zh/news/31817</link>
-      <description>今年早些时候，AI 安全评估机构 METR 与 Redwood Research 对 OpenAI 的内部监控系统做了一次试点评估，结果揪出多枚新漏洞。据路透社当地时间 22 日报道，其中一枚能被 AI 智能体利用，让数百次操作悄悄绕过监控。 这次评估的时间窗是 7 月 21 日到 8 月 11 日。两家非营利机构各派一名研究员进驻，获准翻看 OpenAI 的内部代码和文档，并和部分技术人员面对面交流。整个过程有人陪同，设备由 OpenAI 配发且不准带离办公区，属于一次"嵌入式"的深度访问。 隐患不止监控被绕过。研究人员还发现，OpenAI 的 Codex 智能体存在一条可绕开安全限制的潜在</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31817</guid>
-      <pubDate>Fri, 23 Oct 2026 01:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 全面开放决策 API：GPT‑6 Luna 上阵，输入百万 token 仅 0.1 美元</title>
-      <link>https://news.aibase.com/zh/news/31818</link>
-      <description>OpenAI 宣布把决策 API（Decisions API）全面放开。这套接口建在 GPT‑6 Luna 之上，把模型的聪明劲儿专门用在该给"限定答案"的问题上——帮应用和智能体基于文本、图像以及结构化数据，做出接近实时的判断。换句话说，它不为开放式创作而生，而是专攻答案范围明确、需要快速拍板的场景。 最抓人的是账怎么算。决策 API 输入每百万 token 收费 0.1 美元（约 0.67 元人民币），命中缓存的输入更压到每百万 token 0.01 美元（约 0.067 元）。关键是它只按输入 token 计费，输出 token 免费——判断结果越长，用户反而越占便宜。OpenAI 透露</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31818</guid>
-      <pubDate>Fri, 23 Oct 2026 01:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 全面开放决策 API：基于 GPT-6 Luna，输入每百万 token 仅 0.1 美元</title>
-      <link>https://news.aibase.com/zh/news/31819</link>
-      <description>OpenAI 在10月22日把一道新的能力接口彻底敞开——决策 API（Decisions API）宣布全面开放。这套接口建立在 GPT-6Luna 之上，干的是一件很聚焦的事:把 Luna 的聪明劲儿收拢到那些"答案有边界"的问题上，帮应用程序和智能体根据文本、图像以及结构化数据，在近乎实时的节奏里拍板定案。按 OpenAI 的说法，它的响应速度比经由 Responses API 调用 GPT-6Luna 时， 最高 快了10倍。 定价是这次开放里最显眼的一处。决策 API 输入按每百万 token 收取0.1美元（按现汇率约合0.67元人民币），命中缓存的输入每百万 token 只收0.0</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31819</guid>
-      <pubDate>Fri, 23 Oct 2026 01:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>央视曝光豆包会员“无限薅”乱象:多账号循环、API密钥来源存疑</title>
-      <link>https://news.aibase.com/zh/news/31820</link>
-      <description>央视近日曝光“无限薅豆包会员”等服务背后的安全隐患。记者实测发现，所谓“无限薅会员”主要通过多设备、多账号循环操作实现，部分商家还提供模型服务转租和 API 密钥售卖，但相关服务可能存在账号封禁、隐私泄露及财产损失等风险。 报道指出，部分“出租时长”服务使用的并非豆包官方平台，用户与 AI 的完整对话可能被服务提供方查看。部分卖家出售的 API 密钥还可能涉及黑客盗取，一旦密钥持有人发现异常并采取封禁措施，购买者的服务便可能中断。 网络安全专家提醒，这类商家实质上扮演大模型服务“二道贩子”的角色，其搭建的中转工作台服务器可能记录用户交互内容。用户输入的提示词、上传的文件及生成的代码，都存在被不</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31820</guid>
-      <pubDate>Fri, 23 Oct 2026 01:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>奥尔特曼谈数学家的 AI 心路：从"我们完蛋了"到接受现实</title>
-      <link>https://news.aibase.com/zh/news/31821</link>
-      <description>在斯坦福大学，OpenAI CEO 萨姆·奥尔特曼面对数百名忧心职业前景的学生，聊起数学界遭遇 AI 时的集体心理。在他看来，数学家们走过了一段近似"哀悼"的旅程。 第一 阶段是难以置信，紧接着是痛苦。奥尔特曼复述了圈内的典型反应： 第一 天大家觉得"我们完蛋了，数学这个领域也完了"，甚至盘算劝研究生转专业；到了第三天，情绪转为愤怒，矛头指向"OpenAI 这么干实在太过分了"。 转变出现在第五天。数学家开始接受现实——在研究与证明中，AI 已成绕不开的工具。不少人转而认为，自己作为数学家的路会变，但"希望能比以前更好"。奥尔特曼本人乐观，认为 AI 不至于酿成就业大灾难。 浪漫时代的落幕与争</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31821</guid>
-      <pubDate>Fri, 23 Oct 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>​DeepSeek 与 MiniMax 率先完成合规登记，顺利实现开源与海外授权</title>
-      <link>https://news.aibase.com/zh/news/31822</link>
-      <description>随着商务部与科技部于10月16日就修订《中国禁止出口限制出口技术目录》公开征求意见，其中涵盖大模型、智能体、算力集群以及信息处理等23项人工智能领域技术的调整引发了全行业的高度关注。政策发布后，外界曾一度产生疑问:一贯强调高水平开放的中国，为何此时要对 AI 技术施加“出口限制”，这是否意味着政策方向发生了转向? 针对这一行业关切， 最新 动态给出了清晰的答案。据悉，自政策公开征求意见以来，国内头部大模型企业 DeepSeek 与 MiniMax 已经顺利履行了相关登记手续，并成功完成了开源与海外授权使用的合规流程。 从商务部在相关政策问答中的表态来看，官方对“什么不管”的界定不仅比“什么要管</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31822</guid>
-      <pubDate>Fri, 23 Oct 2026 02:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Arc浏览器将于12月22日停止服务，The Browser Company转向Dia</title>
-      <link>https://news.aibase.com/zh/news/31823</link>
-      <description>The Browser Company 于10月22日宣布，将于2026年12月22日停止 Arc 浏览器服务，并将资源集中投入 AI 浏览器 Dia。公司表示，AI时代浏览器安全维护成本持续上升，未来工程与安全团队将重点保障 Dia 的安全性。 Arc 将分阶段停运:即日起停止创建新账户;11月23日起，iOS和Android版 Arc Search 将失去“为我浏览”等AI功能，用户也无法登录或同步标签页，但仍可作为本地浏览器使用;12月22日起，Mac和Windows版 Arc 将全面停止运行，账户停用，个人数据将在30天内删除，Arc Search 也将从 Google Play 下架</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31823</guid>
-      <pubDate>Fri, 23 Oct 2026 02:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 冲刺 300 亿美元融资，投前估值站上 1.25 万亿美元</title>
-      <link>https://news.aibase.com/zh/news/31824</link>
-      <description>OpenAI 正接近敲定一轮 最高 300 亿美元的融资，投前估值已来到 1.25 万亿美元。据知情人士透露，这轮由阿联酋投资方与机构 Coatue 联合领投，OpenAI 打算把它当作潜在 IPO 前的一次过渡性安排。 需要注意的是，1.25 万亿这个数字尚未计入本轮新进资金。OpenAI 本周四已向投资者放话，计划在下周末之前走完协议签署，只不过最终规模仍待敲定。 这轮融资被明确定位成"IPO 前的机会性募资"。首席财务官萨拉·弗里亚尔此前私下向员工吹风，公司有可能在 2027 年敲钟，且 OpenAI 已经秘密递交了上市申请。换言之，弹药储备与上市节奏正同步推进。 算力与上市窗口的博弈 </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31824</guid>
-      <pubDate>Fri, 23 Oct 2026 02:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>腾讯年轻首席科学家"加班论"引争议：大模型突围靠的不是堆工时</title>
-      <link>https://news.aibase.com/zh/news/31825</link>
-      <description>一则与腾讯混元团队相关的内部说法，最近把国内大模型竞争里那根最敏感的神经又拨了一下。28岁的首席 AI 科学家姚顺宇抛出的"卷加班对抗 DeepSeek"表述，在舆论场里炸开了锅，因为它戳中的不只是某家公司，而是整个行业在 AGI 长跑里都绕不开的深层痛点:到底靠什么追上对手。 把镜头拉回腾讯自身的处境，焦虑是真实的。在 AI 这条赛道上，它的声量正被字节的豆包、以及 DeepSeek 两面夹击，开发者心智也被对手一点点占走。它急需在 AGI 底层基建上证明自己不是掉队者，而这位被寄予厚望的年轻科学家，原本被期待能打破腾讯内部那套相对僵化的研发体制。 但争议的核心，恰恰落在"对抗"二字的方法论</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31825</guid>
-      <pubDate>Fri, 23 Oct 2026 02:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>讯飞星火医疗大模型 V3.7 登顶 MedBench5.0：病历生成合理率拉升至 85%</title>
-      <link>https://news.aibase.com/zh/news/31826</link>
-      <description>讯飞星火医疗大模型在10月22日端出了 V3.7版本。据披露，这一版依托全国产算力底座，把语音、影像、语义三种能力揉进同一个多模态框架里，在上海人工智能实验室 最新 发布的 MedBench5.0智能体评测中，以综合得分99.6分站上 第一 ，在医疗知识问答、诊断治疗推荐、医疗文书生成这几项核心任务上的表现，均压过了国内外主流大模型。 落地能力跟着水位一起涨。在最考验"像不像真医生写的"病历书写场景里，模型端到端生成的合理率被提升到85%;医学影像报告的生成与深度质控，也做到了业界领先水平。面向普通居民的讯飞晓医同步完成迭代，新增了中医多模态问诊、健康档案动态记忆管理等服务。这次升级的成果，会</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31826</guid>
-      <pubDate>Fri, 23 Oct 2026 02:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>国产旗舰 Kimi K3.1 现身 Arena 测试：性能直追 GPT-6 Astra，月底有望官宣</title>
-      <link>https://news.aibase.com/zh/news/31827</link>
-      <description>本月底之前，国内大模型阵营里最让人惦记的两款旗舰——Kimi K3.1与智谱 GLM-5.5——正陆续浮出水面，其中 Kimi K3.1已经悄悄在 Arena 竞技场上跑起了测试，代号 Kibitz。 多个网友顺着分词器等蛛丝马迹，基本确认了 Kibitz 就是 Kimi K3.1。此前的爆料勾画的升级方向很清晰:主攻长程自主任务，强化游戏与3D 代码能力，并补齐操作电脑的本事，一整套打法明显是对标 OpenAI 等前沿模型的"一线玩法"。 今天多位网友实打实上手试了一圈，反馈相当炸裂——无论是鹈鹕这类刁钻图像，还是3D 动画的生成，K3.1都显示出能与 GPT-6Astra 掰手腕的实力。按</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31827</guid>
-      <pubDate>Fri, 23 Oct 2026 02:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek、MiniMax完成相关登记，推进开源与海外授权使用</title>
-      <link>https://news.aibase.com/zh/news/31828</link>
-      <description>据报道，近日，DeepSeek、MiniMax已顺利完成相关登记手续，并完成开源和海外授权使用。 10 月 16 日，商务部、科技部就修订《中国禁止出口限制出口技术目录》公开征求意见，拟将人工智能大模型、智能体、算力集群及信息处理等领域的 23 项技术纳入管理范围。 政策同时明确，对已通过开源、发表学术论文等方式进入公共领域的相关技术，拟不纳入出口管理范围，并对符合条件的开源及相关技术出口提供自动许可等便利措施。 商务部表示，判断大模型“出海”是否涉及技术出口管理，核心在于是否涉及限制类技术从中国境内向境外转移。限制类大模型的海外本地化部署属于技术出口管理范围，部署于海外自有云等风险相对可控的</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31828</guid>
-      <pubDate>Fri, 23 Oct 2026 02:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canva推出Craft图像生成模型，支持2K分辨率与超宽画幅</title>
-      <link>https://news.aibase.com/zh/news/31829</link>
-      <description>Canva于周四宣布推出图像生成模型 Canva Craft，正式加入与 OpenAI、微软和谷歌的AI图像生成竞争。该模型采用两阶段架构，可在生成图像前规划设计，以提升图像生成的精度、一致性和可控性。 Canva Craft支持 最高 2K分辨率及宽高比超过30的图像生成，应用场景涵盖社交媒体内容、营销素材、数字艺术和环境图像等。其两阶段生成机制针对包含清晰文本、精确对象布局的复杂设计进行优化，能够更准确地处理元素位置与画面结构。 该模型基于 Canva 内容库中的数百万个人工设计模板训练，涵盖社交媒体帖子、演示文稿、信息图表和菜单等。Canva今年4月已推出基于提示词的设计编辑功能，支持通</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31829</guid>
-      <pubDate>Fri, 23 Oct 2026 02:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>讯飞医疗星火 V3.7 升级发布：MedBench 5.0 斩获 99.6 分登顶榜首</title>
-      <link>https://news.aibase.com/zh/news/31830</link>
-      <description>10月22日，讯飞医疗正式对外宣布，其核心产品星火医疗大模型完成全面升级，推出全新版本 V3.7。在上海人工智能实验室 权威 评测 MedBench5.0中，该模型凭借99.6分的高分再次实现登顶。 在技术架构层面，星火医疗大模型 V3.7实现了语音、影像以及语义的深度融合与多模态创新，推动医疗场景中的智能体能力迎来显著跃升。 依托底层技术的迭代，本次升级直接推动了多条业务线的协同发展: 诊疗助理:病历生成的合理率大幅提升至85%，进一步夯实了基层全科诊疗的服务优势; 影像云:报告生成与质控能力实现升级，在院内影像场景中的核心竞争力得到强化; AI 患者管理:借助更强大的多模态与循证推理能力，</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31830</guid>
-      <pubDate>Fri, 23 Oct 2026 03:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic 把智能体"说明书"交出去：Agent Skills 标准捐给社区</title>
-      <link>https://news.aibase.com/zh/news/31831</link>
-      <description>Anthropic 在 10 月 22 日发布一纸公告，把自家的 Agent Skills 开放标准，捐给了 Linux 基金会旗下的 Agentic AI Foundation（AAIF）。这一动作让该标准正式脱离单一公司掌控，变成由社区共同治理的 AI 智能体能力规范。 AAIF 并非新面孔。它成立于 2025 年 12 月 9 日，由 Linux 基金会运营，最初由 Anthropic、Block 和 OpenAI 三方共同创立，专门托管和治理智能体生态里的开放协议、标准与开源项目。其实 Anthropic 早有先例——此前已把 Model Context Protocol（MCP）一并</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31831</guid>
-      <pubDate>Fri, 23 Oct 2026 03:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>谷歌推出 ACE：给每个 AI 智能体配一台"专属电脑"，唤醒不到 500 毫秒</title>
-      <link>https://news.aibase.com/zh/news/31832</link>
-      <description>谷歌在 10 月 22 日甩出一项新服务——智能体计算引擎（Agent Compute Engine，简称 ACE）。它挂在 Google Cloud 名下，专门给 AI 智能体造"电脑"：目标是让每一个智能体都拥有一台安全、持久、可弹性伸缩的专属设备。 和传统虚拟机或容器不同，ACE 是按智能体的生命周期量身定做的。它给每个智能体分配一个硬件隔离的微型虚拟机（microVM），让对方能安全地跑代码、调工具、操作浏览器，直至完成多步骤任务。这套环境拥有独立的客户内核和根权限，再靠硬件隔离的 Cloud Hypervisor 边界撑起安全防线；沙箱里不存任何凭据，从源头压低智能体被滥用或数据外泄</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31832</guid>
-      <pubDate>Fri, 23 Oct 2026 03:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>万象有声发布 Audimind，有声书制作工具出海</title>
-      <link>https://news.aibase.com/zh/news/31802</link>
-      <description>原懒人听书核心管理团队推出的万象有声，发布海外版 Audimind，域名 audimind.ai。这是一套有声书制作工具:演播者和制作团队在同一个项目里完成文稿处理、真人录音或 AI 配音、对轨、后期、审听和团队分工。免费版每月赠送10，000积分，个人版19美元/月起，团队版59美元/月起。产品已在 Product Hunt 上线（https://www.producthunt.com/products/audimind）。 从听书平台到制作工具 万象有声的核心成员来自懒人听书原管理层，包括原创始人兼 CEO、产品副总裁、技术副总裁和内容制作总监，参与了懒人听书从创立到被腾讯音乐收购的全过程</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31802</guid>
-      <pubDate>Fri, 23 Oct 2026 07:30:00 +0000</pubDate>
+      <title>WorldTUI：有人专门训练小模型"演"终端，你敲命令它假装执行</title>
+      <link>https://news.aibase.com/zh/news/31847</link>
+      <description>有一款看起来再普通不过的终端，能接受你输入的 ls、cd、mkdir，甚至能打开 Vim 编辑文件、运行 Python、拉起 tmux 多窗口，一切都与真实环境毫无二致。可它的真相相当荒诞——背后既没有 Linux，也没有文件系统，更没有真正执行过任何一条命令，屏幕上跳出的一切，全是 AI 现场编出来的。这个名为 WorldTUI 的项目，做的最核心的一件事，就是训练模型学会"演戏"。 开发者 Simon Edwardsson 用 Qwen2.5-Coder-0.5B 作底，训出了一个约3.6亿参数、体量716MB 的小模型，再经 int4量化压到208MB，轻松就能在本地跑起来。它的运转逻辑</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31847</guid>
+      <pubDate>Fri, 23 Oct 2026 10:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
