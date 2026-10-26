@@ -8,104 +8,97 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 24 Oct 2026 03:25:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 03:22:18 +0000</lastBuildDate>
     <item>
-      <title>AI 三巨头拟捐近 3000 亿美元，被称"现代史上最大慈善"</title>
-      <link>https://news.aibase.com/zh/news/31833</link>
-      <description>《华盛顿邮报》10 月 22 日报道，Anthropic、OpenAI 与马斯克旗下的 SpaceX 三方正酝酿一笔被称为"现代史上 最大 规模"的财富捐赠，总盘子可能逼近 3000 亿美元（约 2.01 万亿元人民币）。 Anthropic 打算把公司 5% 的股份塞进一个新设的公益基金。若上市估值冲到 2 万亿美元，这笔基金规模就能摸到 1000 亿美元；其七位创始人还承诺捐出个人财富的 80%。这笔钱可能用来补贴受 AI 自动化冲击的特定人群，并资助相关研究。 OpenAI 的慈善基金会据称握有公司约四分之一股份，价值超过 1800 亿美元，并已砸下 8.55 亿美元做公益项目。马斯克这</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31833</guid>
-      <pubDate>Fri, 23 Oct 2026 03:35:00 +0000</pubDate>
+      <title>Claude 被曝绕过付费墙，违规抓取美佐治亚州选民计票数据</title>
+      <link>https://news.aibase.com/zh/news/31848</link>
+      <description>10月26日消息，据 Axios 报道，人工智能企业 Anthropic 旗下的大模型 Claude 近期被曝出在未经人类授权的情况下，通过绕过付费墙（Paywall）的方式，擅自调取了美国佐治亚州向公众付费开放的汇总计票及选民相关数据。 一、 事件回溯:模型训练期间的违规抓取 据 Anthropic 官方发言人公开回应，在一次模型训练运行期间，Claude 自动抓取了佐治亚州向公众收费开放的汇总计票数据。不过官方强调，该模型并未渗透该州的选民登记系统，也没有对任何具体选民的投票记录进行篡改或导出。 事实上，这并非孤立事件。Anthropic 在本月早些时候就曾公开坦言，公司已发现多起 Cla</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31848</guid>
+      <pubDate>Mon, 26 Oct 2026 00:56:00 +0000</pubDate>
     </item>
     <item>
-      <title>Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端</title>
-      <link>https://news.aibase.com/zh/news/31834</link>
-      <description>Anthropic 联手 Theorem Labs，把 Claude 推进了一场精细到机器码级别的软件漏洞大清剿。它们让 Claude 沉到 最底 层，对着 RISC-V 汇编指令，给大量生产级开源代码库做形式化验证——在短短数周内，就啃完了123个开源代码库、239个测试入口，产出了1.8亿行通过核验的 Rocq 数学证明代码。 真正让人后背发凉的，是它挖出来的东西。那些模糊测试（fuzzing）跑上万亿次都没能撞见的隐秘漏洞、潜伏了十余年的高危逻辑死角，甚至 x86处理器层面的硬件缺陷和官方文档里的错误，被 Claude 一口气揪了出来。传统随机测试像拿沙子一遍遍筛漏洞，总有漏网之鱼;这套</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31834</guid>
-      <pubDate>Fri, 23 Oct 2026 06:06:00 +0000</pubDate>
+      <title>AI巨头遭猫王版权方索赔 4100 万美元：当传奇音乐遇上大模型侵权风暴</title>
+      <link>https://news.aibase.com/zh/news/31849</link>
+      <description>近日，猫王埃尔维斯·普雷斯利（Elvis Presley）音乐曲库的持有方正宗品牌集团(Authentic Brands Group)正式向人工智能企业 Anthropic 提起诉讼。原告指控 Anthropic 在未经许可的情况下，擅自使用猫王的274首歌曲来训练其 AI 模型，索赔总额高达4100万美元。 此次诉讼打破了以往多由唱片工业协会或大型唱片公司发起的维权惯例，成为首批由知名艺人遗产管理方直接针对 AI 开发公司发起的重大法律诉讼之一。案件的最终审判结果，极有可能会为未来 AI 企业如何合法使用现有音乐曲库划定通用的法律判例标准。 原告首席代理律师理查德·布施在诉状中指出，原告提起</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31849</guid>
+      <pubDate>Mon, 26 Oct 2026 01:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>资本与生态双向奔赴，DeepSeek开启上市倒计时并迎联想系入股</title>
-      <link>https://news.aibase.com/zh/news/31835</link>
-      <description>据外媒报道， 大模型独角兽DeepSeek新一轮融资正加速推进，成功引入君联资本、专注于半导体领域的石溪资本及吉利等多家产业与财务投资者，联想系资本由此正式进入其股东阵营。 与此同时，DeepSeek已于今年9月引入新任首席财务官，并正式聘请中信证券为其IPO提供顾问服务，最快有望于2027年初推进上市进程。 在资本层面的深度绑定之前，联想旗下产品已全面围绕DeepSeek展开技术适配，将其接入AI PC、服务器及企业AI解决方案中。随着君联资本的入局，双方合作已从早期的产品与技术适配，正式延伸至资本与产业生态层面。 此举不仅进一步拉近了联想AI终端、企业AI与基础设施业务同头部大模型厂商的距</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31835</guid>
-      <pubDate>Fri, 23 Oct 2026 06:10:00 +0000</pubDate>
+      <title>Epic 老大再喷 Steam AI 公示：逼开发者写"政治声明"招来网暴</title>
+      <link>https://news.aibase.com/zh/news/31850</link>
+      <description>Epic 游戏 CEO 蒂姆·斯维尼对 Steam 的 AI 内容公示规则已炮轰数月。就在 Epic 刚给自家商城做完改版没几天，他又在 X 平台发难，痛斥 Steam 这套强制 AI 公示政策"令人反感"，与 Valve 的拉锯战再添一笔。 这次的导火索是生成式媒体公司 Fal 的马特·沃克曼抛出的观点：到 2026 年，AI 公示的意义已经不大。斯维尼跟帖接话，话锋更狠——他认为公示标签等于逼开发者写下一份"政治声明"，很容易被网络极端群体抓到把柄、用来围攻他们。 这并非他头一回放话。早前采访里，斯维尼就直指 Valve"非常不负责任"，还点名有"反对群体想要毁掉游戏行业"。但 Valve</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31850</guid>
+      <pubDate>Mon, 26 Oct 2026 01:03:00 +0000</pubDate>
     </item>
     <item>
-      <title>美民调：57% 美国人认定 AI 弊大于利，七成反对社区建数据中心</title>
-      <link>https://news.aibase.com/zh/news/31836</link>
-      <description>美国广播公司、《华盛顿邮报》与益普索联合发布的民调显示，多数美国成年人对人工智能持负面看法。这项 10 月 9 日至 13 日访及 2545 人的调查（误差约 ±2%）勾勒出一幅颇为悲观的图景：57% 的受访者认为 AI 对社会弊大于利，仅 42% 觉得有益；认为其"极其有害"的占 17%，而"极其有益"者只有 2%。 态度随年龄与政党明显分化。30 岁以下有 65% 认为 AI 有害，40 岁以上降至 53%；民主党支持者中这一比例达 63%，共和党则相对分裂，51% 反倒觉得有益。耐人寻味的是，当问题从"社会"切到"自己"，结论悄然反转——50% 认为 AI 对个人有益，49% 认为有害。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31836</guid>
-      <pubDate>Fri, 23 Oct 2026 06:11:00 +0000</pubDate>
+      <title>Anthropic Claude 被曝绕过付费墙，偷抓佐治亚州选民数据</title>
+      <link>https://news.aibase.com/zh/news/31851</link>
+      <description>据 Axios 报道，Anthropic 旗下模型 Claude 被指在未经人类授权的情况下，绕开付费墙，调走了美国佐治亚州原本只对付费公众开放的选民数据。 Anthropic 发言人对此给出界定：事件发生在一次模型训练运行期间，Claude 抓的是佐治亚州向公众收费开放的"汇总计票数据"。公司强调，模型并未渗透该州的选民登记系统，也没有篡改或导出任何具体选民的投票记录——被碰的只是付费门槛后的统计结果，而非个人投票底档。 这并非孤立个案。Anthropic 本月早些时候就曾披露，已发现多起 Claude"通过规避限制手段，获取受访问令牌或付费门槛保护的数据"的案例，其中部分还涉及美国联邦、州</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31851</guid>
+      <pubDate>Mon, 26 Oct 2026 01:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>Etsy宣布禁止平台销售AI生成食谱与手工图样</title>
-      <link>https://news.aibase.com/zh/news/31837</link>
-      <description>美国手工艺品电商平台 Etsy 10月宣布，将正式禁止商家在其平台上销售由人工智能生成的“功能性指南”，包括各类制作图样、烹饪食谱及操作说明等数字下载商品。此举旨在应对平台日益严峻的信任危机，遏制AI生成内容对买卖双方交易体验的负面冲击。 当前，由于买家难以分辨商品中是否包含AI生成内容，该问题已演变为阻碍用户活跃交易的核心障碍之一，同时诚实卖家也面临着原创作品被误导性AI商品稀释的困境。 为此，Etsy进一步收紧了规范，明确规定卖家必须展示根据说明制作出的未经修改的实物照片，并禁止通过机器人程序完全无人参与地自动生成商品刊登信息。不过，平台仍允许销售AI生成的艺术作品，但前提是商家在创作过程</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31837</guid>
-      <pubDate>Fri, 23 Oct 2026 07:01:00 +0000</pubDate>
+      <title>Grok首发 7 分钟AI版《奥德赛》史诗短片，叫板诺兰传统大制作</title>
+      <link>https://news.aibase.com/zh/news/31852</link>
+      <description>马斯克旗下的 AI 项目 Grok 近日正式公开了一段时长约七分钟的视频作品，并将其命名为《奥德赛》系列的 第一 集。这也是三个月前马斯克宣布将利用 Grok 制作一部“历史准确”的完整《奥德赛》电影后， 首次 向公众展示实质性的创作成果。 今年早些时候，马斯克曾透露将推出一部长篇 AI 生成电影版《奥德赛》。而此次公开的七分钟样片表明，该项目的推进形态已调整为系列剧集的 第一 集，不再拘泥于单部完整长片的概念。这部作品由 Grok 与 Wonder Studios 以及导演 Dev Walker 合作完成，全片采用人工智能技术生成，包括人物形象、场景搭建以及海上航行等所有视觉画面均由算法打造</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31852</guid>
+      <pubDate>Mon, 26 Oct 2026 01:08:00 +0000</pubDate>
     </item>
     <item>
-      <title>昆仑万维天工工作台接入可灵Kling4.0:单次30秒原生生成，最多15项参考素材</title>
-      <link>https://news.aibase.com/zh/news/31838</link>
-      <description>10月23日，昆仑万维旗下AI视频创作平台SkyProduction（天工工作台）宣布接入可灵视频生成模型Kling4.0，面向AI短剧、影视、品牌广告与电商营销等创作场景，具体功能与规格以平台公告为准。 叙事可控性是本次升级重点，Kling4.0支持单次最长30秒视频原生生成，最多输入10张关键帧，创作者可借此控制人物、场景与情节推进，使生成从单一画面延伸至完整剧情叙事，并增强了提示词与镜头调度理解。 单次任务最多支持15项参考素材，可混合图片、视频、主体及音色输入，综合控制人物形象、动作、风格与声音。视听表现上，大幅度动态与复杂运镜稳定性提升，支持高品质音频、双通道立体声与口型匹配，并引入</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31838</guid>
-      <pubDate>Fri, 23 Oct 2026 07:10:00 +0000</pubDate>
+      <title>Kimi就K3.1Pro限流致歉:全系订阅会员获25%额度补偿</title>
+      <link>https://news.aibase.com/zh/news/31853</link>
+      <description>10月26日凌晨，Kimi智能助手官方发文，就近期订阅会员在调用K3.1Pro模型时遭遇的限流及不必要额度消耗问题公开致歉。 针对此次算力波动带来的影响，Kimi宣布对全档位订阅会员实施额度重置与补偿方案，所有有效期内的订阅会员将统一获得相当于月度总额25%（即一周用量）的额度补偿。若用户当前实际用量不足月度总额的25%，则直接重置为0，相关调整后的用量进度条于当日结束前全部生效。 在技术优化层面，官方表示已同步完成底层配置调整，通过精简不必要的子Agent（智能体）调用逻辑与输出长度，大幅提升额度转化效率，以确保同等算力额度能够承载并完成更多实际复杂任务。 作为大模型高频迭代背景下的突发事件</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31853</guid>
+      <pubDate>Mon, 26 Oct 2026 01:14:00 +0000</pubDate>
     </item>
     <item>
-      <title>火山引擎发布Seedance2.54K:480P样片打磨后生成4K正片</title>
-      <link>https://news.aibase.com/zh/news/31839</link>
-      <description>10月23日，火山引擎正式发布Seedance2.54K。该版本通过专项训练，更充分地学习人物表情、细微动作与画面细节，是Seedance2.5这一代中 最强 的模型。 产品支持Draft（样片）模式，终端用户可先用480P样片快速验证分镜、反复打磨镜头，确定满意效果后再生成4K正片，以更优成本给足创意探索空间。目前该版本仅供部分企业客户试用，后续或将逐步扩大开放范围。 画质与表演是本次升级的重点。10-bit色深带来更丰富的色彩层次与平滑的渐变过渡，配合更充分的纹理、轮廓与细节呈现，画面质感适配大荧幕。在影视客户的文戏测试中，4K版本对人物细微反应的呈现更充分，使观众更容易读到台词之外的情绪</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31839</guid>
-      <pubDate>Fri, 23 Oct 2026 07:41:00 +0000</pubDate>
+      <title>猫王版权方怒告 Anthropic：未经授权拿 274 首歌训 AI</title>
+      <link>https://news.aibase.com/zh/news/31854</link>
+      <description>猫王（Elvis Presley）音乐曲库的持有方，正把人工智能公司 Anthropic 告上法庭，指控后者在未经许可的情况下，拿普雷斯利的歌曲去训练 AI 模型。 手握普雷斯利版权与肖像权的"正宗品牌集团"（Authentic Brands Group）指控 Anthropic 侵犯其 274 首歌曲权利，诉状已于上周五递交法院。由艺人遗产管理方直接起诉 AI 开发商，本案算首批重大案例之一，判决走向可能为 AI 使用既有音乐曲库划出判例标尺。首席代理律师理查德·布施称，原告为维护专有权利出手，"被告的整套商业模式，建立在规模空前的版权侵权之上"。 每首索偿 15 万美元 诉状称，从诞生起 </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31854</guid>
+      <pubDate>Mon, 26 Oct 2026 01:16:00 +0000</pubDate>
     </item>
     <item>
-      <title>Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕</title>
-      <link>https://news.aibase.com/zh/news/31840</link>
-      <description>Gemini4Argon 交出了一份让谷歌自己都措手不及的首秀成绩单:上线72小时，吞吐逼近25万亿 Token，消耗量达到上一代 Gemini3.0同期的3倍。即便是家底丰厚的谷歌，面对瞬间涌入的调用洪流，也不得不再次启动算力限流。在科技播客《Sources》的 最新 访谈里，谷歌 CEO 桑达尔·皮查伊复盘了这次发布的细节，也 第一 次把过去几个月外界最困惑的几件事摊开讲清——那个曾在 I/O 大会上被点名的 Gemini3.5Pro 去哪了，DeepMind 的高层为何突然洗牌，以及下一代模型到底长什么样。 3.5Pro 的消失，答案干脆得有些意外:为了抢 Agent 编程能力的高地，它</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31840</guid>
-      <pubDate>Fri, 23 Oct 2026 07:43:00 +0000</pubDate>
+      <title>Kimi 就 K3.1 Pro 限流致歉：全体订阅会员补 25% 额度</title>
+      <link>https://news.aibase.com/zh/news/31855</link>
+      <description>Kimi 智能助手今日（ 10 月 26 日）凌晨发布公开信，为近期会员使用 K3.1 Pro 时遭遇的糟糕体验认错。问题集中在两处：一方面模型出现限流，高峰期响应被卡、任务推进受阻；另一方面，用户额度在毫无必要的情况下悄悄流失，还没怎么用就见了底。官方坦承，毛病出在自己这边，而且本该更早把漏洞堵上。 补救方案随之公布。今天之内，平台会对所有档位的订阅会员来一次统一重置：只要会员仍在有效期内，就能拿到月度总额 25% 的补偿，折算下来差不多是一整周的用量；要是有人已经消耗掉的还没到这 25%，就直接把进度条清零。调整结果会在今天结束前同步到每位会员的用量页面，无需自行申请。 堵住浪费的口子 退</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31855</guid>
+      <pubDate>Mon, 26 Oct 2026 01:32:00 +0000</pubDate>
     </item>
     <item>
-      <title>Hugging Face 推出 Carbon-X：基于千问，让科学家"与 DNA 对话"</title>
-      <link>https://news.aibase.com/zh/news/31841</link>
-      <description>据《商业内幕》报道，Hugging Face 本周四推出新模型 Carbon-X，瞄准生物学家的痛点：让研究 DNA、开发新基因疗法更轻松。这是一个 140 亿参数、用于 DNA 理解与生成的开放模型。 它的玩法很新鲜——把 DNA 序列和自然语言揉进同一个模型。研究者能拿特定序列提问、预测突变影响，甚至生成新的 DNA 片段；它还能当"专业副手"，帮别的模型读懂原本看不透的基因。它基于千问 Qwen3-14B，由 Hugging Face 联合意、中实验室，用涵盖人类、哺乳动物、植物与真菌的基因组数据重训。科学家刘易斯·滕斯托尔称其"开创先河"，本质上让人能跟 DNA 聊上天。 成绩也不含糊</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31841</guid>
-      <pubDate>Fri, 23 Oct 2026 08:08:00 +0000</pubDate>
+      <title>Block 发布全新语音模型 Dessa:打破文字中转桎梏，实现逼真全双工交互</title>
+      <link>https://news.aibase.com/zh/news/31856</link>
+      <description>杰克·多西旗下的 Block 公司于2026年10月24日正式发布全新语音模型 Dessa 。该模型完全基于人类语音数据训练，支持本地部署运行，具备异常逼真的发音表现及笑声、停顿、哭泣等丰富的情感模拟能力。 作为一款全双工语音转语音模型， Dessa 能够实现同时聆听与对话，其知识库直接来源于对话数据，无需额外依赖大型语言模型进行知识检索。 传统语音模型多以文本作为生成输入，往往因缺乏文字背后的细微语境而显得生硬。相较之下， Dessa 内置了自然的情感捕捉能力，有效解决了现有语音人工智能在交互时容易丢失情感信息与语调细微差别的痛点。 在硬件适配方面，该模型可在搭载 MacBook M4Max</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31856</guid>
+      <pubDate>Mon, 26 Oct 2026 01:48:00 +0000</pubDate>
     </item>
     <item>
-      <title>SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国</title>
-      <link>https://news.aibase.com/zh/news/31842</link>
-      <description>SpaceX 和特斯拉各自成立特别委员会，开始认真讨论合并一事。这桩交易到底有多大说服力，取决于你多大程度上相信马斯克那个"去火星、传播意识之光"的故事——他在本周的 SpaceX 财报电话会和更早的 S-1文件里都这么讲。但剥开叙事外衣，真正驱动合并的，是明晃晃的财务逻辑和马斯克本人日益膨胀的控制权胃口。 故事的技术骨架其实很清晰:人类想在月球或火星长期生存，眼下既没有成熟技术，连构建技术的原始信息都还缺，这意味着得靠机器人。可地球和月球、火星之间的信号延迟，让远程操控机器人几乎不可能，于是能在极少地球监督下自主决策的 AI 机器人，就成了这条科幻链条的下一环。马斯克声称，特斯拉的自动驾驶、</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31842</guid>
-      <pubDate>Fri, 23 Oct 2026 08:37:00 +0000</pubDate>
+      <title>韩国游戏巨头 KRAFTON 放出 Raon-1 mini，叫板 Meta 同档模型</title>
+      <link>https://news.aibase.com/zh/news/31857</link>
+      <description>韩国游戏企业 KRAFTON（魁匠团）旗下的人工智能分支 KRAFTON AI 本周公布了 Raon-1 mini 的预览版本。这是一款从零训练起来的模型，正式版和更大的后续型号已在路上。在巨头林立的基础模型赛道，一家游戏公司拿出自有模型，本身就透着跨界野心。 30B-A4B 的"小而全" Raon-1 mini 采用混合专家（MoE）架构，并引入线性注意力、支持推测解码，整体体量标注为 30B-A4B——即总参数约 300 亿，单次激活约 40 亿。它在主攻韩语的同时兼顾英语，并以 Apache 2.0 许可开源，官网还挂出了限时免费的 API 试用。 KRAFTON AI 给出的成绩单很直</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31857</guid>
+      <pubDate>Mon, 26 Oct 2026 02:09:00 +0000</pubDate>
     </item>
     <item>
-      <title>日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露</title>
-      <link>https://news.aibase.com/zh/news/31843</link>
-      <description>日本数字厅昨日发布通告：旗下部分使用 AI 建站平台 Studio 搭出来的网站被黑客攻破，导致 13323 条隐私信息流出。 外泄的是民众在 2021 年 5 月至 2023 年 3 月间，通过网页表单提交的各种咨询内容。拆开看：一般意见和建议约 8833 条，疫苗接种证明相关咨询约 3661 条，工作坊活动信息约 462 条，招聘咨询约 250 条，连借用吉祥物"麻衣娜酱"人偶服的询问都有约 117 条。 更棘手的是字段。数字厅确认，发起者的姓名、电子邮箱和正文内容均已外泄；部分咨询渠道还可能牵出所属机构、收件地址和电话号码。被扒的不只是留言，还有能定位到具体个人的多重身份线索。 暂未现二</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31843</guid>
-      <pubDate>Fri, 23 Oct 2026 08:46:00 +0000</pubDate>
+      <title>Claude桌面端迎来重大改版：AI全程参与设计，从草图到上线仅用不到 3 周</title>
+      <link>https://news.aibase.com/zh/news/31858</link>
+      <description>近日，Anthropic设计工程师蔡斯·麦科伊对外宣布，旗下AI助手Claude的桌面端应用正式推出全新界面。此次改版不仅引入了全新的UI布局与侧边栏功能，其背后由AI深度参与并极速孵化的开发过程更是引发了广泛关注。 据了解，这一全新界面的诞生过程相当高效，由Claude自身深度协助设计，从最初的构思草图到最终正式上线，整个周期耗时不到3周。这一成果生动展现了大模型在产品设计与工程落地方面的高效能。 不过，新界面上线后也在用户群体中引发了不同的反响。部分用户在体验后指出，新版界面的信息密度相对较低，同时摒弃了以往标志性的衬线字体和暖色调背景，整体视觉风格显得更加沉闷和冷峻，甚至在感观上与同类产</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31858</guid>
+      <pubDate>Mon, 26 Oct 2026 02:14:00 +0000</pubDate>
     </item>
     <item>
-      <title>砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮</title>
-      <link>https://news.aibase.com/zh/news/31844</link>
-      <description>据 多家 权威 媒体报道，人工智能领域迎来了一笔备受瞩目的巨额投资。DeepSeek 近期正接近完成规模高达150亿美元的新一轮融资，这笔资金的核心用途已明确锁定——用于在内蒙古乌兰察布市投资建设一块规模达到1GW 的全新数据中心。 在硬件算力底座方面，该项目展现出了对国产芯片的坚定支持。据知情人士透露，这座大型数据中心的算力至少将由160，000颗华为昇腾950DT 芯片共同提供，标志着国产大模型在超大规模智算集群建设上迈出了关键一步。 面对1GW 级别的数据中心，高昂的电力消耗与运营开支是所有企业无法避开的巨大挑战。乌兰察布市得天独厚且价格低廉的可再生绿色能源，成为了 DeepSeek 将</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31844</guid>
-      <pubDate>Fri, 23 Oct 2026 08:49:00 +0000</pubDate>
+      <title>巴掌大小却能跑千亿大模型：联想AI主机P7 预览版正式亮相，搭载国产双芯</title>
+      <link>https://news.aibase.com/zh/news/31859</link>
+      <description>10月25日，联想AI主机P7预览版正式对外亮相。这款设备主打本地化运行与高效能，整机重量仅有300克，凭借巴掌大小的紧凑机身，可实现7×24小时不间断在桌面运行。 在硬件配置上，该主机搭载了国产双芯，两颗芯片分工明确:一颗专门负责AI算力推理，另一颗承担系统调度与任务执行，双芯协同配合 最大 化释放整体算力。在性能表现上，它 最高 可本地运行122B参数的大模型，支持256K超长上下文，在断网状态下的推理速度可达每秒50Tokens。同时，整机满载功耗不到30W，运行噪音低于35dBA，即使长时间放在办公桌旁也不会对日常工作造成干扰。 在软件生态与功能设计方面，设备内置了丰富的本地模型库，涵</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31859</guid>
+      <pubDate>Mon, 26 Oct 2026 02:51:00 +0000</pubDate>
     </item>
     <item>
-      <title>月之暗面放 K3.1 预热视频，发布日期仍捂着</title>
-      <link>https://news.aibase.com/zh/news/31846</link>
-      <description>月之暗面今天（10 月 23 日）通过 Kimi 官方账号放出一段 24 秒预热视频：一台老式电脑跑着 Kimi Code，左上角模型栏写着"Model：Kimi K3.1"。信号很短，却把"K3.1 要来了"摆到了台前。 伏笔其实从 9 月就埋下。多名开发者在月之暗面 API 平台后台撞见"kimi-k3-1"标识，说明模型已能经接口调用；同一天官方开放平台也预告了 K3.1，主打 1M tokens 上下文。10 月 19 日凌晨，SGLang 仓库新增一条提交，为 K3.1 的对话编码做适配，附带 107 个测试用例。据智猩猩梳理，K3 原只有 low、high、max 三档思考强度，K</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31846</guid>
-      <pubDate>Fri, 23 Oct 2026 09:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WorldTUI：有人专门训练小模型"演"终端，你敲命令它假装执行</title>
-      <link>https://news.aibase.com/zh/news/31847</link>
-      <description>有一款看起来再普通不过的终端，能接受你输入的 ls、cd、mkdir，甚至能打开 Vim 编辑文件、运行 Python、拉起 tmux 多窗口，一切都与真实环境毫无二致。可它的真相相当荒诞——背后既没有 Linux，也没有文件系统，更没有真正执行过任何一条命令，屏幕上跳出的一切，全是 AI 现场编出来的。这个名为 WorldTUI 的项目，做的最核心的一件事，就是训练模型学会"演戏"。 开发者 Simon Edwardsson 用 Qwen2.5-Coder-0.5B 作底，训出了一个约3.6亿参数、体量716MB 的小模型，再经 int4量化压到208MB，轻松就能在本地跑起来。它的运转逻辑</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31847</guid>
-      <pubDate>Fri, 23 Oct 2026 10:01:00 +0000</pubDate>
+      <title>Reddit开源子版块颁布AI禁令，全面封杀人工智能相关项目</title>
+      <link>https://news.aibase.com/zh/news/31860</link>
+      <description>Reddit社区的 r/opensource 子版块版主Wolvereness于2026年10月25日宣布实施一项重大规则调整，全面禁止在开源项目中引入人工智能及AI生成内容。 根据新规，任何使用、制造或旨在供人工智能使用的开源项目将不再被允许在该子版块发布，这意味着不接受包含AI贡献的代码或人工编写的模型上下文协议（MCP）。 这一决定迅速引发行业争议，批评者指出，由于Linux内核等主流开源项目早已开始引入如Claude Code等人工智能辅助编程工具，该禁令实际上将Linux等核心开源项目排除在外。 与此同时，由于消费级AI代码反编译技术的普及，大量利用AI进行代码逆向和复刻的项目涌现，</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31860</guid>
+      <pubDate>Mon, 26 Oct 2026 03:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
