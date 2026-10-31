@@ -8,202 +8,83 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 30 Oct 2026 04:32:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 04:13:17 +0000</lastBuildDate>
     <item>
-      <title>AI 当黑客初显身手：Claude 自主挖洞写利用，53 分钟拿下 Linux 最高权限</title>
-      <link>https://news.aibase.com/zh/news/31955</link>
-      <description>Anthropic 10 月 27 日甩出一份让安全圈侧目的报告：一个未公开的 Claude 内部研究模型，只拿到初始提示，便自行定位漏洞、编写利用代码，在 Chrome、Safari、Android、Windows 与 Linux 上揪出缺陷，并串成 5 条攻击链。漏洞均已通报厂商并修复。 最惊心的是 Linux 案例 模型在内核网络栈里发现一个零点击远程代码执行漏洞（CVE-2026-98432），目标是一台跑多路径 TCP 监听器的服务器——攻击者只发数据包，无需任何凭据就能拿到 root shell。Anthropic 实测整个链条耗时 53 分钟，其中 48 分钟泄露内核指针，剩下 </description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31955</guid>
-      <pubDate>Thu, 29 Oct 2026 05:55:00 +0000</pubDate>
+      <title>Neuralink脑机接口迎来最强升级：Grok接入大脑，患者用意念直接唤醒AI</title>
+      <link>https://news.aibase.com/zh/news/31984</link>
+      <description>近日，马斯克的脑机接口公司 Neuralink 迎来了一项令人震撼的重大技术进展 —— 将人工智能模型 Grok 直接接进了人类大脑。这意味着，脑机接口正在从单纯的“意念移动光标”迈向全新的“意念操控 AI”时代。 72小时极限爆肝:工程师住进患者家开发8大功能 这一切的背后，源于 Neuralink 团队近期展开的一场高强度实战。几位核心工程师直接打包行李住进了受试者家中，通过72小时的高强度极限闭关开发，一口气爆肝出了8个全新的技术原型。 受试者 Kenneth 是一位确诊渐冻症整整七年的 Neuralink P21临床试验患者。面对疾病，他始终保持着极为乐观的心态。在工程师们的通力合作下</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31984</guid>
+      <pubDate>Fri, 30 Oct 2026 05:49:00 +0000</pubDate>
     </item>
     <item>
-      <title>智元发布具身智能原生OS灵渠1.0，年底全面开源</title>
-      <link>https://news.aibase.com/zh/news/31956</link>
-      <description>在2026智元创新日上，智元合伙人、联席总裁、中央研发部总裁、交互业务体系总裁熊彦正式发布具身智能原生操作系统灵渠OS1.0。该系统覆盖从构建到部署全流程，以及从底层硬件使能到上层应用支撑的全技术栈，并已通过量产机器人大规模验证。 灵渠OS1.0定义了机器人本体硬件接入新范式，支持15类100余种外设快速接入。针对高可靠性、确定性与低时延需求，系统完成全栈确定性时延优化，在1000Hz高频任务负载下，端到端时延抖动小于4微秒，确保动作精准，专为具身智能场景打造。 灵渠OS1.0计划于2026年底全面开源。智元同时宣布成为开放原子开源基金会白金捐赠人，向基金会捐赠灵渠OS项目，双方将共建中国人形</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31956</guid>
-      <pubDate>Thu, 29 Oct 2026 06:10:00 +0000</pubDate>
+      <title>Claude多端应用迎来重磅升级，iPhone版正式支持CarPlay语音交互</title>
+      <link>https://news.aibase.com/zh/news/31985</link>
+      <description>近日，Anthropic 官方在 X 平台连发多条推文，宣布对其覆盖多平台的移动端应用进行一次全面且深度的升级。其中，最引人瞩目的莫过于 iPhone 版 Claude 语音模式正式接入了苹果的 Apple CarPlay 车载系统，这意味着用户在日常驾驶途中，可以直接通过车机系统与 Claude 进行流畅的语音问答，为人车交互带来了全新的智能化体验。 除了车载场景的突破外，本次多端应用升级还覆盖了界面交互、多账号管理以及语言能力的全面拓展: 界面布局与搜索优化: 官方预告，iPhone 和 iPad 端即将上线下拉搜索功能，方便用户快速检索历史对话与相关内容。同时，在 iPad 以及 iPh</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31985</guid>
+      <pubDate>Fri, 30 Oct 2026 05:51:00 +0000</pubDate>
     </item>
     <item>
-      <title>苹果诉 OpenAI 窃密案排期 2027 年夏：一场围绕离职员工的机密拉锯</title>
-      <link>https://news.aibase.com/zh/news/31957</link>
-      <description>一桩牵动科技圈的商业机密诉讼，终于有了上法庭的确定日期。加州北区联邦法院法官爱德华·达维拉把苹果诉 OpenAI 一案排到 2027 年 7 月 19 日上午 9 时开庭。 随着 10 月 28 日案件管理命令发布，双方未来数月将被文件交换、取证与动议填满：明年 2 月 5 日前完成文件提交，3 月 12 日结束事实调查，4 月 28 日收尾专家取证；法官 6 月 10 日听取出证专家，6 月 24 日开最终审前会议。首席律师还须在 6 月 1 日碰面谈和解可能——不过这只是联邦民事案的常规动作，不等于双方真要握手言和。这场审前马拉松，也折射出 AI 巨头与硬件公司围绕人才与机密的攻防正走向法</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31957</guid>
-      <pubDate>Thu, 29 Oct 2026 06:20:00 +0000</pubDate>
+      <title>万亿参数开源模型Mistral Large4 登场：用更少Token打平顶级性能</title>
+      <link>https://news.aibase.com/zh/news/31986</link>
+      <description>10月30日消息，欧洲人工智能领军企业 Mistral 正式开源了其代号为“Le Chonk”的全新旗舰模型 —— Mistral Large4。作为目前开源权重阵营中体量最为庞大的大模型之一，它拥有高达1万亿参数，并且完全在欧洲本土基础设施上从零开始训练而成，标志着开源大模型在迈向万亿规模与多模态原生融合的道路上取得了实质性突破。 性能硬刚与Token效率:拒绝单纯刷分，主打 极致 性价比 在核心能力与基准测试方面，Mistral Large4展现出了极为强悍的竞争力。在 Cognition 的私有基准测试 FrontierCode2.0（主要评估端到端代码质量及代码库维护者的合并意愿）中，</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31986</guid>
+      <pubDate>Fri, 30 Oct 2026 05:59:00 +0000</pubDate>
     </item>
     <item>
-      <title>消息称腾讯WorkBuddy开放平台内测Skill变现功能，开发者可自主定价</title>
-      <link>https://news.aibase.com/zh/news/31958</link>
-      <description>据报道，腾讯旗下WorkBuddy开放平台于10月上旬启动“收入变现”功能的内测， 首次 允许个人与企业开发者在平台上发布付费技能（Skill）与专家智能体，用户购买后方可调用，标志着AI服务商业化生态迎来新探索。 该功能目前处于内测阶段，支持一次性付费或按月订阅模式，定价范围限定在1至9999元之间，开发者完成资料审核与微信签约后，可通过后台查看账单并实现微信提现。 此次内测吸引了众多新媒体及AI应用开发者的首批入场试水。对于开发者而言，付费技能的引入不仅为AI工具封装与工作流交付提供了直接变现通道，更演变为拓展私域流量与挖掘企业定制需求的重要获客工具。 随着腾讯等头部平台率先打通Skill</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31958</guid>
-      <pubDate>Thu, 29 Oct 2026 07:08:00 +0000</pubDate>
+      <title>英伟达发布语音转录大模型Nemotron 3.5 Transcribe，8 人同时抢话也能精准识别</title>
+      <link>https://news.aibase.com/zh/news/31987</link>
+      <description>近日，人工智能芯片与技术巨头英伟达正式开源了全新语音转录大模型 ——英伟达Nemotron3.5Transcribe。作为一款面向专业语音处理场景打造的前沿开源模型，它在多语言转录准确率、长音频处理及多说话人分离等核心指标上展现出了行业领先的实力。 在底层架构与核心参数方面，Nemotron3.5Transcribe 采用了先进的混合专家模型（MoE）架构。其总参数量约为340亿，而每次前向传播激活的参数量则为43亿，在确保强大推理能力的同时兼顾了运行效率。在音频处理能力上，该模型单次 最高 可处理长达1小时的连续录音文件，满足各类长音频、会议纪要以及访谈节目的转录需求。 在多语种支持与翻译能</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31987</guid>
+      <pubDate>Fri, 30 Oct 2026 06:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>宇树三季报营收涨近七成却净利下滑：钱都砸进了算力与大模型</title>
-      <link>https://news.aibase.com/zh/news/31959</link>
-      <description>10月28日晚间，宇树科技交出2026年第三季度成绩单。公司单季营收6.65亿元，同比增长69.93%，增长势头依旧生猛;可归母净利润只有1.13亿元，同比下滑17.37%，环比降幅更是接近50%，利润端明显承压。 面对这份"增收不增利"的报表，宇树科技董秘办相关人士给出了直接解释:利润下滑，主要源于算力、大模型方向的研发投入加大。换句话说，公司正把赚来的钱和募集到的资金，持续往 AI 底层能力上灌——机器狗和机器人卖得多了，但支撑下一代智能的算力和模型训练，正在吃掉相当一部分利润。 该人士同时安抚市场，称拉长周期看这种影响可控，单季度只是阶段性波动;现阶段研发投入依托募投资金规划推进，不会盲</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31959</guid>
-      <pubDate>Thu, 29 Oct 2026 07:15:00 +0000</pubDate>
+      <title>签到30天白拿8800额度:豆包向新老用户敞开30天免费订阅</title>
+      <link>https://news.aibase.com/zh/news/31988</link>
+      <description>字节跳动旗下 AI 助手豆包于10月30日上线新一轮免费福利活动，面向新老用户推出签到领额度与新用户订阅权益。新用户登录豆包电脑版即可领取30天免费体验套餐，体验付费订阅级能力。 在额度规则方面，豆包近期已更新订阅权益的额度显示与使用规则，标准、加强、 高级 三档套餐分别对应每7天可用2100、5600、14000额度，使不同档位的资源配额更加清晰透明。 面向全体用户，豆包开放每日签到通道，每天可领取200额度，周一额度翻倍;当累计获得额度达到500、2000、5000三个里程碑时，可分别额外获得200、500、1300额度奖励，累计签到30天最多可得8800额度。完成更多体验任务还可再获额度</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31988</guid>
+      <pubDate>Fri, 30 Oct 2026 06:02:00 +0000</pubDate>
     </item>
     <item>
-      <title>腾讯"懂了鸭"内测：把 AI 生成绘本、动画做成了一个学习社区</title>
-      <link>https://news.aibase.com/zh/news/31960</link>
-      <description>腾讯悄悄上线了一款名为"懂了鸭"的 AI 趣味学习社区，把生成式 AI 的画笔交到了普通用户手里。 官网显示，它定位"学东西更有趣的 AI 内容社区"，主打用 AI 把脑洞变成绘本、动画和课件，再分享给更多人——创作与围观形成闭环，正是它与单纯聊天工具 最大 的不同。登录后，平台还会保存你的作品与探索记录，鼓励人持续产出。 平台把创作拆成四块：绘本用画面讲故事、动画让情节动起来、动态课件边操作边发现规律，还有"玩一玩"这类能闯关的互动内容。底层依赖 HTML 与图像生成等能力，用户给出主题，系统便产出图文并茂的解释，孩子也能在故事里读懂一个知识点——给孩子生成一本专属绘本，正是它最被看好的落地</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31960</guid>
-      <pubDate>Thu, 29 Oct 2026 07:46:00 +0000</pubDate>
+      <title>AI 学会"睡觉"：谷歌想治好大模型边学边忘的老毛病</title>
+      <link>https://news.aibase.com/zh/news/31989</link>
+      <description>大模型出厂即"定型"，新知识喂进去，要么随对话散场就丢，要么硬塞之后把旧本事忘光——这道两难，谷歌 10 月 27 日甩出一套"睡眠框架"（Sleep Framework）试图化解。相关论文题为《Language Models Need Sleep》，直白点出：模型也该像人一样，靠睡眠来巩固记忆。这套思路由 Google Research 公开发布，瞄准的正是行业久治不愈的"知识截止日"顽疾。 清醒干活，睡时整理 框架把模型运行切成两段。清醒阶段，它照常接收输入，把信息先放进短期记忆；一旦转入睡眠，便暂停接活，专心做记忆整合与自我改进。关键在"记忆巩固"：借助参数扩展、混合专家记忆块与知识蒸馏</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31989</guid>
+      <pubDate>Fri, 30 Oct 2026 06:52:00 +0000</pubDate>
     </item>
     <item>
-      <title>大晓机器人推出 ACE-Brain-0.6 空间智能 API，七项评测均分反超 GPT-6 Astra</title>
-      <link>https://news.aibase.com/zh/news/31961</link>
-      <description>大晓机器人在10月29日端出了自家的具身空间智能接口 ACE-Brain-0.6API，把"看懂空间"的本事直接交到开发者手里。这套接口能调用三种核心能力:认出眼前是什么目标、在三维空间里给目标精准定位、再判断出人和物体可以互动的区域在哪——等于给机器装上一套能理解物理环境的"空间感知神经"。 让这个"大脑"更聪明的，是训练数据的扩容。大晓机器人披露，模型的空间锚定训练数据从约110万条一路喂到了150万条，相当于给它的空间记忆又补了近四成素材。数据垫厚之后，模型在七项公开 Grounding 评测里平均得分爬到了75.41，不仅稳稳站上自己此前的水位，还压过了 OpenAI 的 GPT-6A</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31961</guid>
-      <pubDate>Thu, 29 Oct 2026 08:14:00 +0000</pubDate>
+      <title>百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次</title>
+      <link>https://news.aibase.com/zh/news/31990</link>
+      <description>今日，百度正式宣布升级百度AI搜索和搜索AI API，进一步拓展AI搜索的应用场景，并降低开发者调用成本。此次升级重点涉及API服务及百度App四大AI功能。 价格方面，全新升级的搜索AI API在活动期间推出优惠价格，低至4.9元/千次，旨在降低企业和开发者接入AI搜索能力的成本。 百度App则围绕文心助手、AI镜头、GUI互动场景和AI互动应用进行升级。其中，文心助手从传统的“一次问答”向“一份交付”转变，覆盖170余种应用场景;AI镜头新增动态追踪功能，并支持9种方言实时对话;GUI互动场景规模提升5倍，接入超过50亿条数据资源;AI互动应用方面，则上线AI互动剧及相关应用，进一步丰富内</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31990</guid>
+      <pubDate>Fri, 30 Oct 2026 07:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>GitHub发布Copilot Fusion，多模型自动编排提升编码效率与性价比</title>
-      <link>https://news.aibase.com/zh/news/31962</link>
-      <description>GitHub在Universe2026大会上正式发布Copilot Fusion，这是一款智能编排层，可自动路由并组合OpenAI、Anthropic、Google等多家AI模型完成编码任务，无需开发者手动选择模型。该功能整合了既有自动模型选择技术与9月研究预览的Project HydraFusion多模型编排能力。 开发者只需在模型选择器中选用Copilot Fusion，系统将根据任务复杂度自动决定使用单一模型、级联（Cascade）或评审(Critique)等执行模式，并匹配Standard(侧重效率与成本)、High(增强推理)或Max(追求 最强 能力)三档努力等级，避免简单任务产生</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31962</guid>
-      <pubDate>Thu, 29 Oct 2026 08:15:00 +0000</pubDate>
+      <title>AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务</title>
+      <link>https://news.aibase.com/zh/news/31991</link>
+      <description>Spotify计划于2027年 第一 季度推出AI音乐混音服务，允许付费订阅用户利用人工智能对现有歌曲进行重新编曲或翻唱，并考虑每月额外收取4至5美元。公司正争取在2027年2月格莱美奖颁奖典礼前后发布该服务，但具体上线时间和定价尚未最终确定。 与通过文本提示生成全新音乐的AI工具不同，Spotify此次服务主要围绕获得授权的现有音乐作品展开，用户可以将民谣改编为舞曲，也可以利用AI模拟一位歌手演唱另一位歌手的作品。 版权方面，Spotify已与环球音乐集团、独立唱片公司授权组织Merlin及法国音乐公司Believe达成授权协议，目前仍在与索尼音乐和华纳音乐谈判。即使唱片公司签署协议，旗下艺</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31991</guid>
+      <pubDate>Fri, 30 Oct 2026 07:40:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限</title>
-      <link>https://news.aibase.com/zh/news/31963</link>
-      <description>10月29日消息，据科技媒体 The Register 报道，Anthropic 近期在推出的 Claude Code v2.1.311版本中，悄然加入了一项全新的环境变量。通过启用该设置，用户可以让 AI 智能体在执行删除文件等高危操作时，不再逐次征求用户的批准。 这一全新的环境变量全称为 CLAUDE_CODE_EVEN_MORE_DANGEROUSLY_SKIP_PERMISSIONS，直译过来即为“更加危险地跳过权限检查”。 Anthropic 的技术人员 Daisy Hollman 在随后的回应中解释了该功能的由来。此前版本中内置的 --dangerously-skip-permis</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31963</guid>
-      <pubDate>Thu, 29 Oct 2026 08:26:00 +0000</pubDate>
+      <title>在聊天窗口直接改文档！谷歌Gemini升级：全面支持PDF、表格及代码文件内联编辑</title>
+      <link>https://news.aibase.com/zh/news/31992</link>
+      <description>10月30日消息，谷歌人工智能助手 Gemini 迎来了一项实用性拉满的重大功能升级。即日起，所有用户在 Gemini 内部生成、预览并管理文件时，可以直接在聊天界面中对其进行直接修改，彻底摆脱了以往生成后需要单独下载或跳转到外部应用才能进行调整的繁琐流程。 此次开放内联编辑和预览的文件格式相当全面，涵盖了 PDF、谷歌文档、谷歌表格、演示文稿、Markdown 文件、TXT 文本以及各类代码文件。在平台支持方面，其中 PDF 文件的预览与编辑功能同步登陆了网页端与移动端，而其余所有文件格式在现阶段则主要支持网页端操作。 回溯来看，谷歌在今年早些时候便已为 Gemini 陆续上线了文件生成与下</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31992</guid>
+      <pubDate>Fri, 30 Oct 2026 08:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic 递给企业一把"监工钥匙"：Claude 能看清每个员工的 AI 开销</title>
-      <link>https://news.aibase.com/zh/news/31965</link>
-      <description>在"AI 会不会替老板决定谁走人"的疑虑未散时，Anthropic 10 月 29 日给企业客户送上了一把更清晰的管控工具。新推 Claude 智能报告面向 Enterprise 套餐开放，管理者在组织设置里一键开启，便能生成图表，把团队用 AI 干了什么、产出多少、花掉多少一目了然。 给管理者递上"监工钥匙" 选定团队、最长 28 天区间与纳入统计的 Claude 产品（对话、Claude Code、Cowork 或一体化界面，新发的 Duet AI 暂不支持），系统便读取对话、归类到代码、技术文档等工作流并汇总成本。管理员可自定义关于使用与花费的查询并保存复用，报告还会建议"该往代码仓库加</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31965</guid>
-      <pubDate>Thu, 29 Oct 2026 08:50:00 +0000</pubDate>
+      <title>Meta 把你的朋友圈变成试衣间：Style Sketch 让旧照片生出 AI 穿搭师</title>
+      <link>https://news.aibase.com/zh/news/31994</link>
+      <description>你历年发在社交平台上的穿搭，正被 Meta 悄悄收进一个 AI 衣橱。这家公司近期低调上线 Style Sketch，这款免费时尚应用会连上 Facebook 或 Instagram，从你曾经分享的照片里认出衣物、拼出一间虚拟衣柜；手头的新单品也能现拍、录段短视频，或从相册直接拖进来。等于把你散落各处的衣服，先在数字世界聚拢成库。 从衣柜到真人模特 攒够衣服只是 第一 步。Style Sketch 会结合你的风格偏好与身形，把搭配效果套到贴合你体型和肤色的虚拟模特身上——同款衣服不同人穿，呈现出的观感不再靠脑补。想围绕某件单品翻出新花样，它给灵感；黏上天气，它出每日穿搭；丢进目的地、行程天数和</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31994</guid>
+      <pubDate>Fri, 30 Oct 2026 09:02:00 +0000</pubDate>
     </item>
     <item>
-      <title>百度确认吴甜离职，文心Unlimited OCR2开源实现任意页数解析</title>
-      <link>https://news.aibase.com/zh/news/31966</link>
-      <description>今日有传闻称百度集团副总裁、百度研究院副院长吴甜已离职。百度公关经理在朋友圈回应称，吴甜已结束在百度的任职，同时强调百度技术工作仍在持续推进。 百度表示，就在两天前的10月27日，百度发布并开源文心Unlimited OCR2，全球 首次 实现任意页数文档解析，将OCR处理上限从数十页推向“无限”，达到当前 最先 进水平。实测显示，该模型可一次性解析《哈利·波特》全系列7部作品，累计超过3600页，在文档长度大幅增加的情况下仍保持较高精度与处理效率，推动文档解析技术迈向OCR3.0时代。 据悉，吴甜今年5月已不再担任基础模型研发部门负责人，后转任百度研究院副院长。在基础模型方向，相关工作同样持</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31966</guid>
-      <pubDate>Thu, 29 Oct 2026 09:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU</title>
-      <link>https://news.aibase.com/zh/news/31967</link>
-      <description>10月29日，XHEART新芯航途正式发布了全新一代智驾大模型芯片——X7Ultra。面对智能驾驶从传统多个小模型向“端到端大模型”演进的行业趋势，新芯航途秉持“大模型定义芯片”的核心理念，在创业之初便决定从真实量产模型的底层需求出发，倒推并重新设计芯片的计算架构、存储方案及数据流转方式，同时为未来模型的持续演进预留了充足空间。 在核心算力与架构设计方面，X7Ultra的大模型算力达到了700TOPS，量产模型的实测对齐度高达99.99%。该芯片专为大模型打造，采用了超大核 NPU 架构，核内数据交互相比传统的核间交互实现了 TB/s 量级的速率提升。同时，其多级缓存架构兼具大容量与高并发特性</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31967</guid>
-      <pubDate>Thu, 29 Oct 2026 09:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>消息称Anthropic贡献SpaceX超三分之一营收，合同潜在总额超 1200 亿美元</title>
-      <link>https://news.aibase.com/zh/news/31968</link>
-      <description>10月30日消息，据彭博社援引知情人士报道，人工智能独角兽 Anthropic 已经正式超越美国联邦政府，成为了埃隆·马斯克旗下 SpaceX 的 最大 单一客户。 根据 SpaceX 上周提交的 最新 申报文件显示，在刚刚过去的第三季度中，公司大约34.5% 的营收均来自单一客户，而该神秘买家主要向 SpaceX 负责提供算力的人工智能部门采购相关服务。知情人士向媒体证实，文件中被称为“客户 B”的买家正是 Anthropic。 在具体的合作业务方面，Anthropic 主要向 SpaceX 租赁其位于田纳西州孟菲斯数据中心的庞大计算资源。结合 Anthropic 此前发布的 IPO 招股书</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31968</guid>
-      <pubDate>Fri, 30 Oct 2026 01:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta悄然推出AI时尚应用Style Sketch，支持虚拟衣橱与AI试穿</title>
-      <link>https://news.aibase.com/zh/news/31969</link>
-      <description>Meta悄然推出AI时尚应用Style Sketch，帮助用户将现有衣物数字化，并通过人工智能生成个性化穿搭方案。该应用目前已在印度尼西亚、新加坡和泰国的iOS及Android平台上线，尚未公布全球推广计划。 Style Sketch支持连接Instagram，根据用户发布的照片自动构建虚拟衣橱，也允许用户通过拍照、录制短视频或上传手机相册图片手动添加服装。系统能够结合用户的衣橱内容和个人风格推荐搭配，并通过匹配用户体型与肤色的虚拟模特展示试穿效果。用户还可以指定某件衣物获取搭配灵感，或输入旅行目的地、行程天数及活动安排，生成结合天气预报的每日穿搭计划。 该应用最初由社交媒体顾问Matt Na</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31969</guid>
-      <pubDate>Fri, 30 Oct 2026 01:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>深兰科技联合华为发布全球首款大模型智能体工作手机Wowoker</title>
-      <link>https://news.aibase.com/zh/news/31970</link>
-      <description>10月30日，深兰科技正式对外发布了全球 首款 大模型AI智能体工作手机——Wowoker。该产品主要面向政企、国央企、金融机构以及其他广大企业用户，其核心定位是一款专业的企业级AI工作终端。 在整体架构上，Wowoker采用了“硬件+SaaS+数据+AI”四位一体的创新方案。其底层硬件与操作系统以华为麒麟芯片、相关终端硬件技术及HarmonyOS操作系统为基础，并深度融合了深兰科技的多模态大模型、Decision Model决策模型以及AgentOS智能体编排体系，致力于通过AI智能体直接参与到企业的各项业务执行当中。 与传统智能手机仅提供日常辅助功能的AI应用不同，Wowoker旨在将智能</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31970</guid>
-      <pubDate>Fri, 30 Oct 2026 01:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>豆包工作正式接入DeepSeek、Kimi与GLM，企业采购彻底省心了</title>
-      <link>https://news.aibase.com/zh/news/31971</link>
-      <description>10月29日消息，据快科技报道，字节跳动旗下的“豆包工作”正式面向企业客户上线了全新的第三方大模型服务。这一举措打破了以往企业必须分别向不同模型厂商单独采购的传统模式，让企业用户能够在同一个工作台内，直接根据长文本处理、代码编写或逻辑推理等不同任务的需求，灵活切换多款主流大模型。 在首批上线阶段，豆包工作官方接入了三款备受瞩目的行业旗舰模型，分别为 Kimi3.1Pro、GLM5.3以及 DeepSeek V4.1Flash。企业可以根据具体的工作流场景，自由挑选最擅长对应领域的模型进行协同办公，免去了来回切换多个账号和网页的繁琐。 在面向的用户群体与计费机制方面，该项第三方大模型服务目前仅对</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31971</guid>
-      <pubDate>Fri, 30 Oct 2026 01:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>谷歌AI搜索冲击广告业务，第三季度搜索广告收入不及预期</title>
-      <link>https://news.aibase.com/zh/news/31972</link>
-      <description>谷歌在2026年第三季度财报电话会议上披露，AI Mode生成式搜索正在对传统搜索广告业务造成一定冲击，AI生成的摘要和回答降低了搜索结果的商业变现空间。谷歌首席商务官Philipp Schindler表示，AI回答改变了搜索结果的呈现方式，也使广告业务的变现难度增加。 财务数据显示，谷歌第三季度搜索广告收入达到634亿美元，同比增长12%，但仍低于华尔街预期约16亿美元，增速也未达到分析师预测的15%。财报公布后，Alphabet股价周四盘中一度下跌13%，市值蒸发超过5000亿美元，创下该公司单日市值损失纪录。 与此同时，AI基础设施投入持续攀升。谷歌第三季度资本支出从第二季度的449亿美</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31972</guid>
-      <pubDate>Fri, 30 Oct 2026 01:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mistral 把旗舰甩进开源池：1T 参数的 Large 4 权重免费放出</title>
-      <link>https://news.aibase.com/zh/news/31973</link>
-      <description>10 月 29 日（当地时间），法国 AI 公司 Mistral AI 把旗舰模型 Mistral Large 4（代号 le Chonk）的权重正式开源，让开发者与企业直接拿走、改、微调甚至常规商用。它基于修改版 MIT 许可证：个人、学术、修改、微调及常规商业化全免；唯独想当"卖算力的云厂商"做 MaaS 转售，得先单独找 Mistral 谈授权。这种"权重免费、转售设卡"的玩法，正是 Mistral 区别于闭源大厂的标志。 1T 参数，欧洲自有算力练成 这款原生多模态模型总参数量 1 万亿，激活参数 490 亿（算上嵌入与输出层共 520 亿）。它完全在 Mistral 位于欧洲的自有数</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31973</guid>
-      <pubDate>Fri, 30 Oct 2026 01:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI"服软"：Pro订阅额度翻倍，砍半计划一夜撤回</title>
-      <link>https://news.aibase.com/zh/news/31974</link>
-      <description>9 月底那封让订阅者跳脚的通知，终究被OpenAI自己推翻了。 10 月 29 日，这家公司宣布立即上调ChatGPT Pro与Business Premium里Work、Codex的用量额度——Pro 100、Pro 200、Pro500 三档直接翻倍，新用户即刻享受，老用户不用等续订便自动生效，Dots常驻AI助理的扩展用量则独立计算。这趟反转，距离它原计划"动刀"的日子只差一天。 风波起于 9 月 29 日。当时OpenAI以"模型效率提升"为由，通知用户打算把Pro200 额度砍掉约一半，并让老用户在 10 月 29 日后转入较低档。订阅者立刻炸锅：月费没降，权益却对半折，这等于违背了</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31974</guid>
-      <pubDate>Fri, 30 Oct 2026 01:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>星巴克计划在得来速引入AI技术，提升点餐准确率与出餐效率</title>
-      <link>https://news.aibase.com/zh/news/31975</link>
-      <description>星巴克正考虑将人工智能技术引入得来速 （Drive-thru）服务，以提高点餐准确率和出餐效率。据彭博社10月30日报道，星巴克CEO布莱恩·尼科尔(Brian Niccol)当地时间周四在分析师电话会议上表示，公司计划测试后台运行的AI模型，辅助咖啡师更准确、高效地录入顾客订单。 该技术旨在减少员工处理订单时的操作负担，让咖啡师能够更加专注于与顾客交流，同时缩短点餐和出餐时间。此外，星巴克还在研究一套顾客识别技术，可在参与该服务的消费者抵达门店时识别其身份，并自动展示个性化数字菜单、简化支付流程。 此次布局表明星巴克正尝试将AI从后台运营延伸至线下消费场景，通过智能订单处理、身份识别和个性化</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31975</guid>
-      <pubDate>Fri, 30 Oct 2026 01:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XHEART大模型芯片X7 Ultra交出亮眼答卷，累计出货超 20 万颗</title>
-      <link>https://news.aibase.com/zh/news/31976</link>
-      <description>10月29日消息，据媒体报道，新一代大模型智驾芯片研发企业 XHEART（新芯航途）正式发布了其旗舰级产品 —— X7Ultra 芯片。 作为专为端到端自动驾驶大模型深度定制的算力核心，X7系列芯片自投产以来的市场表现颇为强劲。官方披露的数据显示，截至目前，X7系列芯片已经实现量产8个月，累计出货量正式突破20万颗大关。 在车企客户与市场合作方面，该芯片目前已成功搭载在10款已经上市的量产车型上，并已手握超过40款车型的正式定点订单。随着后续更多搭载 X7系列芯片的新车型陆续驶向市场，其在车载大模型算力硬件领域的渗透率与行业影响力正迎来持续高速增长。</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31976</guid>
-      <pubDate>Fri, 30 Oct 2026 01:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>月之暗面宣布Kimi正式接入谷歌Gmail、云端硬盘与日历</title>
-      <link>https://news.aibase.com/zh/news/31977</link>
-      <description>10月29日消息，月之暗面在海外正式宣布，旗下 AI 助手 Kimi 迎来重要功能更新，现已全面接入谷歌的 Gmail、Google Drive（云端硬盘）以及 Google Calendar(日历)三大核心办公服务。广大用户只需前往 Plugins(插件)页面进行简单设置，便可轻松启用这一全新集成功能。 据官方介绍，此次接入后，Kimi 的应用场景得到了进一步延伸。用户不仅可以通过它来快速总结 Gmail 中的邮件对话、精准查找 Google Drive 里的各项文件，还能直接利用 Google 日历来科学规划和安排每日行程，实现多平台工具的无缝联动。 在安全性与技术实现方面，官方强调，上述</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31977</guid>
-      <pubDate>Fri, 30 Oct 2026 02:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Omdia 预估 2027 年 AI PC 渗透率冲 60%，但买它的人其实不为 AI</title>
-      <link>https://news.aibase.com/zh/news/31978</link>
-      <description>一边是机构高唱 AI PC 普及，一边是买家压根不为 AI 掏钱——这组反差，正勾勒出 2027 年个人电脑市场最真实的样子。Omdia 最新 预估，AI PC 出货占比将从 2025 年的 33% 升至 2027 年的 60%，2030 年更达 79%。但同一份调研也显示，仅 9% 的受访者把 AI 功能列为主要换机理由，62% 的人换机只是因为机器变慢、损坏或想要更好的型号；69% 愿为"本地跑 AI"的电脑付溢价，可真到掏钱时，AI 并非决策核心。 换机周期替它铺路 既然买家不主动，渗透率凭什么飙升？答案在节奏：无论用户是否点名要 AI，本地 AI 的装机基础都会随一轮轮换机自然到来。更</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31978</guid>
-      <pubDate>Fri, 30 Oct 2026 02:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>告别繁琐导出！谷歌 Gemini 大升级:支持在对话中直接生成与编辑多格式文件</title>
-      <link>https://news.aibase.com/zh/news/31979</link>
-      <description>谷歌近日宣布对其对话式AI大模型 Gemini 迎来重大功能升级，正式推出全新的文件内直接修改能力。自即日起，所有 Gemini 用户在网页端与移动端均可实现对多种主流文件格式的实时生成、预览及全屏编辑，打破了以往仅能导出文件的局限，进一步提升了 AI 辅助生产力的交互流畅度。 根据谷歌官方公布的细节，此次升级全面覆盖 PDF、谷歌文档、谷歌表格、幻灯片、Markdown 文件、TXT 文本以及代码文件 。其中，PDF 的预览与编辑功能同步支持网页端和移动端，而其余格式目前主要落地于网页端。在实际操作中，用户无需退出应用即可直接对生成的文件内容进行深度修改，不仅支持全屏编辑和选中文本定向提问，</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31979</guid>
-      <pubDate>Fri, 30 Oct 2026 02:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>今日宜休发布首批AI睡眠产品:王腾推出ISHO Ring智能戒指与温控系统</title>
-      <link>https://news.aibase.com/zh/news/31980</link>
-      <description>10月30日，AI睡眠科技生态企业“今日宜休”（ISHO）在北京举行首场新品发布会，创始人兼CEO王腾正式发布ISHO Ring智能戒指、ISHO iFlow智能温控系统及ISHO Intelligence个人睡眠AI技术体系，标志着其正式切入AI睡眠主动干预赛道。 该品牌致力于填补科技行业对睡眠8小时的技术创新空白。作为核心硬件，ISHO Ring智能戒指搭载Apollo330B Plus芯片支持端侧AI运行，支持18项生理数据监测及精力分评估，标准版售价1799元，Pro版2199元，将于11月11日发货。 ISHO iFlow智能温控系统搭载联发科技Genio420芯片，通过TEC半导体</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31980</guid>
-      <pubDate>Fri, 30 Oct 2026 02:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>腾讯Marvis上线 Coding 管家  远程调用桌面AI工具</title>
-      <link>https://news.aibase.com/zh/news/31981</link>
-      <description>10月29日，腾讯旗下AI管家Marvis 正式上线“Coding 管家”，在手机遥控电脑能力上增加调用其他桌面AI工具编程和做任务的能力，首批支持 CodeBuddy IDE（编程模式）和 Kimi Code Desktop两款AI工具。用户离开电脑后，可以在手机上查看项目和聊天记录、跟进任务进度，继续向电脑端的 AI 工具发送信息，或发起新的项目和任务。 Marvis 将自身定位为“你的24小时 AI 管家”，围绕用户的电脑、文件和常用应用提供持续服务。此前推出的四大管家，分别对应日常使用中的不同任务:电脑管家帮助诊断设备问题、管理系统设置;文件管家支持查找、整理和处理资料;软件管家连接应</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31981</guid>
-      <pubDate>Fri, 30 Oct 2026 03:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude 开进车里：CarPlay 接入后，开车也能语音问 AI</title>
-      <link>https://news.aibase.com/zh/news/31982</link>
-      <description>Anthropic 10 月 29 日在 X 上甩出一波移动应用更新，把 Claude 塞进了更多使用场景，其中最抓眼球的，是 iPhone 版语音模式正式接入 Apple CarPlay。以后坐进车里，驾驶者不用把手从方向盘上挪开，就能直接开口问 AI——通勤路上查路线、找资料、理思路，全在语音里完成。 方向盘上的 Claude 这次升级覆盖 iPhone、iPad、Android、Chromebook 及网页与桌面端，而车载场景显然是最具想象力的落点。对 Anthropic 而言，把语音延伸到驾驶座，等于在 Siri、谷歌 Assistant 之外抢下一块高频、双手被占用的交互入口。它还预</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31982</guid>
-      <pubDate>Fri, 30 Oct 2026 03:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>微信营销生态活跃流量主首次突破千万，AI助力商业化提效与长期经营</title>
-      <link>https://news.aibase.com/zh/news/31983</link>
-      <description>10月29日，以“共创·可持续的商业力量”为主题的2026微信营销生态合作伙伴大会在上海举行。大会数据显示，越来越多生态参与者通过优质内容和产品服务获得商业回报，过去一年，微信营销生态活跃流量主数量 首次 突破千万，开发者与创作者两端变现收入均保持增长。微信营销不仅为开发者和创作者提供了更多收入机会，也在通过技术和产品升级，助力提升经营效率。 今年是微信公众号诞生14周年，这一成熟的内容生态依然保持着增长活力，2026年9月，公众号流量主日活同比增长50%。随着贴图等内容形式的发展，公众号进一步拓展广告变现场景，并通过创作者分成广告、公众号互选、返佣商品和内容推广等方式丰富收入来源。视频号生态</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31983</guid>
-      <pubDate>Fri, 30 Oct 2026 03:45:00 +0000</pubDate>
+      <title>Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”</title>
+      <link>https://news.aibase.com/zh/news/31995</link>
+      <description>近日，随着新一代大模型进入密集测试期，关于 Anthropic 下一代旗舰模型（被广泛称为 Fable5.5或 Opus5.5）的种种细节开始在网络上流传。不仅有网友在实测中发现其展现出远超以往的意图理解与复杂任务处理能力，Anthropic 官方近期公开的一项关于“自评估”的安全机制，更是将这款备受瞩目的新模型推上了舆论的风口浪尖。 意图理解再升级:Fable5.5展现惊人解题能力 从多方流出的实测与爆料来看，Fable5.5在深度理解用户意图方面表现得极为出色。常规模型在面对复杂的调试或创意任务时，往往只停留在字面指令层面;而新模型则能透过现象看本质，主动探寻隐藏在背后的深层目标。例如在编</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31995</guid>
+      <pubDate>Fri, 30 Oct 2026 09:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
