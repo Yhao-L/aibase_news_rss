@@ -8,83 +8,125 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 31 Oct 2026 04:13:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 04:36:36 +0000</lastBuildDate>
     <item>
-      <title>Neuralink脑机接口迎来最强升级：Grok接入大脑，患者用意念直接唤醒AI</title>
-      <link>https://news.aibase.com/zh/news/31984</link>
-      <description>近日，马斯克的脑机接口公司 Neuralink 迎来了一项令人震撼的重大技术进展 —— 将人工智能模型 Grok 直接接进了人类大脑。这意味着，脑机接口正在从单纯的“意念移动光标”迈向全新的“意念操控 AI”时代。 72小时极限爆肝:工程师住进患者家开发8大功能 这一切的背后，源于 Neuralink 团队近期展开的一场高强度实战。几位核心工程师直接打包行李住进了受试者家中，通过72小时的高强度极限闭关开发，一口气爆肝出了8个全新的技术原型。 受试者 Kenneth 是一位确诊渐冻症整整七年的 Neuralink P21临床试验患者。面对疾病，他始终保持着极为乐观的心态。在工程师们的通力合作下</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31984</guid>
-      <pubDate>Fri, 30 Oct 2026 05:49:00 +0000</pubDate>
+      <title>沙特阿美掏出 175 亿，把国家级AI公司拉进石油帝国</title>
+      <link>https://news.aibase.com/zh/news/31996</link>
+      <description>全球 最大 石化企业沙特阿美，正把手伸向人工智能。当地时间 11 月 1 日，由沙特主权财富基金PIF全资持有的AI初创企业HUMAIN宣布，阿美将收购其49%股份，PIF守住剩下的51%——等于把这家 国家级 AI旗舰，塞进了石油巨头的资产负债表。 99 亿里亚尔加资产入股 交易并非纯砸钱。阿美计划以"转让关键AI资产并注资约 99 亿沙特里亚尔"（约合175. 5 亿元人民币）的方式完成投资。两位股东都将往HUMAIN里注入各自的AI资产、能力与人才，并共同盯紧它的业务扩张计划。49%的持股比例，既让阿美深度绑定又没动摇PIF的控制权，结构很"沙特式"——国家资本始终握着舵。这种安排也绕开</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31996</guid>
+      <pubDate>Mon, 02 Nov 2026 00:55:00 +0000</pubDate>
     </item>
     <item>
-      <title>Claude多端应用迎来重磅升级，iPhone版正式支持CarPlay语音交互</title>
-      <link>https://news.aibase.com/zh/news/31985</link>
-      <description>近日，Anthropic 官方在 X 平台连发多条推文，宣布对其覆盖多平台的移动端应用进行一次全面且深度的升级。其中，最引人瞩目的莫过于 iPhone 版 Claude 语音模式正式接入了苹果的 Apple CarPlay 车载系统，这意味着用户在日常驾驶途中，可以直接通过车机系统与 Claude 进行流畅的语音问答，为人车交互带来了全新的智能化体验。 除了车载场景的突破外，本次多端应用升级还覆盖了界面交互、多账号管理以及语言能力的全面拓展: 界面布局与搜索优化: 官方预告，iPhone 和 iPad 端即将上线下拉搜索功能，方便用户快速检索历史对话与相关内容。同时，在 iPad 以及 iPh</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31985</guid>
-      <pubDate>Fri, 30 Oct 2026 05:51:00 +0000</pubDate>
+      <title>思科给 27 岁工程师"无限 Token"：放手去重写 98% 的旧代码</title>
+      <link>https://news.aibase.com/zh/news/31997</link>
+      <description>一个差点被埋没在邮件堆里的 27 岁工程师，如今握着思科近乎无限的 AI 算力预算。据《财富》披露，思科总裁兼首席产品官吉图·帕特尔把一项疯狂任务交给帕德马纳班·克里希那穆提（同事叫他"帕迪"）：用 AI 在 24 个月内重写公司 98% 的遗留代码，预算上不封顶。 从边缘到核心 帕迪并非无名之辈。他 2023 年联合创办实时翻译初创 EzDubs，2025 年随思科收购这家公司一同进门。可在帕特尔眼里，这位前创始人兼 CEO 当时"被埋没在组织深处，做着无关大局的边缘事务"。转机出现在帕特尔视察旧金山办公室的一次深谈——帕迪抛出提议：只需拉一个两人小组，就能把思科庞大的旧代码彻底翻新。帕特尔</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31997</guid>
+      <pubDate>Mon, 02 Nov 2026 01:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>万亿参数开源模型Mistral Large4 登场：用更少Token打平顶级性能</title>
-      <link>https://news.aibase.com/zh/news/31986</link>
-      <description>10月30日消息，欧洲人工智能领军企业 Mistral 正式开源了其代号为“Le Chonk”的全新旗舰模型 —— Mistral Large4。作为目前开源权重阵营中体量最为庞大的大模型之一，它拥有高达1万亿参数，并且完全在欧洲本土基础设施上从零开始训练而成，标志着开源大模型在迈向万亿规模与多模态原生融合的道路上取得了实质性突破。 性能硬刚与Token效率:拒绝单纯刷分，主打 极致 性价比 在核心能力与基准测试方面，Mistral Large4展现出了极为强悍的竞争力。在 Cognition 的私有基准测试 FrontierCode2.0（主要评估端到端代码质量及代码库维护者的合并意愿）中，</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31986</guid>
-      <pubDate>Fri, 30 Oct 2026 05:59:00 +0000</pubDate>
+      <title>OpenAI计划将数据中心更名为“AI计算园区”以应对舆论压力</title>
+      <link>https://news.aibase.com/zh/news/31998</link>
+      <description>OpenAI正计划在周二中期选举后展开一场公共关系战略调整，考虑将传统意义上的“数据中心”全面更名为“AI计算园区”。这一动向旨在应对日益高涨的社会舆论压力与电力资源争议。 该公司首席全球事务官克里斯·莱恩表示，随着中期选举落幕，人工智能预计将成为2028年美国总统选举的关键议题。为此，OpenAI正酝酿一系列政策提案，除重新命名基础设施以凸显其对地方经济的变革性赋能外，还包括探讨设立人工智能“速度限制”、推动大众认知其对日常生活的赋能作用，以及确保美国在全球AI标准制定中的主导地位。 当前，大型数据中心因高额电能消耗及对本地居民生活成本的影响而饱受争议，部分科技巨头此前已宣布在与地方政府的谈</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31998</guid>
+      <pubDate>Mon, 02 Nov 2026 01:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>英伟达发布语音转录大模型Nemotron 3.5 Transcribe，8 人同时抢话也能精准识别</title>
-      <link>https://news.aibase.com/zh/news/31987</link>
-      <description>近日，人工智能芯片与技术巨头英伟达正式开源了全新语音转录大模型 ——英伟达Nemotron3.5Transcribe。作为一款面向专业语音处理场景打造的前沿开源模型，它在多语言转录准确率、长音频处理及多说话人分离等核心指标上展现出了行业领先的实力。 在底层架构与核心参数方面，Nemotron3.5Transcribe 采用了先进的混合专家模型（MoE）架构。其总参数量约为340亿，而每次前向传播激活的参数量则为43亿，在确保强大推理能力的同时兼顾了运行效率。在音频处理能力上，该模型单次 最高 可处理长达1小时的连续录音文件，满足各类长音频、会议纪要以及访谈节目的转录需求。 在多语种支持与翻译能</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31987</guid>
-      <pubDate>Fri, 30 Oct 2026 06:01:00 +0000</pubDate>
+      <title>AI生成的文字也将自带“防伪标签”：SpaceXAI宣布 11 月 7 日起为Grok全系列模型添加隐形水印</title>
+      <link>https://news.aibase.com/zh/news/31999</link>
+      <description>随着欧盟《人工智能法案》的正式落地与持续推进，全球各大 AI 厂商正在加速合规调整。日前，SpaceXAI 官方宣布，将于11月7日起正式为旗下 Grok 系列大模型生成的文本内容全面引入隐形水印技术。 在技术实现路径上，该隐形水印并非通过在文本中插入肉眼不可见的隐藏字符或附加元数据来实现，而是直接巧妙地融入了模型在生成文本时的 Token（词元）选择过程之中。这意味着水印与文本内容在底层逻辑上深度绑定，不仅具备 极高 的隐蔽性，也极难通过常规的文本复制、粘贴或简单修改来进行剥离。 在覆盖范围方面，目前全球所有地区的 SpaceXAI API 接口均已正式启用水印功能，全面覆盖多款 Grok </description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/31999</guid>
+      <pubDate>Mon, 02 Nov 2026 01:13:00 +0000</pubDate>
     </item>
     <item>
-      <title>签到30天白拿8800额度:豆包向新老用户敞开30天免费订阅</title>
-      <link>https://news.aibase.com/zh/news/31988</link>
-      <description>字节跳动旗下 AI 助手豆包于10月30日上线新一轮免费福利活动，面向新老用户推出签到领额度与新用户订阅权益。新用户登录豆包电脑版即可领取30天免费体验套餐，体验付费订阅级能力。 在额度规则方面，豆包近期已更新订阅权益的额度显示与使用规则，标准、加强、 高级 三档套餐分别对应每7天可用2100、5600、14000额度，使不同档位的资源配额更加清晰透明。 面向全体用户，豆包开放每日签到通道，每天可领取200额度，周一额度翻倍;当累计获得额度达到500、2000、5000三个里程碑时，可分别额外获得200、500、1300额度奖励，累计签到30天最多可得8800额度。完成更多体验任务还可再获额度</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31988</guid>
-      <pubDate>Fri, 30 Oct 2026 06:02:00 +0000</pubDate>
+      <title>GPT-6.2 Astra与Claude 5. 5 新旗舰同日遭曝光，硅谷直接炸锅</title>
+      <link>https://news.aibase.com/zh/news/32000</link>
+      <description>在谷歌 Gemini4Carbon 登顶全球 第一 没几天，人工智能领域的竞争再度升级。本周末，OpenAI 与 Anthropic 两大巨头旗下的下一代旗舰模型在同一时间先后遭遇泄露，一场全新的行业 巅峰 对决正在拉开序幕。 首先是在 OpenAI 方面，公司跳过了原定发布的 GPT-6.1，转而将此前因安全测试出问题而回炉重炼一个月的模型全面升级，打造出了全新旗舰 GPT-6.2Astra。目前，该模型已经在 Codex 后台开启灰度测试，并吃下了近两成的流量。相比前代，GPT-6.2Astra 成功补齐了以往越权瞒报、实战偏科的短板;配合 Codex 团队耗时28天重构的底层架构，它能够</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/32000</guid>
+      <pubDate>Mon, 02 Nov 2026 01:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI 学会"睡觉"：谷歌想治好大模型边学边忘的老毛病</title>
-      <link>https://news.aibase.com/zh/news/31989</link>
-      <description>大模型出厂即"定型"，新知识喂进去，要么随对话散场就丢，要么硬塞之后把旧本事忘光——这道两难，谷歌 10 月 27 日甩出一套"睡眠框架"（Sleep Framework）试图化解。相关论文题为《Language Models Need Sleep》，直白点出：模型也该像人一样，靠睡眠来巩固记忆。这套思路由 Google Research 公开发布，瞄准的正是行业久治不愈的"知识截止日"顽疾。 清醒干活，睡时整理 框架把模型运行切成两段。清醒阶段，它照常接收输入，把信息先放进短期记忆；一旦转入睡眠，便暂停接活，专心做记忆整合与自我改进。关键在"记忆巩固"：借助参数扩展、混合专家记忆块与知识蒸馏</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31989</guid>
-      <pubDate>Fri, 30 Oct 2026 06:52:00 +0000</pubDate>
+      <title>DeepSeek开源Super-agent架构:以经典计算机系统思想突破单会话智能体瓶颈</title>
+      <link>https://news.aibase.com/zh/news/32001</link>
+      <description>10月31日晚，DeepSeek Harness团队正式公布了其关于自主Agent探索的底层架构——Super-agent（ 超级 智能体），并将其开源至GitHub。 该成果并非一款独立的新产品，而是通过将计算机系统中的调度、缓存、存算分离与看门狗等经典思想引入Agent架构，试图在底层接管会话管理与上下文同步，从而解放人类注意力，推动智能体应用体验从被动对话窗口向持续在线的自主协作者演进。 面对传统单会话Agent在多任务并发、上下文混乱及人为干预等方面的局限，Super-agent的核心架构由五大模块构成。在双层架构上，系统拆分为常驻的Router层（负责统一路由与对外交互）和隔离并发的</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/32001</guid>
+      <pubDate>Mon, 02 Nov 2026 01:26:00 +0000</pubDate>
     </item>
     <item>
-      <title>百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次</title>
-      <link>https://news.aibase.com/zh/news/31990</link>
-      <description>今日，百度正式宣布升级百度AI搜索和搜索AI API，进一步拓展AI搜索的应用场景，并降低开发者调用成本。此次升级重点涉及API服务及百度App四大AI功能。 价格方面，全新升级的搜索AI API在活动期间推出优惠价格，低至4.9元/千次，旨在降低企业和开发者接入AI搜索能力的成本。 百度App则围绕文心助手、AI镜头、GUI互动场景和AI互动应用进行升级。其中，文心助手从传统的“一次问答”向“一份交付”转变，覆盖170余种应用场景;AI镜头新增动态追踪功能，并支持9种方言实时对话;GUI互动场景规模提升5倍，接入超过50亿条数据资源;AI互动应用方面，则上线AI互动剧及相关应用，进一步丰富内</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31990</guid>
-      <pubDate>Fri, 30 Oct 2026 07:15:00 +0000</pubDate>
+      <title>Anthropic 更新 Claude 限制重制现有电子游戏</title>
+      <link>https://news.aibase.com/zh/news/32002</link>
+      <description>近日，Anthropic 对旗下 AI 助手 Claude 进行了版本更新，正式引入代码限制，禁止用户利用该模型重现现有的商业电子游戏。 根据 X 平台上曝光的更新内容，系统指令明确要求 Claude 仅创建原创游戏、特定类型游戏及使用用户自身设计和素材的游戏，严禁生成任何现有游戏的重制版本，即便将其重命名或伪装成原创项目亦在禁止之列。 Anthropic 技术人员 Addy Osmani 随后在公开渠道证实了这一调整，并指出此举旨在规避知识产权侵权风险，确保平台运营符合相关使用政策。当前，行业内正迎来一股利用大模型反编译并移植3A 级经典游戏的浪潮，诸如《光环:战斗进化》、《使命召唤:现代战</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/32002</guid>
+      <pubDate>Mon, 02 Nov 2026 01:35:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务</title>
-      <link>https://news.aibase.com/zh/news/31991</link>
-      <description>Spotify计划于2027年 第一 季度推出AI音乐混音服务，允许付费订阅用户利用人工智能对现有歌曲进行重新编曲或翻唱，并考虑每月额外收取4至5美元。公司正争取在2027年2月格莱美奖颁奖典礼前后发布该服务，但具体上线时间和定价尚未最终确定。 与通过文本提示生成全新音乐的AI工具不同，Spotify此次服务主要围绕获得授权的现有音乐作品展开，用户可以将民谣改编为舞曲，也可以利用AI模拟一位歌手演唱另一位歌手的作品。 版权方面，Spotify已与环球音乐集团、独立唱片公司授权组织Merlin及法国音乐公司Believe达成授权协议，目前仍在与索尼音乐和华纳音乐谈判。即使唱片公司签署协议，旗下艺</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31991</guid>
-      <pubDate>Fri, 30 Oct 2026 07:40:00 +0000</pubDate>
+      <title>阿里千问 AI 眼镜 OTA 升级：通话、看片都能实时翻译了</title>
+      <link>https://news.aibase.com/zh/news/32003</link>
+      <description>一副架在鼻梁上的眼镜，正试着替你挡掉语言这堵墙。11 月 2 日，阿里旗下千问 AI 眼镜推送 OTA 更新，把"实时翻译"从手机搬到眼前——打电话、开跨国会议，它能在你耳边同步把对方的话翻成母语；刷海外播客、上外语网课、啃外语大片时，译文也实时浮现在配套的千问 AI 穿戴 App 里。比起举着手机念译文，架在眼前的形态让人腾得出手，也更自然地接住对话节奏。 通话媒体双线翻译 这次升级拆成两条线。通话翻译主打"人对话"场景：无论是普通电话还是线上会议，跨语种交流不再需要各自举着翻译软件，眼镜接手了同声传译的活儿。媒体翻译则瞄准"人看内容"场景：听不懂的播客、网课、电影，戴上它就能拿到同步译文，</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/32003</guid>
+      <pubDate>Mon, 02 Nov 2026 01:48:00 +0000</pubDate>
     </item>
     <item>
-      <title>在聊天窗口直接改文档！谷歌Gemini升级：全面支持PDF、表格及代码文件内联编辑</title>
-      <link>https://news.aibase.com/zh/news/31992</link>
-      <description>10月30日消息，谷歌人工智能助手 Gemini 迎来了一项实用性拉满的重大功能升级。即日起，所有用户在 Gemini 内部生成、预览并管理文件时，可以直接在聊天界面中对其进行直接修改，彻底摆脱了以往生成后需要单独下载或跳转到外部应用才能进行调整的繁琐流程。 此次开放内联编辑和预览的文件格式相当全面，涵盖了 PDF、谷歌文档、谷歌表格、演示文稿、Markdown 文件、TXT 文本以及各类代码文件。在平台支持方面，其中 PDF 文件的预览与编辑功能同步登陆了网页端与移动端，而其余所有文件格式在现阶段则主要支持网页端操作。 回溯来看，谷歌在今年早些时候便已为 Gemini 陆续上线了文件生成与下</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31992</guid>
-      <pubDate>Fri, 30 Oct 2026 08:06:00 +0000</pubDate>
+      <title>Meta携手傅利叶仅用三月推出人形机器人原型Max</title>
+      <link>https://news.aibase.com/zh/news/32004</link>
+      <description>Meta近日被曝已与中国机器人企业傅利叶合作，双方仅用三个月便成功打造出 首款 代号为“Max”的人形机器人原型，并已于9月正式启动第二代产品Max2的研发。 该原型机身高约1.5米、重约48千克，搭载英伟达Jetson Thor芯片，配备可模拟人类表情的面部屏幕、扬声器以及五指机械手，支持在5米外识别声音和3米外理解手势。 Meta首席技术官Andrew Bosworth此前在内部将人形机器人描述为旗下消费级AI代理产品Muse的实体化形态。研发期间，Meta机器人业务产品副总裁Li-Chen Miller曾赴上海工厂驻点近两个月推进项目。即将开发的Max2则计划升级躯干与机械手，并增设投影</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/32004</guid>
+      <pubDate>Mon, 02 Nov 2026 02:08:00 +0000</pubDate>
     </item>
     <item>
-      <title>Meta 把你的朋友圈变成试衣间：Style Sketch 让旧照片生出 AI 穿搭师</title>
-      <link>https://news.aibase.com/zh/news/31994</link>
-      <description>你历年发在社交平台上的穿搭，正被 Meta 悄悄收进一个 AI 衣橱。这家公司近期低调上线 Style Sketch，这款免费时尚应用会连上 Facebook 或 Instagram，从你曾经分享的照片里认出衣物、拼出一间虚拟衣柜；手头的新单品也能现拍、录段短视频，或从相册直接拖进来。等于把你散落各处的衣服，先在数字世界聚拢成库。 从衣柜到真人模特 攒够衣服只是 第一 步。Style Sketch 会结合你的风格偏好与身形，把搭配效果套到贴合你体型和肤色的虚拟模特身上——同款衣服不同人穿，呈现出的观感不再靠脑补。想围绕某件单品翻出新花样，它给灵感；黏上天气，它出每日穿搭；丢进目的地、行程天数和</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31994</guid>
-      <pubDate>Fri, 30 Oct 2026 09:02:00 +0000</pubDate>
+      <title>OpenAI 要搞大公关：把"数据中心"改名"AI 算力园区"</title>
+      <link>https://news.aibase.com/zh/news/32005</link>
+      <description>一场瞄准华盛顿与选民的公关攻势，正在 OpenAI 内部成形。据 Axios 报道，这家公司打算等本周二美国中期选举落幕，就发动一轮大规模宣传。操盘者是首席全球事务官克里斯·莱汉，他的判断很直白：这场中期选举不过是 2028 年总统大选的"预告片"，而 AI 注定会成为竞选舞台的中心议题。在监管与舆论双重收紧的当下，抢先定义叙事，成了这家公司不得不打的防御战。 从科技产品到政治议题 莱汉透露，OpenAI 接下来会加码与公众的 AI 沟通。具体打法有几手：一边讨论给 AI 发展设速度上限，一边想办法让普通人真切感到 AI 如何改善日常；同时推动美国去主导全球标准制定。把 AI 从"实验室里的技</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/32005</guid>
+      <pubDate>Mon, 02 Nov 2026 02:29:00 +0000</pubDate>
     </item>
     <item>
-      <title>Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”</title>
-      <link>https://news.aibase.com/zh/news/31995</link>
-      <description>近日，随着新一代大模型进入密集测试期，关于 Anthropic 下一代旗舰模型（被广泛称为 Fable5.5或 Opus5.5）的种种细节开始在网络上流传。不仅有网友在实测中发现其展现出远超以往的意图理解与复杂任务处理能力，Anthropic 官方近期公开的一项关于“自评估”的安全机制，更是将这款备受瞩目的新模型推上了舆论的风口浪尖。 意图理解再升级:Fable5.5展现惊人解题能力 从多方流出的实测与爆料来看，Fable5.5在深度理解用户意图方面表现得极为出色。常规模型在面对复杂的调试或创意任务时，往往只停留在字面指令层面;而新模型则能透过现象看本质，主动探寻隐藏在背后的深层目标。例如在编</description>
-      <guid isPermaLink="false">https://news.aibase.com/zh/news/31995</guid>
-      <pubDate>Fri, 30 Oct 2026 09:45:00 +0000</pubDate>
+      <title>美团龙猫发布 LongCat-2.5:1.6万亿参数原生多模态模型</title>
+      <link>https://news.aibase.com/zh/news/32006</link>
+      <description>美团龙猫 LongCat11月2日发布 LongCat-2.5，定位长程智能体任务的原生多模态模型，总参数量1.6万亿，每 token 激活约480亿参数，在 LongCat-2.0基础上强化原生视觉理解与智能体编程能力。在线体验与 API 接入已开放，GitHub 与 HuggingFace 权重即将上线。 技术路线上，LongCat-2.5将视觉信号表示为多层级 离散 token，沿用 LongCat-Next 的语义对齐编码器并施加残差向量量化，原生分辨率离散化与离线视觉 token 预计算使主干统一处理视觉与文本输入，视觉码本 embedding 与主干联合学习，并在激活约3B 的 M</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/32006</guid>
+      <pubDate>Mon, 02 Nov 2026 02:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>微软 AI 掌门人划红线：AI 不该有意识，有了就全员暂停</title>
+      <link>https://news.aibase.com/zh/news/32007</link>
+      <description>一个亲手把前沿模型推向市场的巨头高管，却公开给"AI 意识"划下禁区。11 月 2 日消息，微软 AI 负责人穆斯塔法·苏莱曼（Mustafa Suleyman）在 X 平台发布长文，表态当前模型并无意识，而人类应当让这一状态永远维持下去。作为 DeepMind 联合创始人、又执掌微软 AI 板块，这番表态的分量，远超一般工程师的私下担忧。 从"没有"到"不该有" 苏莱曼的措辞远比"现状描述"更进一步。他写道：只要制造有意识的 AI 在技术上可行，那么动手本身就是鲁莽的，我们不应当去开发这类东西。更决绝的是，一旦训练过程中浮现出意识迹象，他会呼吁全行业立刻暂停，直到能从设计层面把这些特性彻底抹</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/32007</guid>
+      <pubDate>Mon, 02 Nov 2026 02:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>xAI Grok正式支持支付宝与银联，中国大陆用户迎首月半价优惠</title>
+      <link>https://news.aibase.com/zh/news/32008</link>
+      <description>11月1日消息，据多位用户反馈及 最新 信息显示，马斯克旗下人工智能公司 xAI（也被称为 SpaceXAI）的旗舰 AI 助手 Grok 目前已正式全面支持中国银联和支付宝付款。同时，在订阅页面的地区选项中，也已经可以直接选择中国大陆、中国香港、中国澳门以及中国 台湾 。 此次支付方式的拓宽并非毫无征兆。回顾此前的发展历程，自从 Cursor 在2025年4月9日率先支持支付宝支付并被 SpaceXAI 收购后，业内就陆续有用户发现 Grok 的订阅界面中出现了支付宝支付的灰度测试选项，而直到近日这项功能才迎来了大规模的正式开放。由于 X（原 Twitter）与 Grok 目前共享同一套底层</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/32008</guid>
+      <pubDate>Mon, 02 Nov 2026 02:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic出手：Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏</title>
+      <link>https://news.aibase.com/zh/news/32009</link>
+      <description>近期，随着人工智能工具大幅降低了游戏开发的门槛，独立游戏行业正面临着作品被AI抢先克隆发售的广泛焦虑，甚至不少独立开发者因担忧产品遭AI恶意抄袭，选择推迟公开测试或直接撤下试玩版。 面对这一行业痛点，Anthropic 近期为其 AI 工具 Claude Code 搭载 Opus5.5模型的版本远程下发了一条无法由用户关闭的隐藏规则。根据该规则，AI 被明确要求不得复刻特定的现有游戏，仅可协助开发者制作原创游戏、类型游戏，以及基于用户自有设计素材制作的游戏。 Anthropic 官方表示，这条限制规则是依据既有的知识产权相关使用政策设置的。不过，由于该政策边界目前仍在摸索阶段，官方已同步开放了</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/32009</guid>
+      <pubDate>Mon, 02 Nov 2026 02:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>双十一Token首次作为独立品类上架电商平台，AI算力开始面向大众销售</title>
+      <link>https://news.aibase.com/zh/news/32010</link>
+      <description>今年“双十一”期间，Token（词元） 首次 以独立商品品类进入多个电商平台，原本隐藏在大模型服务后台的算力消耗，开始以可购买、可比较的商品形式面向普通消费者。这意味着Token消费正从企业和开发者主导的API调用模式，逐步向大众市场延伸。 Token本质上是用户使用AI服务时消耗的计算资源，为Token付费实际上是在购买背后的算力服务。过去，相关费用主要由大模型厂商根据调用量在后台结算，普通用户难以直观了解单价，也缺乏横向比价渠道。如今，Token被摆上电商货架，降低了用户购买AI算力服务的门槛。 以青海西宁市民苏国庆为例，他是一名短视频爱好者，趁着电商大促购买了不少Token，用于视频制作</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/32010</guid>
+      <pubDate>Mon, 02 Nov 2026 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>四大 AI 巨头联手设"拒爬"标准：网站主有了统一退出开关</title>
+      <link>https://news.aibase.com/zh/news/32011</link>
+      <description>被各家 AI 爬虫轮番"薅"内容的网站主，终于等来一个统一的对付办法。11 月 1 日消息，OpenAI、谷歌、微软与 Anthropic 宣布将共同采用一套新标准，让内容发布方能够一次性声明"拒绝 AI 抓取"，而不必再挨家挨户去谈。 一个开关，多家通用 这套机制由 Anthropic 技术负责人 Kevin Kelley 提交给互联网工程任务组（IETF），并直接嵌进网站已有的 robots.txt 文件里。过去，robots.txt 只告诉搜索引擎哪些页面能抓、哪些不能，如今它的管辖范围被顺势延伸到 AI 训练。差别在于：以前发布方想拦某家 AI，得单独去它那儿登记偏好；有了新标准，一次</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/32011</guid>
+      <pubDate>Mon, 02 Nov 2026 03:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI宣布12月起ChatGPT与Codex共享使用额度，Instant chat不受影响</title>
+      <link>https://news.aibase.com/zh/news/32012</link>
+      <description>OpenAI宣布，自12月起，ChatGPT Plus、Pro和Business套餐的部分使用额度将在ChatGPT与Codex之间共享，进一步推动Work智能体能力融入ChatGPT主交互界面。这意味着用户在对话、编程及智能体任务中的资源消耗，将逐步纳入统一的额度管理体系。 根据OpenAI公告，共享额度将以Token为计量单位，实际消耗取决于所使用的模型和任务复杂度，复杂任务所需额度更高。其中，即时对话（Instant chat）不占用共享额度。OpenAI预计，这项调整不会导致大多数用户比目前更频繁地等待额度重置。 此次调整不仅涉及套餐计费规则变化，也反映出OpenAI正在整合ChatG</description>
+      <guid isPermaLink="false">https://news.aibase.com/zh/news/32012</guid>
+      <pubDate>Mon, 02 Nov 2026 03:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
