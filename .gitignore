@@ -3,3 +3,7 @@ __pycache__/
 .env
 docs/debug_items.json
 .venv/
+node_modules/
+.dev.vars
+.dev.vars.*
+.wrangler/

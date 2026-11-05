@@ -1,0 +1,1 @@
+{"name":"ai-news-service","private":true,"type":"module","scripts":{"test":"node --test","dev":"wrangler dev","deploy":"wrangler deploy","check":"wrangler deploy --dry-run"},"dependencies":{"fast-xml-parser":"^5.3.0"},"devDependencies":{"wrangler":"^4.0.0"}}

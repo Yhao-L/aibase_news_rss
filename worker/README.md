@@ -1,0 +1,68 @@
+# AI 新闻服务（DeepSeek + RSS + 飞书）
+
+源码属于 RSS 项目，独立部署为 Cloudflare Worker `ai-news-service`；不依赖 Coze。
+前端仍属于 `ai-news-assistant` 项目。Cloudflare Durable Object 保存当日日报、限流计数和推送状态，30 天后清理。
+
+## 本地运行
+
+Node.js 22 或更新版本：
+
+```sh
+npm ci
+npm test
+npm run check
+npm run dev
+```
+
+真实模型联调：在当前目录创建被 Git 忽略的 `.dev.vars`，配置 `DEEPSEEK_API_KEY`、`ADMIN_TOKEN`；需要真实发送时再加 `FEISHU_WEBHOOK`。不要把这些值写到前端或提交 Git。
+前端本地设置 `REACT_APP_API_BASE_URL=http://localhost:8787`。
+
+## 接口
+
+| 方法/路径 | 行为 |
+| --- | --- |
+| GET /health | 健康与配置存在性，不代表模型鉴权已通过 |
+| POST /api/chat | `{message, history:[{role:"user"或"assistant",content}]}`，返回 `{content}`；普通对话不发送飞书 |
+| GET /api/digests/today | 获取已生成的当日日报，不触发模型 |
+| POST /api/admin/preview | 生成/读取当日日报，不发送飞书 |
+| POST /api/admin/send | 生成/读取日报并发送飞书；同日已成功发送则不重复发送 |
+| GET /api/admin/status | 查看当日日报及推送状态 |
+
+`/api/admin/*` 要求 `Authorization: Bearer <ADMIN_TOKEN>`，仅后端运维使用。
+公开对话按 IP 每小时最多 10 次，并设置每天总共 200 次的默认预算限制（含失败请求）；可通过 `DAILY_CHAT_LIMIT` 调整。
+CORS 允许列表仅是浏览器来源控制，不是身份认证。
+
+## 部署与切换
+
+1. `npx wrangler login` 后运行 `npm run deploy`，创建服务和 SQLite Durable Object。
+2. 用 `npx wrangler secret put DEEPSEEK_API_KEY`、`FEISHU_WEBHOOK`、`ADMIN_TOKEN` 分别保存密钥。
+3. 先测试 `/health`、`/api/admin/preview`、多轮 `/api/chat`，再调用一次 `/api/admin/send` 并核对飞书群卡片。
+4. 前端 `REACT_APP_API_BASE_URL` 指向该 Worker 的根地址，再发布前端。
+5. 验证新服务后，移除旧 `ai-news-scheduler` 的 Coze Cron，避免两套同时推送。
+
+Cron `0 4 * * *` 为北京时间每天 12:00。需确保源 RSS 在此之前更新；当前 GitHub Actions 计划与实际执行可能存在延迟。
+
+## 处理约束
+
+- 原始提示词保存在 `src/digest-prompt.txt`；只替换新闻数据和北京时间。
+- RSS 优先读 `content:encoded`，不截断全文；最近 24 小时过滤、去重。
+- RSS 无效、超出 36 小时未更新、网络失败、模型失败不会伪装成“没有新闻”。
+- 没有近 24 小时文章时直接返回两项无新闻提示；有文章时由模型判断是否符合筛选条件。
+- 日报首次生成后当天复用，不会随追问重新生成。模型的链接和分数分组会校验；内容准确性仍需人工抽查。
+- 飞书使用 `{msg_type:"interactive", card:卡片对象}`，不是 Coze 插件使用的序列化 `content` 参数。
+- 发送前写入状态；成功写 `sent`。响应失败、超时或进程中断标记/保留 `unknown` 或 `sending`，不自动重发。先检查群消息，再由管理员处理存储状态。无法保证跨第三方网络的严格 exactly-once。
+- 当前无自动重试或管理员强制重发按钮，以避免不确定响应产生重复消息。
+- `.dev.vars` 和生产 Secrets 各自独立，生产密钥无需打包进代码。
+
+## 验证
+
+`npm test` 覆盖 RSS 全文与时间过滤、模型异常、多轮历史、日报缓存、并发去重、推送不确定状态、飞书业务错误、CORS、管理鉴权和请求限流。
+真实模型与真实飞书联调必须单独确认；mock 测试通过不代表生产已部署。
+
+端到端联调（先启动本地 Worker）：
+
+```sh
+node --env-file=.dev.vars scripts/smoke.mjs
+```
+
+此命令实际调用 DeepSeek，但不发飞书。确认日报后加 `--send` 才发送正式日报。

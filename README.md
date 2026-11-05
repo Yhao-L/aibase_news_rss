@@ -48,3 +48,7 @@ RSS 的 `description` 和 `content:encoded` 均输出详情页的完整正文；
 正文提取优先使用文章容器，并移除导航、推荐及脚本内容。
 
 回归测试：`python -m unittest discover -s tests -v`
+
+### 新闻应用和飞书定时推送
+
+新增 [`worker/`](worker/README.md)：Cloudflare 后端共用 RSS 全文和 DeepSeek，支持网页新闻对话及北京时间每日 12:00 的飞书卡片推送。密钥仅存储在 Cloudflare Secrets。
