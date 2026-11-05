@@ -7,6 +7,8 @@ AIbase 新闻 RSS 爬虫 v4
 本地测试运行: python scraper.py
 """
 
+from __future__ import annotations
+
 import requests
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
@@ -167,12 +169,32 @@ def is_too_old(pub_date: datetime | None) -> bool:
     return pub_date < get_cutoff()
 
 
+def extract_article_content(soup) -> str:
+    """提取完整正文；没有明确正文容器时保留所有有效段落。"""
+    for selector in ["div.post-content", "div.article-content", "div.news-content",
+                     "div.articleContent", "article", "div.content", "main"]:
+        el = soup.select_one(selector)
+        if el:
+            # 使用副本，避免删除后续日期解析需要的节点。
+            body = BeautifulSoup(str(el), "html.parser")
+            for noise in body.select("nav, header, footer, script, style, .related, .recommend"):
+                noise.decompose()
+            content = body.get_text(" ", strip=True)
+            if content:
+                return content
+    return "\n\n".join(
+        p.get_text(" ", strip=True) for p in soup.find_all("p")
+        if p.get_text(strip=True)
+    )
+
+
 # ─── 抓取文章详情 ─────────────────────────────────────────
 def fetch_article_detail(url: str) -> dict:
     """
     抓取单篇文章详情页，返回：
     - title:    h1 标签的标题（干净，不含摘要）
-    - summary:  正文前 300 字
+    - summary:  正文前 300 字（供预览）
+    - content:  完整正文
     - pub_date: 发布时间（datetime）
     """
     log.info(f"  → 详情: {url}")
@@ -191,23 +213,9 @@ def fetch_article_detail(url: str) -> dict:
     if h1:
         title = h1.get_text(strip=True)
 
-    # ── 正文摘要 ──
-    summary = ""
-    # aibase 详情页正文在 <main> 或包含正文的 div 里
-    for selector in ["div.post-content", "div.article-content", "div.content",
-                     "div.news-content", "article", "main"]:
-        el = soup.select_one(selector)
-        if el:
-            # 排除导航、相关推荐等干扰区块
-            for noise in el.select("nav, header, footer, .related, .recommend"):
-                noise.decompose()
-            summary = el.get_text(" ", strip=True)[:300]
-            break
-    if not summary:
-        paras = [p.get_text(strip=True) for p in soup.find_all("p")
-                 if len(p.get_text(strip=True)) > 50]
-        if paras:
-            summary = max(paras, key=len)[:300]
+    # 全文与短摘要分别保留；RSS 输出全文。
+    content = extract_article_content(soup)
+    summary = content[:300]
 
     # ── 发布时间 ──
     pub_date = None
@@ -243,7 +251,7 @@ def fetch_article_detail(url: str) -> dict:
     else:
         log.warning(f"    日期解析失败")
 
-    return {"title": title, "summary": summary, "pub_date": pub_date}
+    return {"title": title, "summary": summary, "content": content, "pub_date": pub_date}
 
 
 # ─── 单页新闻列表抓取 ─────────────────────────────────────
@@ -380,21 +388,9 @@ def fetch_article_detail_with_retry(url: str) -> dict:
     if h1:
         title = h1.get_text(strip=True)
 
-    # ── 正文摘要 ──
-    summary = ""
-    for selector in ["div.post-content", "div.article-content", "div.content",
-                     "div.news-content", "article", "main"]:
-        el = soup.select_one(selector)
-        if el:
-            for noise in el.select("nav, header, footer, .related, .recommend"):
-                noise.decompose()
-            summary = el.get_text(" ", strip=True)[:300]
-            break
-    if not summary:
-        paras = [p.get_text(strip=True) for p in soup.find_all("p")
-                 if len(p.get_text(strip=True)) > 50]
-        if paras:
-            summary = max(paras, key=len)[:300]
+    # 全文与短摘要分别保留；RSS 输出全文。
+    content = extract_article_content(soup)
+    summary = content[:300]
 
     # ── 发布时间 ──
     pub_date = None
@@ -423,7 +419,7 @@ def fetch_article_detail_with_retry(url: str) -> dict:
     else:
         log.warning("    日期解析失败")
 
-    return {"title": title, "summary": summary, "pub_date": pub_date}
+    return {"title": title, "summary": summary, "content": content, "pub_date": pub_date}
 
 
 # ─── 按 ID 递减扫描（主抓取路径，不依赖分页）──────────────
@@ -488,6 +484,7 @@ def fetch_news_by_id_scan(lang: str) -> list[dict]:
             "title": detail.get("title") or f"Article {aid}",
             "url": url,
             "summary": detail.get("summary", ""),
+            "content": detail.get("content", ""),
             "pub_date": pub_date,
         }
         all_items.append(item)
@@ -579,9 +576,10 @@ def generate_rss(items: list[dict], lang: str) -> str:
         fe.id(item["url"])
         fe.title(item["title"] or "无标题")
         fe.link(href=item["url"])
-        summary = item.get("summary") or "点击查看详情"
-        fe.summary(summary)
-        fe.description(summary)
+        content = item.get("content") or item.get("summary") or "点击查看详情"
+        fe.description(content)
+        if item.get("content"):
+            fe.content(item["content"], type="text")
         pub_date = item.get("pub_date") or datetime.now(timezone.utc)
         fe.published(pub_date)
         fe.updated(pub_date)
@@ -619,13 +617,15 @@ def main():
 
     # 2. 抓取详情：仅对尚未有完整详情的条目补全（ID 扫描已带详情则跳过）
     if CONFIG["fetch_detail"]:
-        need_detail = [i for i in items if not i.get("pub_date") or not (i.get("title") and len((i.get("title") or "").strip()) > 2)]
+        need_detail = [i for i in items if not i.get("content") or not i.get("pub_date") or not (i.get("title") and len((i.get("title") or "").strip()) > 2)]
         if need_detail:
             log.info(f"开始抓取详情 ({len(need_detail)} 篇需补全)...")
             for item in need_detail:
                 detail = fetch_article_detail_with_retry(item["url"])
                 if detail.get("title"):
                     item["title"] = detail["title"]
+                if detail.get("content"):
+                    item["content"] = detail["content"]
                 if detail.get("summary"):
                     item["summary"] = detail["summary"]
                 if detail.get("pub_date"):

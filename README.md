@@ -40,3 +40,11 @@ python scraper.py
 2. Source 选 `Deploy from a branch`
 3. Branch 选 `main`，目录选 `/docs`，点 Save
 4. 等待约 1 分钟后访问订阅地址即可
+
+### 全文输出
+
+RSS 的 `description` 和 `content:encoded` 均输出详情页的完整正文；内部
+`summary` 字段仍保留前 300 字用于预览。缺少正文的列表条目会再次抓取详情。
+正文提取优先使用文章容器，并移除导航、推荐及脚本内容。
+
+回归测试：`python -m unittest discover -s tests -v`
