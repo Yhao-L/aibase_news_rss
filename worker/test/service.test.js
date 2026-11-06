@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
-import {parseFeed,dateKey,validateDigest,EMPTY_DIGEST,complete,validateChat} from '../src/core.js';
+import {parseFeed,dateKey,validateDigest,EMPTY_DIGEST,complete,validateChat,generateDigest,readFeed} from '../src/core.js';
 import {NewsService,route} from '../src/service.js';
 import {buildCard,sendCard} from '../src/feishu.js';
 const now=Date.parse('2026-11-05T04:00:00Z');
@@ -91,4 +91,20 @@ test('public routes protect admin, enforce CORS, and bound request body',async()
   assert.equal((await route(new Request('https://app/api/chat',{method:'POST',body:'x'.repeat(40001)}),settings,now)).status,413);
   const preflight=await route(new Request('https://app/api/chat',{method:'OPTIONS',headers:{Origin:'https://yhao-l.github.io'}}),settings,now);
   assert.equal(preflight.status,204);assert.equal(preflight.headers.get('Access-Control-Allow-Origin'),'https://yhao-l.github.io');
+});
+
+test('invalid first draft is repaired before publishing',async()=>{
+ let count=0;
+ const fetcher=async()=>Response.json({choices:[{finish_reason:'stop',message:{content:count++===0?markdown.replace('9.8⭐','8.0⭐'):markdown}}]});
+ assert.equal(await generateDigest(env,'{{message}} {{current_time}}',[{title:'模型更新',link,content:text,published:now}],now,fetcher),markdown);
+ assert.equal(count,2);
+});
+test('security headlines cannot pass digest validation',()=>{
+ assert.throws(()=>validateDigest(markdown,[{title:'发现内核漏洞',link}]),/禁止类别/);
+});
+
+test('RSS transient network failure is retried once',async()=>{
+ let calls=0;
+ const result=await readFeed(env,async()=>{if(calls++===0)throw new Error('temporary network failure');return new Response(feed);},now);
+ assert.equal(calls,2);assert.equal(result.articles.length,1);
 });

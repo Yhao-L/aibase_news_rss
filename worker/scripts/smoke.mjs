@@ -3,7 +3,7 @@
 const base=process.argv.find((value,index)=>index>1 && /^https?:/.test(value))||'http://localhost:8787';
 const headers={'Content-Type':'application/json',Authorization:`Bearer ${process.env.ADMIN_TOKEN||''}`};
 async function request(path,body) {
-  const response=await fetch(base+path,{method:body===undefined?'GET':'POST',headers,body:body===undefined?undefined:JSON.stringify(body),signal:AbortSignal.timeout(150000)});
+  const response=await fetch(base+path,{method:body===undefined?'GET':'POST',headers,body:body===undefined?undefined:JSON.stringify(body),signal:AbortSignal.timeout(180000)});
   const result=await response.json();
   if(!response.ok)throw new Error(`${path}: ${response.status} ${result.message||'failed'}`);
   return result;

@@ -1,4 +1,4 @@
-import {readFeed,complete,digestMessages,validateDigest,validateChat,chatMessages,dateKey,EMPTY_DIGEST,ServiceError} from './core.js';
+import {readFeed,complete,generateDigest,validateChat,chatMessages,dateKey,EMPTY_DIGEST,ServiceError} from './core.js';
 import {sendCard} from './feishu.js';
 
 export class NewsService {
@@ -20,7 +20,7 @@ export class NewsService {
     const saved=await this.storage.get('digest');
     if(saved?.date===date)return saved;
     const feed=await this.feed();
-    const markdown=feed.articles.length ? validateDigest(await complete(this.env,digestMessages(this.template,feed.articles,now),this.fetcher),feed.articles) : EMPTY_DIGEST;
+    const markdown=feed.articles.length ? await generateDigest(this.env,this.template,feed.articles,now,this.fetcher) : EMPTY_DIGEST;
     const result={date,markdown,generatedAt:new Date(now).toISOString(),sourceBuiltAt:feed.builtAt,articleCount:feed.articles.length};
     await this.storage.put('digest',result);
     return result;
