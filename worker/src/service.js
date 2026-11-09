@@ -78,9 +78,16 @@ export async function route(request,env,now=Date.now()) {
   const reply=response=>{const h=new Headers(response.headers);for(const [k,v]of Object.entries(headers))h.set(k,v);return new Response(response.body,{status:response.status,headers:h});};
   if(origin && !allowed.includes(origin))return reply(json({message:'来源不允许'},403));
   if(request.method==='OPTIONS')return reply(new Response(null,{status:204}));
-  if(url.pathname==='/health' && request.method==='GET')return reply(json({ok:true,modelConfigured:Boolean(env.DEEPSEEK_API_KEY),deliveryConfigured:Boolean(env.FEISHU_WEBHOOK)}));
+  if(url.pathname==='/health' && request.method==='GET')return reply(json({ok:true,modelConfigured:Boolean(env.DEEPSEEK_API_KEY),deliveryConfigured:Boolean(env.FEISHU_WEBHOOK),collectionConfigured:Boolean(env.FEEDS),rssSource:env.FEEDS && env.RSS_SOURCE!=='legacy'?'cloudflare':'external'}));
   const admin=url.pathname.startsWith('/api/admin/');
   if(admin && (!env.ADMIN_TOKEN || request.headers.get('Authorization')!==`Bearer ${env.ADMIN_TOKEN}`))return reply(json({message:'未授权'},401));
+  const collectorRoutes={'GET /feed.xml':'/feed','POST /api/admin/collect':'/collect','GET /api/admin/collection-status':'/status'};
+  const collectorPath=collectorRoutes[`${request.method} ${url.pathname}`];
+  if(collectorPath) {
+    if(!env.FEEDS)return reply(json({message:'采集服务尚未配置'},503));
+    try{return reply(await env.FEEDS.get(env.FEEDS.idFromName('aibase')).fetch(`https://internal${collectorPath}`,{method:request.method}));}
+    catch{return reply(json({message:'采集服务暂时不可用'},503));}
+  }
   const routes={'POST /api/chat':'/chat','GET /api/digests/today':'/digest','POST /api/admin/preview':'/preview','POST /api/admin/send':'/send','GET /api/admin/status':'/status'};
   const path=routes[`${request.method} ${url.pathname}`];
   if(!path)return reply(json({message:'接口不存在'},404));

@@ -1,13 +1,7 @@
 name: Update AIbase RSS Feed
 on:
-  schedule:
-    - cron: '00 0  * * *'   # UTC 00:00 = 北京时间 08:00，作为补跑保底
+  # Daily collection moved to Cloudflare at 11:30 Asia/Shanghai.
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - 'scraper.py'        # 只有改了这两个文件才触发
-      - 'requirements.txt'  # docs/feed.xml 的提交不会再触发新的运行
 
 jobs:
   scrape-and-deploy:

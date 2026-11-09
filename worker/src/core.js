@@ -32,6 +32,12 @@ export function parseFeed(xml, now = Date.now()) {
 }
 
 export async function readFeed(env, fetcher = fetch, now = Date.now()) {
+  // Read the collector directly; production no longer fetches RSS from GitHub Pages.
+  if(env.FEEDS && env.RSS_SOURCE!=='legacy') {
+    const response=await env.FEEDS.get(env.FEEDS.idFromName('aibase')).fetch('https://internal/feed');
+    if(!response.ok)throw new ServiceError('Cloudflare RSS 尚未就绪，请检查采集状态');
+    return parseFeed(await response.text(),now);
+  }
   for (let attempt=0; attempt<2; attempt++) {
     let response;
     try { response = await fetcher(env.RSS_URL, {signal: AbortSignal.timeout(15000)}); }

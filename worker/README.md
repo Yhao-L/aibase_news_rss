@@ -1,7 +1,7 @@
 # AI 新闻服务（DeepSeek + RSS + 飞书）
 
 源码属于 RSS 项目，独立部署为 Cloudflare Worker `ai-news-service`；不依赖 Coze。
-前端仍属于 `ai-news-assistant` 项目。Cloudflare Durable Object 保存当日日报、限流计数和推送状态，30 天后清理。
+采集与推送均在 Cloudflare 运行，GitHub 仅保存源码和执行测试。前端仍属于 `ai-news-assistant` 项目。Cloudflare Durable Object 保存当日日报、限流计数和推送状态，30 天后清理。
 
 ## 本地运行
 
@@ -17,10 +17,22 @@ npm run dev
 真实模型联调：在当前目录创建被 Git 忽略的 `.dev.vars`，配置 `DEEPSEEK_API_KEY`、`ADMIN_TOKEN`；需要真实发送时再加 `FEISHU_WEBHOOK`。不要把这些值写到前端或提交 Git。
 前端本地设置 `REACT_APP_API_BASE_URL=http://localhost:8787`。
 
+## 采集与定时任务
+
+- 北京时间 **11:30**：`30 3 * * *`，启动 `FeedCollector` 分步采集 AIbase 中文新闻。
+- 北京时间 **12:00**：`0 4 * * *`，保留原日报生成与飞书推送机制。
+- 新 RSS：`https://ai-news-service.sky1342866713.workers.dev/feed.xml`。服务内部通过 `FEEDS` 绑定读取，无需请求 GitHub。
+- 每篇采集保存进度，间隔约1.5秒；连续请求或解析失败最多尝试3次，整个采集最多25分钟。失败保留上次成功快照及错误记录；确认窗口内无文章时发布新的空 RSS。
+- 原 GitHub 定时采集停用，`scraper.yml` 仅保留手动入口，旧 Pages RSS 不再每日更新。
+- 12:00 推送时间保持不变；此迁移没有新增午后自动补发计划。
+
 ## 接口
 
 | 方法/路径 | 行为 |
 | --- | --- |
+| GET /feed.xml | 返回最后一次完整成功采集的 RSS 全文 |
+| POST /api/admin/collect | 启动一次后台采集，返回202；并发调用复用正在运行的任务 |
+| GET /api/admin/collection-status | 查询采集进度、错误和已发布 RSS 时间 |
 | GET /health | 健康与配置存在性，不代表模型鉴权已通过 |
 | POST /api/chat | `{message, history:[{role:"user"或"assistant",content}]}`，返回 `{content}`；普通对话不发送飞书 |
 | GET /api/digests/today | 获取已生成的当日日报，不触发模型 |
@@ -40,7 +52,7 @@ CORS 允许列表仅是浏览器来源控制，不是身份认证。
 4. 前端 `REACT_APP_API_BASE_URL` 指向该 Worker 的根地址，再发布前端。
 5. 验证新服务后，移除旧 `ai-news-scheduler` 的 Coze Cron，避免两套同时推送。
 
-Cron `0 4 * * *` 为北京时间每天 12:00。需确保源 RSS 在此之前更新；当前 GitHub Actions 计划与实际执行可能存在延迟。
+采集 Cron `30 3 * * *` 为北京时间11:30，推送 Cron `0 4 * * *` 为12:00。首次部署先调用 `/api/admin/collect`，确认 `/api/admin/collection-status` 的 `collection.status` 为 `succeeded`，再验收日报。`RSS_SOURCE=legacy` 加旧 `RSS_URL` 可临时回退外部 RSS；默认 `cloudflare` 使用内部绑定，首次采集完成前会明确返回未就绪。
 
 ## 处理约束
 

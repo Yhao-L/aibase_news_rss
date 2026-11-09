@@ -1,54 +1,61 @@
-# AIbase News RSS
+# AIbase News RSS 与 AI 新闻服务
 
-每天早晨9：50,自动抓取 [AIbase](https://news.aibase.com) 每日最新 AI 资讯，生成 RSS 订阅源，通过 GitHub Pages 托管。
+从 [AIbase](https://news.aibase.com/zh/news) 采集近 24 小时的中文 AI 新闻全文，生成 RSS，并通过 DeepSeek 提供网页新闻对话与飞书日报。
 
-## 📡 订阅地址
+**运行平台：Cloudflare Workers。GitHub 用于保存源码与运行测试，日常采集和推送不再依赖 GitHub Actions。**
 
+## 订阅与体验
+
+- [RSS 全文订阅](https://ai-news-service.sky1342866713.workers.dev/feed.xml)
+- [在线 AI 新闻助手](https://yhao-l.github.io/ai-news-assistant/)
+- [网页前端源码](https://github.com/Yhao-L/ai-news-assistant)
+- [后端部署与接口说明](worker/README.md)
+
+旧 `https://yhao-l.github.io/aibase_news_rss/feed.xml` 为历史静态文件，停用自动采集后不再每日更新，请订阅新地址。
+
+## 每日流程
+
+| 北京时间 | Cloudflare 任务 |
+| --- | --- |
+| 11:30 | Cron 启动采集；分步获取新闻全文并保存进度，完成后发布新 RSS |
+| 12:00 | 读取已采集新闻，用 `deepseek-flash` 生成或复用当日日报，发送飞书卡片 |
+
+采集通过 Durable Object Alarm 分步执行，每篇间隔约 1.5 秒；临时请求或解析失败有限重试，任务最多运行 25 分钟。已发布 RSS 只在新采集完整成功后替换，失败保留旧源与错误记录。
+
+确认新闻时间窗口内没有文章时，会发布新鲜的空 RSS；网络故障、解析错误不会冒充“没有新闻”。推送保留原有同日去重和不确定发送状态保护；12:00 生成失败不会自动无限补发。
+
+## 代码与存储
+
+- `worker/src/collector.js`：Cloudflare 采集、全文提取、RSS 生成、进度与失败记录。
+- `worker/src/core.js`：RSS 校验、24 小时过滤、模型提示词和日报校验。
+- `worker/src/service.js`：新闻对话、日报缓存、管理接口、限流和发送去重。
+- `worker/src/feishu.js`：飞书 Card JSON 2.0 转换与投递。
+- `worker/wrangler.toml`：11:30 采集、12:00 推送及 Durable Object 绑定。
+- `scraper.py`、`tests/`：保留历史 Python 爬虫与测试，可本地手动使用。
+- `.github/workflows/scraper.yml`：仅保留手动触发的历史采集，不再自动定时运行。
+
+文章全文和已发布快照存于 Cloudflare Durable Object，模型与投递服务通过内部绑定读取，不经过 GitHub Pages。GitHub 上的测试成功不等于已部署新 Worker，后端修改需单独部署。
+
+## 本地开发
+
+Node.js 22 或更新版本：
+
+```bash
+cd worker
+npm ci
+npm test
+npm run check
+npm run dev
 ```
-https://yhao-l.github.io/aibase_news_rss/feed.xml
-```
 
-## ✨ 特性
+真实模型联调需要在被 Git 忽略的 `worker/.dev.vars` 中配置密钥，详见 [worker/README.md](worker/README.md)。
 
-- 仅收录近 24 小时内的新闻，保持内容新鲜
-- GitHub Actions 每小时自动更新，无需手动维护
-- 标准 RSS 2.0 格式，兼容所有 RSS 阅读器
-- 支持中英文双语（修改 `scraper.py` 中 `CONFIG["lang"]` 为 `"en"` 切换）
-
-## 🚀 本地运行
+历史 Python 爬虫仍可运行：
 
 ```bash
 pip install -r requirements.txt
 python scraper.py
-# 输出文件：docs/feed.xml
+python -m unittest discover -s tests -v
 ```
 
-## ⚙️ 配置
-
-编辑 `scraper.py` 顶部的 `CONFIG`：
-
-| 参数 | 默认值 | 说明 |
-|------|--------|------|
-| `lang` | `"zh"` | 语言，`"zh"` 中文 / `"en"` 英文 |
-| `max_items` | `50` | RSS 最多保留条数 |
-| `time_window_hours` | `24` | 时间窗口（小时） |
-| `request_delay` | `1.5` | 请求间隔（秒） |
-
-## 📦 GitHub Pages 部署
-
-1. 进入仓库 **Settings → Pages**
-2. Source 选 `Deploy from a branch`
-3. Branch 选 `main`，目录选 `/docs`，点 Save
-4. 等待约 1 分钟后访问订阅地址即可
-
-### 全文输出
-
-RSS 的 `description` 和 `content:encoded` 均输出详情页的完整正文；内部
-`summary` 字段仍保留前 300 字用于预览。缺少正文的列表条目会再次抓取详情。
-正文提取优先使用文章容器，并移除导航、推荐及脚本内容。
-
-回归测试：`python -m unittest discover -s tests -v`
-
-### 新闻应用和飞书定时推送
-
-新增 [`worker/`](worker/README.md)：Cloudflare 后端共用 RSS 全文和 DeepSeek，支持网页新闻对话及北京时间每日 12:00 的飞书卡片推送。密钥仅存储在 Cloudflare Secrets。
+Python 输出 `docs/feed.xml`，不会更新 Cloudflare 的生产 RSS。

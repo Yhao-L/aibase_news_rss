@@ -4,13 +4,14 @@ compatibility_date = "2026-11-05"
 workers_dev = true
 
 [vars]
-RSS_URL = "https://yhao-l.github.io/aibase_news_rss/feed.xml"
+RSS_SOURCE = "cloudflare"
+RSS_URL = "https://ai-news-service.sky1342866713.workers.dev/feed.xml"
 DEEPSEEK_MODEL = "deepseek-flash"
 ALLOWED_ORIGINS = "https://yhao-l.github.io,http://localhost:3000"
 DAILY_CHAT_LIMIT = "200"
 
 [triggers]
-crons = ["0 4 * * *"]
+crons = ["30 3 * * *", "0 4 * * *"]
 
 [[durable_objects.bindings]]
 name = "NEWS"
@@ -19,6 +20,14 @@ class_name = "NewsCoordinator"
 [[migrations]]
 tag = "v1"
 new_sqlite_classes = ["NewsCoordinator"]
+
+[[durable_objects.bindings]]
+name = "FEEDS"
+class_name = "FeedCollector"
+
+[[migrations]]
+tag = "v2"
+new_sqlite_classes = ["FeedCollector"]
 
 [observability]
 enabled = true

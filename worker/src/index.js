@@ -1,6 +1,7 @@
 import template from './digest-prompt.txt';
 import {NewsService,route,json,errorResponse} from './service.js';
 import {dateKey,ServiceError} from './core.js';
+export {FeedCollector} from './collector.js';
 
 export class NewsCoordinator {
   constructor(ctx,env) {this.ctx=ctx;this.service=new NewsService(ctx.storage,env,template);}
@@ -29,6 +30,13 @@ export default {
   fetch(request,env) { return route(request,env); },
   async scheduled(event,env,ctx) {
     const task=(async()=>{
+      if(event.cron==='30 3 * * *') {
+        const response=await env.FEEDS.get(env.FEEDS.idFromName('aibase')).fetch('https://internal/collect',{method:'POST'});
+        if(!response.ok)throw new Error(`Scheduled RSS collection failed (${response.status})`);
+        console.log('rss_collection_started',{date:dateKey(event.scheduledTime)});
+        return;
+      }
+      if(event.cron!=='0 4 * * *')throw new Error('Unexpected cron expression');
       const stub=env.NEWS.get(env.NEWS.idFromName(dateKey(event.scheduledTime)));
       const response=await stub.fetch('https://internal/send',{method:'POST'});
       if(!response.ok)throw new Error(`Scheduled news delivery failed (${response.status})`);
