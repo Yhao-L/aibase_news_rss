@@ -82,7 +82,9 @@ export function validateDigest(md, articles) {
   const selected = articles.filter(a => links.includes(a.link));
   if (selected.some(a => /融资|投资|并购|战略合作|伦理|监管|安全|风险|漏洞|提权|攻防|机器人|芯片|算力|GPU|自动驾驶|智能驾驶|车企/i.test(a.title))) throw new ServiceError('日报包含禁止类别（安全/漏洞攻防、融资、硬件等），请删除对应新闻');
   const summaries = [...md.matchAll(/摘要：[ \t]*([^\n]+)/g)].map(m => m[1].trim());
-  if (summaries.length !== links.length || summaries.some(s => [...s].length < 80 || [...s].length > 120)) throw new ServiceError('每条摘要必须80-120字符（包括英文数字及标点），请压缩或补足');
+  if(summaries.length!==links.length)throw new ServiceError('每条新闻必须有单独一行“摘要：”，摘要数量须与新闻链接数量一致');
+  const invalidLengths=summaries.map((s,i)=>({index:i+1,length:[...s].length})).filter(s=>s.length<80||s.length>120);
+  if(invalidLengths.length)throw new ServiceError(`摘要长度不合格：${invalidLengths.map(s=>`第${s.index}条实际${s.length}字符`).join('、')}。每条摘要必须80-120字符（包括英文数字及标点）；请将不合格摘要改到90-100字符，不得换行拆段或添加无关内容`);
   const sections = md.split('#### **要闻速览**');
   for (const [index, section] of sections.entries()) {
     const scores = [...section.matchAll(/【推荐指数：([\d.]+)⭐】/g)].map(m => Number(m[1]));

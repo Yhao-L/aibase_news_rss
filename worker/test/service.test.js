@@ -108,3 +108,7 @@ test('RSS transient network failure is retried once',async()=>{
  const result=await readFeed(env,async()=>{if(calls++===0)throw new Error('temporary network failure');return new Response(feed);},now);
  assert.equal(calls,2);assert.equal(result.articles.length,1);
 });
+test('digest repair feedback identifies the offending summary and its actual length',()=>{
+ const invalid=markdown.replace(/摘要：[^\n]+/,'摘要：太短了');
+ assert.throws(()=>validateDigest(invalid,[{title:'模型更新',link}]),/第1条实际3字符/);
+});
