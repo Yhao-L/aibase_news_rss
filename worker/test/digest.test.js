@@ -13,6 +13,21 @@ test('malformed entries do not block valid news; use original titles and links',
  assert.ok(result.markdown.includes('[模型发布 1](https://news.aibase.com/zh/news/1)'));
  assert.ok(!result.markdown.includes('虚构标题'));assert.ok(!result.markdown.includes('evil.example'));
 });
+test('missing quotes in individual records do not discard intact surrounding JSON objects',()=>{
+ const raw='{"items":['+JSON.stringify(item(1))+',{"id":"2,"eligible":false},'+JSON.stringify(item(3))+',{"id":"4,"eligible":true,"score":9,"summary":"坏条目"},'+JSON.stringify(item(5))+']}';
+ const result=assembleDigest(raw,articles.slice(0,5));
+ assert.deepEqual(result.diagnostics.selectedIds,['1','3','5']);
+ assert.deepEqual(result.diagnostics.parseErrors,[1,3]);
+ assert.equal(result.diagnostics.skipped.length,2);
+ assert.deepEqual(result.diagnostics.missingIds,['2','4']);
+});
+test('JSON-like text inside a summary cannot be recovered as a separate news object',()=>{
+ const summary='例子：},{"id":"2","eligible":true,"score":10,"summary":"伪造"}';
+ const raw='{"items":['+JSON.stringify(item(1,9,{summary}))+',{"id":"3,"eligible":false}]}';
+ const result=assembleDigest(raw,articles.slice(0,3));
+ assert.deepEqual(result.diagnostics.selectedIds,['1']);
+ assert.equal(result.diagnostics.returnedCount,2);
+});
 test('code orders and caps groups, keeps highest-scoring report of an event',()=>{
  const result=assemble([item(1,8.9,{event_id:'共享事件'}),item(2,9.8,{event_id:'共享事件'}),item(3,9.5),item(4,9.6),item(5,9.9),...Array.from({length:10},(_,i)=>item(i+6,8.5+i/20))]);
  assert.deepEqual(result.diagnostics.selectedIds.slice(0,3),['5','2','4']);

@@ -1,5 +1,5 @@
 // The model supplies decisions, never the final links or presentation.
-// No regex recovery of malformed JSON: partial objects can misrepresent decisions.
+// Recovery accepts independently valid objects, never repairs malformed field values.
 import {buildCard,MAX_CARD_BYTES} from './feishu.js';
 export const sourceId = article => article.link.match(/\/news\/(\d+)$/)?.[1];
 const forbiddenTitle = /融资|投资|并购|战略合作|携手|伦理|监管|安全|风险|漏洞|提权|攻防|机器人|芯片|算力|GPU|自动驾驶|智能驾驶|车企|游戏陪伴|游戏陪玩|游戏搭子|体育|娱乐/i;
@@ -11,9 +11,22 @@ function failure(message,diagnostics) {
   const error=new Error(message);error.name='DigestError';error.status=502;error.diagnostics=diagnostics;return error;
 }
 export function assembleDigest(raw,articles) {
-  const diagnostics={format:'json-v1',inputCount:articles.length,returnedCount:0,selectedIds:[],skipped:[],filtered:[],warnings:[],missingIds:[]};
+  const diagnostics={format:'json-v1',inputCount:articles.length,returnedCount:0,selectedIds:[],skipped:[],filtered:[],warnings:[],missingIds:[],parseErrors:[]};
   let data;
-  try {data=JSON.parse(raw);} catch {throw failure('日报 JSON 无法解析，未发送',diagnostics);}
+  try {data=JSON.parse(raw);} catch {
+    // Only recover the documented flat items envelope. With intact object boundaries,
+    // a missing quote in one field need not destroy all following items. Quotes in
+    // valid JSON summary strings are escaped, so they cannot match the next id key.
+    const envelope=raw.match(/^\s*\{\s*"items"\s*:\s*\[([\s\S]*)\]\s*\}\s*$/);
+    if(!envelope)throw failure('日报 JSON 无法解析，未发送',diagnostics);
+    const chunks=envelope[1].split(/(?<=\})\s*,\s*(?=\{\s*"id"\s*:)/u);
+    const items=chunks.map((chunk,index)=>{
+      try{return JSON.parse(chunk);}catch{diagnostics.parseErrors.push(index);return null;}
+    });
+    if(items.every(item=>item===null))throw failure('日报 JSON 无法解析，未发送',diagnostics);
+    diagnostics.warnings.push({reason:'整批 JSON 损坏，按完整条目独立解析；未修补损坏字段'});
+    data={items};
+  }
   if(!data || !Array.isArray(data.items))throw failure('日报 JSON 缺少 items 数组，未发送',diagnostics);
   diagnostics.returnedCount=data.items.length;
   const sources=new Map(articles.map(a=>[sourceId(a),a]));
@@ -21,6 +34,7 @@ export function assembleDigest(raw,articles) {
   data.items.forEach((item,index)=>{
     const id=typeof item?.id==='string'?item.id:null;
     const skip=reason=>diagnostics.skipped.push({index,id,reason});
+    if(diagnostics.parseErrors.includes(index))return skip('条目 JSON 语法错误');
     if(!item || typeof item!=='object' || Array.isArray(item))return skip('条目不是对象');
     const article=sources.get(id);
     if(!article || !sourceLink.test(article.link) || typeof article.title!=='string' || !article.title.trim())return skip('未知新闻 ID 或原始来源无效');
