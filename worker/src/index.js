@@ -16,7 +16,7 @@ export class NewsCoordinator {
       }
       if(path==='/preview')return json(await this.service.digest());
       if(path==='/send')return json(await this.service.send());
-      if(path==='/status')return json({digest:await this.ctx.storage.get('digest')||null,delivery:await this.ctx.storage.get('delivery')||null,lastFailure:await this.ctx.storage.get('lastFailure')||null});
+      if(path==='/status')return json({digest:await this.ctx.storage.get('digest')||null,delivery:await this.ctx.storage.get('delivery')||null,lastFailure:await this.ctx.storage.get('lastFailure')||null,generation:await this.ctx.storage.get('digestGeneration')||null});
       if(path==='/digest') {
         const digest=await this.ctx.storage.get('digest');
         return digest?json(digest):json({message:'今日日报尚未生成，可在对话中请求今日新闻'},404);

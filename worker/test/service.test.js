@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
-import {parseFeed,dateKey,validateDigest,EMPTY_DIGEST,complete,validateChat,generateDigest,readFeed} from '../src/core.js';
+import {parseFeed,dateKey,EMPTY_DIGEST,complete,validateChat,generateDigest,readFeed} from '../src/core.js';
 import {NewsService,route} from '../src/service.js';
 import {buildCard,sendCard} from '../src/feishu.js';
 const now=Date.parse('2026-11-05T04:00:00Z');
@@ -21,7 +21,7 @@ function fixture(overrides={}) {
   const fetcher=async(url,options)=>{
     calls.push({url,options});
     if(url===env.RSS_URL)return new Response(feed);
-    if(url.includes('deepseek'))return Response.json({choices:[{finish_reason:'stop',message:{content:markdown}}]});
+    if(url.includes('deepseek'))return Response.json({choices:[{finish_reason:'stop',message:{content:JSON.parse(options.body).response_format ? JSON.stringify({items:[{id:'1',eligible:true,score:9.8,summary:'研究团队发布新模型，改善推理效率。',event_id:'模型更新'}]}) : markdown}}]});
     return Response.json({code:0});
   };
   return {calls,service:new NewsService(new Storage(),env,readFileSync(new URL('../src/digest-prompt.txt',import.meta.url),'utf8'),overrides.fetcher||fetcher,()=>now)};
@@ -53,11 +53,6 @@ test('uncertain delivery persists across restart and is not retried',async()=>{
 test('RSS failure does not become an empty-news notification',async()=>{
   const {service}=fixture({fetcher:async()=>new Response('unavailable',{status:503})});
   await assert.rejects(service.send(),/新闻源/);assert.equal(await service.storage.get('delivery'),undefined);
-});
-test('empty sections accepted; invented links and invalid scores rejected',()=>{
-  assert.equal(validateDigest(EMPTY_DIGEST,[]),EMPTY_DIGEST);
-  assert.throws(()=>validateDigest(markdown,[]),/来源/);
-  assert.throws(()=>validateDigest(markdown.replace('9.8⭐','8.0⭐'),[{link}]),/评分/);
 });
 test('provider truncation and error responses are rejected',async()=>{
   await assert.rejects(complete(env,[],async()=>Response.json({choices:[{finish_reason:'length',message:{content:'partial'}}]})),/未完整/);
@@ -93,22 +88,50 @@ test('public routes protect admin, enforce CORS, and bound request body',async()
   assert.equal(preflight.status,204);assert.equal(preflight.headers.get('Access-Control-Allow-Origin'),'https://yhao-l.github.io');
 });
 
-test('invalid first draft is repaired before publishing',async()=>{
+test('invalid entries are skipped without regenerating the entire digest',async()=>{
  let count=0;
- const fetcher=async()=>Response.json({choices:[{finish_reason:'stop',message:{content:count++===0?markdown.replace('9.8⭐','8.0⭐'):markdown}}]});
- assert.equal(await generateDigest(env,'{{message}} {{current_time}}',[{title:'模型更新',link,content:text,published:now}],now,fetcher),markdown);
- assert.equal(count,2);
+ const fetcher=async(url,options)=>{
+   count++;const body=JSON.parse(options.body);
+   assert.deepEqual(body.response_format,{type:'json_object'});
+   return Response.json({choices:[{finish_reason:'stop',message:{content:JSON.stringify({items:[{id:'wrong',eligible:true,score:9.9,summary:'未知来源'},{id:'1',eligible:true,score:9.8,summary:'可用新闻'}]})}}]});
+ };
+ const generated=await generateDigest(env,'JSON rules',[{title:'模型更新',link,content:text,published:now}],now,fetcher);
+ assert.ok(generated.markdown.includes('可用新闻'));assert.ok(!generated.markdown.includes('未知来源'));
+ assert.equal(generated.diagnostics.skipped.length,1);assert.equal(count,1);
 });
-test('security headlines cannot pass digest validation',()=>{
- assert.throws(()=>validateDigest(markdown,[{title:'发现内核漏洞',link}]),/禁止类别/);
+test('partial valid digest is sent and diagnostics stay out of public result',async()=>{
+ const {service,calls}=fixture();const original=service.fetcher;
+ service.fetcher=async(url,options)=>{
+  const response=await original(url,options);
+  if(!url.includes('deepseek'))return response;
+  const body=await response.json();const parsed=JSON.parse(body.choices[0].message.content);
+  parsed.items.push({id:'invented',eligible:true,score:12,summary:null});
+  body.choices[0].message.content=JSON.stringify(parsed);return Response.json(body);
+ };
+ await service.send();
+ const digest=await service.digest();assert.equal(digest.selectedCount,1);
+ assert.equal(digest.rawOutput,undefined);assert.equal(digest.diagnostics,undefined);
+ const generation=await service.storage.get('digestGeneration');
+ assert.equal(generation.status,'assembled');assert.ok(generation.rawOutput);assert.equal(generation.diagnostics.skipped.length,1);
+ assert.equal(calls.filter(c=>c.url===env.FEISHU_WEBHOOK).length,1);
+});
+test('unparseable JSON is recorded privately and never sent as empty news',async()=>{
+ const {service}=fixture();const original=service.fetcher;
+ let webhookCalls=0;
+ service.fetcher=async(url,options)=>{
+  if(url===env.FEISHU_WEBHOOK)webhookCalls++;
+  if(url.includes('deepseek'))return Response.json({choices:[{finish_reason:'stop',message:{content:'{"items":[broken]}'}}]});
+  return original(url,options);
+ };
+ await assert.rejects(service.send(),/JSON 无法解析/);
+ assert.equal(webhookCalls,0);assert.equal(await service.storage.get('digest'),undefined);
+ assert.equal(await service.storage.get('delivery'),undefined);
+ const failure=await service.storage.get('digestGeneration');
+ assert.equal(failure.status,'failed');assert.equal(failure.rawOutput,'{"items":[broken]}');
 });
 
 test('RSS transient network failure is retried once',async()=>{
  let calls=0;
  const result=await readFeed(env,async()=>{if(calls++===0)throw new Error('temporary network failure');return new Response(feed);},now);
  assert.equal(calls,2);assert.equal(result.articles.length,1);
-});
-test('digest repair feedback identifies the offending summary and its actual length',()=>{
- const invalid=markdown.replace(/摘要：[^\n]+/,'摘要：太短了');
- assert.throws(()=>validateDigest(invalid,[{title:'模型更新',link}]),/第1条实际3字符/);
 });

@@ -27,7 +27,8 @@
 ## 代码与存储
 
 - `worker/src/collector.js`：Cloudflare 采集、全文提取、RSS 生成、进度与失败记录。
-- `worker/src/core.js`：RSS 校验、24 小时过滤、模型提示词和日报校验。
+- `worker/src/core.js`：RSS 校验、24 小时过滤、模型提示词和整批 JSON 调用。
+- `worker/src/digest.js`：逐条过滤模型结果、关联 RSS 来源、事件去重、排序及日报组装。
 - `worker/src/service.js`：新闻对话、日报缓存、管理接口、限流和发送去重。
 - `worker/src/feishu.js`：飞书 Card JSON 2.0 转换与投递。
 - `worker/wrangler.toml`：11:30 采集、12:00 推送及 Durable Object 绑定。

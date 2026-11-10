@@ -20,8 +20,18 @@ export class NewsService {
     const saved=await this.storage.get('digest');
     if(saved?.date===date)return saved;
     const feed=await this.feed();
-    const markdown=feed.articles.length ? await generateDigest(this.env,this.template,feed.articles,now,this.fetcher) : EMPTY_DIGEST;
-    const result={date,markdown,generatedAt:new Date(now).toISOString(),sourceBuiltAt:feed.builtAt,articleCount:feed.articles.length};
+    let generated={markdown:EMPTY_DIGEST,diagnostics:{format:'json-v1',inputCount:0,selectedIds:[],skipped:[],filtered:[],warnings:[],missingIds:[]}};
+    try {
+      if(feed.articles.length)generated=await generateDigest(this.env,this.template,feed.articles,now,this.fetcher);
+    } catch(error) {
+      await this.storage.put('digestGeneration',{at:new Date(this.clock()).toISOString(),status:'failed',message:error.message,diagnostics:error.diagnostics||null,rawOutput:error.rawOutput||null});
+      throw error;
+    }
+    const {markdown,diagnostics,rawOutput}=generated;
+    // Detailed model output is private: public digest responses only contain the assembled news.
+    await this.storage.put('digestGeneration',{at:new Date(this.clock()).toISOString(),status:'assembled',diagnostics,rawOutput:rawOutput||null});
+    console.log('digest_assembled',{inputCount:feed.articles.length,selectedCount:diagnostics.selectedIds.length,skippedCount:diagnostics.skipped.length,missingCount:diagnostics.missingIds.length});
+    const result={date,markdown,generatedAt:new Date(now).toISOString(),sourceBuiltAt:feed.builtAt,articleCount:feed.articles.length,selectedCount:diagnostics.selectedIds.length};
     await this.storage.put('digest',result);
     return result;
   }

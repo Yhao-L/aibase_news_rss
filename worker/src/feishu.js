@@ -1,4 +1,5 @@
 // Adapted from the user's Coze card formatter, without Coze runtime dependencies.
+export const MAX_CARD_BYTES=28000;
 export function buildCard(markdown) {
   const md = String(markdown || '').replace(/\r\n?/g,'\n').replace(/([^\n])\n(-{3,})/g,'$1\n\n$2').trim();
   const lines = md.split('\n');
@@ -25,7 +26,7 @@ export function buildCard(markdown) {
 export async function sendCard(env, md, fetcher=fetch) {
   if (!/^https:\/\/open\.feishu\.cn\/open-apis\/bot\/v2\/hook\/[a-zA-Z0-9-]+$/.test(env.FEISHU_WEBHOOK || '')) throw new Error('飞书 webhook 尚未配置');
   const body = JSON.stringify({msg_type:'interactive',card:buildCard(md)});
-  if (new TextEncoder().encode(body).length > 28000) throw new Error('飞书卡片超出消息大小限制');
+  if (new TextEncoder().encode(body).length > MAX_CARD_BYTES) throw new Error('飞书卡片超出消息大小限制');
   const response = await fetcher(env.FEISHU_WEBHOOK,{method:'POST',headers:{'Content-Type':'application/json'},body,signal:AbortSignal.timeout(20000)});
   if (!response.ok) throw new Error('飞书发送响应失败');
   const result = await response.json();
